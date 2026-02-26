@@ -1,0 +1,3228 @@
+Essential Legal Research Skills in Aotearoa
+                    New Zealand
+ESSENTIAL LEGAL RESEARCH SKILLS IN
+AOTEAROA NEW ZEALAND
+
+THERESA BULLER; CATHERINE DOUGHTY; MELANIE LOVICH;
+TRACEY THOMAS; AND KATE THOMPSON
+
+Waipapa Taumata Rau | University of Auckland
+Tmaki Makaurau Auckland
+Essential Legal Research Skills in Aotearoa New Zealand Copyright © 2025 by Waipapa Taumata Rau | University of Auckland is
+licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, except where otherwise noted.
+
+This book was published by Waipapa Taumata Rau | University of Auckland via the Council of Australasian
+University Librarians (CAUL) Open Educational Resources Collective. The online version is available at
+https://oercollective.caul.edu.au/essential-legal-research-skills-nz
+
+Disclaimer
+
+Note that corporate logos and branding are specifically excluded from the Creative Commons Attribution
+NonCommercial Licence of this work, and may not be reproduced under any circumstances without the express
+written permission of the copyright holders.
+
+Copyright
+
+This guide, Essential Legal Research Skills in Aotearoa New Zealand is an adaptation of Legal Research Skills: An
+Australian Law Guide (2023 Edition), used under a Creative Commons Attribution NonCommercial 4.0 licence.
+Essential Legal Research Skills in Aotearoa New Zealand is licensed under a Creative Commons Attribution
+NonCommercial 4.0 Licence by Waipapa Taumata Rau | University of Auckland.
+
+Recommended attribution: Essential Legal Research Skills in Aotearoa New Zealand is licensed under a Creative
+Commons Attribution NonCommercial 4.0 Licence by Waipapa Taumata Rau | University of Auckland.
+
+Cover (illustration) by James Gaither is licensed under a Creative Commons Attribution NonCommercial NoDerivs
+2.0 Generic Licence.
+CONTENTS
+
+Whakatauk                                                     ix
+
+About This Book                                               x
+
+How to Cite This Book                                         xii
+
+Acknowledgements                                              xiii
+
+About the Authors                                             xiv
+
+Accessibility Statement                                       xv
+
+Versioning History                                            xvi
+
+Review Statement                                              xvii
+
+Part I. The New Zealand Legal System
+
+1. The New Zealand Legal Systems: Tikanga Mori and State Law  2
+
+Kate Thompson
+
+Part II. Research Skills
+
+2. Introduction to Legal Research                             5
+
+Catherine Doughty and Theresa Buller
+
+3. What Is Legal Research?                                    6
+
+Theresa Buller
+
+4. Sources of Legal Information                               7
+
+Theresa Buller
+
+5. Legal Research Strategy                                    9
+
+Theresa Buller
+
+6. Tools for Legal Research                                   11
+
+Catherine Doughty and Theresa Buller
+7. Generative AI and Legal Research          13
+
+Theresa Buller
+
+8. Searching Strategies and Tips             19
+
+Theresa Buller
+
+9. Review Quiz - Research Skills             24
+
+Catherine Doughty and Theresa Buller
+
+Part III. Case Law
+
+10. What Is Case Law?                        26
+
+Kate Thompson
+
+11. How Cases Are Published                  29
+
+Kate Thompson
+
+12. How to Talk About a Case                 32
+
+Kate Thompson
+
+13. Finding a Case                           34
+
+Kate Thompson
+
+14. Using Case Citators                      38
+
+Kate Thompson
+
+15. Review Quiz - Case Law                   42
+
+Kate Thompson
+
+Part IV. Legislation
+
+16. Introduction to New Zealand Legislation  44
+
+Tracey Thomas and Theresa Buller
+
+17. What is an Act?                          45
+
+Tracey Thomas and Theresa Buller
+
+18. Structure of an Act                      46
+
+Tracey Thomas and Theresa Buller
+
+19. Finding an Act                           49
+
+Tracey Thomas and Theresa Buller
+20. Searching Tips for Acts                   50
+
+Tracey Thomas and Theresa Buller
+
+21. Secondary Legislation                     52
+
+Tracey Thomas and Theresa Buller
+
+22. Finding Secondary Legislation             54
+
+Tracey Thomas and Theresa Buller
+
+23. Bills                                     55
+
+Tracey Thomas and Theresa Buller
+
+24. Finding Bills                             59
+
+Tracey Thomas and Theresa Buller
+
+25. Review Quiz - Legislation                 61
+
+Tracey Thomas and Theresa Buller
+
+Part V. Secondary Sources
+
+26. Introduction to Secondary Sources         63
+
+Kate Thompson and Melanie Lovich
+
+27. Dictionaries and Encyclopaedias           65
+
+Kate Thompson and Melanie Lovich
+
+28. Books                                     67
+
+Kate Thompson and Melanie Lovich
+
+29. Online Commentaries (Looseleaf Services)  68
+
+Kate Thompson and Melanie Lovich
+
+30. Journal Articles                          70
+
+Kate Thompson and Melanie Lovich
+
+31. Government Documents                      72
+
+Kate Thompson and Melanie Lovich
+
+32. Other Sources                             74
+
+Kate Thompson and Melanie Lovich
+
+33. Review Quiz - Secondary Sources           77
+
+Kate Thompson and Melanie Lovich
+Part VI. New Zealand Law Style Guide
+
+34. Referencing in Legal Writing                         79
+
+Melanie Lovich and Theresa Buller
+
+35. NZLSG 3rd Edition                                    80
+
+Melanie Lovich and Theresa Buller
+
+36. NZLSG Footnotes                                      81
+
+Melanie Lovich and Theresa Buller
+
+37. Citing Books and Chapters in Books                   82
+
+Melanie Lovich and Theresa Buller
+
+38. Citing Cases                                         86
+
+Melanie Lovich and Theresa Buller
+
+39. Citing Statutes and Secondary Legislation            91
+
+Melanie Lovich and Theresa Buller
+
+40. Citing Journal Articles                              94
+
+Melanie Lovich and Theresa Buller
+
+41. Citing Online Commentaries and Legal Encyclopaedias  96
+
+Melanie Lovich and Theresa Buller
+
+42. Citing Reports and Government Documents              98
+
+Melanie Lovich and Theresa Buller
+
+43. Citing Websites and Social Media                     100
+
+Melanie Lovich and Theresa Buller
+
+44. Subsequent References                                103
+
+Melanie Lovich and Theresa Buller
+
+45. Bibliographies                                       105
+
+Melanie Lovich and Theresa Buller
+
+46. Referencing Software                                 106
+
+Melanie Lovich and Theresa Buller
+
+47. Review Quiz - NZLSG                                  107
+
+Melanie Lovich and Theresa Buller
+
+Further Reading Suggestions                              108
+                                      WHAKATAUK | IX
+
+WHAKATAUK
+
+  Poipoia te kkano kia puwai
+Nurture the seed and it will blossom
+X | ABOUT THIS BOOK
+
+ABOUT THIS BOOK
+
+This book is designed to support students undertaking legal studies and contribute to developing research
+skills in New Zealand law schools.
+
+Essential Legal Research Skills in Aotearoa New Zealand is organised into six parts:
+
+  · Part 1: The New Zealand Legal System briefly introduces the two New Zealand legal systems:
+      tikanga Mori and state law.
+
+  · Part 2: Research Skills introduces the concept of legal research, identifies the key sources of legal
+      information and emphasises the importance of researching strategically.
+
+  · Part 3: Case Law provides an introduction on how to locate cases by citation or topic and how to
+      judge a case's reliability.
+
+  · Part 4: Legislation helps students learn about the parliamentary process, how to find legislation
+      and the materials used for statutory interpretation.
+
+  · Part 5: Secondary Sources focuses on the role of secondary sources in legal research.
+  · Part 6: The New Zealand Law Style Guide assists students in using the New Zealand-specific
+
+      legal referencing style.
+
+This book is general in nature and is designed to be institution and database neutral. The authors
+acknowledge tikanga as a source of law in Aotearoa New Zealand and hope to expand this content with te
+ao Mori expertise in a future edition of this book.
+
+The book is shared under a CC-BY-NC 4.0 licence unless otherwise noted and can be adopted as is or
+adapted to suit the needs of other authors, law schools or institutions.
+
+Attribution
+
+This book is gratefully attributed as being an adaptation of Legal Research Essentials by the University
+of Queensland Library, Legal Research Skills: An Australian Law Guide: 2023 Edition, Legal Research
+Skills: An Australian Law Guide: 2024 Edition and Legal Research Skills: An Australian Law Guide
+(2025 update) all of which are available under a Creative Commons Attribution Noncommercial 4.0
+International Licence.
+
+  · Part 2: Research Skills has been adapted from the guides Legal Research Skills: An Australian Law
+      Guide: 2023 Edition and Legal Research Skills: An Australian Law Guide (2025 update) along with
+      the document UC Library "Introduction to Legal Research" (January 2025) to include content that
+                                                                                                                            ABOUT THIS BOOK | XI
+
+   reflects the New Zealand legal system.
+· Part 3: Case Law has been adapted from the guide Legal Research Skills: An Australian Law Guide:
+
+   2023 Edition to reflect New Zealand's judicial structure and law report publications.
+· Part 4: Legislation has been adapted from the guide Legal Research Skills: An Australian Law
+
+   Guide: 2023 Edition and the document UC Library "Finding New Zealand Legislation" (January
+   2025) to reflect the unicameral New Zealand Parliament and its legislative material. The authors
+   gratefully acknowledge the Office of the Clerk of the House of Representatives for permission to
+   reproduce the diagram "How a bill becomes law".
+· Part 5: Secondary Sources has been adapted from the guide Legal Research Skills: An Australian
+   Law Guide: 2023 Edition to include New Zealand content and examples.
+· Part 6: The New Zealand Law Style Guide has been adapted from the document UC Library
+   "Using the New Zealand Law Style Guide" (January 2025) and expanded to include further
+   examples of referencing using the New Zealand Law Style Guide.
+XII | HOW TO CITE THIS BOOK
+
+HOW TO CITE THIS BOOK
+
+This book can be cited using rule 6.1 of the New Zealand Law Style Guide as:
+Theresa Buller (ed) Essential Legal Research Skills in Aotearoa New Zealand (eBook ed, University of
+Auckland, Auckland, 2025).
+Each page can be cited using rule 6.2 of the New Zealand Law Style Guide. For example:
+Kate Thompson "Using Case Citators" in Theresa Buller (ed) Essential Legal Research Skills in Aotearoa
+New Zealand (eBook ed, University of Auckland, Auckland, 2025).
+                  ACKNOWLEDGEMENTS | XIII
+
+ACKNOWLEDGEMENTS
+
+The idea of adapting the Legal Research Skills: An Australian Law Guide: 2023 Edition to be a New
+Zealand-specific legal research text was the catalyst for a collaborative project involving multiple universities
+within Aotearoa New Zealand.
+
+The project team are grateful for the support, enthusiasm and encouragement of our Australian colleagues
+in this mahi and especially wish to acknowledge the support from Alice Luetchford at James Cook
+University.
+
+This guide is the result of a generous-spirited, open collaborative effort between current and former law
+librarians from:
+
+  · Te Wnanga Aronui o Tmaki Makau Rau | Auckland University of Technology;
+  · Waipapa Taumata Rau | University of Auckland;
+  · Te Whare Wnanga o Waitaha | The University of Canterbury;
+  · tkou Whakaihu Waka | The University of Otago;
+  · Te Herenga Waka | Victoria University of Wellington.
+
+An amazing amount of goodwill has been shared and reciprocated within this project and is very much
+appreciated.
+
+       Grateful acknowledgment is also given to the exceptional staff at the Council of Australasian
+       University Librarians (CAUL) OER Collective for expert guidance and providing the hosting
+       platform for this freely available resource.
+XIV | ABOUT THE AUTHORS
+
+ABOUT THE AUTHORS
+
+Theresa Buller (ALIANZA, RLIANZA, BA, MLIS) is a Subject Librarian for Law and Criminal Justice
+at Te Whare Wnanga o Waitaha | University of Canterbury. Theresa is passionate about delivering
+excellent library practice in her daily work that supports and encourages lifelong library use, digital literacy
+skills and student success.
+
+Catherine Doughty (AFHEA, ALIANZA, RLIANZA, BCA, MLIS, PG Dip Ed) is the Law Subject
+Librarian at Te Herenga Waka | Victoria University of Wellington. Catherine has worked in libraries
+for over 40 years and is an ardent supporter for working collaboratively with teaching staff to build
+information literacy skill development into course curricula. She is passionate that students and researchers
+become critically thinking information users.
+
+Melanie Lovich (BA, DipLibr, CertHE, LLM) is the former Liaison Librarian for Law and Taxation at
+Te Mtpuna | Auckland University of Technology. Melanie has over 30 years' experience in public and
+academic libraries, primarily as a subject specialist in various areas of business, law and taxation. A strong
+advocate of lifelong learning and information literacy skills, she has worked collaboratively with teaching
+staff supporting student success.
+
+Tracey Thomas (BMS, DipLibr, LLB) is a Research Services Adviser in Ng Ratonga Manaaki Rangahau
+o Te Tumu Herenga | Research Services, Libraries and Learning Services, Waipapa Taumata Rau |
+University of Auckland. Tracey provides services to support and enhance the research activities of
+postgraduates and staff. She provides advice on research outputs, researcher profiles and identifiers, and
+advanced legal research.
+
+Kate Thompson (BA, MLIS, PGCertTertT) became the Law Librarian at tkou Whakaihu Waka |
+University of Otago in 2008 and has worked in subject specialist roles at the University Library for over 25
+years. Kate is the CAUL Library Representative for the Open Textbook Service at tkou Whakaihu Waka
+| University of Otago.
+
+The authors are grateful for the assistance of John Arnold (University of Canterbury) for his support in
+bringing this publication to fruition. In addition, the authors wish to acknowledge the support and
+encouragement from Margaret Tibbles (University of Auckland) and Rachel Doherty (University of
+Canterbury) throughout this project.
+                         ACCESSIBILITY STATEMENT | XV
+
+ACCESSIBILITY STATEMENT
+
+The web version of this resource has been designed with accessibility in mind and is designed to consider
+the needs of people who use screen-reading technology.
+
+  · All content can be navigated using a keyboard.
+  · Links, headings and tables are formatted to work with screen readers.
+  · Images have alt tags.
+
+Other File Formats Available
+
+In addition to the web version, this book is available in several file formats, including PDF, EPUB (for
+ereaders) and various editable files. Choose from the selection of available file types from the "Download
+this book" drop-down menu. This option appears below the book cover image on the eBook's landing
+page.
+
+Copyright Note: This accessibility disclaimer is adapted from BCcampus's Accessibility
+Toolkit, and licensed under a CC BY 4.0 licence.
+XVI | VERSIONING HISTORY
+
+VERSIONING HISTORY
+
+This page provides a record of changes made to this textbook. Each set of edits is acknowledged with a 0.01
+increase in the version number. The exported files for this toolkit reflect the most recent version.
+
+If you find an error, please contact theresa.buller@canterbury.ac.nz
+
+Version  Date          Change                   Details
+1.01                   Published full text
+         17 September                           Futher Reading Suggestions chapter title edited
+         2025                                   to Further Reading Suggestions
+
+1.02     1 October 2025 Minor errors corrected  Textbox format of ("Treaty of Waitangi" OR
+                                                "te Tiriti") AND (Zealand OR Aotearoa)
+
+                                                AND Constitution search in Searching strategies
+                                                and tips edited for consistency within page.
+                  REVIEW STATEMENT | XVII
+
+REVIEW STATEMENT
+
+This book has undergone a self-review by the authorship team and peer review by two New Zealand legal
+academics, a Australian academic law librarian and a New Zealand academic library assistant.
+
+The project team would like to thank the peer reviewers for the time, care and commitment they
+contributed to the project. We recognise that peer reviewing is a generous act of service on their part. This
+resource would not be the robust, valuable resource that it is were it not for their feedback and input.
+1 | THE NEW ZEALAND LEGAL SYSTEM
+
+PART I
+
+THE NEW ZEALAND LEGAL
+SYSTEM
+                                                        THE NEW ZEALAND LEGAL SYSTEMS: TIKANGA MORI AND STATE LAW | 2
+
+ 1.
+
+ THE NEW ZEALAND LEGAL SYSTEMS:
+ TIKANGA MORI AND STATE LAW
+
+     Kate Thompson
+
+  Aotearoa New Zealand has two legal systems: tikanga Mori and state law.
+  In 2023, Te Aka Matua o te Ture | New Zealand Law Commission produced an extensive study paper He
+  Poutama1 in which it addresses the interaction between tikanga Mori and state law.
+
+ Tikanga Mori
+
+  Tikanga Mori, also known as Mori customary law, is a "structured framework, comprising tikanga
+  concepts (principles, values and norms) and the processes and procedures (sometimes called kawa) for
+  enforcing those concepts".2
+  Te Khui Ture o Aotearoa | New Zealand Law Society has produced a Practise Briefing to provide guidance
+  to lawyers on the relevance of tikanga Mori, which states:3
+
+         In 2022, the Supreme Court in Ellis v R confirmed that tikanga has and will continue to influence
+         the common law in Aotearoa New Zealand in cases where it is relevant. The Court observed
+         that tikanga forms part of the law through incorporation in statutes and regulations, is a relevant
+         consideration in the exercise of discretions, and is incorporated in the policies and processes of public
+         bodies. The majority in Ellis also recognised that tikanga is the first law of Aotearoa New Zealand
+         and that care is required not to impair the operation of tikanga as a system of law and custom in its
+         own right. There are also several other cases that have confirmed tikanga is part of New Zealand law.
+
+1. Te Aka Matua o te Ture | New Zealand Law Commission He Poutama (NZLC SP24, 2023).
+2. Stephen Penk, Mary-Rose Russell and Jayden Houghton Aotearoa New Zealand Law: Foundations and Method (3rd ed,
+
+  Thomson Reuters, Wellington 2025) at 19.
+3. New Zealand Law Society "Tikanga Mori" (28 July 2025) Practice Briefings <www.lawsociety.org.nz>.
+3 | THE NEW ZEALAND LEGAL SYSTEMS: TIKANGA MORI AND STATE LAW
+
+State Law
+
+State law is a common law system consisting of statute law enacted by Acts of Parliament and case law, in
+which the judiciary may apply and interpret the statutes or make decisions of law where no statute exists.
+This is also called judge-made law.
+
+       Throughout this book the main focus will be on state law. For further information about
+       tikanga Mori, these are some of the leading sources:
+       Jayden Houghton Tikanga Mori and State Law (Thomson Reuters, Wellington, 2025).
+       New Zealand Law Commission He Poutama (NZLC SP24, 2023).
+       New Zealand Law Society "Tikanga Mori" (28 July 2025) Practice Briefings
+       <www.lawsociety.org.nz>.
+       Stephen Penk, Mary-Rose Russell and Jayden Houghton Aotearoa New Zealand Law:
+       Foundations and Method (3rd ed, Thomson Reuters, Wellington 2025).
+       Jacinta Ruru "First Laws: Tikanga Mori in / and law" (2018) 49 VUWLR 211.
+       Joseph Williams "Lex Aotearoa: An Heroic Attempt to Map the Mori Dimension in Modern
+       New Zealand Law" (2013) 21 Waikato Law Review 1.
+                 RESEARCH SKILLS | 4
+
+PART II
+
+RESEARCH SKILLS
+5 | INTRODUCTION TO LEGAL RESEARCH
+
+2.
+
+INTRODUCTION TO LEGAL RESEARCH
+
+   Catherine Doughty and Theresa Buller
+
+     Learning Outcomes
+
+     After reading this chapter you will be able to:
+          · understand the sources of legal information in Aotearoa New Zealand;
+          · think critically about the legal information sources you may need for work or study;
+          · develop a legal research strategy to help you find appropriate legal material for your
+             work or study.
+
+The ability to research and locate legal information is essential for law students and lawyers. Incomplete
+or inaccurate research can lead to lower marks in law school or professional embarrassment for practising
+lawyers.
+This chapter helps you to develop these skills; later chapters will explain how to locate specific sources of
+legal information.
+                                                                                                                      WHAT IS LEGAL RESEARCH? | 6
+
+ 3.
+
+ WHAT IS LEGAL RESEARCH?
+
+     Theresa Buller
+
+  Legal research is the ability to find, evaluate and use sources of legal information to:
+     · solve a legal problem;
+     · suggest reform of the law;
+     · compare the laws of different jurisdictions;
+     · understand the role of law in society.
+
+          "Lawyers are expected to know the law when they come to Court. In presenting an
+          argument, a lawyer is expected to have researched the law and not simply be depending on
+          other's statements whether in textbooks or of researchers. It is the lawyer's duty to assist
+          the Court in determining the law applicable."1
+
+1. Duncan Webb, Kathryn Dalziel and Kerry Cook Ethics, Professional Responsibility and the Lawyer (3rd ed, LexisNexis,
+  Wellington, 2016) at [14.11].
+   7 | SOURCES OF LEGAL INFORMATION
+
+ 4.
+
+ SOURCES OF LEGAL INFORMATION
+
+     Theresa Buller
+
+  Legal information is divided into two categories:
+
+    1. Primary sources, which are the law itself;
+    2. Secondary sources, which provide commentary on the law or help you find the law.
+
+  Legal information is hierarchical, which means the courts take much more notice of some types of
+  information than others.
+
+    1. Primary sources of law are the law and these sources can bind the court, that is, the court must
+        follow it.
+
+            Legislation is the highest authority because it has been enacted by Parliament, which acts under
+              our authority as voting citizens. Legislation includes statutes (also known as Acts or
+              enactments) as well as secondary legislation (formerly called legislative instruments and
+              statutory regulations) and other delegated legislation.
+
+            Cases (or judicial decisions, also called judgments1) come a close second. Cases cannot
+              contradict legislation, but they can bind the court.
+
+    2. Secondary sources roughly fall into two groups:
+
+            Commentary on the law. This is material written to help us make sense of the law. Books, legal
+              encyclopaedias and journal articles fall into this category. They may help our understanding of
+              the law and they may even sometimes be cited in court, but they cannot bind the court. Books,
+              legal encyclopaedias and journal articles may provide you with a quick overview or an in-depth
+              analysis of a topic along with references to cases or relevant legislation.
+
+            Access tools or finding aids. This category includes some tools that will be familiar from other
+              subjects, such as indexes and dictionaries, but some are peculiar to the law, such as citators and
+              case law digests.
+
+1. Note the lack of an `e' in judgments when used in a legal context.
+                                                                                                         SOURCES OF LEGAL INFORMATION | 8
+
+In legal research, students can approach a topic by looking at secondary sources of law to understand the
+key issues in that area of law. Secondary sources provide analysis and explanation of the law and identify
+relevant cases or legislation on a topic. Understanding the background of a topic before reading the primary
+sources (ie, cases and legislation) can help to contextualise your research.
+9 | LEGAL RESEARCH STRATEGY
+
+5.
+
+LEGAL RESEARCH STRATEGY
+
+   Theresa Buller
+
+How you approach your research task may vary depending on your research question.
+
+Your legal research may start with a legal problem that needs to be answered. Legal problems can begin
+anywhere: in a judicial decision, in a section of a statute, in a broad question on a principle of law or in a
+human situation that involves legal thinking to untangle it.
+
+A Legal Research Process
+
+When you are new to legal research or unfamiliar with an area of law, proceeding from general information
+(secondary sources) to more specific, authoritative information (legislation and cases) is a good approach.
+Secondary sources are written by subject-matter experts who can efficiently lead you to the key authorities
+you will need to use. Alternatively, if you feel like you have a good grasp of the area of law and legal
+principles at play, you may wish to move straight to primary sources to answer your legal question.
+A good legal-research process will follow this path:
+
+ 1. Start by finding general legal commentary on a topic - that is, a textbook or legal encyclopedia - to
+      give you a broad overview of the subject.
+
+ 2. The general legal commentary will alert you to relevant legislation, and your next step should be to
+      find it.
+
+ 3. The general legal commentary will also alert you to relevant case law, and your next step should be to
+      find it.
+
+ 4. If no legislation is involved, you can proceed straight from the general commentary to the case law.
+ 5. Then you can refine your search by narrowing your search down to locate the precise principles
+
+      involved. By now you should be able to refine your searching to focus on specific aspects of the area
+      of law under investigation. This will involve a greater precision in your use of search terms, and at
+      this stage it is usually a good idea to search for journal articles in the legal journal indexes.
+
+This process is illustrated in the diagram below.
+                                                                                                                 LEGAL RESEARCH STRATEGY | 10
+
+The Legal Research Process. By Kate Thompson. CC-BY SA 4.0
+11 | TOOLS FOR LEGAL RESEARCH
+
+6.
+
+TOOLS FOR LEGAL RESEARCH
+
+   Catherine Doughty and Theresa Buller
+
+There are several online free and subscription legal databases that can be used for legal research in Aotearoa
+New Zealand.
+The most well-known are:
+
+  · CCH iKnowConnect;
+  · HeinOnline;
+  · Lexis Advance;
+  · the New Zealand Legislation website;
+  · NZLII;
+  · Westlaw New Zealand.
+
+Which ones you use depends on what legal information you are looking for, personal preference and - for
+subscription databases - what access you have through your university or workplace.
+
+Subscription Legal Databases
+
+CCH iKnowConnect, HeinOnline, Lexis Advance and Westlaw New Zealand are all subscription
+databases. This means that a library needs to pay for access to this content.
+Each database is owned by a different legal publisher and may contain legislation, cases and secondary
+sources, such as books, journal articles, commentaries and legal encyclopaedias. As each database is owned
+by different legal publishers, there may be some identical content, but some content (particularly reported
+cases and secondary sources) will be different.
+It is best to access these databases via links provided by your university or workplace library. These links will
+verify you as a student or employee of the subscription holder and give you access to each database.
+
+Free Legal Databases
+
+Both the New Zealand Legislation website and NZLII are free websites that provide access to legislation,
+unreported cases, law reform material and secondary sources.
+                                                                                                                TOOLS FOR LEGAL RESEARCH | 12
+
+The New Zealand Legislation website is a free government website maintained by the Parliamentary
+Counsel Office. On this site you can find official copies of New Zealand Acts, Bills and secondary
+legislation. It has all versions and amendments of New Zealand legislation in force or enacted since 2008.
+
+NZLII is a freely accessible database of full-text New Zealand judgments (largely unreported but with a
+few early reported series), legislation, treaties, journals and law-reform material. It is constantly being added
+to and has an extensive but incomplete collection of judgments from the courts, tribunals and authorities
+around New Zealand.
+13 | GENERATIVE AI AND LEGAL RESEARCH
+
+7.
+
+GENERATIVE AI AND LEGAL RESEARCH
+
+   Theresa Buller
+
+       Note this page is based on information known to the authors at the time of writing (August
+       2025).
+
+The application of artificial intelligence (AI) technologies in the legal sector is increasing and evolving
+rapidly as AI capabilities improve.
+Generative AI such as ChatGPT, Perplexity AI and Copilot may help users to understand a legal topic and
+locate some legal sources. Generative AI tools are known to make things up or provide plausible but false
+ouputs, commonly known as hallucinations.
+
+Guidance on the Use of AI in Aotearoa New Zealand
+
+The rapid adoption of AI technologies has lead the Courts of New Zealand and the New Zealand Law
+Society to issue guidance on the use of generative AI:
+
+  · Courts of New Zealand Guidelines for use of generative artifical intelligence in Courts and Tribunals;
+  · New Zealand Law Society Generative AI guidance for lawyers.
+Students should refer to the policies of their own institutions for guidance on the appropriate use and
+attribution of AI for study within their institution. Additionally, the diagram below describes seven factors
+to consider for the ethical use of generative AI, including the concepts of transparency, reliability, bias,
+equity, sustainability, data sovereignty and privacy.
+                                                                                                   GENERATIVE AI AND LEGAL RESEARCH | 14
+
+Know Your AI. By Kate Thompson. CC-BY-NC 4.0
+
+Generative AI and Legal Research
+
+Some ways in which generative AI can potentially be used in legal research include:
+  · summarising complex texts, concepts and legal cases into plain language to aid understanding of
+      topics and facilitate further research;
+  · providing broad answers to common legal questions and general information relating to legal topics;
+  · helping to identify key research concepts and create basic search strings;
+  · conducting broad secondary legal research to guide primary research into case law and legislation;
+  · brainstorming and generating ideas for further research.
+
+It is important that legal researchers who use generative AI apply caution and critical evaluative judgement
+of outputs, fact-check for accuracy and verify all information sources, case law and legislation cited. They
+should be viewed as a tool to augment routine tasks but not as a replacement for legal interpretation and
+analysis. They can be used as a starting point for research but require careful verification for every output.
+Note: This is not an endorsement of the accuracy or efficacy of generative AI while undertaking
+legal research.
+15 | GENERATIVE AI AND LEGAL RESEARCH
+
+How to Use Generative AI Tools Effectively
+
+A generative AI tool requires a prompt to produce content. When entering your prompt, provide
+thorough context, details and boundaries. A prompt can specify:
+
+  · the points you want addressed;
+  · the role or perspective from which the text should be written, for example, a legal practitioner;
+  · the focus, format, style, intended audience and text length;
+  · specific requirements, such as to be accurate and not creative in its response.
+Prompting is an iterative process. Responses generally improve when additional questions are asked or
+rephrased.
+Some basic prompt ideas:
+For legal research and analysis:
+
+       Prompt: Act as a legal practitioner who is advising a client. Conduct legal research on [legal
+       issue or topic]. Summarise the relevant case law and legislation in New Zealand. Provide
+       analysis and conclusions based on your research. Be concise and accurate.
+
+To uncover precedents:
+
+       Prompt: Act as a legal practitioner who is advising a client. Provide an overview of the legal
+       precedents in [area of law]. List the leading cases that exist in this area of law and the key
+       legal arguments for each case. Provide analysis and conclusions based on your research. Be
+       concise and accurate.
+
+Identify legislation and judgments for [legal issue]:
+
+       Prompt: Act as a legal practitioner who is preparing a case. What is the legislation relating
+                                                                                                   GENERATIVE AI AND LEGAL RESEARCH | 16
+
+       to [legal issue] in New Zealand? List the leading cases that have cited this legislation and
+       the key legal arguments for each case. Be concise and accurate.
+
+The University of Arizona has a useful resource with ideas on writing prompts for legal research using
+generative AI. Their guide discusses the RICE (Role, Instructions, Context, Expectations) elements that
+can be incorporated into a prompt.
+
+Risks and Benefits of Using Generative AI for Legal
+Research
+
+Some of the key risks and benefits of using generative AI for legal research are:
+17 | GENERATIVE AI AND LEGAL RESEARCH
+
+Potential risks                                    Potential benefits
+
+· Users need expertise to understand law and       · GenAI tools may suggest relevant case law that was
+   specific areas of the law in order to develop      missed during manual legal research.
+   good prompts, ask effective questions and
+   evaluate the genAI output for accuracy.
+
+· Propensity of genAI tools to hallucinate and     · GenAI tools may highlight discrepancies between
+   produce inaccurate, non-factual information.       jurisdictions that might initially be missed.
+
+· Hallucinations may include citing case law       · Specific search skills, such as applying Boolean
+   and legislation inaccurately.                      techniques, are not needed in genAI tools.
+
+· Output may be unrelated to the jurisdiction      · Iterative prompting facilitates deeper diving into
+   in question and not give enough depth or           legal topic areas.
+   analysis for the specific legal topic.
+
+· Bias, misinformation or disinformation may       · GenAI tools can summarise large amounts of
+   be present in genAI outputs owing to the           information to distil the critical matters faster.
+   generic, global nature of information it draws
+   from and/or malicious actors.
+
+· Negligent use or the uploading of proprietary,
+   confidential or copyrighted materials to genAI
+   tools without applying professional
+   judgement or the necessary genAI tool settings
+   to meet professional and client obligations.
+
+· GenAI may weaken human capabilities to
+   form ideas and to analyse, interpret and
+   synthesise information.
+
+· Lack of user awareness of how AI and
+   algorithms work may lead to over-reliance on
+   genAI output.
+                                                    GENERATIVE AI AND LEGAL RESEARCH | 18
+
+Potential risks                                     Potential benefits
+
+· Gen AI tools can use substantial amounts of
+   energy and water to complete computations
+   and raise serious issues around sustainability.
+   19 | SEARCHING STRATEGIES AND TIPS
+
+ 8.
+
+ SEARCHING STRATEGIES AND TIPS
+
+     Theresa Buller
+
+  Before you start searching for information, take some time to think about the legal question you are trying
+  to answer and where you may find legal material that will help you to answer your question.
+  There is a vast amount of primary and secondary material available in print and electronically. This material
+  can be found in multiple databases, so it is important to consider where you might find this material in a
+  time-efficient manner.
+  Before you begin searching, consider:
+
+     · What do you wish to find (legislation, cases, journal articles and/or commentary)?
+     · What material do you have access to through your university or workplace library?
+     · Are you looking for the law in New Zealand or in another jurisdiction?1
+     · What search terms will you need (keywords, phrases and synonyms) to find the legal material that
+
+        will help you to answer your legal question?
+
+ Keywords and Phrases
+
+  As part of planning your search strategy, think of keywords and phrases to find relevant information.
+  Remember, you are researching the legal issues, not the facts of the scenario, so select keywords and phrases
+  that are relevant to the legal issues of the case. Brainstorm related words, subject terms, synonyms and
+  phrases. The more care and thought you put into your search strategies, the more relevant your results will
+  be.
+
+          Imagine you are searching for journal articles on the topic of refugees. A keyword search for
+
+1. In this book we focus on skills to find New Zealand material. Many of the skills can also be used to find material from other
+  jurisdictions, although other jurisdiction-specific databases may need to be used.
+                                         SEARCHING STRATEGIES AND TIPS | 20
+
+refugee returns 919 hits. After expanding your search and using other possible keywords
+and phrases, a search for refugee OR "asylum seeker" OR "displaced persons" returns 956
+hits.
+
+                          Keywords and Synonyms
+
+Keyword                   Synonym        Related Term
+Refugee                   Asylum seeker  Displaced person
+
+Boolean Operators
+
+Boolean operators are connective words you place between your keywords to improve your search results.
+
+Using Boolean Operators to Connect Keywords
+
+Boolean operator Example  Results
+                          Finds results with both words (note that it is best to search
+AND      Maori            without macrons for words in te reo Mori)
+         AND land         Finds results with either word
+
+OR zealand OR aotearoa    Finds results with the first word but without the second word
+
+NOT      remedy
+         NOT
+         damages
+
+Truncation and Wildcards
+
+Truncation symbols are used to find alternative word endings. For instance:
+
+       placing a truncation symbol (such as * or !) as with law* retrieves law, laws, lawyer, lawless,
+21 | SEARCHING STRATEGIES AND TIPS
+
+                                    lawlessness
+
+Wildcard symbols are used to replace a single character within the word, for example, when the spellings
+vary by a single letter. For instance:
+
+                                 organi?ation retrieves organisation or organization.
+
+The truncation and wildcard symbols vary between databases. Use the help section in each database or the
+handy cheat sheet below to find the specific symbol.
+
+Proximity Operators
+
+Proximity operators enable you to define how closely your search terms will be found in relation to one
+another. For example s is for sentence, p is for paragraph, n is for the number of words adjacent to another
+keyword. Proximity searching is commonly used in legal research to improve the relevancy of results, as
+most legal databases perform searches across lengthy documents (such as entire journal articles or full-text
+judgments). For instance:
+
+          contributory w/s negligence retrieves documents in which both words appear within the
+                                                         same sentence.
+
+Phrase Searching
+
+Searching for a phrase (putting quotation marks around the words) can dramatically focus your search
+results. Rather than finding results for ungrouped words, the database will return results for the words
+contained within the quote marks in the exact order they are written.
+
+This example search in Google Scholar demonstrates the power of phrase searching:
+                                                                                                         SEARCHING STRATEGIES AND TIPS | 22
+
+                                                 maori land = 191,000 results
+
+                                           "maori land" = 10,200 results
+
+Combining Operators
+
+Sometimes you may need to use more than one operator in the same search. An example is if you wanted
+to find material on the Treaty of Waitangi and New Zealand's Constitution. By adding more operators, the
+following search string will capture the most relevant records in one search:
+
+           ("Treaty of Waitangi" OR "te Tiriti") AND (Zealand OR Aotearoa) AND Constitution
+
+By using operators and brackets to nest and connect your keywords and synonyms, you can ensure that you
+receive the most relevant results.
+
+Database-Specific Search Operators
+
+Each database has its own way of combining terms and truncating words. Use the correct search connectors
+for each database, otherwise you will get unreliable results.
+Below is a handy cheat sheet for the most-used legal databases:
+23 | SEARCHING STRATEGIES AND TIPS
+
+and or Truncation Single letter replacement Proximity Phrase
+
+CCH iKnowConnect AND OR * ?                     w/  "phrase"
+
+HeinOnline AND     OR               *       ?   w/  "phrase"
+
+Lexis Advance and  or               ! or *  ?   w/  "phrase"
+
+Westlaw New Zealand AND or & OR or [space] ! *  /n or /s or /p "phrase"
+                                                                                                          REVIEW QUIZ - RESEARCH SKILLS | 24
+
+9.
+
+REVIEW QUIZ - RESEARCH SKILLS
+
+   Catherine Doughty and Theresa Buller
+
+Check Your Knowledge of Research Skills
+
+Take the review quiz below to test your understanding of the content covered in this section.
+
+                             An interactive H5P element has been excluded from this version of the text. You can view it
+                             online here:
+                             https://oercollective.caul.edu.au/essential-legal-research-skills-nz/?p=74#h5p-14
+25 | CASE LAW
+
+PART III
+
+CASE LAW
+                   WHAT IS CASE LAW? | 26
+
+10.
+
+WHAT IS CASE LAW?
+
+   Kate Thompson
+
+       Learning Outcomes
+
+       After reading this chapter you will be able to:
+            · recognise the elements of a case;
+            · understand how cases are published and the difference between a reported and an
+                unreported case;
+            · identify components of a case citation and what the abbreviations mean;
+            · find a case when you have a citation;
+            · find a case on a topic or issue.
+
+  A case, often referred to as a decision or judgment, is a written record of a judge's or judges' reasoning or
+  decision-making applied to a particular dispute. When deciding cases, judges apply legislation or common
+  law, and apply the doctrine of precedent (stare decisis), which means the court must follow the decisions
+  reached by a higher court in the same jurisdiction.1 For this reason, case law has precedential value and is
+  sometimes known as common law or judge-made law.
+  Case law is a primary source of law in Aotearoa New Zealand.
+
+ Anatomy of a Case
+
+  Understanding the different parts of a case is helpful for case-law research. The figure below shows some of
+  the key parts of a case.
+
+1. Peter Spiller Dictionary of New Zealand Law (eBook ed, LexisNexis, 2019-).
+27 | WHAT IS CASE LAW?
+
+Anatomy of a New Zealand Reported Case. By Kate Thompson. CC-BY-NC 4.0
+
+At the very top of the decision, you find information about the case, including the:
+  · citation;
+  · party names;
+  · court;
+  · judge or judges;
+  · hearing date or dates.
+
+Headnote
+
+The headnote of the decision contains catchwords and a summary of the case. Catchwords are keywords
+and phrases, separated by dashes, summarising the legal principles and legislation discussed in the case. The
+summary provides a short description of the matter and outlines the key findings of the case.
+The headnote and its keywords are not officially part of the judgment. The headnote is written by a law
+reporter, who is an employee of the publisher, not by a judge. Accordingly, do not quote from it.
+          WHAT IS CASE LAW? | 28
+
+Judgment
+
+The start of the judgment proper is usually indicated by the judge's surname (eg Cooper J). If the judgment
+is from an appellate court (eg the Court of Appeal or Supreme Court) with several judges sitting, there may
+be multiple judgments. This is certainly the situation if one of the judges does not agree with the others
+and writes a dissenting judgment.2
+
+Each judgment will generally include:
+
+  · the litigation history of the case;
+  · statement of facts;
+  · relevant legal issues, legal principles and application to the case;
+  · conclusion;
+  · order of the court.
+
+Learning how to analyse a case and distinguish the ratio decidendi3 is a core skill in legal studies.
+
+2. See Vector Gas Ltd v Bay of Plenty Energy Ltd [2010] NZSC 5, [2010] 2 NZLR 444 for a classic example of a dissenting
+  judgment.
+
+3. Latin, reason for deciding. The principle of law on which a court bases its decision. The ratio decidendi of a case is binding
+  on inferior courts under the system of judicial precedent. Peter Spiller Dictionary of New Zealand Law (eBook ed, LexisNexis,
+  2019-).
+   29 | HOW CASES ARE PUBLISHED
+
+ 11.
+
+ HOW CASES ARE PUBLISHED
+
+     Kate Thompson
+
+  It is helpful to know how judgments are published in Aotearoa New Zealand when undertaking research
+  in case law.
+
+ Which Courts Produce Written Decisions?
+
+  The higher-level courts usually produce written decisions, particularly the Supreme Court, Court of
+  Appeal and High Court. The District Courts also produce written decisions on substantive issues. Matters
+  heard in tribunals and authorities may not lead to a written decision. Many written decisions are not
+  publicly available.
+  Jury trials do not necessarily result in a written decision; however, following the accused pleading guilty
+  or the jury finding the accused guilty at trial, there will be a sentencing hearing. Many courts make these
+  sentencing remarks available to the public.
+
+ Unreported and Reported Judgments
+
+  Almost all decisions, except those that are suppressed on the grounds of privacy or public interest, are
+  initially published online on court websites, in legal databases or on NZLII as unreported judgments.1
+  These written decisions from the court are called "unreported" judgments because they have not been
+  published in a law report series, that is, reported. From 2005, Aotearoa New Zealand courts began to adopt
+  a standardised system of citation known as a "[medium] neutral citation" for unreported judgments. The
+  Supreme Court has used neutral citations since 2005, with the other courts and tribunals adopting the
+  convention in following years. See the New Zealand Law Style Guide rules 3.1(a) and 3.3.3(b)-(c) for
+  details.
+  Judgments deemed to be significant are reported and published in law report series. These are called
+  reported judgments or reported decisions. All substantive judgments from the Supreme Court are reported
+
+1. See Chapter 6: Tools for Legal Research
+                                                                                                                   HOW CASES ARE PUBLISHED | 30
+
+  in the New Zealand Law Reports. Occasionally, a judgment may be reported in more than one series. To be
+  reported, a judgment should do one or more of the following:2
+
+     · raise significant points of law;
+     · introduce a new principle of law;
+     · significantly modify an existing principle of law;
+     · settle a question of law;
+     · apply an established principle in a new area;
+     · define or interpret legislation or legal terms or be particularly instructive.
+
+ Official Report Series
+
+  The New Zealand Law Reports, published by LexisNexis, is the official law report series for Aotearoa New
+  Zealand. There are a number of other unofficial law reports too, usually specialising in a particular branch
+  of law.
+
+ Which Version of the Judgment Should Be Used?
+
+  It is possible that a decision has been published multiple times. First, in unreported format, then sometimes
+  in an unofficial law report series and finally in the official law report series. Vector Gas, an important
+  contract-law case, exists in an unreported format from the Supreme Court and was reported (published) in
+  the New Zealand Law Reports, the New Zealand Business Law Cases and the New Zealand Company and
+  Commercial Law Reports. The latter two reports are unofficial report series and are referred to as parallel
+  citations.
+
+  Example of Parallel Citations of a Case. By Kate Thompson. CC-BY-NC 4.0
+
+2. https://www.thelawreports.org.nz/law-reporting/how-are-cases-selected-for-reporting
+   31 | HOW CASES ARE PUBLISHED
+
+  It is proper3 to cite the neutral reference and then the most official reported version. For example, Vector
+  Gas Ltd v Bay of Plenty Energy Ltd [2010] NZSC 5, [2010] 2 NZLR 444.
+  Therefore it makes sense to use the most official version if it is available. Always cite the version you used!
+
+3. Alice Coppard and others New Zealand Law Style Guide (3rd ed, Thomson Reuters, Wellington, 2018) at [3.1].
+     HOW TO TALK ABOUT A CASE | 32
+
+12.
+
+HOW TO TALK ABOUT A CASE
+
+   Kate Thompson
+
+When citing cases verbally, some elements of a case citation need to be pronounced differently than they
+would appear in written form.
+
+     For instance, in Aotearoa New Zealand the "v" between the party names is not pronounced;
+     instead use "and". For example:
+
+         · The Queen and Horsfall
+         · Haug and Jupiters
+
+       Instead of pronouncing the R in criminal matters, use The Queen [1952-2022] or The King or
+       The Crown.
+
+       For cases such as Re Horlick's Malted Milk Co (1914) 34 NZLR 91 (SC), say "In the matter of"
+       instead of Re.
+
+Make Sure to Provide the Full Citation
+
+In advocacy or moot situations, use the full citation the first time the case is referred to. With subsequent
+citations, simply indicate the party names and pinpoint reference as needed.
+33 | HOW TO TALK ABOUT A CASE
+
+       For example, when verbally citing R v Horsfall (2008) 24 CRNZ 402.
+            · First instance: "The Queen and Horsfall, decided in 2008 at volume twenty-four of
+               the Criminal Reports of New Zealand at page 402."
+            · Second and subsequent instances: "The Queen and Horsfall..."
+                                                                                                       FINDING A CASE | 34
+
+13.
+
+FINDING A CASE
+
+   Kate Thompson
+
+There are two approaches to finding cases:
+
+ 1. using the citation or some other information about a known case;
+ 2. looking for relevant cases, if there are any, while researching a legal problem.
+
+Finding a Known Case
+
+The known-case approach relies on having some details about the case - either the case citation, the judge's
+name, the date of hearing or some other combination of details.
+
+If there is a case citation, locating the decision is straightforward:
+
+ 1. Locate the law-report abbreviation.
+ 2. Decode the abbreviation to get the full report title.1
+ 3. Use your university or workplace library catalogue to find the law report title and from there identify
+
+      whether is online access or a hardcopy version.
+ 4. Alternatively, type the citation into a legal database of the matching jurisdiction. You should, at the
+
+      very least, find the unreported version.
+
+Finding an Unknown Case
+
+The diagram below demonstrates how you might locate an unknown case by approaching the problem in
+two different ways. You could start with a secondary source, such as a textbook, encyclopaedia or journal
+article. Alternatively, you could start with the relevant provisions of a statute. Chapter 5 also discusses this
+strategy in the legal research process.
+
+1. Use the Cardiff Index to Legal Abbreviations to decode the title abbreviation into the full title.
+35 | FINDING A CASE
+
+The Legal Research Process by Kate Thompson. CC-BY SA 4.0
+
+Using secondary sources to find cases
+
+Secondary sources such as legal encyclopaedias, books, articles and commentaries are often the best place to
+start when looking for case law, whether you want to understand a specific known case or you are looking
+for inspiration. Experts writing in secondary sources discuss and analyse important cases and the key points
+of law. Any good textbook on the subject will have a Table of Cases at the front or back of the book, so you
+can immediately see if the book analyses your case.
+
+Using legislation to find cases
+
+Many legal databases allow you to search for cases that cite and consider a particular section of an Act or
+of secondary legislation. Generally you can achieve this using the Advanced Search function in a database.
+Major law databases also provide analytics that allow you to find a section of an Act and then leapfrog to
+cases citing that provision.
+                                                                                                                                      FINDING A CASE | 36
+
+  Consider changing the ranking of any results you have so that decisions from higher courts occur at the
+  top.
+
+ Keyword searching
+
+  Searching for cases by subject or topic can be difficult, especially if you are unsure of the jargon or
+  legal terms that best describe the problem. It is almost always more efficient to identify relevant cases in
+  secondary sources. The indexes at the back of textbooks are great places to glean relevant keywords, and
+  legal databases often include catchwords and phrases in their case law results - similar to the set-up in
+  reported cases' headnotes.
+
+ Catchwords and phrases
+
+  The catchwords are a series of keywords and phrases, separated by dashes, added to the headnote of the case
+  by the law reporter or publisher. The purpose is to describe the subject matter of the case quickly, including
+  relevant legislation and provisions. See these example catchwords from R v Horsfall [2008] NZCA 449,
+  (2008) 24 CRNZ 402:
+
+  Criminal law - Verdicts - Unreasonable and unsupportable - Insufficiency of evidence
+
+  Criminal law - Sentencing - Drug offences - Manufactured and sold Class A controlled drug
+  methamphetamine
+
+  In some databases, these catchwords are active links, whereby clicking them sends you to all the other cases
+  with that same catchword assigned to them. One good case finds another. The digest or summary briefly
+  summarises the matter and outlines the key holdings of the case.
+
+ Full-text searching of cases
+
+  A full-text search looks for keywords across the entire text of the case.2 This is the broadest type of search
+  and will not only receive the largest number of results of all the searches but also the highest number
+  of irrelevant results. Most databases use natural language searching, which may be good enough in some
+  instances. Better results are obtained by using search functions, such as Boolean (OR / AND), phrase
+  searching or proximity searching to "tighten" your results, and by making good use of the limits and filters
+  upon search results. Your librarian can show you these techniques, and each database has a help section
+  with tips on how to search effectively. Spending a little time planning your search, including how you might
+  connect your keywords, can save significant time later.
+
+2. See Chapter 5. Legal Research Strategy for details.
+37 | FINDING A CASE
+
+Words and phrases judicially considered
+
+Some legal databases will have an Advanced Search - Cases search template that includes the option to
+search for "words and phrases judicially considered". This search will find decisions in which which judges
+have discussed or defined particular words and phrases.
+                                                                         USING CASE CITATORS | 38
+
+14.
+
+USING CASE CITATORS
+
+   Kate Thompson
+
+The main role of a case citator is to provide extra analytical information about cases. In Aotearoa New
+Zealand legal databases, any judgment of a superior court will have a citator record that includes
+information about the:
+
+  · status of the case;
+  · publication and citation details;
+  · litigation history - whether the case has gone on appeal and been subsequently affirmed or reversed;
+  · subsequent judicial treatment - how later judges have treated the decision;
+  · consideration of earlier cases;
+  · secondary sources that cite the case;
+  · legislation considered by the case.
+
+Always check case citators to understand the case.
+
+The main case citators used in Aotearoa New Zealand legal research are:
+
+     · CaseBase (Lexis Advance);
+     · KeyCite (Westlaw New Zealand);
+     · LawCite (NZLII).
+
+The citators CaseBase and KeyCite use a system of flags, symbols and annotations to provide extra
+information about the litigation history of the case as well as how the case has been treated by subsequent
+cases.
+
+Check the Flag or Signal
+
+In the citator record for a case, look for the symbol or flag appearing next to the party names. The symbol
+will give an indication of the status of the case.
+39 | USING CASE CITATORS
+
+ Red
+             A red flag or symbol indicates the decision has been reversed on appeal or subsequently disapproved or
+             overruled on at least one point of law.
+
+Yellow
+
+        A yellow flag or symbol indicates the decision has subsequently been distinguished, explained, not
+        followed. It may have some negative history but has not been reversed or overruled.
+
+Green
+
+        A green flag or symbol indicates the decision has been applied, approved, followed, affirmed or upheld.
+
+Neutral The neutral symbol indicates the decision has been considered or cited.
+
+The flag or signal gives limited information about the status of the case, so always look at the case
+annotations as well. Annotations are single word descriptors that indicate the litigation history of the case
+as well as how the case has been treated in subsequent judgments.
+
+Check the Litigation History
+
+The litigation history section of the citator outlines the path of the legal dispute through the appellate
+hierarchy. This may directly affect the reliability of the case.
+
+Reversed (Red)
+
+                  Used where the decision has been overturned on appeal.
+
+Varied (Yellow)
+
+                  Used where a case on appeal is only partially affirmed or reversed.
+
+Affirmed (Green)
+
+                  Used where the decision has been upheld on appeal.
+
+Subsequent Judicial Consideration
+
+The doctrine of precedent means that judges are bound by decisions of higher courts in the same court
+hierarchy. They also often consider lower decisions in the same hierarchy, or even decisions produced
+outside the hierarchy altogether.
+                                                                                                                          USING CASE CITATORS | 40
+
+A citator record provides an overview of the subsequent judicial consideration of your case:
+
+  · CaseBase (Lexis Advance) - Cases referring to this case;
+  · KeyCite (Westlaw New Zealand) - Citing references.
+
+The most common annotations used to describe the subsequent judicial treatment of a judgment are:
+41 | USING CASE CITATORS
+
+Annotation     Definition
+
+Disapproved    Used when both courts are of coordinate jurisdiction and the latter court has no power to
+(Red)          overrule the earlier decision. A court may disapprove or criticise a previous decision and yet be
+               compelled to follow it.
+
+Overruled      Used when a court refuses to follow the decision of a court that is equally positioned or lower in
+(Red)          the court hierarchy.
+
+Distinguished  Used when a court decides that it need not follow a previous case by which it would otherwise be
+(Yellow)       bound because there is some salient difference in facts.
+
+Explained      Used when a court interprets a previous decision and states what it means.
+(Yellow)
+
+Not Followed   Used in circumstances where both courts are of coordinate jurisdiction and the latter court has
+(Yellow)       no power to overrule but is also not bound to follow.
+
+Questioned     Used when a later decision questions the decision but does not disapprove or overrule it.
+(Yellow)
+
+Applied        Used when the court is applying the principle of a previous decision to the present case, the facts
+(Green)        of which are materially different from those of the earlier case.
+
+Approved       Used when a superior court approves an earlier decision by a lower court or court of equivalent
+(Green)        jurisdiction.
+
+Followed       Used when a court is bound by the previous decision of a court of superior jurisdiction in a case
+(Green)        where the facts were the same or substantially the same.
+
+Cited          Used when the primary case is merely mentioned by the court in the subsequent case, without
+Considered     comment.
+Referred
+               Used when the court discusses a previous decision but does not actually apply, disapproved,
+               follow, etc.
+
+               Used when a case is merely referred to but not discussed in any detail.
+                        REVIEW QUIZ - CASE LAW | 42
+
+15.
+
+REVIEW QUIZ - CASE LAW
+
+   Kate Thompson
+
+Check Your Knowledge of Case-Law Research
+
+Take the review quiz below to test your understanding of the content covered in this section.
+
+           An interactive H5P element has been excluded from this version of the text. You can view it
+           online here:
+https://oercollective.caul.edu.au/essential-legal-research-skills-nz/?p=94#h5p-16
+43 | LEGISLATION
+
+PART IV
+
+LEGISLATION
+     INTRODUCTION TO NEW ZEALAND LEGISLATION | 44
+
+16.
+
+INTRODUCTION TO NEW ZEALAND
+LEGISLATION
+
+   Tracey Thomas and Theresa Buller
+
+     Learning Outcomes
+
+     After reading this chapter you will be able to:
+          · understand the two main types of legislation in Aotearoa New Zealand;
+          · identify the parts of an Act;
+          · identify the date on which an Act commences;
+          · understand the online and print sources of legislation in Aotearoa New Zealand;
+          · understand the process in which a Bill becomes an Act.
+
+In New Zealand, the law is made in our courts by judges (case law) and by legislation made under the
+authority of Parliament.
+This chapter will focus on legislation and:
+
+  · finding New Zealand Acts and secondary legislation;
+  · developing an understanding of the legislative process.
+
+There are two main types of legislation:
+
+ 1. Acts - laws passed by Parliament are known as Acts or statutes.
+ 2. Secondary legislation - laws made under a power that Parliament has formally delegated in a
+
+      particular Act.
+45 | WHAT IS AN ACT?
+
+17.
+
+WHAT IS AN ACT?
+
+   Tracey Thomas and Theresa Buller
+
+Acts are laws formally passed or enacted by Parliament that have received royal assent by the Governor-
+General as the Sovereign's representative.
+
+Acts are one of the primary sources of New Zealand's law and have greater authority than case law.
+Sometimes Acts are referred to as statutes or enactments.
+
+Acts made by Parliament are supreme law in New Zealand. A court cannot overturn an Act made by
+Parliament.
+
+Each new Act either creates new laws or makes changes to existing Acts by amending, replacing or repealing
+existing legislation. Most legislation enacted each year amends existing legislation.
+
+Although all Acts are the law of New Zealand, there are different types of Acts, which include:
+
+  · Public Acts - Acts that affects the public at large, eg New Zealand Bill of Rights Act 1990;
+  · Local Acts - Acts that deals with a matter of public interest but only affect a particular part of New
+
+      Zealand, eg Auckland Domain Act 1987;
+  · Private Acts - Acts that deals with the particular interest or benefit of an identified person or body,
+
+      eg Eden Park Trust Act 1955;
+  · Imperial Acts in force in New Zealand - Acts of the Parliaments of England, Great Britain and the
+
+      United Kingdom that are part of the law of New Zealand under the Imperial Laws Application Act
+      1988, eg Magna Carta 1297;
+  · Provincial Acts (or Provincial Ordinances) in force in New Zealand - Acts that date back to the time
+      when New Zealand was a colony divided into provinces. Each province had the jurisdiction to pass
+      legislation that only applied within that province, eg Christ's College Ordinance 1855 (C) - the (C)
+      represents the Province of Canterbury.
+                                                             STRUCTURE OF AN ACT | 46
+
+18.
+
+STRUCTURE OF AN ACT
+
+   Tracey Thomas and Theresa Buller
+
+The structure of most New Zealand Acts is consistent, starting with the preliminary section and separated
+into parts, sections and sometimes schedules.
+
+As an example, the image below shows part of the printed copy of the Legislation Act 2019.
+
+Anatomy of a New Zealand Act by Kate Thompson. CC-BY-NC 4.0
+47 | STRUCTURE OF AN ACT
+
+The preliminary section of an Act generally follows the format set out in the example and provides useful
+information about the Act.
+
+Jurisdiction - this is apparent on the front page of the Act by the display of the New Zealand coat of arms.
+
+Act number - a numbering system based on the calendar year. Eg, 2019 No 58 is the 58th public Act of
+2019.
+
+Title - this is the name of the Act together with the year it was passed by Parliament. This is usually stated
+in section 1 of the Act.
+
+Commencement date - usually found in section 2 and provides information about when the Act
+becomes law. This is discussed in greater detail below.
+
+Date of Assent - this is also referred to as Royal Assent and is generally published on the title page of the
+Act when it is passed.
+
+Commencement
+
+Acts will not come into force until the commencement date. It is possible for an Act (or parts or sections)
+to be passed in Parliament and enacted by Royal Assent and not yet commenced. Sometimes different
+sections of an Act commence at different times. Knowing how to check whether an Act is in force and
+which sections have commenced is an important legislative research skill.
+
+Commencement information is often found in the Act itself within section 2; however, this may be a
+general statement rather than a specific date, stating that the Act will commence:
+
+  · upon receiving Royal Assent from the Governor-General (the Sovereign's representative in New
+      Zealand);
+
+  · on a specified date;
+  · on a date to be proclaimed (in the future);
+  · in relation to another piece of legislation;
+  · the default date of 28 days after receiving Royal Assent.
+
+It can also be prudent to check towards the end of longer legislation for a part or sub-part of the Act labelled
+"Transitionary Provisions" containing further specific dates for sections coming into force.
+
+Currency and Versions
+
+It is important to know how up to date an Act is when you are using it. Check for a date on the front page
+of the Act that states "Version as at..."
+                                                                                                                        STRUCTURE OF AN ACT | 48
+
+During the currency of an Act, it may be changed by amending Acts passed by Parliament. When a version
+of an Act is produced that incorporates these changes, it is referred to in various ways:
+
+  · version;
+  · consolidation;
+  · reprint.
+
+If some time has passed since the compilation was prepared, amendments might have been made to the Act
+that have not yet been incorporated into the version to which you are referring.
+
+Acts as enacted are Acts in their original form. That is, as they were passed in the Parliament.
+
+Amendment Act is an Act that alters the operation of an earlier Act (or sections of an Act) through
+substitution, insertion, omission or repealing.
+
+Principal Act refers to an Act that deals with a particular topic and whose main job is not to amend
+another Act.
+
+Consolidation (earlier known as Reprint) is a version of an Act that incorporates all amendments made to
+it as at the date of publication of the consolidation.
+
+Repealed Acts are no longer enforced as law. Acts can only be repealed by a subsequent new Act or an
+amendment Act passed by Parliament that includes repealing sections.
+
+Locating and using the latest updated official version of an Act in force is an important task for most legal-
+research projects. Some legal-research projects may also require tracking the legislative history of an Act,
+which involves locating the earlier versions and consolidations to find the version that was in force at a
+particular date and comparing the differences.
+
+Always check the currency of an Act by searching on the New Zealand legislation website and locating
+the "Version as at ..." date at the top of the Act. This is a consolidation version of an Act incorporating
+amendments made to the Act as at the date of publication of that version of the Act. Amendments that
+are not yet in force might not yet be incorporated into the latest version that you are viewing, although
+the official New Zealand Legislation website usually includes warnings on a principal Act when there are
+amendments yet to commence at a future date. Newer legislation on the New Zealand legislation website
+without the "Version as at..." date at the top of the Act indicates that it is the original "as enacted" version
+without any amendments.
+
+If looking at an Act on one of the subscription databases, the editorial notes also include warnings when
+there are amendments yet to come into force.
+49 | FINDING AN ACT
+
+19.
+
+FINDING AN ACT
+
+   Tracey Thomas and Theresa Buller
+
+To find a current New Zealand Act, the best online source is the official New Zealand Legislation website.
+The New Zealand Legislation website provides free public access to up-to-date, in-force versions of New
+Zealand Acts and secondary legislation drafted by the Parliamentary Counsel and has all versions and
+amendments of New Zealand legislation in force or enacted since 2008.
+Students and legal practitioners may also have access via their library's databases to subscription legal
+databases that provide legislation and extra functionality to help with researching legislation. Examples of
+subscription legal databases include:
+
+  · Westlaw New Zealand - provided by Thomson Reuters New Zealand Ltd;
+  · Lexis Advance - provided by LexisNexis New Zealand Ltd;
+  · CCH iKnowConnect - provided by Wolters Kluwer New Zealand.
+
+Westlaw New Zealand, Lexis Advance and CCH iKnowConnect each have their own commentary (books,
+journal articles and online commentaries, along with additional linked material). It can be advantageous to
+check and compare each.
+Legislation is still published in print, but it is important to check the currency of the print version as it
+may not incorporate recent amendments. Print legislation is still useful for locating older legislation (before
+2007) and especially for consolidations of the law at specific dates in the past.
+
+Historic New Zealand Legislation
+
+A free website useful for locating historic, as-enacted New Zealand legislation is NZLII. There are several
+digitised collections of historic versions of legislation available through NZLII, including:
+
+  · New Zealand Acts;
+  · New Zealand Acts as enacted (1841-2007).
+                                     SEARCHING TIPS FOR ACTS | 50
+
+20.
+
+SEARCHING TIPS FOR ACTS
+
+   Tracey Thomas and Theresa Buller
+
+When searching for an Act, think about what you are looking for before searching. Are you looking for the
+whole Act or a certain part, section or schedule? Or are you searching across all legislation to find the Acts
+that are relevant to a topic?
+
+You can search the New Zealand Legislation website or the subscription legal databases for current
+legislation.
+
+Official New Zealand Legislation
+
+The New Zealand Legislation website is a free government website maintained by the Parliamentary
+Counsel Office and has all versions and amendments of New Zealand legislation in force or enacted since
+2008.
+
+The New Zealand Legislation website has an online guide explaining how to search for legislation and Bills.
+
+Subscription Databases
+
+The subscription databases, such as Westlaw New Zealand, Lexis Advance and CCH iKnowConnect,
+include links between the legal material, which will help you to find statutes and secondary legislation along
+with cases and commentary that mention or discuss your statute. Some of this content is similar in each
+subscription database, but because each is published by a different publisher, some content is different
+(especially the commentary). As a good researcher you should check legislation in each database to see
+which content is linked and whether any of the databases have material that will help with your research.
+
+Each of the subscription databases has online training and help sections that explain how to use their
+platforms and website:
+
+  · Westlaw New Zealand;
+          Finding Legislation PDF guide;
+          Find and search legislation on Westlaw New Zealand video (3:46);
+
+  · Lexis Advance;
+          Finding Legislation video (2:52);
+51 | SEARCHING TIPS FOR ACTS
+
+  · CCH iKnowConnect (selected Acts only);
+          360-degree view of legislation (2:55).
+                                     SECONDARY LEGISLATION | 52
+
+21.
+
+SECONDARY LEGISLATION
+
+   Tracey Thomas and Theresa Buller
+
+Parliament makes laws by enacting primary legislation (Acts). It is often not possible for an Act to include
+all the details necessary for it to have its intended effect. For this reason, Parliament will often include in an
+Act a provision that delegates to another person or body, often part of the Executive, the power to prescribe
+these necessary details as secondary legislation. The Act that delegates this law-making power is known as
+the empowering Act. The specific provision containing the power is the empowering provision. Secondary
+legislation must be published in accordance with Part 3 of the Legislation Act 2019.
+
+Parliament has traditionally delegated its legislation-making power by authorising the Governor-General
+(on the advice of the Executive Council) to make secondary legislation. The Governor-General presides
+at meetings of the Executive Council where Ministers of the Crown, who are also Executive Council
+members, present secondary legislation for signature. Once promulgated, secondary legislation is notified
+in the New Zealand Gazette. All secondary legislation is required to be tabled in Parliament and is subject
+to post-promulgation scrutiny by the Regulations Review Committee.
+
+Types of Secondary Legislation
+
+There are different types of secondary legislation, including delegated legislation, subordinate legislation,
+regulations, proclamations, rules, bylaws, codes and Orders in Council.
+
+Revoked secondary legislation is no longer in force or has expired or is now disallowed.
+
+Structure of Secondary Legislation
+
+Secondary legislation includes a number in the top right corner, which is made up of the year and the
+consecutive number of secondary legislation; for example, 2025/17 is the 17th secondary legislation
+published in the year 2025.
+
+When secondary legislation is published, there is an explanatory note or statement of reasons at the end of
+the text.
+
+Within secondary legislation each idea or topic is numbered and is called a clause or, depending on the type
+of secondary legislation, each basic unit may be called a rule or regulation.
+   53 | SECONDARY LEGISLATION
+
+  Secondary legislation includes a commencement clause, which indicates the date it comes into force.
+
+ Secondary Legislation Terminology
+
+  Secondary legislation is sometimes referred to as delegated legislation because, even though it is authorised
+  by an Act of Parliament, it is made by a body outside Parliament.
+  Historically, secondary legislation was referred to as statutory regulations and legislative instruments. It is
+  currently known as secondary legislation.
+  Secondary legislation has also been referred to more broadly as subsidiary legislation, subordinate
+  legislation, delegated legislation and regulations.
+  The New Zealand Legislation website includes an overview of secondary legislation. For more in-depth
+  authoritative information, refer to the Secondary Legislation chapter inParliamentary Practice in New
+  Zealand.1
+
+1. David Wilson and David Bagnall (eds) McGee Parliamentary Practice in New Zealand (5th ed, Clerk of the House of
+  Representatives, Wellington, 2023) at ch 41.
+     FINDING SECONDARY LEGISLATION | 54
+
+22.
+
+FINDING SECONDARY LEGISLATION
+
+   Tracey Thomas and Theresa Buller
+
+To find current New Zealand secondary legislation, the best online source is the official New Zealand
+Legislation website. A useful method is to locate the relevant empowering Act (this is usually the principal
+Act) and use the Secondary Legislation tab for a list of secondary legislation made under that Act, along
+with its empowering provision and administering agency.
+
+Some secondary legislation is published on the website of the administering department, ministry or other
+agency responsible for the secondary legislation, in the New Zealand Gazette or not published at all.
+Accordingly, there is not yet a single, authoritative source for all New Zealand's secondary legislation.
+
+A common legal-research task is to find an Order in Council, which is a type of secondary legislation. Some
+Acts include a commencement section stating that the Act or specific parts of the Act will come into force
+on a date appointed by the Governor-General by an Order in Council. Orders in Council can be found on
+the New Zealand Legislation website.
+
+Secondary legislation is also available on the subscription legal databases Westlaw New Zealand, Lexis
+Advance and CCH iKnowConnect. As with Acts, these subscription databases each have their own
+commentary (books, journal articles and online commentaries, along with additional functionality
+features) that may discuss the secondary legislation. It may be useful to check and compare each of the
+subscription databases.
+
+Historical Secondary Legislation
+
+A free website useful for locating historical original "as made" New Zealand secondary legislation is NZLII.
+There are several digitised collections of secondary legislation available through NZLII, including:
+
+  · New Zealand Regulations;
+  · New Zealand Regulations as made (1936-2007);
+  · New Zealand Repealed Regulations.
+55 | BILLS
+
+23.
+
+BILLS
+
+   Tracey Thomas and Theresa Buller
+
+It is important to understand how legislation is made. This knowledge will assist you in research tasks, such
+as:
+
+  · tracking proposed legislation prior to enactment;
+  · locating parliamentary documents needed in statutory interpretation;
+  · finding the source of ideas and debate on specific topics.
+
+From a Bill to an Act
+
+A proposed Act is called a Bill. Each Bill is debated and voted on (or "read") by MPs in the House
+of Representatives on three occasions. The process is sometimes shorter if it is done under urgency in
+Parliament.
+
+Although they all follow the same process to become an Act, Bills are labelled as one of the following:
+
+  · Government Bill - proposed legislation that furthers the Government's legislative agenda. Often this
+      is what the political party in government has campaigned on during an election cycle.
+
+  · Member's Bill - proposed legislation from any Member of Parliament (MP) who is not a
+      Government minister. Members' Bills are a way in which:
+          opposition parties can propose law changes while in opposition;
+          any MP (whether in Government or opposition) can propose changes to legislation (often on
+            controversial topics, such as the legislation on same-sex marriage or on assisted dying).
+
+  · Local Bill - proposed legislation related to a specific geographical area.
+  · Private Bill - proposed legislation to benefit a specific person or group; these are rare.
+
+After being introduced into Parliament, an individual Bill is read and voted on three times before it can
+become an Act. At the Committee Stage (ie, between 2nd and 3rd readings) any MP can propose to amend
+or divide a Bill by lodging an Amendment Paper (AP; previously called a Supplementary Order Paper
+(SOP)), which details the proposed changes.
+                                                                                                                                                     BILLS | 56
+
+  Each Bill, once it is introduced in Parliament, is given an individual Bill number1 and if changes are made
+  to the Bill, a new version may be printed.
+  The Bill number is printed on the footer of the front page of the Bill and consists of two parts. The second
+  part of the number is the bar number; it is separated from the first number by a long dash or bar and tells
+  you which version of the Bill you are engaging with. The bar number may be a -1, -2 or -3 .2 Note that
+  Bills may be divided into two or more Bills at any stage.3
+  Changes to Bills are detailed in Amendment Papers (APs).
+  The legislative process for a Bill to become an Act is:4
+
+    1. Introduction, First Reading, debate and vote in the House of Representatives
+
+          If the Bill passes the First Reading, it is sent to a select committee for examination, submissions
+         and improvements.
+
+    2. Second Reading, debate and vote in the House of Representatives. This includes a vote on any
+        amendments to the Bill recommended by the select committee.
+
+          If the Bill passes the Second Reading, it is sent to the Committee of the whole House for
+         consideration and debate.
+
+    3. Third Reading and vote in the House of Representatives
+
+          If the Bill passes the Third Reading, the Bill is then signed by the Sovereign's representative in
+         New Zealand, the Governor-General, and receives Royal Assent (enacted) and becomes an Act and
+         is law.
+  The diagram below shows this process in further detail.
+
+1. The first Bill of each parliamentary session is numbered 1 and then each new Bill is given the next number in the sequence until
+  the end of that parliamentary session. Any Bill that is passed over into a new parliamentary session retains its number from the
+  previous parliamentary session.
+
+2. Spoken of as bar one, bar two, bar three versions of the Bill.
+3. If a Bill is divided, it will retain its original number but will also have a letter after the bar number, for example 364-3D.
+4. If a Bill progresses under urgency, then one or more of these steps may be skipped, including the select committee stage.
+57 | BILLS
+
+      How a Bill Becomes Law. All Rights Reserved. Reproduced with permission.
+                                                                                                                                                      BILLS | 58
+
+  For in-depth, authoritative information about the legislative process, see Chapters 34-40 in Parliamentary
+  Practice in New Zealand.5
+
+5. David Wilson and David Bagnall (eds) McGee Parliamentary Practice in New Zealand (5th ed, Clerk of the House of
+  Representatives, Wellington, 2023) at chs 34-40.
+59 | FINDING BILLS
+
+24.
+
+FINDING BILLS
+
+   Tracey Thomas and Theresa Buller
+
+Legal research may include researching the Bill related to an Act to aid in statutory interpretation. This
+type of legal research is often referred to as a legislative history and is typically motivated by the need to
+discover the source and influence of wording that exists in an Act. The legislative history may shine a light
+on the context and options discussed at the time the legislation was passed.
+
+All current Bills (from 2002 on) are available from the New Zealand Parliament website.
+
+Current Bills
+
+On the New Zealand Parliament website, each Bill has its own web page that provides links to each copy
+of the Bill and any Amendment Papers (formerly called Supplementary Order Papers), along with links
+to Hansard (a transcript of the daily parliamentary debates), submissions to the select committee and any
+department reports discussing the Bill. In addition, Bills (from 2008 on) can also be found on the New
+Zealand Legislation website.
+
+As a Bill progresses through the legislative process, different versions of the Bill contain information to help
+you understand the intent of Parliament in creating or amending legislation. This information is contained
+within the text of the Bill itself and also in:
+
+  · the explanatory note in the -1 version of a Bill, which sets out the policy the Bill seeks to achieve;
+  · the select committee report in the -2 version of a Bill, which includes the recommendations and
+
+      amendments agreed upon by the select committee;
+  · the Committee of the whole House -3 version of the Bill, which includes any amendments made
+
+      during the Committee of the whole House debate of the Bill in Parliament.
+
+A Bill contains numbered clauses; these are referred to as sections once the Bill is enacted.
+
+Other material, such as Hansard (a transcript of the daily Parliamentary debates), submissions to the select
+committee, legislative statements, disclosure statements, department reports and the Journals of the House
+of Representatives, can assist in tracing the history of a Bill, seeing the reasons for a Bill's proposal and
+understanding support for or against a Bill. Some of this material is linked to the Bill's web page on the
+Parliament website and other material can be found elsewhere on the Parliament website and on NZLII:
+                                                     FINDING BILLS | 60
+
+· Hansard (2023-);
+· Historical Hansard (1854-);
+· Legislative statements;
+· Disclosure statements;
+· Section 7 New Zealand Bill of Rights Act reports;
+· Journals of the House of Representatives.
+
+Terminated Bills
+
+A terminated Bill has failed to become an Act and refers to a Bill that has been defeated, discharged, vetoed,
+withdrawn or has lapsed.
+
+Historic Bills
+
+Historic Bills (prior to 2002) can be found on NZLII. There are several digitised collections of Bills
+available through NZLII, including:
+
+  · New Zealand Bills (1998-);
+  · New Zealand Historical Bills (1854-2008).
+
+Amendment Papers
+
+Amendment Papers (formerly Supplementary Order Papers) can be found on www.parliament.nz and
+www.legislation.govt.nz.
+
+There are several digitised collections of Historic Amendment Papers and Supplementary Order Papers
+available through NZLII, including:
+
+  · Amendment Papers (2022-);
+  · Supplementary Order Papers (2007-2023);
+  · Historical Supplementary Order Papers (1870-2007).
+61 | REVIEW QUIZ - LEGISLATION
+
+25.
+
+REVIEW QUIZ - LEGISLATION
+
+   Tracey Thomas and Theresa Buller
+
+Check Your Knowledge of Legislation Research
+
+Take the review quiz below to test your understanding of the content covered in this section.
+
+                   An interactive H5P element has been excluded from this version of the text. You can view it
+                   online here:
+        https://oercollective.caul.edu.au/essential-legal-research-skills-nz/?p=117#h5p-24
+                   SECONDARY SOURCES | 62
+
+PART V
+
+SECONDARY SOURCES
+   63 | INTRODUCTION TO SECONDARY SOURCES
+
+ 26.
+
+ INTRODUCTION TO SECONDARY
+ SOURCES
+
+     Kate Thompson and Melanie Lovich
+
+       Learning Outcomes
+
+       After reading this chapter you will be able to:
+            · identify different types of secondary sources needed for successful legal research;
+            · understand the authoritative hierarchy of secondary sources;
+            · understand the benefits and limitations of secondary sources;
+            · know how to find secondary sources for legal research.
+
+  Secondary sources are a useful starting point when researching an unfamiliar area of law or legal concept.
+  They broadly fall into two groups: commentary on the law and finding aids.1 This chapter will focus on the
+  former. Secondary sources provide background information, context, topic and concept overviews, expert
+  analysis and references to key primary sources. Although secondary sources are not authoritative versions
+  of the law, they are beneficial for developing your understanding of legal concepts. Examples of secondary
+  sources include:
+
+     · legal dictionaries and encyclopaedias;
+     · books;
+     · online commentaries (loose-leaf services);
+     · journal articles;
+     · government documents and law reform;
+     · newspaper articles, reports and some material found on websites, blogs and so forth.
+
+1. See Chapter 15, Using Case Citators.
+                              INTRODUCTION TO SECONDARY SOURCES | 64
+
+Evaluating Secondary Sources
+
+You are expected to use high-quality, reputable and scholarly information sources throughout your
+university law study. Consequently, it is important to critically evaluate secondary sources, especially web-
+based sources, to determine whether the information is credible and suitable for academic use. Currency,
+authority and jurisdiction are of particular relevance for law resources. As a general rule, published sources,
+such as books and journal articles, are the most reliable authority as they are written by experts from the
+judiciary, academia or the profession and have been peer-reviewed.
+   65 | DICTIONARIES AND ENCYCLOPAEDIAS
+
+ 27.
+
+ DICTIONARIES AND ENCYCLOPAEDIAS
+
+     Kate Thompson and Melanie Lovich
+
+ Legal Dictionaries
+
+  Legal dictionaries assist with clarifying the meaning of legal jargon and other terms and phrases. They may
+  provide references to legislative provisions defining the term or to cases that have considered the term. Legal
+  dictionaries can help you to:
+
+     · identify terms relevant to a particular area of law;
+     · understand specific legal meanings for everyday words;
+     · locate words and phrases defined in legislation or judicially interpreted in case law.
+  Your university may prescribe an official dictionary to use as part of your law studies. Use your university
+  library search to find other law dictionaries available in print or online, for example Peter Spiller's
+  Dictionary of New Zealand Law.1
+  The print edition is known as the New Zealand Law Dictionary.2
+  A high-quality, generic dictionary can be helpful too, such as the Oxford English Dictionary.3
+
+ Legal Encyclopaedias
+
+  Legal encyclopaedias contain more extensive information than dictionaries and provide:
+     · a concise introduction to the topic;
+     · key legislation and case references;
+     · links to relevant legislation, judgments and secondary sources from other key jurisdictions.
+
+1. Peter Spiller Dictionary of New Zealand Law (eBook ed, LexisNexis, 2019-).
+2. Peter Spiller New Zealand Law Dictionary (10th ed, LexisNexis, Wellington, 2022).
+3. Michael Proffitt (ed) Oxford English Dictionary (3rd ed, eBook ed, Oxford University Press, 2000-).
+                                                                                                   DICTIONARIES AND ENCYCLOPAEDIAS | 66
+
+They are a useful starting point when researching an unfamiliar area of law or legal topic. The table of
+contents is organised by title (field of law or subject) and then structured into chapters > subheadings >
+[paragraphs]. Encyclopaedias provide basic overview information for legal concepts, including references
+to key legislative provisions and case law in the notes area beneath each paragraph. To find information
+in legal encyclopaedias, browse through the table of contents topics using the + symbols, search across an
+entire encyclopaedia by keywords or limit a search to within headings/titles only.
+
+The legal encyclopaedia for Aotearoa New Zealand is the Laws of New Zealand, published by LexisNexis
+and available on the Lexis Advance platform.
+67 | BOOKS
+
+28.
+
+BOOKS
+
+   Kate Thompson and Melanie Lovich
+
+Books are an invaluable source of authoritative information for legal research. Books can provide you with:
+
+  · an in-depth understanding of a particular practice area, topic or concept;
+  · leading case references;
+  · key legislation references;
+  · references to other secondary sources, particularly journal articles and books.
+
+Use your university library search to find books by title, author or topic. Use filters, such as publication
+date, to refine a large results list or use the advanced-search options. Consider currency and jurisdiction
+when selecting books to use. For example, while current texts are important for current research, historical
+research involves finding a book written closer to the time you are researching. Similarly, if the book is
+several years old and on a topic of law that is volatile and prone to change, ensure you use other sources of
+law, such as journal articles and online commentaries to identify more recent changes.
+
+Some titles are available electronically as eBooks; however, publishers may set restrictions on the number of
+simultaneous users and the permitted amount of printing and downloading.
+     ONLINE COMMENTARIES (LOOSELEAF SERVICES) | 68
+
+29.
+
+ONLINE COMMENTARIES (LOOSELEAF
+SERVICES)
+
+   Kate Thompson and Melanie Lovich
+
+Online commentaries are publications that provide up-to-date analysis of statute law, written by legal
+practitioners who specialise in a particular area of law. They are also known as loose-leafs and typically
+include:
+
+  · legislative extracts;
+  · annotations to legislation;
+  · recent case law;
+  · commentary (an analysis of the law written in a similar style to a textbook).
+
+       The term "loose-leaf" refers to the traditional print versions of these sources, which consist
+       of loose leaves (pages) of paper in a folder or ring binder. This format enables regular
+       updating throughout the year by removing, replacing or adding individual "leaves" to reflect
+       changes in the law. Consequently, they are organised and referenced by paragraph numbers
+       rather than by page numbers. Most law libraries subscribe to the online version of these,
+       commonly called "commentaries", as their up-to-date nature suits an online environment.
+
+The benefits of commentaries include:
+
+  · currency - updated to reflect new developments;
+  · insight - contains expert analysis of legal concepts and legislative provisions;
+  · comprehensive coverage -
+
+          assemble important information relevant to a field of law within the one product;
+          include relevant legislation and key case law in full-text or extract format (or link to these
+
+            primary sources).
+69 | ONLINE COMMENTARIES (LOOSELEAF SERVICES)
+
+Using Online Commentaries
+
+Check your university library for access to online commentaries. Access may only be via subscription law
+databases. Online commentaries are regularly updated so they are a good source to check for any changes
+to the law in a particular practice area. They are particularly useful for problem questions involving factual
+scenarios; for example, for explanations of the elements of criminal offences, an outline of the effects of
+specific contractual terms or discussion of the courts' interpretation or application of complex sections of
+legislation.
+
+To use online commentaries, browse the table of contents or index as a starting point and search across
+these products using keywords. Online research using the main law databases in New Zealand may provide
+direct linking to relevant commentary on that specific section of law.
+                                     JOURNAL ARTICLES | 70
+
+30.
+
+JOURNAL ARTICLES
+
+   Kate Thompson and Melanie Lovich
+
+Journal articles provide a topical discussion of legal issues, cases and legislative developments. They are
+published in journals, which may specialise in a jurisdiction, such as the New Zealand Law Journal, or
+in a legal subject, such as the New Zealand Business Law Quarterly. Journals are published in regular
+instalments, with each issue containing several individual articles. There are hundreds of law journals
+varying by jurisdiction, subject focus and audience.
+
+Practitioner Journals
+
+Some journals are written for practitioners and are referred to as "practitioner journals". These can be
+useful for understanding how a legal issue is managed from a practical perspective. They are usually short
+pieces, perhaps with glossy pictures and with minimal references. Law Talk, published by the New Zealand
+Law Society, is a good high-quality example.
+
+Scholarly or Academic Journals
+
+Scholarly law-journal articles are written by legal experts (academics, researchers, members of the judiciary
+or legal profession) for an academic audience. They are usually longer pieces of research, backed up by
+theory and have numerous references. They also go through a process of peer review.
+
+Although scholarly journal articles can provide authoritative, high-quality and in-depth coverage of a legal
+issue, they may not always reflect current law. It is important to pay special attention to the date of the
+article - is it current?
+
+Peer Review
+
+At law school, a requirement for research assignments may be to use information from academic journal
+articles that are peer-reviewed. Peer review is a process in which other scholars in the same field (peers)
+evaluate the quality of an article and make suggestions for revision prior to publication. This is usually
+done anonymously in an attempt to avoid bias. The aim is to ensure that the work is rigorous, coherent and
+based on sound research.
+71 | JOURNAL ARTICLES
+
+Finding Known Journal Articles From a Citation
+
+Correctly identifying the different parts of a journal citation is the first step to finding a journal article
+Sometimes a journal article can be found simply by copying and pasting the article title into a search engine
+or library database, but if that does not work, other strategies are required. Another good method to find
+the article is to find the full journal title first and then search within the journal for the article. So being able
+to identify and decode the journal title abbreviation is important.
+The illustration below shows the different elements of the citation: M Roberts "Continuing
+representations and agency" (2014) 20 NZBLQ 73. The elements are highlighted to show the article title
+(Continuing representations and agency) and the journal title abbreviation (NZBLQ). NZBLQ is the
+abbreviation for the New Zealand Business Law Quarterly.
+
+Anatomy of an Article Citation by Kate Thompson. CC-BY-NC 4.0
+
+Steps to Find a Journal Article
+
+ 1. Decode the journal title by using the Cardiff Index to Legal Abbreviations.
+ 2. Take the full title (eg, New Zealand Business Law Quarterly) and paste it into the library catalogue.
+ 3. Follow the prompts to the hardcopy version that might be on the shelves or click the link to the
+
+      electronic journal.
+ 4. Look at your citation again to find the appropriate year or volume and then the start page.
+
+The majority of legal journal articles are available online in databases, such as Lexis Advance, Westlaw New
+Zealand or HeinOnline. If journal articles cannot be located using the steps above, try these legal databases.
+Note that publishers will only host the journals they publish in their own databases, so if the article cannot
+be found in one database, try another. Contact a law librarian for further guidance if required.
+                                     GOVERNMENT DOCUMENTS | 72
+
+31.
+
+GOVERNMENT DOCUMENTS
+
+   Kate Thompson and Melanie Lovich
+
+Law Reform Materials
+
+The New Zealand Law Commission | Te Aka Matua o te Ture is an independent body whose function
+is to review the law and make recommendations to the Government to improve it.1 "It has the power to
+initiate proposals for the review, reform or development of any aspect of the law of New Zealand."2
+
+The Law Commission's website is searchable and contains reports and publications since 1987. NZLII
+also contains a New Zealand Law Reform Library, including historical materials dating from before the
+Law Commission was formed. In certain circumstances, law-reform materials along with the relevant
+parliamentary documents may be used to help interpret legislation.
+
+The Law Commission reports and study papers are a rich source of information. Their extensive research
+outputs include bibliographies, research in comparative jurisdictions and legal expert consultations. Some
+reports are now quite old, so consider currency when you consult them for your research.
+
+     Example of law reform in action
+
+     The Commission's report Company Law: Reform and Restatement (NZLC R9, 1989)
+     examined and reviewed the law relating to bodies incorporated under the Companies Act
+     1955 and reported on the form and content of a new Companies Act. Their
+     recommendations were implemented in the Companies Act 1993, the Receiverships Act 1993
+     and in amendments to the Property Law Act 1952 and the Companies Act 1955. In 2024, the
+
+1. Law Commission Act 1985, s 5.
+
+2. Geoffrey Palmer "Story: Law" in Te Ara: The Encyclopedia of New Zealand (eBook ed, Manat Taonga-Ministry for Culture
+  and Heritage, 2016) at 8.
+73 | GOVERNMENT DOCUMENTS
+
+       Minister of Justice asked the Commission to undertake a review of the Companies Act 1993
+       directors' duties and liabilities.
+
+Policy Documents
+
+Public policy documents such as reports, discussion papers and working papers may reference key
+legislation and statistical data and provide valuable background on matters relating to justice, social issues,
+international relations, government regulation and more. You may find policy documents on government
+and non-profit organisation websites. Many will have internal search engines to help you locate
+publications; alternatively, use a Google site search, for example "mental health" adoption site:govt.nz will
+only retrieve results regarding mental health and adoption from government departments in New Zealand.
+Government department websites always focus on the most up-to-date information available, but for
+researchers, looking at older policies can be a powerful way to understand decisions of the day. The
+Wayback Machine, from the Internet Archive, has been scraping and saving specific pages from the internet
+since the late 1990s and is an excellent tool to help locate older policy documents.
+                                     OTHER SOURCES | 74
+
+32.
+
+OTHER SOURCES
+
+   Kate Thompson and Melanie Lovich
+
+Depending on your assignment topic, your research may be enhanced by using non-legal sources. You may
+find supporting data or information in other disciplines, for example, criminology, politics, statistics or
+health science.
+
+News
+
+Newspaper articles, radio and media outlets report on and discuss the latest legal developments. Access
+news articles via your university library, news websites and archives, such as Google News or Papers Past.
+
+Company and Industry Information
+
+Use company reports and industry profiles to locate information on the legal industry, law firms and legal
+practice. This type of business and financial information also provides background information on clients
+and competitors and is generally available on company websites and via your university library's databases.
+
+Statistics
+
+Statistical data can help you learn more about geographic regions and the current economic and social
+climate. Stats NZ provides in-depth reports based on census data. Your university library can apply for
+bespoke data sets on your behalf. There are many international government and non-profit organisations
+that collect economic, industry and population data and make it freely available online. For example, the
+OECD (Organisation for Economic Co-operation and Development) and the World Bank.
+
+Theses and Dissertations
+
+Many law schools provide access to previously completed Honours dissertations. While you cannot
+completely rely on the quality of such documents, they can be an excellent source of ideas and references.
+Masters and PhD theses are more rigorously tested and are therefore a more reliable source of information.
+All universities in Aotearoa New Zealand have freely accessible institutional repositories containing theses.
+Many New Zealand theses and dissertations are also accessible via NZ Research.
+75 | OTHER SOURCES
+
+Repositories and Open Access
+
+Repositories1 are good sources of freely available, open-access materials, both current and historic. These
+kinds of materials are mainly found online. Below is a small sample available to all:
+
+Papers Past             New Zealand and Pacific historic newspapers, Appendix to the
+SSRN                    Journals of the House of Representatives (A to Js), books and
+University collections  magazines
+HathiTrust
+Internet Archive        Unpublished versions of research papers across many disciplines,
+                        including the Legal Scholarship Network
+
+                        Include theses, and academic research
+
+                        Enormous collection of scanned materials that are now out of
+                        copyright. Excellent source of legal material, including the New
+                        Zealand Parliamentary Debates (Hansard)
+
+                        A digital library providing free access to internet sites, music,
+                        software applications, audiovisual and print materials
+
+Archives New Zealand
+
+Government agencies create an immense volume of records, producing data, documents, correspondence
+and so forth. Once these records are assessed and it is determined that they have long-term value, they are
+transferred to Archives New Zealand and archived.
+
+Archives date from about 1840 to the recent past. They come in a wide range of formats, including written
+documents, photographs, moving images and sound.
+
+Types of records you can find include:
+
+  · Coroners' inquests into deaths;
+  · Land registrations;
+  · Police and prison records;
+  · Court records, including divorce and bankruptcy files and probated wills;
+  · Politicians' papers;
+  · Maps and plans for public works.
+
+Although the Archives New Zealand collections are large, only a small percentage of records created by the
+
+1. "Open-access repository" in Wikipedia (eBook ed, Wikimedia Foundation, 2025) <https://en.wikipedia.org/w/
+  index.php?title=Open-access_repository&oldid=1279658998>.
+                                                                                                                                  OTHER SOURCES | 76
+
+New Zealand government is held there. Most records have not been kept as they were not believed to be
+valuable or were lost or damaged by disaster or through human error.
+
+Records can be viewed in person from the four main centres - Auckland, Wellington, Christchurch and
+Dunedin - or online. Many records have been digitised and can be accessed online. Archives New Zealand
+is a very useful source for locating original documents beyond law. It is available to all members of the
+public.
+
+Parliamentary Library
+
+The Parliamentary Library is attached to the Parliament buildings in Wellington. It is a working library that
+provides research services for Members of Parliament and parliamentary staff. The library also responds to
+requests from the public for information on any aspect of Parliament.
+
+The Parliamentary Library publishes the Monthly Economic Review and research papers on a wide range of
+topics.
+
+Much of the more recent information is available online via the Parliament website; however, older material
+may be harder to obtain, so you may need to contact the Library and potentially prepare a visit in person
+to Wellington.
+77 | REVIEW QUIZ - SECONDARY SOURCES
+
+33.
+
+REVIEW QUIZ - SECONDARY SOURCES
+
+   Kate Thompson and Melanie Lovich
+
+Check Your Knowledge of Secondary-Sources Research
+
+Take the review quiz below to test your understanding of the content covered in this section.
+
+                   An interactive H5P element has been excluded from this version of the text. You can view it
+                   online here:
+        https://oercollective.caul.edu.au/essential-legal-research-skills-nz/?p=133#h5p-19
+                                                                                                         NEW ZEALAND LAW STYLE GUIDE | 78
+
+PART VI
+
+NEW ZEALAND LAW STYLE
+GUIDE
+79 | REFERENCING IN LEGAL WRITING
+
+34.
+
+REFERENCING IN LEGAL WRITING
+
+   Melanie Lovich and Theresa Buller
+
+     Learning Outcomes
+
+     After reading this chapter, you will be able to:
+          · understand the reasons for the citation of legal authorities in student work;
+          · apply specific rules of the New Zealand Law Style Guide to correctly cite legal material.
+
+Referencing is a key part of legal writing.
+It is important that you show your reader (and marker) where they can find the legal authorities, quotes,
+words and ideas you used to create your legal argument.
+Within your written work you need to:
+
+  · correctly attribute where you found the material you used as evidence for your argument;
+  · apply a consistent referencing style so that others can find the material you used.
+Not doing so can led to accusations of plagiarism and can affect your study or even your ability to practise
+law in the future.
+                                      NZLSG 3RD EDITION | 80
+
+35.
+
+NZLSG 3RD EDITION
+
+   Melanie Lovich and Theresa Buller
+
+The New Zealand Law Style Guide (NZLSG) is used by "the judiciary, the universities and the profession
+as the standard way to cite New Zealand law."1
+
+NZLSG is available as a printed book or online through both the New Zealand Law Foundation and the
+Australasian Legal Information Institute.
+
+NZLSG is New Zealand-centric and differs from styles used in other jurisdictions such as the Australian
+Guide to Legal Citation (AGLC),2 the Canadian Guide to Uniform Legal Citation,3 the Oxford University
+Standard for Citation of Legal Authorities4 (OSCOLA, used for citing United Kingdom material) and The
+Bluebook5 (used for citing material from the United States of America).
+
+Generally, you must follow the rules and format of the rules in NZLSG to cite material in your assignments
+(and later in the courts), although it can be helpful to consult the style guides of other jurisdictions
+to understand how material is cited in its originating jurisdiction. This chapter discusses aspects of the
+NZLSG that commonly attract questions from students of law. The NZLSG is the recognised authority
+for legal citation in New Zealand.
+
+1. Alice Coppard and others New Zealand Law Style Guide (3rd ed, Thomson Reuters, Wellington, 2018) at xiii.
+
+2. Melbourne University Law Review and Melbourne Journal of International Law Australian Guide to Legal Citation (4th ed,
+  Melbourne University Law Review Association, Melbourne, 2018).
+
+3. McGill Law Journal Canadian Guide to Uniform Legal Citation: Manuel canadien de la référence juridique (9th ed, Thomson
+  Reuters, Toronto, 2018).
+
+4. Faculty of Law, University of Oxford OSCOLA: Oxford University Standard for Citation of Legal Authorities (4th ed, Hart
+  Publishing, Oxford, 2012).
+
+5. Editors of the Colombia Law Review and others The Bluebook: A Uniform System of Citation (22nd ed, Harvard Law Review
+  Association, Cambridge (Mass), 2025).
+81 | NZLSG FOOTNOTES
+
+36.
+
+NZLSG FOOTNOTES
+
+   Melanie Lovich and Theresa Buller
+
+NZLSG is a footnoting style with a bibliography at the end rather than an in-text style such as APA.
+It means your writing will look like this:
+
+       This is my example.1 [where you use a footnote each and every time you use a quotation or idea from
+       a case, piece of legislation, book, journal article or other material to support your argument]
+       1 My citation is here. [then at the bottom of each page you enter the full reference of the source for
+       your reader to locate if needed]
+       Not
+       This is my example (Author, 2024). [this author-date style is an in-text citation style and is not used
+       in law]
+To insert a footnote within Microsoft Word:
+
+ 1. Select the References tab;
+ 2. Click Insert Footnote.
+
+At the end of your work you will need a bibliography listing all the material you have read, even if you have
+not included them in a footnote to support a proposition within your argument.
+Rule 2 of NZLSG provides guidance about the general format of footnotes.
+NZLSG covers many different types of sources. Begin by identifying the type of source you need to
+reference and then locate the associated rule in NZLSG's contents or index. Further information on how
+to cite specific sources is listed on the following pages.
+                                             CITING BOOKS AND CHAPTERS IN BOOKS | 82
+
+37.
+
+CITING BOOKS AND CHAPTERS IN BOOKS
+
+   Melanie Lovich and Theresa Buller
+
+When citing a book, you need to determine first:
+
+  · Is the entire book written by one author or several authors in which each author has contributed to
+      the writing of the whole book?
+
+  · Is each chapter written by an individual author or several authors?
+
+Books in Which One Author or Several Authors Have
+Written the Whole Book
+
+If the whole book is written by one author or by several authors in which each author has contributed to
+the writing of the whole book, you need to use rule 6.1 and include the following information:
+
+  · name of the author or authors as written on the book;
+  · title of the book, in italics;
+  · the edition of the book if it is the second or later edition;
+  · the publisher of the book;
+  · the place where the book was published;
+  · the year the book was published.
+
+              Format for Citing Books With One Author
+
+     Author   Title                          Edition Publisher Place of Publication  Date of
+                                             (2nd ed, Brookers, Wellington,          Publication
+     Peter    The Disputes Tribunals of New
+     Spiller  Zealand                                                                2003).
+
+     Example: Peter Spiller The Disputes Tribunals of New Zealand (2nd ed, Brookers, Wellington,
+     2003).
+83 | CITING BOOKS AND CHAPTERS IN BOOKS
+
+You can find most of the information to cite a book from the book itself - look at the first few pages to find
+the publishing information - or from your institution's library catalogue.
+
+Note that all books - whether you access them in print or electronically - should be cited using rule 6.1
+unless they have only been published electronically with no equivalent print version (rule 6.1.9(b)). This
+occurs rarely with legal texts.
+
+Authors' names
+
+In the example above, the book had one author, but sometimes there is more than one author who has
+contributed to the writing of the whole book. How you cite them depends on the number of authors. Note
+that in NZLSG authors are cited in the order first name then last name, eg Peter Spiller rather than Spiller,
+P. If an author uses their initials rather than their first name, use what is written on the book. In addition,
+unless an author is a Law Lord or a Justice of the Supreme Court of the United Kingdom (and referred to
+as a Lord or Lady), omit any honorifics such as Dr, Professor, Justice, Judge or titles such as "the Hon" (see
+rules 1.1.6 and 6.1.2(d)).
+
+If you have more than one author (for example when one authorship team has written the entire book),
+follow rule 6.1.2 and cite authors as follows:
+
+       two authors - first name last name and first name last name, eg
+
+               Elizabeth Toomey and Toni Collins
+
+       three authors - first name last name, first name last name and first name last name , eg
+
+               Elizabeth Toomey, Toni Collins and Adrienne Paul
+
+       if there are four or more authors, provide the first-listed author followed by "and others", eg
+
+               Elizabeth Toomey and others
+
+Format for Citing Books With Two or Three Authors
+
+Authors          Title               Edition Publisher  Place of Date of
+                                                        Publication Publication
+Geoffrey Palmer  Bridled Power: New
+and Matthew      Zealand Government  (3rd ed, Oxford University Press, Auckland, 1997).
+Palmer           under MMP
+                                                                                      CITING BOOKS AND CHAPTERS IN BOOKS | 84
+
+Example: Geoffrey Palmer and Matthew Palmer Bridled Power: New Zealand Government
+under MMP (3rd ed, Oxford University Press, Auckland, 1997).
+
+Format for Citing Books With More Than Three Authors
+
+Authors          Title                       Edition Publisher   Place of Publication Date of Publication
+                                             (3rd ed, Brookers,  Wellington, 2014).
+Richard Mahoney  The Evidence Act 2006: Act
+and others       & Analysis
+
+Example: Richard Mahoney and others The Evidence Act 2006: Act & Analysis (3rd ed,
+Brookers, Wellington, 2014).
+
+Books in Which Each Chapter Has an Individual Named
+Author or Authors
+
+Sometimes each chapter within a book has a clearly named author or authors. This occurs when multiple
+authors contribute to a book that is compiled by an overall editor or editors. The editor or editors may also
+write their own chapter or chapters within the edited book.
+
+When citing a chapter within a book, cite both the individual chapter and the book in which it was
+published (so that your marker or reader can locate the chapter) using rule 6.2 and include the following
+information:
+
+  · name of the chapter author or authors;
+  · title of the chapter, in quotation marks;
+  · an acknowledgment that the chapter is published in a book with the use of "in";
+  · name of the editor or editors as written on the book, indicating their role with the use of (ed) or
+
+      (eds);
+  · title of the book, in italics;
+  · the edition of the book if it is the second or later edition;
+  · the publisher of the book;
+  · the place where the book was published;
+  · the year the book was published;
+85 | CITING BOOKS AND CHAPTERS IN BOOKS
+
+  · the page on which the chapter starts.
+
+           Format for Citing Book Chapters or Essays
+
+Author or  Title of Chapter or     Citation of Text                    Page on Which the
+Authors    Essay Followed by "in"                                      Chapter or Essay Begins
+                                   Elizabeth Toomey (ed) New Zealand
+Rod        "Cross Leases" in       Land Law (3rd ed, Thomson Reuters,  1136.
+Thomas                             Wellington, 2017)
+
+Example: Rod Thomas "Cross Leases" in Elizabeth Toomey (ed) New Zealand Land Law (3rd
+ed, Thomson Reuters, Wellington, 2017) 1136.
+                                      CITING CASES | 86
+
+38.
+
+CITING CASES
+
+   Melanie Lovich and Theresa Buller
+
+When citing a case, you will need to determine first:
+
+  · if your case has a neutral citation;
+  · if your case has been reported in a law report series.
+
+Rule 3 of NZLSG covers how to cite cases.
+
+Case citations include:
+
+  · the names of the parties involved;
+  · the year the case was heard (for neutral and unreported citations);
+  · the court the case was heard in;
+  · if it is a reported case: the year in which the case was reported, the volume, abbreviation of the law
+
+      report series and starting page number of your case.
+
+How you cite your case will depend on whether it has a neutral citation and whether it has been
+reported in a law report series.
+
+All cases have a unique citation. It is important that you include all the components within your citation to
+help your reader find the case you are referring to. This is especially important if your case has been heard
+multiple times or in multiple courts.
+
+If you are unsure whether your case has a neutral citation or whether it has been reported, use your citation
+or the information you have on your case to search within the legal databases and check the information
+available within the databases.
+
+If a Case Has a Neutral Citation and Has Not Been
+Reported in a Law Report Series
+
+When citing a case that has a neutral citation and has not been reported in a law report series, use the
+neutral citation to cite the case (rule 3.3).
+87 | CITING CASES
+
+Neutral citations were progressively introduced in New Zealand from 2005 onwards. They are a sequential
+numbering system used by each court to identify cases.
+
+A case that has a neutral citation and has not been reported in a law report series will include the following:
+
+  · party names, in italics;
+  · the year the case was decided, inside square [ ] brackets;
+  · the court identifier;
+  · the unique sequential number given to the case by the court.
+
+Format for Citing Cases With a Neutral Citation
+
+Case Name        Year    Court Identifier  Judgment Number
+Macken v Jervis  [2014]  NZHC              3408.
+
+Example: Macken v Jervis [2014] NZHC 3408.
+
+Macken v Jervis was heard by the High Court in 2014. It was the 3408th case issued by the
+High Court in 2014. This case was never reported in a law report series.
+
+If a Case Has a Neutral Citation and Has Also Been
+Reported in a Law Report Series
+
+If a case has a neutral citation, include both the neutral citation and the reported citation (rule 3.2). This
+indicates to your reader that there is something significant enough for the case to have been reported in
+a law report series. Before online databases existed, only reported cases could be accessed by lawyers (in
+books) and so only the most significant cases were reported. Despite wider access today in online databases,
+the significance of reporting cases continues.
+
+A case that has a neutral citation and has also been reported in a law report series will include the following:
+
+  · party names, in italics;
+  · the year the case was decided, inside square [ ] brackets;
+  · the court identifier;
+  · the unique sequential number given to the case by the court;
+  · the year the case was reported [this may be different from when it was heard by the court!];
+  · the volume number in which the case was reported;
+                                                                             CITING CASES | 88
+
+· the abbreviation of the law report series in which the case was reported;
+· the page on which the case starts.
+
+Format for Citing Cases With Both a Neutral Citation and a
+                           Reported Citation
+
+Case Name             Neutral Citation Year  Volume  Report                  Starting Page
+                                             Number  Series                  433.
+Regal Castings Ltd v
+Lightbody             [2008] NZSC 87, [2009] 2       NZLR
+
+Example: Regal Castings Ltd v Lightbody [2008] NZSC 87, [2009] 2 NZLR 433.
+
+Regal Castings Ltd v Lightbody was heard by the Supreme Court in 2008. It was the 87th
+case heard by the Supreme Court in 2008. Then it was reported in the New Zealand Law
+Reports in 2009. It was reported in volume two and this case starts on page 433.
+
+If a Case Does Not Have a Neutral Citation But Has Been
+Reported in a Law Report Series
+
+If a case does not have a neutral citation (likely if it was heard by the courts before the mid-2000s) but it
+was reported in a law report series, include only the reported citation (rule 3.2).
+
+A case that does not have a neutral citation but was reported in a law report series includes the following:
+
+  · party names, in italics;
+  · the year the case was reported [this may be different from when it was heard by the court!];
+  · the volume number in which the case was reported;
+  · the abbreviation of the law report series in which the case was reported;
+  · the page on which your case starts;
+  · a court identifier.
+
+Court identifiers are used when it is not clear from the reported citation which court the case was heard
+in. If you have a neutral citation, you do not need to identify the court as the court is clear from the court
+identifier within the neutral citation. A court identifier helps your reader to identify quickly which court
+your case was heard in and is helpful when there are multiple iterations of a case in multiple courts.
+89 | CITING CASES
+
+                   Format for Citing Cases With a Reported Citation
+
+Case Name             Year Volume Number  Report Series  Starting Page  Court
+Fitzgerald v Muldoon  [1976] 2            NZLR           615            Identifier
+
+                                                                        (SC).
+
+Example: Fitzgerald v Muldoon [1976] 2 NZLR 615 (SC).
+
+Fitzgerald v Muldoon is too early to have a neutral citation (it was heard by the then
+Supreme Court, now the High Court, in 1976) but it was reported in volume 2 of the New
+Zealand Law Reports in the same year, starting at page 615.
+
+If a Case Does Not Have a Neutral Citation and Was
+Never Reported in a Law Report Series
+
+Finally, if a case does not have a neutral citation and was never reported in a law report series, cite it as an
+unreported judgment using rule 3.4.
+
+A case that does not have a neutral citation and is not reported in a law report series includes the following:
+
+  · party names, in italics;
+  · the court abbreviation;
+  · the registry location in which the case was heard (for cases in the High Court and below);
+  · the file number of the case;
+  · the date of the judgment.
+
+For example, the case Potts v Anderson was heard in the High Court in Whanganui and the judgment was
+delivered on the 5th April 2005. The courts have numbered it (No 1) to differentiate another instance of
+the same parties with the same file number (CIV-2003-483-304).
+                                                                   CITING CASES | 90
+
+Format for Citing Cases With an Unreported Citation
+
+Case Name                Court         Registry File Number        Date of Judgment
+Potts v Anderson (No 1)  Abbreviation  Wanganui CIV-2003-483-304,  5 April 2005.
+
+                         HC
+
+Example: Potts v Anderson (No 1) HC Wanganui CIV-2003-483-304, 5 April 2005.
+
+Note: the spelling of Whanganui matches the name of Registry as recorded on the
+judgment.
+
+Brackets
+
+Case citations may use round ( ) or square [ ] brackets around the date. The shape of the brackets in a case
+citation is very important and can be a clue to help you find your case.
+
+Reported cases can use round brackets to show the date on which the case was decided but that the date is
+not a key piece of information that you need in finding the case using the case citation. This usually occurs
+when law report volumes include cases over a number of years or if the volume numbers increase over time
+rather than resetting to volume 1 each year.
+
+More frequently, square brackets are used to show the year in which the case was published in a law report
+and that the date is a key piece of information to help find the case using the case citation. Square brackets
+are also an indication that the law report series is primarily organised by year with individual volume
+numbers restarting from 1 each year.
+
+Neutral citations also use square brackets to show the year in which the case was decided. This may be
+confusing at first; however, other elements of the neutral citation should readily differentiate it from a
+reported citation.
+
+NZLSG gives more guidance on whether to use round or square brackets at rule 3.2.3(a).
+91 | CITING STATUTES AND SECONDARY LEGISLATION
+
+39.
+
+CITING STATUTES AND SECONDARY
+LEGISLATION
+
+   Melanie Lovich and Theresa Buller
+
+When citing legislation, you will need to determine first:
+  · whether you wish to cite an Act or a particular section or sections of an Act;
+  · whether you wish to cite a piece of secondary legislation or a particular regulation, rule or clause
+      within the piece of secondary legislation.
+
+When citing New Zealand statutes and secondary legislation, follow rule 4.
+
+Citing Statutes in Footnotes
+
+When citing statutes, follow rule 4.1.
+
+Citing a whole Act
+
+When citing an Act, include the following information:
+  · name of the Act;
+  · the year the Act was enacted.
+
+                  Format for Citing Acts
+
+Name of the Act                  Year the Act Was Enacted
+Constitution Act                 1986.
+
+Example: Constitution Act 1986.
+                                                                                   CITING STATUTES AND SECONDARY LEGISLATION | 92
+
+Citing a section or sections of an Act
+
+When citing a section or sections of an Act, include the following information:
+
+  · name of the Act;
+  · the year the Act was enacted;
+  · the section number or numbers [section is abbreviated to s - other abbreviations such as part are
+
+      listed at rule 4.1(d)].
+
+                  Format for Citing Sections of an Act
+
+Name of the Act   Year the Act Was Enacted  Section (Pinpoint Reference)
+Constitution Act  1986,                     s 16.
+
+Example: Constitution Act 1986, s 16.
+
+If you want to cite sequential sections, indicate the first and last sections in your citation. For example,
+when citing ss 16 through 18 of the Constitution Act, note the first (16) and last (18) sections and link
+them with an en dash (-).
+
+       Constitution Act 1986, ss 16-18.
+If you want to cite non-sequential sections, include each section number. For example, when citing ss 6 and
+10 of the Constitution Act, note both sections and use a comma to indicate they are non-sequential.
+
+       Constitution Act 1986, ss 6, 10.
+
+Citing Secondary Legislation in Footnotes
+
+Secondary legislation includes:
+
+  · Regulations;
+  · Rules;
+  · Orders;
+  · Instruments in their own right.
+
+When citing secondary legislation, follow rule 4.3 and include the following information:
+93 | CITING STATUTES AND SECONDARY LEGISLATION
+
+  · name of the regulation, rule, order or instrument;
+  · the year the regulation, rule, order or instrument was enacted;
+  · the regulation number or numbers [regulation is abbreviated to r - other abbreviations such as part
+
+      are listed at rule 4.1(d)].
+
+                  Format for Citing Secondary Legislation
+
+Title             Year the Legislation Was Enacted  Pinpoint Reference (If Required)
+High Court Rules  2016,                             r 1.16
+
+Example: High Court Rules 2016, r 1.16.
+
+Citing Statutes Within Your Text
+
+When citing legislation or secondary legislation within the main text, you can give a full reference to the
+statute or secondary legislation. Do not include a footnote reference as described above if the title and the
+year the Act was enacted are already included in the text. A footnote may be needed, however, if you are
+referring to a particular section, sections or regulation.
+
+See rule 2.3.1(a)(ii) for an example of how to cite an Act within your text. This same example applies to
+citing secondary legislation within your text.
+                                      CITING JOURNAL ARTICLES | 94
+
+40.
+
+CITING JOURNAL ARTICLES
+
+   Melanie Lovich and Theresa Buller
+
+Scholarly and practitioner journal articles are cited using rule 6.4 of NZLSG. You do not need to indicate
+whether you are citing an online or print version of a journal article.
+
+Citing journal articles
+
+When citing a journal article include the following information:
+
+  · name of the author or authors as written on the journal article;
+  · title of the journal article;
+
+          the article title should be in quotation marks and should follow the formatting of the journal
+            article title - italicise any case names or book titles as in the original journal article.
+
+  · the year the journal article was published;
+          the year in round brackets unless the year is used as the volume number (which happens
+            infrequently), then in square brackets - see rule 6.4.4;
+
+  · the volume of the journal in which the article was published;
+          some journals do not have volume numbers, particularly if one volume is published each year.
+
+  · the issue number of the journal volume is usually omitted as redundant;
+          most journals number pages consecutively throughout each volume's issues, and so the issue
+            number is redundant. For example, the first issue starts with page 1 and the final page is page
+            200, then the second issue starts with page 201 and so on throughout the volume.
+          if each issue of a volume starts with page number 1, however, include the issue number
+            alongside the volume number.
+
+  · the abbreviation of the journal title;
+          generally you will find this on the article itself (check the second or third page), but if not, use
+            the Cardiff Index to Legal Abbreviations to locate the abbreviation. The NZLSG does not use
+            punctuation for abbreviations, eg NZULR rather than N.Z.U.L.R.
+
+  · the page on which the journal article starts.
+95 | CITING JOURNAL ARTICLES
+
+              Format for Citing Journal Articles
+
+Author or     Article Title          Year Volume Number  Journal       Starting
+Authors                              (2022) 10           Abbreviation  Page
+              "Digital wills in New
+Lindsey Dean  Zealand"                                   NZFLJ         179.
+Breach
+
+Example: Lindsey Dean Breach "Digital wills in New Zealand" (2022) 10 NZFLJ 179.
+     CITING ONLINE COMMENTARIES AND LEGAL ENCYCLOPAEDIAS | 96
+
+41.
+
+CITING ONLINE COMMENTARIES AND
+LEGAL ENCYCLOPAEDIAS
+
+   Melanie Lovich and Theresa Buller
+
+The two main legal subscription databases (Westlaw New Zealand and Lexis Advance) include online
+commentaries and legal encyclopaedias. Each type of source has a specific NZLSG rule.
+
+Citing Online Commentaries
+
+Online commentaries on Westlaw New Zealand and Lexis Advance are cited using rule 6.3 of NZLSG.
+
+Online commentaries are cited differently from websites (even though they are online) as they used to
+be accessible only in print, but now are integrated into the legal databases. Some firms and courts still
+subscribe to print editions, so your citation needs to identify that you are using the online edition unless
+you are using a print edition.
+
+To cite an online commentary, include the following information:
+
+  · name of the author or editor if identified by the publisher;
+          as with book citations, the role of editor is indicated with (ed) or (eds).
+          many online commentaries do not have a named author or editor, and for these the citation
+            begins with the title of the commentary.
+
+  · title of the online commentary in italics;
+  · that it is the online edition rather than print edition;
+  · who the publisher is;
+
+          the three major legal publishers in Aotearoa New Zealand (and their databases) are: Thomson
+            Reuters (Westlaw New Zealand), LexisNexis (Lexis Advance) and Wolters Kluwer (CCH
+            iKnowConnect).
+97 | CITING ONLINE COMMENTARIES AND LEGAL ENCYCLOPAEDIAS
+
+                    Format for Citing Online Commentaries
+
+Author / Editor     Title                Edition                  Publisher
+John Burrows (ed)   Land Law             (online ed,              Thomson Reuters).
+
+Example: John Burrows (ed) Land Law (online ed, Thomson Reuters).
+
+Citing a Legal Encyclopaedia
+
+Legal encyclopaedias are cited using rule 6.5, and you need to indicate whether you have used the online or
+print version. Online versions are updated much more frequently than the print, and so at times print and
+electronic are different - hence the need to identify which version you have used.
+
+The Laws of New Zealand is cited using rule 6.6 as it has a different updating system than other legal
+encyclopaedias. When citing the Laws of New Zealand, include the following information:
+
+  · the author as identified on the page you viewed;
+  · the title of the legal encyclopaedia;
+  · the topic (chapter) that you viewed;
+
+          the easiest way to find this is to look at the file path at the top of the page.
+
+                   Format for Citing the Laws of New Zealand
+
+Authors or Editors  Title                                 Topic Name  Online ed
+Charles Rickett     Laws of New Zealand                   Equity      (online ed).
+
+Example: Charles Rickett Laws of New Zealand Equity (online ed).
+     CITING REPORTS AND GOVERNMENT DOCUMENTS | 98
+
+42.
+
+CITING REPORTS AND GOVERNMENT
+DOCUMENTS
+
+   Melanie Lovich and Theresa Buller
+
+Papers and reports are cited using rule 5.4. Use this rule to cite government papers and reports as well as
+papers and reports from corporations and non-government organisations. These are often accessible online
+as PDF documents.
+
+Citing reports and Government documents
+
+To cite a paper or report, include the following information:
+
+  · the author or authors;
+          if the author is a corporation, government department or non-government organisation, use
+            their English name, eg
+            Ministry of Justice
+            Amnesty International.
+
+  · the title in italics;
+  · the publisher;
+
+          omit the name of the publisher if it is the same as the author.
+  · the official citation if there is one;
+  · the date of publication.
+
+When citing papers or reports, include all of the information that you have about the paper or report so
+that your reader can locate it if needed. If you are unable to find the author, official citation or date, omit
+that element from the citation.
+99 | CITING REPORTS AND GOVERNMENT DOCUMENTS
+
+             Format for Citing Papers and Reports
+
+Author or    Title                                    Publisher                Official      Date
+Editor                                                                         Citation      1989).
+             Censored: A Short History of Censorship  (Department of Internal
+Paul         in New Zealand                           Affairs                  Monograph
+Christoffel                                                                    Series No 12
+
+Example: Paul Christoffel Censored: A Short History of Censorship in New Zealand
+(Department of Internal Affairs, Monograph Series No 12, 1989).
+     CITING WEBSITES AND SOCIAL MEDIA | 100
+
+43.
+
+CITING WEBSITES AND SOCIAL MEDIA
+
+   Melanie Lovich and Theresa Buller
+
+Most legal research is conducted online. There are several rules within NZLSG for citing material that you
+find online.
+
+Unlike some other citation styles, NZLSG generally does not require you to identify whether you have
+viewed a source in print or online, although there are exceptions to this. Your citation tells the reader where
+you found the information for your argument, not how you accessed it.
+
+When citing online material, you need to determine whether the material is:
+
+  · a case, legislation, a book, journal article, legal encyclopedia or online commentary - specific rules in
+      NZLSG for each of these have been covered previously;
+
+  · a paper or report - rule 5.4;
+  · a website;
+  · social media, such as Facebook, X (formerly Twitter) or LinkedIn.
+
+Citing Websites
+
+If your online source is not covered by another specific rule (have a look at the contents and index pages to
+see all the NZLSG rules), cite it as a website using rule 7.1.
+
+To cite a website, include the following information:
+
+  · name of the author or authors;
+  · title of the web page or document;
+
+          enclose the title in quotation marks and follow the formatting of the title on the source. If the
+            title is in all capital letters, only capitalise the first letter of significant words.
+
+  · the date the document or web page was created within round brackets;
+  · the name of the website;
+  · the website address within angle brackets;
+
+          use the top level web address of the website rather than the exact page, eg www.doc.govt.nz
+            rather than www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/weka-pass-
+            historic-reserve.
+101 | CITING WEBSITES AND SOCIAL MEDIA
+
+Include all the information that you have about the web page or document. If you are unable to find the
+author or date, leave it out of the citation. If the name of the website is identical to the author's name, omit
+the website name from the citation.
+
+             Format for Citing Websites
+
+Authors      Document Title             Date         Website Name URL
+                                                                           <www.justice.govt.nz>.
+Ministry of  "Official Information Act  (8 December
+Justice      Requests"                  2023)
+
+Example: Ministry of Justice "Official Information Act Requests" (8 December 2023)
+<www.justice.govt.nz>.
+
+Citing Social Media
+
+The use of social-media sources such as X (formerly Twitter) is generally discouraged; however, rule 7.1.10
+offers some assistance for citing social media if required.
+
+To cite a social media, include the following information:
+
+  · name of the author or authors;
+  · social media handle in round brackets ( );
+  · the first sentence of the social media post in double quotation marks " ";
+  · the full URL.
+
+Do not give a time stamp as this will differ across time zones.
+                                CITING WEBSITES AND SOCIAL MEDIA | 102
+
+                Format for Citing Social Media
+
+Author/s        Twitter handle  First sentence of the social media  URL
+Stephen Clarke                  post
+                                                                    <https://x.com/
+                (@StephenClarkeNZ) "Are You Being Served?"          StephenClarkeNZ/
+                                                                    status/
+                                                                    1795650085470318677>.
+
+Example: Stephen Clarke (@StephenClarkeNZ) "Are You Being Served?" <https://x.com/
+StephenClarkeNZ/status/1795650085470318677>.
+103 | SUBSEQUENT REFERENCES
+
+44.
+
+SUBSEQUENT REFERENCES
+
+   Melanie Lovich and Theresa Buller
+
+Let's now look at how you can cite material a second time within your writing.
+
+Generally your footnotes will be counted as part of your word count, and writing a reference in full every
+time would use a significant portion of this. Fortunately, there is a rule in NZLSG for this situation! Rule
+2.3 explains how to cite a reference a second or subsequent time within your writing. For university work
+use the general style explained in rule 2.3.1(a).
+
+The principle of rule 2.3.1(a) is:
+
+  · The first time you cite a source, give the full citation with a pinpoint citation (if needed).
+  · If you cite the source in the next footnote, just use the pinpoint citation as your reader will infer it is
+
+      the same source.
+  · If you cite the source again later in your work, give a cross-reference to the first time you have cited
+
+      the source rather than giving the full citation a second or subsequent time. A cross-reference is
+      formatted as:
+      party names/author surname, above n number of the first footnote of the source, pinpoint citation.
+
+The document linked below explains rule 2.3.1(a) further and includes a number of different examples -
+including how to cite legislation a second and subsequent time.
+
+https://canterbury.libguides.com/ld.php?content_id=48132058
+
+       For example, if I want to cite Regal Castings Ltd v Lightbody multiple times within my
+       writing. The first time I cite Regal Castings Ltd v Lightbody the footnote has the full citation
+       for the case (see 1 below). If I want to cite this case again immediately afterwards, I just
+       include the pinpoint citation as my reader can infer I am talking about the same source (see
+       2 below). Then if later in my writing I want to refer to Regal Castings Ltd v Lightbody again, I
+       can use the `above n' cross-reference to direct my reader to the full citation earlier in my
+       work (see 5 below).
+                                                                                                       SUBSEQUENT REFERENCES | 104
+
+1 Regal Castings Ltd v Lightbody [2008] NZSC 87, [2009] 2 NZLR 433 at [14].
+2 At [20].
+...
+5 Regal Castings Ltd v Lightbody, above n 1, at [15].
+   105 | BIBLIOGRAPHIES
+
+ 45.
+
+ BIBLIOGRAPHIES
+
+     Melanie Lovich and Theresa Buller
+
+  Unless requested otherwise, include a bibliography at the end of your assignment. The bibliography should
+  begin on a new page and have the same formatting (font and spacing) as the rest of your assignment.
+  Appendix 7 of NZLSG gives an overview of what a bibliography should include:
+  "Bibliographies perform a different function to footnotes... A bibliography notes all the sources used in the
+  preparation of a piece, whether they are cited in the footnotes or not."1
+  Your bibliography needs to include:
+
+     · Every source you have cited in your footnotes (exclude any pinpoint citations in the bibliography);
+  and
+
+     · Every source you used in the preparation of your assignment, whether you cited them in your
+        footnotes or not;
+            This is a way to show your marker how widely you have read and the scope of your reading.
+            It is also a way to demonstrate that you have read key texts, cases or legislation even if you have
+              not cited them within your work.
+
+1. Alice Coppard and others New Zealand Law Style Guide (3rd ed, Thomson Reuters, Wellington, 2018) at appendix 7(V).
+                                      REFERENCING SOFTWARE | 106
+
+46.
+
+REFERENCING SOFTWARE
+
+   Melanie Lovich and Theresa Buller
+
+If you are doing a substantial piece of legal research, you may wish to use referencing software to help you
+manage your references and assist with formatting your citations.
+
+While referencing software can be a time-saver, it does require an investment in time to set up and learn
+its intricacies. It is also helpful to have a strong understanding of your chosen referencing style so you can
+identify any output errors from the referencing software. For these reasons, it is best to consider using
+referencing software only if you are doing a significant piece of legal research and writing, such as in
+Honours or postgraduate study.
+
+There are two main referencing software tools:
+
+ 1. EndNote is a subscription bibliographic management tool. Most New Zealand universities have a
+      subscription to EndNote and provide substantial EndNote support to their users. Note that in order
+      to format your citations in the NZLSG style, you will also need to download the NZLSG output
+      style from the University of Canterbury.1
+
+ 2. Zotero / JurisM is an open-source referencing tool. Juris-M is free reference management software
+      that is based on, but separate from, Zotero and is designed for legal researchers. The University of
+      Canterbury has created a specific Zotero style for the third edition of the NZLSG.2 In addition,
+      Victoria University of Wellington has guidance on the use of Zotero3 and JurisM.4
+
+1. You can download the NZLSG 3rd edition EndNote output style here: https://canterbury.libguides.com/endnote/endnote-for-
+  law
+
+2. You can download the NZLSG 3rd edition Zotero citation style here: https://canterbury.libguides.com/research/
+  findandmanageyourlit/zotero#s-lg-box-wrapper-26795792
+
+3. Victoria University of Wellington "Referencing and citing: Zotero" (21 June 2024) https://libguides.victoria.ac.nz/referencing-
+  citing/zotero
+
+4. Victoria University of Wellington "Referencing and citing: Juris-M" (21 June 2024) https://libguides.victoria.ac.nz/referencing-
+  citing/juris-m
+107 | REVIEW QUIZ - NZLSG
+
+47.
+
+REVIEW QUIZ - NZLSG
+
+   Melanie Lovich and Theresa Buller
+
+Check Your Knowledge of the NZLSG
+
+Take the review quiz below to test your understanding of the content covered in this section.
+
+                             An interactive H5P element has been excluded from this version of the text. You can view it
+                             online here:
+                             https://oercollective.caul.edu.au/essential-legal-research-skills-nz/?p=230#h5p-22
+                                                                                                       FURTHER READING SUGGESTIONS | 108
+
+FURTHER READING SUGGESTIONS
+
+The book titles below provide further reading suggestions to build on the content covered within this text.
+
+Legal Referencing
+
+Anita Stuhmcke Legal Referencing (5th ed, LexisNexis Butterworths, Chatswood (NSW), 2019).
+
+Legal Research
+
+Margaret Greville Legal Research and Writing in New Zealand (3rd ed, LexisNexis, Wellington, 2007).
+Mary-Rose Russell (ed) Legal Research in New Zealand (LexisNexis, Wellington, 2016).
+
+Legal Writing
+
+Nichola Corbett-Jarvis and Brendan Grigg Effective Legal Writing: A Practical Guide (3rd ed, LexisNexis
+Australia, Chatswood (NSW), 2021).
+Michael Meehan and Graham Tullock Grammar for Lawyers (3rd ed, LexisNexis Butterworths,
+Chatswood (NSW), 2013).
+Richard Scragg (ed) Legal Writing: A Complete Guide to a Career in Law (LexisNexis, Wellington, 2015).
+Steven Tudor and Stephanie Falconer A Guide to Writing in Law School (eBook ed, La Trobe University,
+2024).
+
+The New Zealand Legal System
+
+Grant Morris Law Alive: The New Zealand Legal System in Context (4th ed, Thomson Reuters,
+Wellington, 2019).
+Stephen Penk, Mary-Rose Russell and Jayden Houghton Aotearoa New Zealand Law: Foundations and
+Method (3rd ed, Thomson Reuters, Wellington, 2025).
+Jacinta Ruru, Paul Scott and Duncan Webb The Aotearoa New Zealand Legal System: Structures and
+Processes (7th ed, LexisNexis, Wellington 2022).
+109 | FURTHER READING SUGGESTIONS
+
+Richard Scragg The Principles of Legal Method in New Zealand (4th ed, Thomson Reuters, Wellington,
+2024).
+

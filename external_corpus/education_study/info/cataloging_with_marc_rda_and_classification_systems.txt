@@ -1,0 +1,4370 @@
+Cataloging with MARC,
+RDA, and Classification
+
+          Systems
+CATALOGING WITH
+MARC, RDA, AND
+CLASSIFICATION
+SYSTEMS
+
+REED HEPLER AND DAVID HORALEK
+
+College of Southern Idaho
+Twin Falls, Idaho
+Cataloging with MARC, RDA, and Classification Systems Copyright © 2023
+by College of Southern Idaho is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International License, except where otherwise
+noted.
+CONTENTS
+
+Introduction and Acknowledgements        1
+
+H5P Information                          4
+
+Part I. Overview of Cataloging
+and Copy Cataloging
+
+1. Cataloging Overview                   9
+
+Part II. Cataloging Schema
+
+2. MARC Records: Information, Examples,  27
+
+and Most Common Entries
+
+3. FRBR, WEMI and their Impact on MARC   43
+
+4. RDA Basics and Implications for MARC  54
+
+5. MARC 336, 337, and 338 Fields in RDA  58
+Part III. Call Numbers
+
+6. Understanding DDC Call Numbers             73
+
+7. Understanding LC Call (Catalog)            78
+
+Numbers
+
+8. Creating Call Numbers using Dewey          87
+
+Decimal Classification
+
+9. Creating Cutters using the Library of      92
+
+Congress Classification System
+
+Part IV. Classification Website
+Aids
+
+10. Using OCLC Connexion                      103
+
+11. Using WebDewey                            111
+
+12. Using Classification Web                  124
+
+13. Library of Congress Authorities: Subject  136
+
+Headings and Names
+Part V. Shelving
+
+14. Shelving, Shelflisting, and Work and  149
+
+Author Orders
+
+Part VI. Conclusion
+
+15. Conclusion                            159
+
+Appendix A: RDA to MARC 21 maps and       161
+
+workflows
+
+Appendix B: RDF and the Semantic Web      175
+
+Glossary                                  179
+                         INTRODUCTION AND ACKNOWLEDGEMENTS | 1
+
+INTRODUCTION AND
+ACKNOWLEDGEMENTS
+
+This book is the product of a desire to combine elements of the
+most important knowledge found in high-quality textbooks
+on the subject of Cataloging. Reed Hepler, the Digital
+Initiatives Librarian and Archivist at the College of Southern
+Idaho, used his knowledge along with that of the other
+librarians at CSI and combined it with information found
+throughout OER, Public Domain, and Open Access
+resources. The result is this publication on the details of
+efficient and accurate cataloging.
+
+   Special acknowledgement goes to Dave Horalek, the
+Reference Librarian at the College of Southern Idaho, and
+Miranda Buren, the Cataloger and Interlibrary Loan Specialist
+at the same institution, for sharing their expertise and
+viewpoints. Also, thanks to Teri Fattig, the former director of
+the CSI Library, for creating effective and thorough quizzes
+and other assessments.
+
+   Trainings created by the Library of Congress have been
+immensely helpful in creating exercises and adding more
+expertise than was had by the professionals at CSI. The reader
+is strongly encouraged to go through the trainings in the
+Catalogers Learning Workshop of the Library of Congress.
+2 | INTRODUCTION AND ACKNOWLEDGEMENTS
+
+As facilitators of the training on the Library of Congress
+Classification system, Janis L. Young of the Library of
+Congress and Daniel L. Joudrey of Simmons University merit
+boundless thanks for their concise, thorough, and accurate
+description of the system and the Classification Web program.
+
+   Special thanks and acknowledgement to OCLC for their
+support of the WebDewey and Connexion products and
+services. Connexion is the gold standard for MARC record
+searching, viewing, interpretation, and retention. WebDewey
+is the easiest service to use to access and navigate the Dewey
+Decimal System. It is also helpful in creating unique Dewey
+numbers when necessary. Not only have they created and
+maintained these products and services, OCLC also allowed
+me to include screenshots/screen captures in this book. All
+rights for these images are reserved by them. These images
+will allow you to visualize the processes you need to use when
+creating and interpreting MARC records and Dewey Decimal
+Numbers. They will also help you somewhat in your work
+with Library of Congress Call Numbers. Thanks to Michael
+Campbell and Heather Carlisle specifically for helping me
+navigate the permissions process for these images.
+
+   Connexion®, DDC®, Dewey®, Dewey Decimal
+Classification®, OCLC®, and WebDewey® are registered
+trademarks/service
+marks of OCLC. All rights are reserved by them.
+
+   Every time that you use this textbook, please contact Reed
+Hepler at rhepler@csi.edu and provide the course title and
+                        INTRODUCTION AND ACKNOWLEDGEMENTS | 3
+
+the number of students involved. If you are using it for
+professional development, please give the institution and
+approximately how many people are going to use it at your
+institution. If you are a lone researcher, worker, or student,
+feel free to reach out and contact Reed with any revisions,
+questions, or other comments. This allows him to monitor the
+impact of the textbook and its associated assessments.
+4 | H5P INFORMATION
+
+H5P INFORMATION
+
+This textbook and course includes interactive activities made
+possible through H5P (HTML 5 Package), which is a
+learning system created with the HTTP5 language. You will be
+able to interact with the knowledge you have gained in a variety
+of ways, including drag-and-drop, fill-in-the-blank, multiple
+choice, and other varieties. The goal of these activities is to help
+you internalize your knowledge. Depending on the results of
+your trials, you will receive certain feedback. You will only be
+graded upon your final score and you will always be allowed to
+retry these activities unless your instructor decides to disable
+that option. There are a few guidelines you should know about
+typing and interacting with these activities:
+
+ 1. Spelling is important. This is good training for
+      cataloging in general. There are options to allow for
+      imperfect spelling. I have disabled these options. As a
+      cataloger, you will be expected to be precise when
+      entering information in a catalog record and searching
+      for information and data. Spell things accurately
+
+ 2. When you come across an entry that has a long dash, put
+      it in a blank as two short dashes.
+
+ 3. When you see an ampersand, write it out as "and."
+                                                           H5P INFORMATION | 5
+
+4. Don't give up! Use the feedback that comes with your
+    answers to improve your score.
+
+5. If you are confused about an assignment or believe that
+    you got a wrong answer in error, click the "Confused"
+    button on the bottom right corner of the H5P window.
+6 | H5P INFORMATION
+             OVERVIEW OF CATALOGING AND COPY CATALOGING | 7
+
+PART I
+
+OVERVIEW OF
+CATALOGING AND
+COPY CATALOGING
+8 | OVERVIEW OF CATALOGING AND COPY CATALOGING
+                                                      CATALOGING OVERVIEW | 9
+
+1.
+
+CATALOGING OVERVIEW
+
+Cataloging is perhaps the most exciting subject you could
+read about. You probably howled with delight when you
+found you could register for this course, right? Just kidding. I
+know that even the mention of cataloging and tools used in the
+process are probably coma-inducing to most people. However,
+the specifics of cataloging are necessary for librarians,
+educators, and others to learn. If we know the details of how
+to catalog, we will know how to help others find the specific
+items they are looking for. If they are looking for groups of
+resources, we can help them find several options that fulfill
+certain criteria.
+
+   The goal of this textbook is to explain the details of
+cataloging in a concise, thorough manner. Interspersed with
+these explanations will be interactive assessments and
+experiences in which you can test and demonstrate your
+knowledge. The average textbook is around 50,000 to 100,000
+words. This textbook is around 25,000 words. Even when I
+update it or add sections, I want to remain in that range. At
+the most, I will change it to be 30,000 words. There is nothing
+more pointless than including excessive detail. This is an
+10 | CATALOGING OVERVIEW
+
+introductory textbook, and it provides links to more detailed
+sources of information if you would like to browse those.
+
+   Describing, categorizing, and classifying information
+resources is a detailed process that can involve up to three
+or four schemata at once. Essential to the best practices of
+cataloging is the use of controlled entries when creating
+records. This concept is called controlled vocabulary, and it
+influences virtually every decision of the cataloger.
+
+Use of Controlled Vocabularies
+
+One way to encourage good names for a given resource domain
+is to establish a controlled vocabulary. This is like a fixed
+or closed dictionary that includes the terms that can be used
+in a particular domain. A controlled vocabulary shrinks the
+number of words used and leaves behind a set of words with
+precisely defined meanings and rules governing their use. The
+results of using a set of specified terms include the elimination
+of undesirable associations and the removal of synonyms and
+homonyms. In other words, the possible entries in a field are
+streamlined to be as precise and thorough as possible while also
+avoiding any confusion.
+
+A controlled vocabulary is not simply a set of allowed words;
+it also includes their definitions and often specifies rules by
+which the vocabulary terms can be used and combined.
+Different domains can create specific controlled vocabularies
+                                                     CATALOGING OVERVIEW | 11
+
+for their own purposes, but the important thing is that the
+vocabulary be used consistently throughout that domain.
+
+For bibliographic resources important aspects of vocabulary
+control include determining the authoritative forms for author
+names, uniform titles of works, and the set of terms by which a
+particular subject will be known. In library science, the process
+of creating and maintaining these standard names and terms is
+known as authority control.
+
+When evaluating what name to use for an author, librarians
+typically look for the name form that is used most commonly
+across that author's body of work while conforming to rules
+for handling prefixes, suffixes and other name parts that often
+cause name variations. For example, a name like that
+of Johann Wolfgang von Goëthe might be alphabetized as
+both a "G" name and a "V" name, but using "G" is the
+authoritative way. "See" and "see also" references then map the
+variations to the authoritative name. The Library of Congress
+has specific names and formats used for the majority of
+authors. These are called Name Authorities and will be
+discussed later.
+
+Controlled Vocabularies and Content
+Rules
+
+Content rules are similar to controlled vocabularies because
+they also limit the possible values that can be used in
+12 | CATALOGING OVERVIEW
+
+descriptions. Instead of specifying a fixed set of values, content
+rules typically restrict descriptions by requiring them to be
+of a particular data type (integer, Boolean, Date, and so
+on). Possible values are constrained by logical expressions (e.g.,
+a value must be between 0 and 99) or regular expressions (e.g.,
+must be a string of length 5 that must begin with a number).
+Content rules like these are used to ensure valid descriptions
+when people enter them in web forms or other applications.
+
+Vocabulary Control as Dimensionality
+Reduction
+
+In most cases a controlled vocabulary is a subset of the natural
+or "uncontrolled" vocabulary, but sometimes it is a new set
+of invented terms. The goal of a controlled vocabulary is to
+reduce the number of descriptive terms assignable to a
+resource. Thus, controlled vocabulary and content rules bring
+about a phenomenon called "dimensionality reduction." In
+other words, they are used to help catalogers in reducing the
+number of components in a description. These facets of
+catalog records are driven by a plethora of pretentious-
+sounding processes, theories, and paradigms.
+
+These terms, and the processes of using them, might sound
+imposing. Indeed, they are computationally complex, but they
+all have the same simple concept at their core: the features or
+properties that describe a resource are often highly correlated.
+                                                     CATALOGING OVERVIEW | 13
+
+For example, a document that contains the word "religion"
+is more likely to contain the words "faith" and "ritual" than
+a document that does not. Similar correlations exist among
+the visual features used to describe images and the acoustic
+features that describe music. Dimensionality reduction
+techniques analyze the correlations between resource
+descriptions to transform a large set of descriptions into a
+much smaller set of uncorrelated ones.
+
+Here is an oversimplified example that illustrates the idea.
+Suppose we have a collection of resources, and every resource
+described as "big" is also described as "red," and every "small"
+resource is also "green." This perfect correlation between color
+and size means that either of these properties is sufficient to
+distinguish "big red" things from "small green" ones, and we
+do not need clever algorithms to figure that out. But if we have
+thousands of properties and the correlations are only partial,
+we need the sophisticated statistical approaches to choose the
+optimal set of description properties and terms, and in some
+techniques the dimensions that remain are called "latent" or
+"synthetic" ones because they are statistically optimal but do
+not map directly to resource properties.
+
+Creating Resource Descriptions
+
+Resource descriptions can be created by professionals, by the
+  14 | CATALOGING OVERVIEW
+
+  authors or creators of resources, by users, or by computational
+  or automated means.
+
+  From the traditional perspective of library and information
+  science with its emphasis on bibliographic description, these
+  modes of creation imply different levels of description
+  complexity and sophistication; Taylor and Joudrey, in their
+  classic book The Organization of Information, suggest that
+  professionals create rich descriptions, untrained users at best
+  create structured ones, and automated processes
+  create simple ones.1
+
+  This classification reflects a disciplinary and historical bias
+  more than reality. "Simple" resource descriptions are "no more
+  than data extracted from the resource itself... the search engine
+  approach to organizing the web through automated indexing
+  techniques."2
+
+  A better notion of levels of resource description is one based
+  on the amount of interpretation imposed by the description,
+  an approach that focuses on the descriptions themselves rather
+  than on their methods of creation.
+
+1. Joudrey, D. N., Taylor, A. G., & Wisser, K. M. (2018). The Organization of
+  Information (4th ed.), Libraries Unlimited, 184-186.
+
+2. Joudrey, D. N., Taylor, A. G., & Wisser, K. M. (2018). The Organization of
+  Information (4th ed.), Libraries Unlimited, 184.
+                                                     CATALOGING OVERVIEW | 15
+
+Professionally-created resource descriptions, author- or user-
+created descriptions, and computational or automated
+descriptions each have strengths and limitations that impose
+tradeoffs. A natural solution is to try to combine desirable
+aspects from each in hybrid approaches. For example, the
+vocabulary for a new resource domain may arise from tagging
+by end users but then be refined by professionals, lay classifiers
+may create descriptions with help from software tools that
+suggest possible terms, or software that creates descriptions
+can be improved by training it with human-generated
+descriptions.
+
+Resource Description by Professionals
+
+Before the web made it possible for almost anyone to create,
+publish, and describe their own resources and to describe those
+created and published by others, resource description was
+generally done by professionals in institutional
+contexts. Professional indexers and catalogers described
+bibliographic and museum resources after having been trained
+to learn the concepts, controlled descriptive vocabularies, and
+the relevant standards. In information systems domains
+professional data and process analysts, technical writers, and
+others created similarly rigorous descriptions after receiving
+analogous training. We have called these types of resource
+descriptions institutional ones to highlight the contrast
+between those created according to standards and those
+16 | CATALOGING OVERVIEW
+
+created informally in ad hoc ways, especially by untrained or
+undisciplined individuals.
+
+Resource Description by Authors or
+Creators
+
+The author or creator of a resource can be presumed to
+understand the reasons why and the purposes for which the
+resource can be used. And, presumably, most authors want to
+be read, so they will describe their resources in ways that will
+appeal to and be useful to their intended users. However, these
+descriptions are unlikely to use the controlled vocabularies and
+standards that professional catalogers would use.
+
+Resource Description by Users
+
+Today's web contains a staggering number of resources, most
+of which are primary information resources published as web
+content, but many others are resources that stand for "in the
+world" physical resources. Most of these resources are being
+described by their users rather than by professionals or by their
+authors. These "at large" users are most often creating
+descriptions for their own benefit when they assign tags or
+ratings to web resources, and they are unlikely to use standard
+or controlled descriptors when they do so. The resulting
+variability can be a problem if creating the description requires
+judgment on the tagger's part. Most people can agree on the
+                                                     CATALOGING OVERVIEW | 17
+
+length of a particular music file but they may differ wildly
+when it comes to determining to which musical genre that
+file belongs. Fortunately most web users implicitly recognize
+that the potential value in these "Web 2.0" or "user-generated
+content" applications will be greater if they avoid egocentric
+descriptions. In addition, the statistics of large sample sizes
+inevitably leads to some agreement in descriptions on the most
+popular applications because idiosyncratic descriptions are
+dominated in the frequency distribution by the more
+conventional ones.
+
+We are not suggesting that professional descriptions are always
+of high quality and utility, and socially produced ones are
+always of low quality and utility. Rather, it is important to
+understand the limitations and qualifications of descriptions
+produced in each way. Tagging lowers the barrier to entry for
+description, making organizing more accessible and creating
+descriptions that reflects a variety of viewpoints. However,
+when many tags are associated with a resource, it
+increases recall while decreasing precision. This causes
+immense problems when catalogers and other professionals
+seek to categorize and classify resources. Ofttimes, socially-
+produced tags are simply ignored and replaced with
+standardized, controlled metadata terms.
+18 | CATALOGING OVERVIEW
+
+Evaluating Resource Descriptions
+
+When professionals create resource descriptions in a
+centralized manner, which has long been the standard practice
+for many resources in libraries, there is a natural focus
+on quality at the point of creation to ensure that the
+appropriate controlled vocabularies and standards have been
+used. However, the need for resource description generalizes to
+resource domains outside of the traditional bibliographic one,
+and other quality considerations emerge in those contexts.
+
+Resource descriptions in private sector firms are essential to
+running the business and in interacting efficiently with
+suppliers, partners, and customers. Compared to the public
+sector, there is much greater emphasis on the economics and
+strategy of resource description. What is the value of resource
+description? Who will bear the costs of producing them?
+Which of the competing industry standards will be
+followed? Some of these decisions are not free choices as much
+as they are constraints imposed as a condition of doing
+business with a dominant economic partner, which is
+sometimes a governmental entity.
+
+For example, a firm like Wal-Mart with enormous market
+power can dictate terms and standards to its suppliers because
+the long-term benefits of a Wal-Mart contract usually make
+the initial accommodation worthwhile. Likewise, governments
+                                                    CATALOGING OVERVIEW | 19
+
+often require their suppliers to conform to open standards to
+avoid lock-in to proprietary technologies.
+
+In both the public and private sectors there is increased use of
+computational techniques for creating resource descriptions
+because the number of resources to be described is simply too
+great to allow for professional description.
+
+A great deal of work in text data mining, web page
+classification, semantic enrichment, and other similar research
+areas is already under way and is significantly lowering the cost
+of producing useful resource descriptions. Some museums
+have embraced approaches that automatically create user-
+oriented resource descriptions and new user interfaces for
+searching and browsing by transforming the professional
+descriptions in their internal collections management systems.
+Google's ambitious project to digitize millions of books has
+been criticized for the quality of its algorithmically extracted
+resource descriptions, but we can expect that computer
+scientists will put the Google book corpus to good use as a
+research test bed to improve the techniques.
+
+Web 2.0 applications that derive their value from the
+aggregation and interpretation of user-generated content can
+be viewed as voluntarily ceding their authority to describe and
+organize resources to their users, who then tag or rate them
+as they see fit. In this context the consistency of resource
+description, or the lack of it, becomes an important issue, and
+20 | CATALOGING OVERVIEW
+
+many sites are using technology or incentives to guide users to
+create better descriptions.
+
+Copy Cataloging
+
+Evaluating and improving upon existing descriptions and
+catalog records may seem to be a waste of time. However, it is
+a large part of modern cataloging operations. Copy cataloging
+is the practice of creating a new cataloging record based on a
+preexisting catalog record. This could be a record created by
+someone at your own institution or a record obtained form
+someone else. This is contrasted with original
+cataloging, which occurs when a cataloger creates a completely
+new record for an item. Copy cataloging has become
+increasingly mainstream as libraries develop networks and
+consortiums. The proliferation of services by OCLC has also
+affected this trend. OCLC provides access to preexisting
+catalog records, from catalogers can choose one that best meets
+their needs. Copy cataloging is a major boon to library workers
+as they will not have to fill all of the MARC records out
+manually. Ofttimes, only a few tweaks are needed to make
+the preexisting record compatible with the item in one's own
+library holdings. For example, the format, edition number, and
+call number may have to be changed in a MARC record, but
+that may be the only changes necessary.
+                                                     CATALOGING OVERVIEW | 21
+
+Test Your Knowledge
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=5#h5p-2
+
+Types of Catalogs and Databases
+
+Before we explore the intricacies of cataloging schemata and
+tools, we must first understand why we need specialized
+controlled vocabulary and authority records. After all,
+couldn't we just put all this information on a website so that
+a search on a search engine or database will turn it up? Well,
+yes and no. Search engines occasionally pick up library catalog
+listings, especially if those have been created based on
+standardized practices. However, for use in the library system,
+a record must be placed into a specific type of database.
+
+   Another major difference between search engines and
+databases and catalogs is that the latter two have a wide range
+of delimiters, whereas a search engine may only have
+delimiters regarding the format of a result, time of publication,
+or author metadata. Boolean operators, (AND, OR, NOT,
+etc.) are even more important when using search engines,
+22 | CATALOGING OVERVIEW
+
+although they are also occasionally useful in databases and
+catalogs.
+
+   The major types of catalogs, databases and related services
+include:
+
+   *Integrated Library System: An ILS, also called a Library
+Management System (LMS), is a service that combines an
+Open Public Access Catalog (OPAC) with circulation and
+patron information as well as financial information when
+necessary. There are multiple facets of this system, and each
+of these services may be provided by individual providers or
+multiple vendors. ILS systems can also provide connections to
+other services, such as databases and links to consortia. While
+Card Catalogs only had three search options, the ILS adds a
+fourth option: specific metadata such as whole or partial call
+numbers can be used to search for books.
+
+   *Union Catalog: This type of catalog is exemplified by
+OCLC's WorldCat. A union catalog is simply an OPAC that is
+used by multiple libraries who are functioning as a consortium
+and have fluid collections that can be loaned to each other.
+This type of catalog facilitates loaning items from one library
+to another, such as OCLC's Inter-Library Loan service.
+
+   *Discovery System: This system is a combination of a
+catalog and a search engine. CSI Library uses a Discovery
+System that interfaces with our catalog for multiple resources.
+For our library holdings we have a Discovery System hosted by
+EbscoHost. For our Open Access materials, we have a system
+provided by SirsiDynix.
+                                                    CATALOGING OVERVIEW | 23
+
+   *Standard Database: A regular database holds items with
+copious amounts of data, including creation, title, author,
+subject, and other metadata. This database may or may not be
+open. It does not include information about anything other
+than the data it holds, although site traffic data may be
+recorded by third parties. Often, the collections in these
+databases have not been curated. This means they have not
+been specifically selected, standardized and/or evaluated.
+
+   *Card Catalog: This was the initial iteration of a database. It
+was completely physical with no digital facets. There were only
+three types of searches one could perform using a card catalog.
+A user could search for works by Title, by Author, and by
+Subject. For a time, this was all information that was necessary
+for a thorough and accurate library search. However, in the
+increasingly modernizing world, a new iteration of catalog was
+necessary. This type of catalog was often accompanied by a
+shelf list, which listed all books in a library by order of their call
+number.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=5#h5p-3
+24 | CATALOGING OVERVIEW
+
+This work was adapted from the sections "Naming Resources"
+and "The Process of Describing Resources" from The
+Discipline of Organizing by Robert J. Glushko. This work
+has a Creative Commons Attribution-NonCommercial 4.0
+International License.
+                                                       CATALOGING SCHEMA | 25
+
+PART II
+
+CATALOGING
+SCHEMA
+26 | CATALOGING SCHEMA
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                            COMMON ENTRIES | 27
+
+2.
+
+MARC RECORDS:
+INFORMATION,
+EXAMPLES, AND MOST
+COMMON ENTRIES
+
+MARC Overview
+
+One of the main schemata for describing information items
+is called MAchine-Readable (Bibliographic) Catalog
+Records (MARC). This system was created in the 1960s and
+has been continuously revised since that time to fit the
+metadata needs of a continuously modernizing world. The
+current iteration of MARC, MARC 21, was created in 1999.
+This version has been subject to continuous smaller changes
+so as to remain more or less evergreen. Trimming and pruning
+are performed instead of planting an entirely new tree.
+
+   Integral to one's understanding of the complexity of
+MARC records is a knowledge of the discrete types of data
+contained in the symbols present. One symbol can refer to
+  28 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+  COMMON ENTRIES
+
+  multiple types of metadata depending on its presence in the
+  MARC record.
+
+ Sections of a MARC Record1
+
+     There are three main sections of a MARC Record:
+
+   1. Leader: This is the shortest section in a MARC record.
+        It consists of 24 sequential symbols or characters.
+        Individual symbols or groups of symbols show different
+        types of data in the record. This is the first part of the
+        record.
+
+   2. Directory: This record states the location of each
+        variable field in the MARC record. It also states the
+        length of the record. The directory entry for every
+        variable is only 12 character positions. All directories end
+        with the presence of RS, which signifies the end of the
+        record.
+
+   3. Variable fields: This is what most people think when
+        they consider MARC records. In fact, it is the most
+        important element of the MARC record. There are
+
+1. Library of Congress. (2008, April 22). Marc 21 bibliographic introduction.
+  Retrieved December 5, 2022, from https://www.loc.gov/marc/bibliographic/
+  bdintro.html.
+                 MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                               COMMON ENTRIES | 29
+
+        three main types of Variable fields, which will be
+        examined later.
+
+ MARC Elements2
+
+     There are three types of metadata variable fields in the
+  Variable field Section of a MARC record:
+
+   1. Tags (also occasionally called the Field Code): Every tag
+        consists of three digits. This is the broadest variable field,
+        and there is only one tag per section of a MARC record.
+        They can only be followed by indicators and subfield
+        codes. Every three-digit number stands for a certain
+        aspect of an item's metadata. For example, a field marked
+        600 would contain items related to a personal name
+        related to the item, whereas the 610 field is reserved for
+        corporate or entity names. Furthermore, 650 signifies
+        that the following information is related to a topic
+        discussed in the item and 651 indicates a geographic
+        place. As an item can have more than one subject or
+        author, these tags are repeatable in an item.
+
+2. Library of Congress. (2009, October 17). Marc 21 reference materials.
+  Understanding MARC Bibliographic: Parts 7 to 10. Retrieved December 5, 2022,
+  from https://www.loc.gov/marc/umb/um07to10.html.
+30 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+ 2. Indicators: These are optional clarifiers that follow tags.
+      They have only one digit. There are two spaces for
+      indicators. This may cause some to assume that an
+      indicator is two digits, but each digit stands for a
+      different clarification. Some fields use only the first or
+      second indicator while others use both indicator fields. If
+      an indicator field is not used, it is filled by the number
+      sign (#).
+
+ 3. Subfield Codes: Immediately following the indicators
+      are subfield codes. These are also called "delimiters"
+      occasionally. There are two symbols in a subfield code.
+      The first is the subfield symbol, which is represented in
+      this textbook by a dollar sign ($). The second is a
+      lowercase letter of the alphabet or a number. After the
+      subfield, or delimiter, code, the data entry of the subfield
+      is given. In theory, the first subfield would be signified by
+      "$a." However, sometimes this subfield indicator is
+      omitted as a given. The other subfield indicators are
+      always used.
+
+Examples of MARC fields
+
+Let us look at some examples of MARC fields, their tags, and
+their indicators and delimiters. The following fields would be
+some of those present in an entry for an omnibus edition of the
+first three (published) books in the Foundation trilogy of Isaac
+Asimov.
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                             COMMON ENTRIES | 31
+
+   020##$a9780380001019$c119.14USD
+   040##$aOCLC
+   08200$a813/.5/4
+   1001#$aAsimov, Isaac$d1920-1992
+   1304#$aThe Foundation trilogy: three classics of Science
+Fiction.$pFoundation.$pFoundation and Empire.$pSecond
+Foundation.$lEnglish.$f1974.
+   24514$aThe Foundation trilogy :$bthree classics of Science
+Fiction./$c Asimov, Isaac 1920-1992
+   650#0$aScience fiction.
+   650#$aFuture, The, in literature.
+   650#$aPsychohistory-fiction.
+   This example is given without spaces to show you how
+MARC records might appear on your computer screen. Some
+systems, such as Connexion, have options to have spaces
+between field codes, indicators, and subfield indicators. Future
+examples and your assignments will have spaces, but I wanted
+to show you the default and traditional appearance of a
+MARC record.
+   Pay attention to the 245 field for this next exercise, and
+perhaps look at the MARC 21 Bibliographic Page for this field.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+  32 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+  COMMON ENTRIES
+
+          can view it online here:
+          https://csi.pressbooks.pub/cataloging/?p=41#h5p-15
+
+ Digits in Variable Fields3
+
+     Now that we know the format, order, and importance of
+  each of the types of MARC fields, what are the most
+  ubiquitous and necessary entries in these fields? The Library
+  of Congress has made an excellent page that describes the
+  attributes above and lists the most common MARC fields
+  used in bibliographic records, along with all indicators and the
+  most common delimiters.
+
+ First digits in Variable Fields
+
+  There are ten general categories of MARC fields:
+     0XX: Identification symbols (Library of Congress control
+
+  numbers, International Standard Book Number)
+
+3. Library of Congress. (2008, April 22). Marc 21 bibliographic introduction.
+  Retrieved December 5, 2022, from https://www.loc.gov/marc/bibliographic/
+  bdintro.html.
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                            COMMON ENTRIES | 33
+
+   1XX: Main entries (author name, title of the book)
+   2XX: Titles and related information
+   3XX: Physical description
+   4XX: Indicators of whether or not an item is in a series
+   5XX: Notes
+   6XX: Subject access fields (including names of individuals)
+   7XX: Entries other than subjects or series information
+   8XX: Entries to series and other related works
+   9XX: A category created to allow local institutions to
+record their own relevant metadata
+
+Second and Third digits in Variable Fields
+
+These digits act as subdivisions for the first-digit categories.
+Each of the categories below, when applied to the 1XX, 5XX,
+6XX, and 7XX categories, describe when certain people,
+institutions, or works are subjects of the current work in
+question.
+
+   X00: Personal names
+   X10: Corporate names
+   X11: Meeting names
+   X30: Uniform titles
+   X40: Bibliographic titles
+   X50: Topical terms
+   X51: Geographic names
+   Occasionally, changes have to be made in the MARC
+record. These changes are often performed by local
+institutions. They are followed by the symbol | .
+34 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+   The author field for the Foundation trilogy is
+   100 1# $a Asimov, Isaac $d 1920-1992.
+   The "100" field is designated as the indicator for the name
+of the author. The first indicator of this field states that the
+surname is the first name in the entry.
+   In the above example for the Foundation trilogy, there were
+three subject fields.
+   650 #0 $a Science fiction.
+   650 #0 $a Future, The, in literature.
+   650 $0 $a Psychohistory-fiction.
+   The first digit is 6, so we know that the field will be related
+to a subject in the work. the second and third digits are 5
+and 0. This means that the subject of the work is topical, not
+a person, group, corporation, or geographical area. "Science
+fiction." is the authorized heading of the Library of Congress
+for all works of science fiction. "Future, The, in literature." is
+the authorized heading of the Library of Congress for all works
+that discuss the future. "Psychohistory" is the name of both
+a historical theory in reality and a fictional algorithm created
+by Hari Seldon, a major character in the Foundation series.
+In order to ensure that readers of this record know that the
+psychohistory referred to is the fictional construct, hyphens
+and the word "fiction" are added. We will discuss Library of
+Congress Authority Records later in this book.
+                 MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                               COMMON ENTRIES | 35
+
+ Most Ubiquitous/Important
+ MARC Fields4
+
+     Here are the most common MARC fields, some of which
+  will be discussed in greater detail in later sections:
+
+     010: Library of Congress Control Number: This is possibly
+  the most simple field in a MARC record. Both indicators are
+  not used. The only indicator is $a and is followed by the LOC
+  control number. Each work has a unique LOC control
+  number to identify it.
+
+     020: International Standard Book Number: This is another
+  identification number. Usually, there are only ten or thirteen
+  digits in an ISBN.
+
+     040: Cataloging Source: This is the LOC or the OCLC
+  or another institution. It is the source from which the entire
+  MARC record was obtained. Like the first two fields,
+  indicators are undefined.
+
+     082: Dewey Decimal classification number of the item. The
+  indicators show whether the DDC number of an item is from
+  the full or abridged edition and which organization assigned
+  the Dewey Decimal Classification number. Subfields other
+
+4. Library of Congress. (2022, July 7). Marc 21 format for bibliographic data.
+  Retrieved December 5, 2022, from https://www.loc.gov/marc/bibliographic/.
+36 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+than $a give context to the number, including repeating the
+assignation information.
+
+   100: Personal name of the author of the work: The first
+indicator of the field states the first name (personal, surname,
+or family) that is used in the entry. The second indicator is
+undefined. Subfields include designations for surnames,
+personal names, numbers, titles, and birth and death dates.
+The types and order of data in this field are governed by the
+LOC Authority Record for the author, if one exists. If the
+author does not have an Authority Record, institutional policy
+should be followed. Often, this means using the surname and
+first name of the author, followed by birth and death dates.
+
+   130/240: These fields contain the uniform title (or the
+main title) of the item being described in the MARC Record.
+The 130 field is the most common iteration of the Title Field.
+240, however, is useful when a work can have multiple titles
+given to it, either colloquially or through multiple publications
+of the same work over time. While delimiters $a, $l, and $f
+have the same meaning in both fields, those three delimiters
+subfield indicators are the only ones present in Field 240. Only
+with Field 130 can a cataloger record the names of individual
+sections and the version of the work that has been used to
+create a certain item.
+
+   245: This field repeats the title of the item and other
+information about the work. This field is known as the "Title
+Proper" field of the MARC record. If the title in this field is
+the same as the preferred title of the field, 130 or 240 fields are
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                            COMMON ENTRIES | 37
+
+not needed. At the very least, the title proper does not needed
+to be included in these fields if it is recorded in Field 245.
+
+   250: If a work is a new edition of a previous work, this field
+contains information about the current edition.
+
+   260, 264: Publishing and distribution information,
+including data about the organization, place, and date of the
+item, are included in this record. The first and only indicator
+describes the certainty of the cataloger in reference to the
+publication information provided. Subfields describe name
+and location of the publisher, as well as the date of publication,
+the date of manufacture, and the materials used to create the
+item.
+
+   300: This field is designated as the record of the physical,
+tangible aspects of the item. Things like the number of pages,
+descriptions of the illustrations on the book, or ancillary
+material are located in the 300 field. Each of these have their
+own subfields. For example, the number of pages is under $a
+while the description of the illustration on the back cover of a
+book would be contained in subfield $b.
+
+   336, 337, 338: These are the Content, Media, and Carrier
+Type fields. These fields, like other fields that have entries from
+other institutions, are subject to a controlled vocabulary. This
+means that the entries in these fields can only contain certain
+entries. The vocabulary assigned to these fields is determined
+by corresponding data in the Resource Description and
+Access (RDA) schema. These fields will be discussed in a later
+page.
+38 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+   490: This field places the item and its work in a series with
+other items. It simply states the name of the series in which the
+work is placed. It may also add the place of the work in that
+series through assigning a volume number.
+
+   500: This field is only used if a cataloger needs to include
+information about the source of any information in the record,
+related items, or a description of the main subjects in the item.
+
+   520: This field is a summary of the information in the item.
+This should be an extremely short entry. The summary can be
+designated as a standard book summary, a review, a scope and
+content note (for archival cataloging), or an abstract.
+
+   521: Target audience of the item. Indicators can specify
+whether the range used in this field is reading grade, age range,
+grade, and motivation. Subfields impart more information
+about the target audience and the source that assigned a target
+audience to the manifestation that has been incorporated into
+the item.
+
+   600: This field contains information about the human
+subjects of a work. The entries in this field are most often
+copied from the Library of Congress Authorities. The first
+indicator of the field is the same as the first in the 130 field. The
+second indicator gives the source for the subject statement.
+Subfields include information regarding the personal name,
+titles, birth and death dates, and other information.
+
+   610: This field designates corporate and institution
+organizations as the subjects of a particular work. The first
+indicator in this field indicates whether or not the name is
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                            COMMON ENTRIES | 39
+
+inverted or if the name belongs to a government jurisdiction
+rather than a private group. The second indicator is the same
+as the second indicator for Field 600. Subfields include places
+for the name, the time period associated with the organization,
+and the geographic area affected by the group.
+
+   650: This subject, as stated above, is reserved for topics that
+are not groups or individuals. Thematic subjects can include
+many topics, from arts to science to literature, to activist
+movements. The first indicator is the level of the subject. The
+second indicator is the source of the subject heading. For
+example, if the second indicator is a 0, the term was retrieved
+from the Library of Congress Subject Headings. If that
+indicator is a 1, the term was taken from the LC Subject
+Headings for children's literature. Of particular importance in
+this field are the subfields $0, $v, $x, and $y.
+
+   651: This field holds only geographic names and places.
+The first indicator of this field is undefined. The second
+indicator is the same as the second indicator for all other 6XX
+fields mentioned on this page. Subfields describe the formal
+name of an area, the chronological period of the area covered in
+the item, and the control number associated with the authority
+record of the term.
+
+   655: This field examines the genre of the item. Subfields
+examine the history, provenance, and materials common to
+this genre and the justification for placing the item in this
+genre. As with many fields, a 7 in the second indicator space
+means that the term is found in an external place that is not a
+40 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+common source for data. Using this indicator means that the
+cataloger will have to justify using a particular source for their
+genre term. It may also require a $7 subfield, which examines
+the provenance process through which a cataloger determined
+particular data entries.
+
+   700 and 710: Fields for additional personal and corporate
+names. The 700s in general are additional names. Entries in
+this field include personal names of coauthors, compilers, and
+contributors. Translators and arrangers are also listed in this
+field range.
+
+   852: Physical location of the item in the Library's holdings.
+The first indicator exposes the system used to classify all
+objects in the library's holdings. The second indicates whether
+or not the classification strategy is the primary scheme.
+
+   856: Electronic location of the item and instructions for
+how to access it. The first indicator is the method through
+which a user can access the item. The next indicator says
+whether the item that will be accessed is the resource itself,
+a conversion of the resource, or a combination of both.
+Subfields contain URLs, database host names, provenance of
+the item, and copyright and other terms regulating access and
+use of the item.
+
+   883: This field contains the provenance of the metadata
+contained in this record. Metadata is much more than the
+pithy and trite "data about data" definition bandied about for
+decades. It is essential information that puts the data (in this
+case, the library item) in the proper context. Only through
+              MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+                                                             COMMON ENTRIES | 41
+
+analyzing the item in the context of the metadata can the user
+fully appreciate the work that has been manifested.
+
+   For information about using Connexion to look at MARC
+record data, go to the Using OCLC Connexion page. A login
+to Connexion will be necessary to complete the activity below,
+but this will talk you through getting to the required MARC
+record. Later on, we will discover more about using
+Connexion to a fuller extent.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=41#h5p-17
+
+Additional Information
+
+There are multiple standards used to identify the proper way
+to create entries in the fields and subfields of MARC records.
+All of these standards are maintained by the Library of
+Congress and include the MARC Format for Authority Data,
+MARC 21 Format for Classification Data, and the MARC 21
+Format for Bibliographic Data. It is highly recommended that
+you bookmark these sources for information, especially the
+Bibliographic page. This will come in handy later in this book
+as well as throughout your librarianship. It is free, easy to use,
+42 | MARC RECORDS: INFORMATION, EXAMPLES, AND MOST
+COMMON ENTRIES
+
+and thorough. The other pages in the MARC LOC website,
+the Holdings, Classification, and Community pages, are also
+useful but will not be accessed as much during cataloging.
+                           FRBR, WEMI AND THEIR IMPACT ON MARC | 43
+
+3.
+
+FRBR, WEMI AND THEIR
+IMPACT ON MARC
+
+MARC records are not the only configuration for describing,
+categorizing, and classifying items. MARC 21 records have
+been influenced by Functional Requirements for
+Bibliographic Records (FRBR). This system is a theoretical
+one that categorizes and describes items according to their
+relationship to the information contained inside them.
+
+   It is important to understand the difference between various
+tools used or referred to in the cataloging community. FRBR is
+an ideology, a conceptual model. It is not tangible. There is no
+FRBR software. It simply guides how catalogers think about
+items, subjects, and people so that cataloging makes intuitive
+sense. RDA is a content standard. This regulates how certain
+metadata are expressed to ensure standardization. MARC, on
+the other hand, is the format in which most cataloging records
+are generated. MARC uses RDA to express metadata in a way
+that aligns with FRBR. The relationships between these three
+items, and the fact that they are not the same type of tool, are
+important to know before you begin to work with them.
+
+   MARC and RDA possess information about the physical
+44 | FRBR, WEMI AND THEIR IMPACT ON MARC
+
+characteristics, author, title, and number of pages of a
+particular item. FRBR describes the items by exploring their
+relationships, typically using the original iteration of its
+information as provided by the author. This information is
+combined with the other metadata provided by MARC and
+RDA to give a thorough, complex description of each item in
+the library's holdings. Additionally, the relationship between
+one item and the others in the library's holdings is also made
+manifest. In order to complete this, catalogers use a system
+called WEMI.
+
+WEMI Hierarchy
+
+There are four main steps in the entity hierarchy of WEMI:
+
+ 1. Work: A work is the broadest level of the hierarchy. It is
+      the original iteration of an idea created by an author. For
+      example, Second Foundation in The Foundation trilogy
+      was published by Isaac Asimov in 1952. While there was
+      a first edition of the book, that first edition is not the
+      work. Instead, the words and ideas within that edition
+      constitute the work. A work is represented by a title and
+      an author. Works can be related to each other if one is
+      derived from the other. Some of the fields of the MARC
+      record that deal with the Work hierarchy are 100, 130,
+      240, 245, and 380.
+
+ 2. Expression: The level below a work is an expression.
+                        FRBR, WEMI AND THEIR IMPACT ON MARC | 45
+
+    This is a particular format in which the work has been
+    presented. For example, a play based on Second
+    Foundation would be a different expression than the text
+    version in the book. Alternate translations of the work
+    may also be considered discrete expressions. A sign of
+    this is the fact that many library systems have different
+    call numbers for different translations of the same work.
+    For example, the CSI Library has a different LOC call
+    number for works in Spanish than for those in English.
+    For example, Harry Potter and the Sorcerer's Stone, the
+    American manifestation of Harry Potter and the
+    Philosopher's Stone, has a LOC call number at the CSI
+    Library of FIC .R69 H371 1998. The Spanish
+    translation, Harry Potter y la piedra filosofal, has a call
+    number of SPA FIC .R69 H371 2001. Some of the
+    Expression-level MARC fields include 130, 240, 255,
+    336, 507, 520, and 546.
+3. Manifestation: Yet another level in this system is the
+    manifestation. This is often confused for an item, but
+    these two things are not the same. An edition may be
+    considered a manifestation of a particular expression.
+    Multiple items of the same edition can all be considered
+    individual parts of a particular manifestation. For
+    example, if a library buys two copies of the same edition
+    of a book due to high circulation, these may be
+    considered to be iterations of the same manifestation. If,
+    on the other hand, they are different editions, then they
+46 | FRBR, WEMI AND THEIR IMPACT ON MARC
+
+      are different manifestations. There are many
+      manifestation-level MARC fields, including 245, 250,
+      264, 300, 319, 337, 338, 347, 490, 500, and 856.
+ 4. Item: The item is the individual copy of a book. Each
+      item has its own MARC and FRBR record. An item is
+      represented by a call number, whether that number is
+      part of the Library of Congress Classification System or
+      the Dewey Decimal System. Item-specific parts of the
+      MARC record include the item identifier, which can be
+      included in multiple fields, and fields in the 5XX range
+      which are related to restrictions.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=43#h5p-26
+
+Trinity of FRBR
+
+There are three elements in the FRBR system. The parts of
+the WEMI hierarchy are called entities. Specifically, these are
+called Group 1 entities. Group 2 entities are people and
+organizations or corporate bodies. Group 3 entities are the
+subjects that can be discussed by works. Group 1 and Group
+                           FRBR, WEMI AND THEIR IMPACT ON MARC | 47
+
+2 entities can be Group 3 entities if there are works written
+about them. Group 2 entities are described by multiple
+MARC fields in different contexts. Individuals can be
+described by MARC fields 100, multiple fields in the 37X
+range, 670, and 700. Families are described by 100, 376, and
+670. Corporate organizations are described by 110, 111, 368,
+370, and 670.
+
+   The second aspect of FRBR is the relationship between
+multiple entities. For example, in the sentence "William
+Shakespeare wrote a play about Macbeth," the phrase "wrote a
+play" is the relationship.
+
+   The third relationship in the FRBR triangle is
+the attributes of the item. This is where the rest of the
+MARC or RDA record comes in. The metadata regarding
+editions, text font, page numbers, subjects, and authors are
+all considered attributes of an item. Relationships between an
+item and its author can also form connections between other
+works created by that author. Attributes function as a way to
+build less direct connections and imply relationships. On the
+front page recto (front side) of the item are usually the title,
+author, and publisher. On the verso, or back side, are also the
+title, author, and publisher information. Additionally, subject,
+publication information, language, and many other attributes
+are listed.
+48 | FRBR, WEMI AND THEIR IMPACT ON MARC
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+        can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=43#h5p-5
+
+Content relationships
+
+The major relationship regarding works in the above trifecta
+is those regarding works and their subjects. Content
+relationships explain how works are related to each other.
+Some are different manifestations or expressions of the same
+work. The information in two items that are the same work
+are essentially the same, barring any information lost by
+versioning, translation, or the creation of a new edition. These
+items may be said to be equivalent.
+
+   Some are derivations of other works. Therefore, the
+information in the derivation is only part of the information
+in the original work. New information may be added to this
+derivation. Examples of derivations include dramatizations,
+subtle changes to the themes, perspective changes, and other
+modifications.
+
+   Another relationship occurs when one work is descriptive
+of another work. These include commentaries, annotated and
+edited anthologies, and reviews. The information in the
+                          FRBR, WEMI AND THEIR IMPACT ON MARC | 49
+
+original work is analyzed and may or may not be fully dealt
+with in the descriptive work.
+
+User Tasks
+
+One may ask, "other than facilitating cataloger understanding
+of the need for schemata like MARC and RDA, what does
+FRBR do?" This system actually does more for users than
+may be immediately apparent. It facilitates five actions that all
+users perform when they engage with items. These user actions
+replace the three "Objects of Catalogs" that Charles Ammi
+Cutter, one of the major pioneers of cataloging, theorized.
+According to him, there were three major finding goals of users
+that a catalog should facilitate: finding a specific book, finding
+groups of books by author, subject, or genre, and finding a
+book that specifically suits their needs. FRBR expanded upon
+these functions to create their new "user tasks."
+
+ 1. Find: A user encounters multiple possible answers to a
+      query through examining the attributes and
+      relationships of works. To facilitate this task the
+      information system needs to support searching by
+      offering appropriate search elements or functionality.
+
+ 2. Identify: If a user is looking for specific attributes and/or
+      relationships, they can locate the exact copy or
+      manifestation they are looking for. If they are looking for
+      a wider range of possible answers to their query, they can
+50 | FRBR, WEMI AND THEIR IMPACT ON MARC
+
+      also identify any item of several that fulfills their needs.
+      To facilitate this task the information system seeks to
+      clearly describe the resources it covers. The description
+      should be recognizable to the user and easily interpreted.
+ 3. Select: A user can view or examine only those items that
+      fulfill their criteria. To facilitate this task the information
+      system needs to allow/support relevance judgments by
+      providing sufficient appropriate information about the
+      resources found to allow the user to make this
+      determination.
+ 4. Obtain: As long as restrictions allow, a user can obtain
+      the item, or access to it or a version of it, through the
+      machinations facilitated by the catalog. To fulfill this
+      task the information system needs to either provide
+      direct links to online information or location
+      information for physical resources. It also needs to give
+      any instructions required to complete the transaction or
+      any restrictions on access.
+ 5. Explore: The explore task is the most open-ended of the
+      user tasks. The user may be browsing, relating one
+      resource to another, making unexpected connections, or
+      getting familiar with the information resources available
+      for future use. The explore task acknowledges the
+      importance of serendipity in information seeking. To
+      facilitate this task the information system seeks to
+      support discovery by making relationships explicit and
+      by providing contextual information and navigation
+                           FRBR, WEMI AND THEIR IMPACT ON MARC | 51
+
+      functionality.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=43#h5p-1
+
+If these ideas seem difficult to understand, you are not the only
+one confused by this. View this diagram of the relationship
+between the English translation of War and Peace and its
+translator, the author, and the original work, which was
+written in Russian.
+52 | FRBR, WEMI AND THEIR IMPACT ON MARC
+
+                                          This
+                                          diagram
+                                          shows
+                                          the
+                                          entities
+                                          and
+                                          relations
+                                          hips
+                                          involved
+                                          in the
+                                          creating
+                                          the
+                                          English
+                                          translatio
+                                          n of the
+                                          novel
+                                          WAR
+                                          AND
+                                          PEACE.
+
+In order to fully explore and delineate the relationships and
+attributes of entities to fulfill user tasks, some have stated that a
+new way of recording metadata must be made. For this reason,
+the Resource Description Framework (RDF) was invented.
+This was also partially a response to the need for controlled
+vocabulary. For more information about this framework and
+changes in schemata, visit Appendix B.
+
+   For a much more thorough and complex, yet
+understandable, explanation of this system read the FRBR
+Library Resource Model document created by the
+International Federation of Library Associations and
+                           FRBR, WEMI AND THEIR IMPACT ON MARC | 53
+
+Institutions. Another simple resource was created by Dr.
+Pamela Thomas of the Illinois Heartland Library System.
+
+This chapter is a remix of several works, including:
+   FRBR and RDA: What they are and how they may affect
+
+the future of libraries by C.R. Croissant. This work is licensed
+with a Creative Commons Non-Commercial 4.0
+International License.
+
+   FRBR-Library Reference Model, by Pat Riva, Patrick Le
+Boeuf, and Maja Zumer, licensed with a Creative Commons
+Attribution License.
+54 | RDA BASICS AND IMPLICATIONS FOR MARC
+
+4.
+
+RDA BASICS AND
+IMPLICATIONS FOR
+MARC
+
+Another schema is called Resource Description and Access,
+or RDA. It was created in the 2010s to replace an outdated
+schema called AACR2. Initially, this schema was utilized
+museums. However, it become more prominent in libraries
+as it was developed to become ubiquitous. It was apparent
+as early as 2007 that there would be no way for RDA and
+MARC21 to coexist and not have some connection between
+the two schemata. In fact, the overseers of MARC deliberately
+altered MARC21 to become more compatible with RDA.
+
+   The focus of RDA is to provide users, and catalogers, with
+an object-oriented way of describing a resource. In other
+words, RDA wants to establish a clear relationship between
+one item and other items within a collection. It also wants to
+describe relationships between items and authors and between
+multiple editions of the same work. In this way, RDA is similar
+to FRBR.
+
+   For example, RDA does not initially categorize an
+                         RDA BASICS AND IMPLICATIONS FOR MARC | 55
+
+information resource based on its physical type. Instead, it
+categorizes all physical items based on the rate or status of
+information publication and updating. The three main types
+of format are serials, which are published at regular or
+irregular intervals as discrete items that are all related
+(newspapers, magazines, etc.), monographs, which are single-
+volume or multiple-volume items that are considered a
+complete work, or integrated resources, which are items that
+are continuously updated with new editions. The new
+information is integrated into the original resource and
+republished.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=45#h5p-4
+
+Intrinsic in the object-based orientation of RDA is the
+separation between the many elements of an item. For
+example, separate pieces of metadata describe the format of
+the information in an item and the format of the item itself.
+According to a report by the Library of Congress, this aspect
+of RDA is especially useful if preservationists or users want to
+convert data on an item into another format. To designate that
+a MARC record has been created through the RDA system,
+56 | RDA BASICS AND IMPLICATIONS FOR MARC
+
+Field 040 subfield $e has "rda" as an entry. There are various
+rules regarding cataloging processes in RDA. For example,
+abbreviations should never be used. Nor should filler terms
+such as "etc.," or "et al.," unless these are used in a title. Author
+names should be written according to their natural order in
+Field 245, but according to the appropriate Authorities in
+Fields 100, 600, and so on.
+
+   RDA can be extremely complicated to understand. At
+times, it is necessary to view RDA in its historical context and
+in comparison to other schemata. FRBR was the forerunner
+to the RDA, and RDA and MARC are used together. The
+Library of Congress has created a training complete with
+PowerPoint slides, a training manual, and exercises, on these
+three schemata. FRBR, RDA, and MARC helps catalogers
+see the connections between these three systems. Many other
+trainings, including a six-module training on RDA specifically,
+exist on the RDA Training Materials page of the LOC website.
+
+   For maps and other resources that explain the connections
+between RDA and MARC21, see Appendix A.
+
+Apply Your Knowledge
+
+Let's combine your knowledge of MARC with knowledge of
+RDA. You have learned about the MARC fields, indicators,
+subfield symbols, and the data that are affiliated with these
+aspects of item records. Now see how you would write and
+interpret MARC records with MARC field and subfield
+                         RDA BASICS AND IMPLICATIONS FOR MARC | 57
+
+symbols according to the RDA schema. You will only have
+to work with fields 100, 130, 240, and 245. Like on previous
+pages, it would be helpful to have the MARC 21 Bibliographic
+and Authority Data Library of Congress pages handy.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=45#h5p-27
+
+A simpler overview video that lasts around an hour has also
+been created by LOC. It was released in 2008, and is therefore
+dated, but serves as an excellent overview of the principles of
+RDA.
+58 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+5.
+
+MARC 336, 337, AND 338
+FIELDS IN RDA
+
+As stated in the first chapter of this section, RDA is the
+determining factor in the data contained in MARC fields 336,
+337, and 338.
+
+   RDA was created, as was said in the last chapter, to replace
+AACR2. MARC21 was created to replace all previous
+iterations of MARC. They were not created for the same
+purpose, but many of their fields (through certainly not all)
+overlap. For our purposes in this chapter, we will only consider
+the overlapping data pertaining to the MARC fields in the
+chapter heading.
+
+   In each field, the RDA term for the content, media, or
+carrier is in the $a subfield of the field. the MARC code, if
+needed, for the item is recorded in the $b subfield. The Leader
+symbol is recorded as part of the Leader of the entire record.
+
+Field 336
+
+This field pertains to the content of the item. In the MARC
+                                  MARC 336, 337, AND 338 FIELDS IN RDA | 59
+
+  field, there are only three characters that can be put in the
+  subfield. In the Leader, the first part of the MARC record,
+  the content is defined by a single letter. RDA, on the other
+  hand, can contain whole phrases, mostly two or three words,
+  to describe the content in a resource. MARC allows for the
+  integration of RDA data by allowing catalogers to put the
+  RDA category of an item into a subfield.
+
+     Below is a reproduction of a map created by the Library of
+  Congress:1
+
+1. Library of Congress (2011, April 5). "Term and code list for RDA content types."
+  Retrieved on December 6, 2022, from https://www.loc.gov/standards/valuelist/
+  rdacontent.html.
+60 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+RDA content term - 336 $a            MARC codes for      MARC
+                                     RDA terms - 336 $b  code(s)
+cartographic dataset                 crd                 e or f
+cartographic image                   cri                 e or f
+cartographic moving image            crm                 e or f
+cartographic tactile image           crt                 e or f
+cartographic tactile
+three-dimensional form               crn                 e or f
+cartographic three-dimensional form
+computer dataset                     crf                 e or f
+computer program                     cod                 m
+notated movement                     cop                 m
+notated music                        ntv                 a or t
+performed music                      ntm                 c or d
+sounds                               prm                 j
+spoken word                          snd                 i
+still image                          spw                 i
+tactile image                        sti                 k
+tactile notated music                tci                 k
+tactile notated movement             tcm                 c or d
+tactile text                         tcn                 a or t
+tactile three-dimensional form       tct                 a or t
+                                     tcf                 r
+             MARC 336, 337, AND 338 FIELDS IN RDA | 61
+
+text                            txt                                                a or t
+                                                                                   r
+three-dimensional form          tdf                                                g
+                                                                                   g
+three-dimensional moving image  tdm                                                o or p
+
+two-dimensional moving image    tdi
+
+other                           xxx
+
+unspecified                     zzz
+
+Field 337
+
+This field contains metadata about the type of media, or the
+format, in which the information is presented to the user. This
+is not a record of the type of information container, or the
+item, but rather about the format (text, audio, spoken word,
+etc.). Again, RDA has more flexibility and descriptive
+restrictions than MARC.2
+
+2. Library of Congress (2011, April 5). "Term and code list for RDA media types."
+  Retrieved on December 6, 2022, from https://www.loc.gov/standards/valuelist/
+  rdamedia.html.
+62 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+RDA media terms -337 $a  MARC codes for RDA                         MARC
+                         terms - 337 $b                             s - soun
+audio                    s                                          c - elect
+computer                 c                                          h - micr
+microform                h
+microscopic              p                                          g - proje
+                                                                    m - mo
+projected                g
+                                                                    t - text
+stereographic            e                                          k - non-
+                                                                    v - video
+unmediated               n                                          z - unsp
+                                                                    z - unsp
+video                    v
+
+other                    x
+
+unspecified              z
+
+Field 338
+
+This field contains information about the format of the item
+that contains, or carries, the information. For this reason, Field
+338 is referred to as the Carrier Field. RDA Carrier types are
+extremely specific. Each format of the information (text,
+audio, unmediated information, etc.) requires specific types
+of carriers. For example, you cannot put an audio music file
+on a flipchart or a book. Therefore, information or data is
+carried on items that will accurately and consistently impart
+                               MARC 336, 337, AND 338 FIELDS IN RDA | 63
+
+that information to a user. The tables below have again been
+taken from the Library of Congress. 3
+
+   Unlike the other two 33X fields, 338 only allows two
+characters for an entry. Still, it incorporates the RDA data to
+allow humans to read the record.
+
+   This table includes all carriers of information that is
+presented in an audio format.
+
+RDA carrier terms - 338 $a  MARC codes for RDA                                       MARC
+                            terms - 338 $b                                           007/01
+audio cartridge             sg                                                       g - 007
+audio belt                  sb                                                       b - 007
+audio cylinder              se                                                       e - 007/
+audio disc                  sd                                                       d - 007
+sound track reel            si                                                       i - 007/
+audio roll                  sq                                                       q - 007
+audio wire reel             sw                                                       w - 007
+audiocassette               ss                                                       s - 007/
+audiotape reel              st                                                       t - 007/
+other                       sz                                                       z - 007/
+
+3. Library of Congress (2019, July 11). "Term and code list for RDA carrier types."
+  Retrieved on December 6, 2022, from https://www.loc.gov/standards/valuelist/
+  rdacarrier.html.
+64 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+These carriers are all an iteration of a computer, whether it is a
+resource found online, a cartridge, or a compact or floppy disk.
+
+RDA carrier terms - 338 $a  MARC codes for                          MARC
+                            RDA terms - 338 $b                      007/01
+computer card               ck                                      k - 007
+computer chip cartridge     cb                                      b - 007
+computer disc               cd                                      d - 007
+computer disc cartridge     ce                                      e - 007/
+computer tape cartridge     ca                                      a - 007
+computer tape cassette      cf                                      f - 007/
+computer tape reel          ch                                      h - 007
+online resource             cr                                      r - 007/
+other                       cz                                      z - 007/
+
+You may notice that the carriers in the table below mostly
+have the prefix "micro-". These carriers are formats that were
+recorded on a film so small that it could hold thousands of
+documents. Microfiche and microfilm are the most popular
+carriers of this category, but there are many others, as you can
+see below.
+MARC 336, 337, AND 338 FIELDS IN RDA | 65
+
+RDA carrier terms - 338 $a  MARC codes for                    MARC
+                            RDA terms - 338 $b                007/01
+aperture card               ha                                a - 007
+microfiche                  he                                e - 007/
+microfiche cassette         hf                                f - 007/
+microfilm cartridge         hb                                b - 007
+microfilm cassette          hc                                c - 007
+microfilm reel              hd                                d - 007
+microfilm roll              hj                                j - 007/
+microfilm slip              hh                                h - 007
+microopaque                 hg                                g - 007
+other                       hz                                z - 007/
+
+A separate category exists for microscope slides and other
+visual material created in a scientific lab.
+
+RDA carrier terms - 338 $a  MARC codes for RDA                MARC
+microscope slide            terms - 338 $b                    - Biblio
+other
+                            pp                                p - 008
+
+                            pz                                no code
+
+Yet another category contains only those data carriers that
+project their data onto another material for proper viewing.
+66 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+RDA carrier terms - 338 $a  MARC codes for                        MARC
+                            RDA terms - 338 $b                    codes -
+film cartridge              mc                                    c - 007
+film cassette               mf                                    f - 007/
+film reel                   mr                                    r - 007/
+film roll                   mo                                    o - 007
+filmslip                    gd                                    d - 007
+filmstrip                   gf                                    f - 007/
+filmstrip cartridge         gc                                    c - 007
+overhead transparency       gt                                    t - 007/
+slide                       gs                                    s - 007/
+                                                                  z - 007/
+other                       mz                                    007/01
+
+What exactly is a stereograph? This is an image that was made
+in duplicate for special viewing in a stereoscope. An individual
+looks through the stereoscope at two nearly-identical images.
+The result is that both eyes combine the image and create
+a more crisp picture than if both eyes had only viewed one
+image. The resulting image is almost three-dimensional in
+quality.
+MARC 336, 337, AND 338 FIELDS IN RDA | 67
+
+RDA carrier terms - 338 $a  MARC codes for                          MARC
+                            RDA terms - 338 $b                      codes -
+stereograph card
+stereograph disc            eh                                      h - 007
+other
+                            es                                      s - 007/
+
+                            ez                                      no code
+
+A user who works with items in this category, unmediated
+carriers, needs no external tools to be able to access their data.
+These carriers, especially $avolume$bnc, are the most common
+item sought after in a library.
+
+RDA carrier terms - 338 $a  MARC codes for                          MARC
+                            RDA terms - 338 $b
+card                        no                                      no code
+flipchart                   nn                                      no code
+roll                        na                                      no code
+sheet                       nb                                      no code
+volume                      nc                                      no code
+object                      nr                                      r - Bibl
+other                       nz                                      no code
+
+While volumes and other unmediated carriers are the
+predominant resource sought after in a library, video carriers
+have become more sought after since the 1970s. Videocassettes
+68 | MARC 336, 337, AND 338 FIELDS IN RDA
+
+(VHS or Betamax), video cartridges, and videodiscs (LaserDisc
+or DVD) are all examples of video carriers.
+
+RDA carrier terms - 338 $a  MARC codes for                       MARC
+                            RDA terms - 338 $b                   01
+video cartridge             vc                                   c - 007
+videocassette               vf                                   f - 007/
+videodisc                   vd                                   d - 007
+videotape reel              vr                                   r - 007/
+other                       vz                                   z - 007/
+
+Our final category of carriers has only one entry: unspecified.
+This is most frequently used in archives or other repositories
+who have no way of determining the type of item they are
+recording. Even by archival standards, this would be grounds
+for refusing to accession an item (if it is donated) or
+deaccessioning (if the item has previously been in the
+collection).
+
+RDA carrier terms - 338 $a  MARC codes for                       MARC
+unspecified                 RDA terms - 338 $b                   - 007/0
+
+                            zu                                   u - 007
+
+Apply Your Knowledge
+
+Use your newfound knowledge and love for RDA and all its
+                               MARC 336, 337, AND 338 FIELDS IN RDA | 69
+
+complications to examine the differences between carriers,
+content, and media.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=47#h5p-10
+70 | MARC 336, 337, AND 338 FIELDS IN RDA
+                                                                 CALL NUMBERS | 71
+
+PART III
+
+CALL NUMBERS
+72 | CALL NUMBERS
+                              UNDERSTANDING DDC CALL NUMBERS | 73
+
+6.
+
+UNDERSTANDING DDC
+CALL NUMBERS
+
+The Dewey Decimal Classification (DDC) was created by
+Melvil Dewey in 1873 and is still used by libraries today to
+organize their collections. The DDC strives to assign all the
+knowledge in the world to 10 different topical areas organized
+by number so that each range of numbers (starting with
+000-099) is assigned a broad topic area. Below is an outline of
+these topics.
+
+Dewey Decimal Classification System: Topics
+
+000-099: Computer Science, Information and General Works
+   100-199: Philosophy and Psychology
+   200-299: Religion
+   300-399: Social Sciences
+   400-499: Languages
+   500-599: Science
+   600-699: Technology
+   700-799: Arts & Recreation
+   800-899: Literature
+74 | UNDERSTANDING DDC CALL NUMBERS
+
+   900-999: History & Geography
+   These 10 broad topics are then subdivided into 10 more
+specific topics. As an example, the 900s-History & Geography
+is divided below.
+   900-909: History
+   910-919: Geography & Travel
+   920-929: Biography & Genealogy
+   930-939: History of the Ancient World (to ca. 499)
+   940-949: History of Europe
+   950-959: History of Asia
+   960-969: History of Africa
+   970-979: History of North America
+   980-989: History of South America
+   990-999: History of Other Areas
+   And then these get broken down even further! Let's look at
+the 970s.
+   970: History of North America
+   971: Canada
+   972: Mexico, Central America, West Indies
+   973: United States
+   974: Northeastern United States
+   975: Southeastern United States
+   976: South Central United States
+   977: North Central United States
+   978: Western United States
+   979: Great Basin & Pacific Slope region
+   Occasionally, these ranges are referenced by Xs. For
+                              UNDERSTANDING DDC CALL NUMBERS | 75
+
+example, if one were going to look at the whole category of
+Technology, it would be referred to as "6XX". Sometimes
+asteriks are used in place of Xs.
+
+   We've examined in relative detail the History and
+Geography section of the Dewey Decimal System, so we are
+not going to use that for our example. When looking at the
+Foundation trilogy book we can see that its Dewey number is in
+the 800s. That means it is a piece of literature. It is specifically
+in the 813, which means it is a piece of literature from North
+America that deals with a fictional subject. The decimal point
+is .54. This means that the book was written in the twentieth
+century, specifically from 1945 to 1999. Further scrutiny can
+show that the Dewey Decimal System is somewhat flexible
+when it comes to local institutions or consortiums. However,
+the first five or six numerals are determined by these broader
+categories.
+
+   After the numbers following the decimal point, many books
+have Cutter numbers. These numbers may follow another
+decimal point, but usually they follow a space. The first
+symbols in the Cutter number are one to three letters from
+the author's last name. The next symbols are one to three
+numbers. These numbers correspond to the particular author
+and place the item in a particular place in the context of their
+works. For example, The Foundation trilogy may have a final
+number of 5, while Foundation's Edge, the next work in the
+series, could have a final number of 6. Cutter numbers are
+present in both LOC and Dewey Classifications.
+76 | UNDERSTANDING DDC CALL NUMBERS
+
+   Another feature of the Dewey Decimal System, and other
+cataloging systems, is the ability to segment certain portions
+of a call number. This means that similar call numbers can
+be used for the same book if one repository has a need for a
+longer call number than another one. Usually this is done with
+a forward slash mark (/). This means that if a library does not
+need a call number with fourteen places, they can use the call
+number the precedes the slash mark after five places.
+
+   In this exercise, you will need to know your institution's
+login for WebDewey, Connexion, and potentially the LC
+Classification Web site. We will explore this site in more detail
+in future exercises, but basic navigation skills can help you
+complete these tasks. If you do not have access to WebDewey,
+try to use the Open Access provided by LibraryThing on their
+Melvil Decimal System page. You may not be able to answer all
+of the questions, but try to do the best you can.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+        can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=49#h5p-11
+
+The above tasks helped you find and interpret Dewey Decimal
+Numbers according to subject, but there are more features
+such as Cutter numbers that have to be understood to make
+                              UNDERSTANDING DDC CALL NUMBERS | 77
+
+a completely accurate number. We will explore these features
+when we create DDNs.
+
+   Sometimes, genre, language, or format are a factor in
+creating a call number. These rules can be adapted and
+combined with other schemata to create a system that fits the
+needs of every library. For information about designating
+format, language, or other facets of an item before the rest of
+the call number, see the page on Shelving.
+
+   Additional Information:
+   DDC 23 Summaries, by OCLC, the corporation that
+controls many services related to Dewey.
+   Introduction to the Dewey Decimal Classification, also by
+OCLC
+   Technical Introduction to the DDC, which explains the
+DDC in much more detail. This presentation even goes so
+far as to state the OCLC's preferences regarding subjects of a
+certain age.
+
+This chapter is adapted from a LibreTexts page titled 8.8:
+Dewey Decimal Classification (DDC), which was authored,
+remixed, and/or curated by Walter D. Butler; Aloha Sargent;
+and Kelsey Smith and is shared under a CC BY 4.0 license.
+  78 | UNDERSTANDING LC CALL (CATALOG) NUMBERS
+
+ 7.
+
+ UNDERSTANDING LC
+ CALL (CATALOG)
+ NUMBERS
+
+  In contrast to the DDC, the Library of Congress Classification
+  system (LCC) strives to divide all the world's knowledge into
+  21 topical areas and groups them alphanumerically. That is,
+  they first assign a topic area to a letter, and then divide that
+  topic up by numbers. Created by the U.S. Library of Congress
+  to meet the needs of its collection, the first outline of the LCC
+  was released in 1904.1
+
+     When learning about the Library of Congress Classification
+  System and rules, you will be tempted to throw your hands up
+  in the air and ask "Why?" Do not do this, for your own sanity.
+  As my colleague Miranda says, "When it comes to the LCC
+
+1. "Library of Congress Classification." (2020, June 23). Librarianship Studies &
+  Information Technology, R23. Retrieved on December 6, 2022, from
+  https://www.librarianshipstudies.com/2017/11/library-of-congress-
+  classification.html.
+                 UNDERSTANDING LC CALL (CATALOG) NUMBERS | 79
+
+system, we catalogers should not ask questions. We should
+just do what we are told by the schedules, tables, and rules.
+If we ask questions, we will quickly lose our sanity." This is
+sage advice and should, again, be followed for preservation of
+your mental health. Writing this section of the textbook was
+difficult enough. Don't do mental work that I have already
+done on your behalf.
+
+   When it comes to the subject headings and captions used,
+however, we can and must ask questions. Some headings and
+captions are inherently imbued with the perspectives and
+biases of past catalogers and librarians. For example, members
+and aspects of the LGBTQ+ community were previously
+classed under a variety of diseases and disorders, or "sexual
+deviations," until this was rectified in the 2020 edition of the
+Library of Congress Classification Schedules. Now, these
+groups are classified under "Sexual practices outside of social
+norms" and "Sexual minorities," which are more apt
+characterizations.
+
+Library of Congress Classification
+
+A: General Works
+   B: Philosophy, Psychology, Religion
+   C: Auxiliary Sciences of History
+   D: World History
+   E: History of the Americas
+   F: History of the Americas
+   G: Geography, Anthropology, Recreation
+80 | UNDERSTANDING LC CALL (CATALOG) NUMBERS
+
+   H: Social Sciences
+   J: Political Science
+   K: Law
+   L: Education
+   M: Music
+   N: Fine Arts
+   P: Language and Literature
+   Q: Science
+   R: Medicine
+   S: Agriculture
+   T: Technology
+   U: Military Science
+   V: Naval Science
+   Z: Bibliography, Library Science, Information Resources
+   The LCC then adds more letter and numbers after each
+letter to get more specific within each topic area. Some classes,
+or "schedules," use more than one letter while others only use
+one letter followed by numbers. The main difference between
+the Dewey Decimal System and the Library of Congress is
+that this system classifies knowledge according to disciplines
+rather than subject matter. Therefore, both railroads and the
+economic and agricultural economy are classified under H
+(Economy) rather than Technology (T) or Agriculture (S).
+   Other numbers in the main subject number deal with the
+years covered in a particular work. Sometimes, subject and year
+numbers are so complex that they are divided by periods as
+well. Thus, there could be three or four Cutter numbers before
+                 UNDERSTANDING LC CALL (CATALOG) NUMBERS | 81
+
+the space that precedes an author or year Cutter number. The
+author and/or year number are considered a joint number
+called the "Item Number." This is why we say that there is only
+one Cutter number in the LCC system. Technically, there is
+only a base number with zero, one, or more decimal places, and
+a second number made up of a symbol for the author, the title,
+the format, and/or the year of publication.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=51#h5p-18
+
+Arrangement of Schedule
+Sections
+
+There is a particular order that is usually utilized to create and
+order subdivisions in schedules.
+
+ 1. Usually, the first divisions of the subdivision are different
+      forms, such as periodicals and dictionaries.
+
+ 2. Second, study and teaching elements, such as textbooks,
+      methodology works, and research publications, are given
+      their own subclasses.
+82 | UNDERSTANDING LC CALL (CATALOG) NUMBERS
+
+ 3. General works about a subject follow in the third
+      subdivision.
+
+ 4. Special topics are next, and may have multiple
+      subdivisions.
+
+ 5. Subjects that have divisions by geographic area usually
+      have these divisions last in their subclass division schema.
+
+Forms are the last resort of captions and classifying. Thus, the
+general label of periodicals and serials should only be used if
+the work covers a general topic in a serial form. For example, if
+a serial publication examines Communities, Classes, and Races
+from a broad perspective then it should have the call number
+of HT1501. If a work is specifically about cancer and is a
+periodical, it should be published under the periodical
+designation regarding cancer, RC251.A1, instead of the
+General Periodicals and Serials call number for Internal
+medicine. Cancer, it may be argued, is also a broad category.
+However, in the context of internal diseases, which is
+designated by the RC schedule symbol, cancer is only one
+specific disease.
+
+The "P" Schedule: Language and
+Literature
+
+Literature, which is primarily poetry or prose fiction, is a
+unique schedule that has necessarily broad geographic and
+chronological subclasses. The first division of literature in the
+                 UNDERSTANDING LC CALL (CATALOG) NUMBERS | 83
+
+"P" schedule is by language. Then, the works are divided by
+time period of the work. These time periods do not designate
+the life of the author but the time period in which they were
+creatively active. Then, the geographic location or citizenship
+of the author is used to further subdivide. If that is not relevant
+or apparent, the country with which the author was associated
+throughout their writing career can be used.
+
+   Next, each individual author has their own Cutter number.
+Some authors have a Cutter number that has been specially
+assigned by the Library of Congress. Isaac Asimov's is
+PS3551.S5. Samuel "Mark Twain" Clemens' is PS1300-1348,
+which means that call numbers between 1300 and 1348 are
+all reserved for various works and groups of works created by
+Samuel Clemens.
+
+   Nonfiction works by authors should be classified by their
+topic rather than in the literature section with the fictional
+works of the author. This may be confusing but can allow
+users to differentiate between information and entertainment.
+
+   If authors have written works in more than one language,
+each language will have its own call number for that author.
+
+   If an author does not have a Cutter number, one can be
+created in the section for that language's and geographical
+division's "Individual authors, A-Z" range. You must pay
+attention to the schedule, the catalog, and the Names
+Authority catalog.
+
+   Sometimes, genre, language, or format are a factor in
+creating a call number. these rules can be adapted and
+84 | UNDERSTANDING LC CALL (CATALOG) NUMBERS
+
+combined with other schemata to create a system that fits the
+needs of every library. For information about designating
+format, language, or other facets of an item before the rest of
+the call number, see the page on Shelving.
+
+How to Find a Book on the Shelf
+
+Please watch this video explanation, which demonstrates the
+different elements of LCC call numbers and how they are
+ordered on a library shelf:
+
+                   One or more interactive elements has been
+                   excluded from this version of the text. You
+                   can view them online here:
+        https://csi.pressbooks.pub/cataloging/?p=51#oembed-1
+
+This tutorial will teach you how to read a call number. A call
+number is found taped to the front or side of a library item to
+help you locate it on the shelf. This tutorial will show you how
+to read a call number using this book, "Nursing Management
+for the Elderly." Its catalog entry shows the call number in a
+straight line. Looking at the spine, here is the call number.
+
+   On the book, the call number is divided into four parts. The
+                 UNDERSTANDING LC CALL (CATALOG) NUMBERS | 85
+
+first part, "RC," will be found between "RB" and "RD." The
+next part, RC954 will be found between RC953 and RC955.
+The third part of the call number, the letter and number
+combination, is read as a decimal.
+
+   Any letter and number combinations should be read as
+decimals. Therefore, in decimals, 0.89 is greater than 0.884.
+
+   Our book is found between this book, "Nursing Care for
+the Older Adult," RC954.N884, and this book, "Nursing
+Older People," RC954.N893.
+
+   Finally, the last part of the call number is the year that the
+book was published. At this point, you've probably got the
+book in hand.
+
+   If you have any more questions, contact the librarian by
+phone, chat, email, or in person at the reference desk.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=51#h5p-21
+
+To explore the Library of Congress Classification System, use
+the LCC Library Tool that is similar to that created by the
+LibraryThing for the Dewey Decimal System. This tool is not
+as intuitive as the other one, but the LCC is not as intuitive as
+the Dewey Decimal System.
+86 | UNDERSTANDING LC CALL (CATALOG) NUMBERS
+
+Parts of this chapter were adapted from a LibreTexts page titled
+8.10: Library of Congress Classification (LCC), which was
+authored, remixed, and/or curated by Walter D. Butler; Aloha
+Sargent; and Kelsey Smith and is shared under a CC BY 4.0
+license.
+
+   Parts of this page were adapted from the Library of
+Congress Classification Online Training created by Janis L.
+Young and Daniel N. Joudrey on behalf of the Library of
+Congress. As an official government publication, this training
+is in the public domain.
+                    CREATING CALL NUMBERS USING DEWEY DECIMAL
+                                                                CLASSIFICATION | 87
+
+8.
+
+CREATING CALL
+NUMBERS USING
+DEWEY DECIMAL
+CLASSIFICATION
+
+Creation, Adoption, or Formation?
+
+Technically, catalogers today rarely "create" a Dewey Decimal
+Number for an item out of whole cloth. Instead, they use
+multiple tools to find what other catalogers have done. OCLC
+Connexion is one service that provides this connection.
+Catalogers search for a work on that site and are given multiple
+records to choose from. Then, they select the most appropriate
+MARC record and base the record for their institution on
+their selection, altering it as necessary. If they do not agree with
+the MARC record, for example the subject headings or the
+Dewey Decimal number, they can change elements if needed.
+
+   At times, however, research behind the Dewey Decimal
+Number is needed, whether this is to verify the subject of the
+work or to create one's own Dewey Decimal Number. This
+88 | CREATING CALL NUMBERS USING DEWEY DECIMAL
+CLASSIFICATION
+
+is where WebDewey or an open source alternative is useful.
+These tools can help researchers examine the details of coming
+up with a specific DDN for a work. There are a plethora of
+rules and guidelines to using these tools, so we will come back
+to this subject later.
+
+Dewey Decimal Number
+Formation
+
+After the numbers following the decimal point, many books
+have Cutter numbers. These numbers may follow another
+decimal point, but usually they follow a space. The first
+symbols in the Cutter number are one to three letters from
+the author's last name. The next symbols are one to three
+numbers. These numbers correspond to the particular author
+and place the item in a particular place in the context of their
+works. For example, The Foundation trilogy may have a final
+number of 5, while Foundation's Edge, the next work in the
+series, could have a final number of 6. Cutter numbers are
+present in both LOC and Dewey Classifications.
+
+   We have already discussed how Dewey Decimal Call
+Numbers are created using general categories on the left of the
+number. More numbers means that a work has been placed in
+an increasingly specific category. The first five or six numbers
+of the Dewey Decimal Call Number place an item in its
+categories. After this first batch of characters comes the Cutter
+number.
+                    CREATING CALL NUMBERS USING DEWEY DECIMAL
+                                                               CLASSIFICATION | 89
+
+   The Cutter number for any work by Asimov when
+described in the Dewey Decimal System is AS832. So, if we add
+the "5" theoretical end number, the complete Dewey Decimal
+Call Number is 813.54 As8325.
+
+   How did I get the call number initial digits for The
+Foundation trilogy? Well, there are several resources one can
+examine to determine the most appropriate category. For
+example, the most specific category represented in the Dewey
+Decimal Call Number was the year range from 1945 to 1999.
+This was found on the publishing page. The country, and the
+fact that the item is a work of fiction, can also be found on the
+table of contents. Obviously the work is a piece of literature, so
+that places it is the broadest category of 800.
+
+   The themes of the books can also be major helps to those
+who are trying to determine the category in which an item
+should be placed. Useful elements include:
+
+ 1. Item Title
+ 2. Chapter titles
+ 3. Introduction
+ 4. Subject headings on the publishing page
+ 5. Records made by other institutions, such as OCLC or a
+
+      Library Consortium.
+
+Look Up Dewey Decimal Numbers
+
+There are multiple methods one can use for free to access the
+90 | CREATING CALL NUMBERS USING DEWEY DECIMAL
+CLASSIFICATION
+
+Dewey Decimal Classification System. If you do not have
+access to WebDewey, we will use the Open Access provided
+by LibraryThing on their Melvil Decimal System page. If you
+have a WebDewey account, you can also use this account to
+search for DDC categories. Access to OCLC Connexion is
+imperative, as that program will help you find the most
+accurate MARC records for each item. There is no reliable
+Open Access counterpart to this system.
+
+   Let us try to look up some Dewey Decimal Call Numbers
+for some other items.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=53#h5p-12
+
+These tools will get you access to the first few numbers. To
+generate a Dewey Decimal Cutter number, use the tool
+provided by ALT at http://cutternumber.com/. Some Cutter
+numbers are a combination of this process and the Library of
+Congress classification system.
+
+   After the subject number and Cutter number, be sure to
+place a year. This will further differentiate each item that has
+a similar subject and same author. If two books have the same
+subject and author and were published in the same year, there
+                    CREATING CALL NUMBERS USING DEWEY DECIMAL
+                                                                CLASSIFICATION | 91
+
+are multiple methods to differentiate. One can either have a
+more specific Dewey Decimal Number on one of the books or
+add a letter after the year. The latter option is preferred.
+92 | CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+CLASSIFICATION SYSTEM
+
+9.
+
+CREATING CUTTERS
+USING THE LIBRARY OF
+CONGRESS
+CLASSIFICATION
+SYSTEM
+
+The last LCC chapter examined the essentials of the LCC
+system. Now, we will put that to work and create an LCC
+number for a book. Most of this effort will be put toward
+creating Cutter numbers.
+
+   In the Library of Congress classification system, The
+Foundation trilogy has the call number PS3551.S5 A6 1982.
+This call number falls within the subclass PS, which includes
+all American literature. The number range after the subclass
+designation is 3500-3549. This number range consists of all
+American literature created between 1900 to 1960.
+
+   While the Cutter number is A6, another Cutter number,
+and perhaps the most thorough one, is A85668. The A6
+Cutter number is not an author number but a "type of work"
+Cutter number generated for fiction. A6 states that the item in
+                CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+                                                      CLASSIFICATION SYSTEM | 93
+
+  question is a selected work. The year 1982 is the year that the
+  omnibus edition was published.
+
+     This is the guide table for the creation of LCC Cutter
+  numbers:1
+
+1. Library of Congress. Cutter Table. Retrieved on December 6, 2022 from
+  https://www.loc.gov/aba/pcc/053/table.html.
+94 | CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+CLASSIFICATION SYSTEM
+
+1. After initial vowel
+
+for the second letter: b d l-m n p r s-t u-y
+use number: 2 3 4 5 6 7 8 9
+
+2. After initial letter S
+
+for the second letter: a ch e h-i m-p t u w-z
+use number: 2 3 4 5 6 7 8 9
+
+3. After initial letters Qu
+
+for the third     aei o r            t y
+letter:
+
+use number: 3 4 5 6 7 8 9
+
+For initial letters Qa-Qt, use 2-29
+
+4. After other initial consonants
+
+for the second letter: a e i o r u y
+use number: 3 4 5 6 7 8 9
+
+5. For expansion
+
+for the letter: a-d e-h i-l m-o p-s t-v w-z
+
+use number: 3 4 5 6 7 8 9
+
+If you are creating a Cutter number based on a title that begins
+with numbers, use .A12-.A29 as your Cutter number, using
+             CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+                                                   CLASSIFICATION SYSTEM | 95
+
+.A12 for extremely low points of the number range in your
+holdings and .A29 as the high point.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=55#h5p-22
+
+Remember that if a letter comes up that is not in the table for
+some reason (for example, if you are making a Cutter for the
+surname Thomasin, the letter "h" will not appear in the table).
+In this instance, use the number for the letter in the table that
+most immediately precedes it. Below is an edited version of the
+table along these lines.
+96 | CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+CLASSIFICATION SYSTEM
+
+                                                                  This
+                                                                  version
+                                                                  of the
+                                                                  Cutter
+                                                                  table
+                                                                  above
+                                                                  adds a
+                                                                  letter
+                                                                  range
+                                                                  that
+                                                                  should be
+                                                                  used if
+                                                                  secondar
+                                                                  y letters
+                                                                  are not
+                                                                  included
+                                                                  in the
+                                                                  original
+                                                                  version.
+
+Sometimes, in the case of authors especially, the cutter number
+
+refers to a name. According to the Classification Schedule,
+
+in some instances the letter of the first cutter number is the
+
+second letter of the author's last name. The numbers following
+
+it are generated by the table above. For example, the "S5" in the
+
+Cutter number above is a Cutter number that refers to "s-i"
+
+from the last name "Asimov."
+
+   Occasionally, you will need to make a Cutter number for
+
+the book or author that is not from the Cutter Table. In fact,
+
+you should create Cutter numbers primarily based on
+
+availability of the Cutter. The number directed by the table
+
+may already be taken for one reason or another. The Cutter
+             CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+                                                   CLASSIFICATION SYSTEM | 97
+
+Table should be used only if the appropriate Table number has
+not been taken by another item or author in the catalog. The
+general rule is to avoid 0s, 1s, or 2s in your Cutter number.
+You should ensure that Cutter numbers are as short as possible
+and fit within the alphabetic listings already in the library. For
+example, if the Cutter Number for Strong is .S77 but there
+is already another author with Strong as a surname whose
+first name comes before the new author's in the alphabet, the
+Cutter number might need to be .S78 or .S773 or .S774.
+
+   Author Cutter numbers are the second, and most common,
+cutter numbers. However, there are also topical cutter
+numbers. For instance, the cutter number for Acorns is A3.
+Bananas, on the other hand, are B3. If you cannot find a
+Cutter number, fit the number alphabetically between the
+other entries in the "A-Z" list according to the rules for author
+surnames in the paragraph above.
+
+   When creating Cutter numbers for works by corporate
+entities or societies, the same Cutter number should be used
+for all works. Years or work numbers (lowercase letters) should
+differentiate between parts of monographs and discrete
+resources.
+
+   When assigning a Cutter number based on a corporate or
+government-associated group, the broadest corporate name
+should be used to assign a Cutter number. For example, if
+the American Historical Association has a Cutter number of
+.A46, then the Utah chapter of that organization should also
+have a Cutter number of .A46. Jurisdiction areas for
+98 | CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+CLASSIFICATION SYSTEM
+
+corporations, government-associated institutions, and
+government departments should be ignored unless they are in
+the title or the first subheading.
+
+   If departments of a government are responsible for a specific
+work, the name of the parent department should be used, not
+any of its subgroups. In a comparable fashion, only the first
+subheading of a government department or group that has
+multiple subheadings should be considered.
+
+   Editions and abridgments should have similar but distinct
+Cutter numbers. Translations of works should have the same
+Cutter number as the original work or edition, being
+distinguished by a year and/or another Cutter number.
+
+   When corporations are the subject of a work, that work
+should be assigned the same Cutter number as a work that
+was created by that corporation. This Cutter number should
+be accompanied by another Cutter number that specifies the
+author or the date. This will ensure that those who are paying
+attention to cataloging rules will know that the work is about
+a corporation rather than by a corporation.
+
+   The same thing is true if a person is the subject of a
+biography. If they are an expert on a particular subject and have
+created a work on that subject, a biography about them should
+be entered on that subject, with the same subject Cutter
+number. The person's cutter number may be recorded but can
+also be replaced by that of the author of the biography.
+             CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+                                                   CLASSIFICATION SYSTEM | 99
+
+Apply your Knowledge
+
+Now let's try to make some LCC Cutter numbers. Check out
+the LCC Outline, including PDFs that go into more detail
+than the list on the other LCC page. This will give you the first
+block of letters and numbers that should be included in the call
+number. Remember to be as specific as you reasonably can to
+give a unique cutter number to the item.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=55#h5p-23
+
+In order to create an LOC Cutter number, use the table above
+or go to https://calculate.alptown.com/. Use the website by
+clicking on "LC Cutter" (which should be the default
+selection anyhow) and typing in at least the first three letters
+of the last name of the author. In either case, be prepared to
+defend your answer using the table.
+
+General Principles of Classification have been prepared by the
+Library of Congress to guide catalogers in assigning books to
+100 | CREATING CUTTERS USING THE LIBRARY OF CONGRESS
+CLASSIFICATION SYSTEM
+
+particular subjects in the LCC. For example, this document
+reviews whether or not to emphasize the geographic setting of
+the work over its subject. Catalogers are encouraged once again
+to be as specific as possible.
+
+   Expansion upon these principles is often necessary to be
+able to classify works and create call numbers for specific items.
+Catalogers often also need to be able to view entire classes as
+a group and organize them. To enable catalogers to handle the
+minutiae of their daily tasks, the Library of Congress created
+an Online Training on the LCC.
+
+   Sometimes it is best to learn about these things through
+reading, and obviously it is impossible to give guidance on
+every situation in a textbook such as this, even though it is
+online. The Library of Congress Classification and Shelflisting
+Manual will help you with any questions regarding best
+practices and tricky cataloging decisions.
+                                         CLASSIFICATION WEBSITE AIDS | 101
+
+PART IV
+
+CLASSIFICATION
+WEBSITE AIDS
+102 | CLASSIFICATION WEBSITE AIDS
+            USING OCLC CONNEXION | 103
+
+10.
+
+USING OCLC
+CONNEXION
+
+OCLC Connexion is a service that has proliferated across the
+world. Its purpose is to allow libraries to share MARC records
+and profit from each other's work. There are multiple benefits
+to this tool, including standardization, learning from others'
+perspectives and work, and saving time that would otherwise
+have been spent creating detailed MARC records.
+
+   Mostly, Connexion is used to perform searches for work
+catalog records that can be adopted by a local institution for
+metadata recording. Once you have signed into OCLC
+Connexion, go to the Cataloging page and ensure that you
+are searching through WorldCat's records. WorldCat is the
+worldwide catalog created through the collaboration of all
+libraries that are part of the OCLC network.
+104 | USING OCLC CONNEXION
+
+                            The
+                            search
+                            page has
+                            two main
+                            options:
+                            Comman
+                            d Line
+                            Search
+                            and
+                            Keyword
+                            Search.
+
+The most frequent search you will do in Connexion will be
+the "Keyword/Numeric Search." You can search for a work's
+title, the name of the author, the publisher, the language, the
+medium in which the work was presented, and the years of
+publication. Many other aspects of a work or item can be
+searched. Searches that are too broad or too specific may not
+result in any satisfactory results. For example, a broad search
+for "second foundation" in the title field, "asimov, isaac" in
+the author field and English as the language yielded over five
+hundred results.
+                                                 USING OCLC CONNEXION | 105
+
+                                                                  Over five
+                                                                  hundred
+                                                                  results
+                                                                  appear
+                                                                  after a
+                                                                  search
+                                                                  containin
+                                                                  g two
+                                                                  title
+                                                                  words,
+                                                                  the
+                                                                  author
+                                                                  name,
+                                                                  and work
+                                                                  language.
+
+Once we included the year of publication, 1953, results were
+decreased to only thirty.
+
+                                                                  Thirty
+                                                                  results
+                                                                  appeared
+                                                                  after a
+                                                                  search
+                                                                  containin
+                                                                  g title,
+                                                                  author,
+                                                                  and year
+                                                                  informati
+                                                                  on.
+
+Including the publisher, Gnome Press, yielded three results.
+106 | USING OCLC CONNEXION
+
+We were easily able to select the most accurate record from
+these three.
+
+                                                                  Title,
+                                                                  author,
+                                                                  language,
+                                                                  publicatio
+                                                                  n year,
+                                                                  and
+                                                                  publisher
+                                                                  name
+                                                                  searches
+                                                                  can result
+                                                                  in very
+                                                                  limited
+                                                                  search
+                                                                  results,
+                                                                  as seen
+                                                                  here.
+
+There are a myriad of searches one can perform on Connexion,
+including Title, Title Phrase, and Author. Title searches for
+keywords in the title, while Title Phrase looks for an exact
+phrase as typed in the search box. Remember that you should
+search for items with all lowercase letters, even if they are
+capitalized in the title or in a name. Titles in MARC records
+only have their first letter capitalized, and sometimes not even
+that. Also remember to search for people with their last name
+first, a comma, and then their given name.
+                                                 USING OCLC CONNEXION | 107
+
+                                                                  This
+                                                                  screensh
+                                                                  ot shows
+                                                                  the
+                                                                  search
+                                                                  terms
+                                                                  used to
+                                                                  get the
+                                                                  results in
+                                                                  the last
+                                                                  image. It
+                                                                  also
+                                                                  models
+                                                                  the most
+                                                                  effective
+                                                                  methodol
+                                                                  ogy for
+                                                                  searching
+                                                                  in OCLC
+                                                                  Connexio
+                                                                  n.
+
+While it is less intuitive, you can search for items through the
+
+Command Line Search. Usually, this is beneficial if you know
+
+an ISBN to search for an item. However, you can also use a
+
+limiter in this search by using the symbol at the beginning of a
+
+Field designation in the Keyword/Numerical Search box. For
+
+example, if you are searching for a title word, type "ti:" and
+
+then the title keywords.
+108 | USING OCLC CONNEXION
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+        can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=62#h5p-16
+
+Usually, there are two informal ways to determine which
+record has the most accurate. The first is through the
+preponderance of use instances of the record. In other words,
+the record with the highest number after the label "Holdings"
+at the end of its summary in the results page is frequently
+the most accurate and thorough record. Another way is to
+examine whether or not the record has a blue label near its end.
+For example, a blue label of "DLC" is a sign that that record
+is the official catalog record used by the Library of Congress
+in its holdings. Results can be limited to DLC or other "blue
+box records" by selecting DLC in the Source section of the
+Keyword/Numeric Search.
+                                                 USING OCLC CONNEXION | 109
+
+                                                                  This
+                                                                  search
+                                                                  results
+                                                                  page
+                                                                  contains
+                                                                  only
+                                                                  "blue
+                                                                  box"
+                                                                  results,
+                                                                  which
+                                                                  indicates
+                                                                  that they
+                                                                  are
+                                                                  preferred
+                                                                  records.
+                                                                  DLC
+                                                                  records in
+                                                                  particular
+                                                                  are
+                                                                  preferred,
+                                                                  as they
+                                                                  have
+                                                                  been
+                                                                  created
+                                                                  by the
+                                                                  Library of
+                                                                  Congress.
+
+Click the number at the right of the catalog record in the
+
+results page that you want to use. You will be taken directly to
+
+a large MARC record for the work. You can see all pertinent
+
+fields and even print or export the record for your own uses.
+110 | USING OCLC CONNEXION
+
+                            This is a
+                            Library of
+                            Congress
+                            MARC
+                            record for
+                            the novel
+                            MEXICA
+                            N
+                            GOTHIC.
+
+How do you access these files, though? One way is through
+Exporting. In the middle menu, click "Export Record in
+MARC." Then, click on "Express" and "Download Export."
+Click on the most recent record and you will have the record
+on your server. Other options for use include creating a local
+holdings record with your institution and viewing other local
+holdings on Connexion to request an Inter-Library Loan.
+These are other facets of library cataloging that will not be
+discussed in this course. They will be discussed, however, in
+the Introduction to Library Science course.
+
+   One can also search for Authority records on this system,
+but the Library of Congress official Subject and Name
+Authorities list is more... authoritative. Clicking on the Dewey
+Services link will take one to WebDewey.
+                                                           USING WEBDEWEY | 111
+
+11.
+
+USING WEBDEWEY
+
+Connexion and WebDewey are designed to be used together
+with ease, which makes sense because they were created by the
+same organization, OCLC. We will explore how to navigate
+WebDewey in a more detailed way than you have had to do for
+earlier exercises.
+
+Home Page
+
+Once you have signed in with your institutional login
+information, you will be taken to the standard home page of
+WebDewey.
+112 | USING WEBDEWEY
+
+                      This is
+                      the page
+                      you see
+                      once you
+                      log in to
+                      WebDew
+                      ey.
+
+On the home page of WebDewey, there is a standard search bar
+with a button. This is useful for some searches, but there are
+also many other tools available on the home page that may be
+more immediately useful.
+
+   The top bar that has orange buttons has various ways of
+looking at the information contained with WebDewey. Aside
+from a regular Search option, there are also Advanced search
+and Browse options, as well as links to Comments and
+Updates. The Advanced Search and Browse options will be
+much more helpful than a regular search, as you will see
+through this description.
+
+   The bottom left of the home page has a table with three
+rows. These represent all of the information contained in the
+23rd edition of the Dewey Decimal Classification System. The
+                                                           USING WEBDEWEY | 113
+
+top row contains links to all main classes of the Dewey system,
+from 000 to 900 (or 0XX to 9XX). The second row contains
+the Nine Tables, from T1 to T6 (T3 has three subtables,
+named A, B, and C), that help catalogers append numbers
+based on subject, publisher motivation and publication type.
+The third row holds the Dewey Decimal Manual, and
+Introduction to the system, a Glossary of terms, and
+Relocations and Discontinuations information for past
+editions.
+
+   On the right side of the home page is an abridged edition
+of the Dewey Decimal System. This type of system is only
+on its 15th edition and has four tables instead of nine. The
+same resources for the unabridged edition are available for the
+abridged edition.
+
+Navigating Forward
+
+Now we will explore what happens when you decide to move
+forward in your investigation by clicking on one of the
+multiple options provided for finding a Dewey Decimal call
+number. Whatever you decide, you will eventually come to the
+same type of page that has standardized features and options.
+
+Selecting a Main Class
+
+If you proceed by selecting a main class from either one of the
+Dewey Decimal tables at the bottom of the home page, you
+114 | USING WEBDEWEY
+
+will be taken to a page that has that class' subclasses listed out.
+Some of these will be individualized and some will be in lists.
+For example, the range of 220 to 290 is listed as "Bible and
+specific religions."
+
+                                                                  This page
+                                                                  appears
+                                                                  when
+                                                                  you click
+                                                                  on the
+                                                                  200
+                                                                  range on
+                                                                  WebDew
+                                                                  ey.
+
+When you select one of these subclasses, or click on a range
+and get to a specific subclass, you will to taken to yet another
+subclass list, sometimes within the same page. Eventually, you
+will be taken to a page that lists the decimal points down to
+a degree of some specificity. As you progress further, your
+decimal numbers will have more places until you reach a point
+at which you cannot add any more subject levels. This is where
+you would go to a Table for additional numbers if needed.
+                                                           USING WEBDEWEY | 115
+
+                                                                  Selecting
+                                                                  increasin
+                                                                  gly
+                                                                  longer
+                                                                  numbers
+                                                                  will lead
+                                                                  to
+                                                                  captions
+                                                                  and
+                                                                  categorie
+                                                                  s of
+                                                                  increasin
+                                                                  g
+                                                                  specificity
+                                                                  .
+
+Selecting a Table
+
+If you select a table, you will be taken to a page that has a large
+section of notes. These paragraphs will guide you as to how
+you should use that specific table. The most common Table
+used is Table 1. Links to specific numbers, the most common
+numbers, are given with definitions for those numbers. In a
+box with the Table Number followed by "Standard
+Subdivisions," you can browse all numbers of the table
+beginning at the broadest categories and proceeding lower.
+116 | USING WEBDEWEY
+
+                      Each
+                      table
+                      page
+                      contains
+                      notes for
+                      how to
+                      use it as
+                      well as
+                      lists of its
+                      subdivisi
+                      ons.
+
+All table numbers begin with 0. Table numbers should never
+be used as as the basis for a Dewey Decimal number. Instead,
+they should be tagged on to the base number after the subject
+has been thoroughly identified. The "0" at the beginning of
+the number should always be included. If the base number
+ends with a "0", the two zeros should be combined. For
+example, if the base number were 630 and the number from
+Table 1 was 03, the result would be "630.3," which stands for
+"Agriculture-dictionaries encyclopedias, concordances."
+                                                           USING WEBDEWEY | 117
+
+                                                                  This
+                                                                  screen,
+                                                                  particular
+                                                                  ly the
+                                                                  "Synthesi
+                                                                  zed
+                                                                  number
+                                                                  compone
+                                                                  nts" box,
+                                                                  shows
+                                                                  how the
+                                                                  Dewey
+                                                                  Decimal
+                                                                  Number
+                                                                  630.3
+                                                                  was
+                                                                  created.
+
+As you click on specific table numbers, you will be guided by
+notes that appear at the top of the page. As many of these
+notes say, you should not use the subdivisions unless they are
+specifically requested in the schedule or unless you have
+specific reason to. To prevent miscategorization, sometimes
+the notes state that certain types of works that may be
+categorized under this table number should be categorized in
+a specific subclass number instead. For example, the Table 1
+number for biographies is 092, but the biography of an
+individual that is not related to a specific topic is reserved for
+subclass 920.
+118 | USING WEBDEWEY
+
+                      Notes on
+                      Table
+                      Numbers
+                      can also
+                      lend
+                      insight
+                      on how
+                      to use
+                      Class
+                      Numbers.
+
+Proceeding with a Regular Search
+
+The search button can be selected whether or not you have
+entered a query into the box. If one has used a search engine
+much, their first instinct will be to use this search option.
+However, it is only useful if one has patience and a keen eye.
+For example, if one searches for 351, the subclass of the Dewey
+Decimal System, which is likely what one was searching for,
+will be the 23rd results instead of the top result. Instead, the
+top 15 rows will be filled with Table numbers.
+                                                          USING WEBDEWEY | 119
+
+                                                                  When
+                                                                  you
+                                                                  search
+                                                                  for a
+                                                                  class
+                                                                  number
+                                                                  in the
+                                                                  general
+                                                                  search,
+                                                                  such as a
+                                                                  search
+                                                                  for 351,
+                                                                  you may
+                                                                  not easily
+                                                                  find what
+                                                                  you are
+                                                                  looking
+                                                                  for.
+
+Clicking on the search bar with no query will lead to a results
+page that is empty. This will enable the searcher to browse
+through specific fields or search in specific fields. There are
+two bubbles next to the new search bar: Search and Browse. If
+one selects browse, the default field being searched will be the
+Dewey Numbers. Searching for 351 will result in the subfield
+by that label occurring in the second entry rather than the
+23rd. Other options for browsing include the Relative Index
+list (a list of related categories), the Library of Congress Subject
+Heading list, and the MeSH and Sears systems, which we will
+not look into here.
+
+   Clicking on the Search bubble will allow searches through
+120 | USING WEBDEWEY
+
+those options and more, including the Notes, Comments, and
+Author fields. Be aware, though, that Searching for Dewey
+Numbers rather than Browsing will still delay one's search for
+the subclass. On the other hand, this may lead to exploring
+new possibilities. Searching for 351 in Dewey Numbers
+yielded a comparative result between subclass 351 and Dewey
+Decimal Number 352.29. This page contained notes on when
+each number was appropriate and less appropriate, as well as
+recommendations for similar numbers.
+
+                                                                  Search
+                                                                  results
+                                                                  with
+                                                                  Dewey
+                                                                  Numbers
+                                                                  can lead
+                                                                  to useful
+                                                                  comparis
+                                                                  on notes.
+
+Proceeding with an Advanced Search
+
+Selecting "Advanced Search" results in a page with five fields,
+three preset to search "Relative Index" and two preset to search
+                                                           USING WEBDEWEY | 121
+
+the Library of Congress Subject Headings. All are connected
+with the "AND" Boolean symbols. The Boolean symbol can
+be AND, NOT, or OR. As many fields are needed can be used,
+and the others will be ignored. Often, only one or two fields
+will be used. This function can be used if one only wants to
+search the Relative Index or the Author fields. As far as the
+Library of Congress Subject Headings, it is already known
+that the most accurate database of these Authorities is the
+Authorities page maintained by the Library of Congress itself.
+
+Browsing
+
+Selecting "Browse" will lead to another iteration of the Browse
+option presented after an initial search. At this point the
+question may have arisen in your mind, "What is the difference
+between browsing and searching? Aren't they essentially the
+same thing?" They are similar, but searching is more specific
+and intentional than browsing. When you browse, including
+using this function in WebDewey, you are looking for a general
+idea of the contents of a website or item. Searching includes
+looking for a specific results or piece of information.
+
+Coming to an Acceptable
+Destination
+
+Whatever method you select, you will eventually come to a
+122 | USING WEBDEWEY
+
+page that has multiple boxes. Usually, the top will contain
+Notes on how to use the selection you have chosen. Below
+that will be a box for comments. The last large box will be
+the label of your selection, along with a logical record of how
+the selection fits within Dewey subclasses and the broad class.
+Below your selection will be possible options for more specific
+subjects. You can go as specific as the system will allow.
+
+   As you get into more specific numbers, sometimes a small
+box containing Table information will be provided. This will
+give information as to which tables were used to create a
+certain Dewey Decimal number.
+
+   Below the box labelled with your selection will be a box
+containing Relative Index Terms for similar subjects, followed
+by other sources for subject terms, including the Library of
+Congress Subject Headings Authorities page.
+
+   Above your selection will be a box labelled "Create built
+number" with your selection listed, along with an option to
+"Start." If you need to research how a particular Dewey
+number was created, or if you would like to create a new
+number, this is how you should proceed.
+
+Apply Your Knowledge: Creating
+Dewey Decimal Numbers with
+Tables
+
+In these exercises, you will learn how to create Dewey Decimal
+                                                          USING WEBDEWEY | 123
+
+Numbers through Tables. You will also demonstrate that
+knowledge at the same time. There is no way to learn faster
+than to practice!
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=60#h5p-13
+
+As you learned through these processes, when building a
+number you should always make sure that you press "ADD"
+when creating a number when you have reached the most
+specific number in a list. Without that, the system will not
+recognize the addition as legitimate. This is a helpful feature
+so that categorization is not inappropriate. However, it can be
+difficult when you have to create a number and have no way
+of knowing where you went wrong. Creating Dewey Decimal
+subject class numbers requires both skill and concentration!
+124 | USING CLASSIFICATION WEB
+
+12.
+
+USING CLASSIFICATION
+WEB
+
+Classification Web is the site used by catalogers who are using
+the Library of Congress Classification System. There are
+multiple types of searches one can perform on this website,
+including through the schedules and tables and through
+subject headings. It has a somewhat complicated interface, but
+with some training it will be easy to navigate.
+
+   Before we continue let me refer you to the Library of
+Congress' Cataloging Workshop Page. This page is helpful
+even for librarians who have been in the field for years and
+years. The Online Training for the Library of Congress
+Classification is a particularly excellent resource.
+
+LCC Enhanced Browser
+
+This is the second-most easy browser in Classification Web to
+use. It provides easy access to both schedules and tables of the
+Library of Congress Classification system.
+
+   At the top of the page is a standard search box with two
+                                             USING CLASSIFICATION WEB | 125
+
+menus. The first menu provides the option to search through
+either the schedules of the LCC system or the tables. Until you
+get down to more specific categories or forms, you will only
+want to use the schedules. The second menu provides searches
+through Class Number (the basic part of your call number)
+Caption (the subject associated with a call number), and Index
+terms or a combination of Index and Caption terms.
+
+   When searching with caption terms, it is important to know
+that caption searches are always "left-anchored." This means
+that the query will be read from left to right and matched
+perfectly with any possible captions. Caption searches are
+useful, but are usually only productive if the cataloger already
+knows what the first word or first few words of a caption will
+be.
+
+   Searching the index can be helpful in some instances, but
+there are many problems with this feature of Classification
+Web. Only high-level terms are indexed, as well as some special
+topics. Geographical terms and corporate bodies are not
+indexed. Tables are also not indexed.
+
+   When searching for Index and Caption terms, it is
+imperative that you always double-check the schedule to
+ensure that the number you have found is appropriate and
+unrestricted. The schedules and tables can be tricky!
+
+   When I put "Raelian" in the Search bar and selected
+Schedules and Caption search parameters, first search result
+was the Raelian Movement, which is what I was looking for.
+The class number associated with this topic is BP605.R338. If
+126 | USING CLASSIFICATION WEB
+
+I put "Raelian" and search automatically, the default search is
+a Class number, which takes me to completely different topics
+in the schedules. As with searching in OCLC and WebDewey,
+it is important that your parameters, or limiters, are correct
+before your search.
+
+   The text immediately below the search bar and above the
+schedule lists the hierarchy of your current selection in the
+schedules. The hierarchy for the Raelian Movement is "Islam,
+Bahai Faith, Theosophy, etc.-Other beliefs and
+movements-Works. By movement, A-Z-Raelian
+Movement." Each of the levels in this line are hyperlinked to
+see how a particular topic fits within the larger groups.
+
+   When you click on the box next to an entry in the schedule,
+options appear to view that subject's Dewey correlation,
+Bibliographic lookup results, results in the LC class browser,
+LC Subject correlation, relevant LCSH entries, and MARC
+display of that subject.
+
+   The enhanced browser is more accurate than the standard
+browser, which will be discussed in the next section. It also
+aligns with the Hierarchy Browser by providing actionable
+entries with hierarchy information at the top of the results
+page.
+
+LCC Standard Browser
+
+The standard browser is the typical browser that one would
+use on a typical search engine. It is not as helpful as an
+                                             USING CLASSIFICATION WEB | 127
+
+enhanced browser, but it is the most accurate representation of
+the LCC schedules. The main difference between this browser
+and the enhanced browser is that this browser does not include
+the tables. All table calculations must be performed manually
+by the cataloger. Links to the tables are provided, but they
+are not integrated into the browser. There is almost no reason
+that you should use the standard browser. You may use it if
+you already have an idea about the discipline into which a
+particular subject has been cataloged, but you might as well
+still use the enhanced browser to learn about the subject.
+
+LCC Hierarchy Browser
+
+The hierarchy browser is a further-enhanced browser that
+focuses on displaying one hierarchal level at a time. As you
+view one level, you can proceed one level down or go multiple
+levels up to see how lower hierarchical levels fit within higher
+ones.
+
+   Navigating this browser can be confusing, and it is a little
+tricky to understand because progression cannot be seen on
+every screen. In the Hierarchy Browser, you have to click on
+a particular category to see the lower levels. The result of the
+search is the highest category to which you can reverse your
+browsing, unless you search again with a different number.
+
+   While this browser may not appear to be useful, it can be
+particularly handy when you do not know which category an
+item should fall into. As long as you know the form of the item
+128 | USING CLASSIFICATION WEB
+
+and a general subject, you should have relatively little trouble
+finding the base of your call number.
+
+Results Options
+
+Now that we have discussed the options you can use to find
+specific topics, it is time to discuss how to understand and
+integrate these results with your broader work. It is essentially
+useless to know an LC Number if you do not know how to
+make it communicate with other systems and functions of the
+library. Most of these are self-explanatory, but we will review
+each of them anyhow.
+
+Dewey Correlation
+
+The Dewey correlation option leads to a page that includes
+a Dewey number associated with that particular subject. For
+example, the Dewey number that matches most closely with
+BP605.R338 is 299. From that page, as well as from the
+original schedule display, you can go to a bibliographic lookup
+page.
+
+Bibliographic Lookup
+
+The bibliographic lookup option does exactly what it appears
+to do. This function looks for works according to a particular
+number. Be aware that if you look for books according to
+                                             USING CLASSIFICATION WEB | 129
+
+the Dewey Correlation Number instead of the original LCC
+number, the range of topics covered in the book will be much
+broader. For example, there were around three hundred works
+listed under the 299 Dewey number and only 2 listed under
+BP605.R338: mouvement raelien et son prophete: approche
+psychologique complexe du charisme and Aliens adored: Rael's
+UFO religion.
+
+   Bibliographic Lookup eventually takes one to the
+Bibliographic Browse section of the Classification Web site.
+In this section, you can look for books by LC Call number,
+personal names, titles, subjects, Dewey call numbers, ISBNs,
+and record numbers as well as system control numbers. You
+can click on parts of the text record of a work, like the title and
+the author name. If you click on the title you can see books
+that have similar titles. If you click on the author name you can
+see other works by the same author. Clicking on the [Record]
+link shows a thorough MARC record for the work.
+
+   If you use Bibliographic Lookup to search for a book by
+LC Call Number, the books will be arranged by their record
+number. At the bottom of the result record are possible
+Library of Congress and Dewey Decimal call numbers.
+
+Library of Congress Subject
+Correlation
+
+If you click on this option, a Library of Congress Class
+Number-led results page will appear with subjects under its
+130 | USING CLASSIFICATION WEB
+
+purview indented below each number. This will also be under
+the heading of Correlations. Below the number you have
+selected will be the next few entries in the schedule with their
+subjects.
+
+   The white box near each topic has a potential to lead to the
+Bibliographic Browse page, but unless the subject is a given
+name results of this action will be skewed.
+
+Library of Congress Subject Heading
+
+When you click on this option, you are taken to the "Subject
+Heading Browse" page. On this page, you can search by class
+number, subject heading, free-floating subdivisions (including
+pattern subject headings and subdivisions), unstructured
+headings and subdivisions, class number, and record number.
+Descriptions of these subjects, including whether or not a
+subject may be subdivided geographically, are also present on
+this page. Further indentations include information about
+other relevant subjects.
+
+MARC Display of Subject
+
+This page takes you to a page that has the specific MARC
+record related to a class number. You cannot progress past this
+page, but it is a wealth of information if you know how to
+interpret the data contained therein. You can take this record
+and put it into MARC records you are creating for items
+                                             USING CLASSIFICATION WEB | 131
+
+dealing with a particular subject. Information about the
+creation and modification of the record are also included on
+this page of the site. Records are downloaded in UTF-8
+format.
+
+Correlations Page
+
+The correlations page is a massive search page that allows you
+to look for connections between Library of Congress Class
+numbers, Library of Congress Subject Headings, Dewey Class
+Numbers, Creator names, and NLM (National Library of
+Medicine) classification.
+
+Other Options
+
+The main menu that can be accessed by the three bars at the
+top left side of the page offers the opportunity to browse all
+of the topics above as well as demographic group terms, genre
+terms, children's subject headings, and performance medium
+terms. Essentially, topics can be approached from a wide
+variety of angles.
+
+   If you click "New Search" on the top right corner, you
+can search all of these pages at the same time. Boolean
+functionality is fulfilled by placing words in multiple search
+boxes or putting multiple words with Boolean operators in
+one box. Options for a basic search include Class Numbers,
+Captions, Keywords, Index terms, and other terms. Filters for
+132 | USING CLASSIFICATION WEB
+
+these searches, such as only showing tables or schedules, can be
+selected by clicking the "Search options" link.
+
+   At the bottom of the "Search options" section, an option to
+limit searches to particular schedules can be used by clicking
+the "Subsets" button.
+
+Interpreting Results
+
+Before you examine the results of your Classification Web
+browsing or search, you need to understand the hierarchy of
+the LCC system. In the schedules and tables, hierarchy is
+demonstrated by indentation, not the length of the number
+like in the Dewey Decimal System. The numbers are also not
+indicative of any particular subject or division. Again, this is a
+deviation from the Dewey Decimal System.
+
+   Periods are present in both the Library of Congress Call
+Number and the caption. Their presence in Call numbers has
+already been explained. In captions, there are multiple
+purposes. Periods can either show equivalent terminology for
+which other researchers have searched, arrangement
+instructions for subcategories, or synonyms or related topics
+that are categorized together despite being different iterations
+or aspects of the same subject.
+
+   Another important aspect of captions is the notes that may
+appear indented below them. One of the most common notes,
+which also appears in WebDewey, is the "Class here" phrase.
+This note explains the scope of the class. A similar but distinct
+                                             USING CLASSIFICATION WEB | 133
+
+type of note is the "Includes" note. This gives examples of
+types of works that can be included in a class but is not
+exclusive like the "Class here" note. "Subarrange" notes tell
+catalogers in which specific category certain types of works
+should be placed.
+
+   Other notes explore different topics through cross-
+referencing. "See" notes are for captions that do not have a
+Library of Congress Classification number assigned to them.
+These subjects are categorized under different numbers, and
+the "See" cross-reference note lists the caption and number.
+The "For ... see" notes state that specific subdivisions of a
+subject should be classified under another number. "Cf."
+notes are similar to "For ... see" notes but are not as definitive.
+They merely suggest that a certain range of numbers may be
+more appropriate.
+
+   If a result has parentheses around its number, that number
+is not valid anymore. Most of the time, this is accompanied by
+a link to an updated number indented under the caption.
+
+   Bracketed numbers are numbers that local libraries can use
+in conjunction with the existing designations at the Library of
+Congress.
+
+Selecting the Best Number
+
+While the Dewey Decimal System encourages catalogers to
+create their own call numbers for works that do not exactly
+fit into a particular subject, the Library of Congress explicitly
+134 | USING CLASSIFICATION WEB
+
+forbids most librarians from creating or proposing new call
+numbers. Instead, librarians should choose the best fit number.
+There are several rules you should always remember for
+situations in which you must perform original cataloging:
+
+ 1. Always catalog the subject of the item before you catalog
+      it by its form, unless you are dealing with literature.
+
+ 2. Always keep in mind the author's intent when writing
+      the work.
+
+ 3. Always ensure that the first subject heading is
+      incorporated into the call number, and try to include the
+      second as well.
+
+ 4. Always make sure that the work's author does not have
+      their own individual call number.
+
+ 5. When dealing with multiple subjects, catalog an item
+      based on its broadest subject and/or the first one
+      mentioned if a call number does not exist for all subjects.
+      If all items are covered equally and there is a call number
+      for all subjects, choose a call number that covers a
+      broader subject that immediately covers all topics
+      discussed in the item.
+
+ 6. If there are multiple major topics, assign a call number
+      that reflects the topic that fills most of the pages.
+
+ 7. At times a work will be about the influence of one
+      subject on another. For example, the influence of the
+      Chinese government on the development of Buddhism
+      in China. In that case, you would classify the work in the
+                                             USING CLASSIFICATION WEB | 135
+
+      context of the development of Buddhism in China. The
+      influence of Chinese government would be given
+      secondary, if any, importance. It would only be included
+      in the last part of the item.
+
+Apply Your Knowledge
+
+Yes, now it is time for you to go and learn yourselves about
+the inextricable web of headings, class numbers, captions, and
+tables known as Classification Web. Good luck!
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=58#h5p-19
+
+Parts of this page were adapted from the Library of Congress
+Classification Online Training created by Janis L. Young and
+Daniel N. Joudrey on behalf of the Library of Congress. As an
+official government publication, this training is in the public
+domain.
+136 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+
+13.
+
+LIBRARY OF CONGRESS
+AUTHORITIES: SUBJECT
+HEADINGS AND NAMES
+
+Some metadata can be recorded in a variety of ways. For
+example, a summary does not have to include certain keywords
+in order for it to be valid. Additionally, a title does not have
+to have a certain number of characters to be considered
+authoritative. Other metadata, however, is standardized to
+avoid confusion. The general cataloging term for these specific
+fields of metadata is called controlled vocabulary, as you may
+remember.
+
+   The 600 fields that deal with people, works, places, and
+subjects have a special type of controlled vocabulary called an
+access point. These fields contain information that could be
+recorded hundreds of different ways. For example, the term
+for fiction related to scientific fields could be written "Science
+fiction," "Science Fiction," "science fiction," "sci-fi", "sci fi,"
+or any number of other possibilities. In order to ensure
+standardization, the Library of Congress has created one access
+point to go with each person, subject, or work. Not all works or
+  LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS AND
+                                                                            NAMES | 137
+
+people are represented, but most are. If a person or work is not
+represented in these access points, catalogers are encouraged to
+follow the general trend that is evidenced in the collection of
+access points as a whole.
+
+   The Library of Congress access points are referred to as
+Authority Records, or Authorities. This is my favorite part of
+cataloging. There is only one Authorized Authority Record
+for each entity. This prevents duplication.
+
+   There are multiple tools that someone can use to find
+Authority Records. The Library of Congress has provided a
+massive Name Authority File in database, also called LC
+Names. Users can search the database on the website.
+
+   Subject Headings also have a similar asset available.
+However, this resource is in a PDF form divided into multiple
+sections for each letter and number, in addition to an
+introduction.
+
+   If you are like me, you prefer a joint asset that combines
+both of these Authority Record groups. A massive Library
+of Congress Authorities Database was created, and users can
+search for Subjects, Names, Titles, combined Names and
+Titles, and All types of headings. In this case, Names means
+names of people as well as those of groups, corporations, and
+other organizations. We will use this site in all exercises on this
+page. You are encouraged to bookmark this site for your own
+use.
+138 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+
+Navigating the Authorities Site
+
+Searching through this database can be relatively tricky. There
+are many tips below the search box that can help you navigate
+this site.
+
+   One of the most important tips is to be sure that you are
+searching in the relevant category for your topic. If you search
+for subjects in the name category, for example, results can be
+skewed. Searching for "Asimov, Isaac" in the Subject Heading
+category leads to results linked to the Foundation series, which
+demonstrates the fact that Names of individuals can be used
+as Subject Headings as well. Searching for names of authors in
+the Subject Heading will result in a list of their works, which
+can be useful if you are searching for particular works as a
+subject of another work. You can also search for titles of works
+in the Titles section of the Authorities search.
+
+   When searching for names, always search in the "Surname,
+Given Name" format. Names in their normal order will not
+come up with correct results. This could even result in no
+results being returned.
+
+   Another major note is that you should ensure that your
+spelling is absolutely correct. While I was writing this page,
+I searched for "Asimov, Isacc." This misspelling resulted in
+many Asimovs being returned. None of them were the correct
+Asimov. When I spelled the query correctly, multiple entries
+for Isaac Asimov for returned.
+
+   On that note, it is important that you select the correct
+  LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS AND
+                                                                            NAMES | 139
+
+Authority Heading for an individual. When you look at your
+results, there will be one that has a red button next to it. the
+third result in the "Asimov, Isaac" search, for instance, has an
+Authorized, Refs and Notes" button. Click on that button.
+An alternate version of this button says "Authorized
+Heading."
+
+   When that red button is clicked, a large list containing the
+Authority Record, Scope Note, and alternative entries for the
+name and related subjects appear. Click on the Authority
+Record entry, which is usually the top item in the list. The
+Authority Record will appear at the beginning of that list
+again. Click on that, and a large MARC record for that
+Authority will be displayed. The Personal Name Heading, or
+the text after the MARC Field 100, is the name that should
+be used in Field 100 and/or 600. The Personal Name Heading
+for this record is "Asimov, Isaac, 1920-1992." The Permalink,
+which may be included in a subfield of the 100 or 600 field,
+is lccn.loc.gov/n80126289. If you click on this link, more
+information will be provided, including the LCC Number
+most appropriate for that subject. This is especially useful if
+you do not have Classification Web (although you may not
+have the most accurate LCC Number if you rely completely
+on this method). The LC Classification of the Authority is
+also included, which in this case is PS3551.S5. This is the call
+number that would be used if an author were create a book
+about Isaac Asimov.
+
+   Biographical information of various types, including a list
+140 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+
+of works, may or may not accompany the Authority Record of
+an Author. In the case of a subject, a general description will
+accompany the record.
+
+   Another button will show a Labelled display that replaces
+the bold field headings with terms.
+
+   Another red button on the original search says
+"References." An entry with this button will not be the
+Authorized Heading, but it will lead you eventually to an
+Authorized Heading for the individual represented by that
+entry. Whenever you click on a red button, make sure that
+you are clicking on a link for a heading associated with the
+Library of Congress Headings and not the Library of Congress
+Children's Catalog headings (unless you are a children's
+librarian).
+
+   Corporate names are also listed in the Name Authority
+database. This data will be displayed in a 110 field. Data in
+this field can be in the 410, 610, etc. fields of a work's MARC
+record. Authority records and related information for names
+of individuals and corporate bodies can be used in similar ways
+to subject headings. Therefore, most operations that use or
+require subject headings can be adapted to individuals and
+corporate bodies.
+
+Subject Headings
+
+As stated above, the data in a 100 field for a person is the
+same as a subject heading entry about them. Subject heading
+  LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS AND
+                                                                            NAMES | 141
+
+data that should be used in a MARC record, on the other
+hand, is in the 150 field. Often, the Heading entry directly
+below the Permalink and above the MARC record is the same
+as the 100, 110, or 150 data. However, this is not always the
+case. Therefore, Heading entries should not be considered
+definitive.
+
+   When assigning subject headings and other authorities,
+remember these guidelines:
+
+ 1. Subject headings should be assigned with the broadest
+      and most accurate subject first. If there are two subjects
+      that are equally covered, they can both be included in
+      the same heading. Call numbers will be determined
+      using the first one and/or two subject headings.
+
+ 2. The term "subject heading" means multiple things.
+       1. Each "subject" recorded in an entire MARC field is
+            referred to as a subject heading.
+       2. In a user's perspective, a subject heading is also the
+            first topic listed in a subject string, which has
+            multiple topics combined with commas and
+            hyphens ("Vocal music-France-18th century").
+       3. All topics included after the first one in each of
+            these strings are deviations from "Subject
+            Headings" that are in the Authorities database.
+            Since they are not the first topic in the string, they
+            are called "subdivisions" or "subheadings."
+
+ 3. After the subject matter, time and geographic elements
+142 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+
+      can be included in the subject heading in that order.
+      Geographic subheadings should only follow topic
+      subject headings if those subject headings are designated
+      MAY SUBD GEOG. If an entry says Not Subd Geog or
+      has no decision, do not put a geographic subject heading
+      after this category.
+ 4. See if subdivisions can be combined or if headings
+      should be separated into two or more subheadings.
+ 5. Again, form subheadings should only be used as a last
+      resort.
+ 6. The Authorities list, Classification Web, the Library of
+      Congress Subject Headings Manual, and the
+      Classification and Shelflisting Manual should always be
+      referenced. Check authorities.loc.gov frequently.
+ 7. If a geographic area is assigned to a subject heading or is
+      related to an event or movement that is the subject of a
+      work, the corresponding Library of Congress MARC
+      Geographic Code should be placed in the 043 field.
+ 8. If you feel that you should justify your inclusion of a
+      particular subject heading or name, provide a 667 field
+      with information from the Subject Heading Manual. If
+      you would like to give users more information about a
+      particular subject, include it in a 680 field.
+
+In essence, subject headings are created of multiple Authority
+Record authorized data entries combined into a string of
+subjects according to the methods approved by the Subject
+  LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS AND
+                                                                            NAMES | 143
+
+Heading Manual. Always consult this set of documents before
+you combine subject headings and apply them to items in your
+catalog.
+
+Classification Web and Headings
+
+Although it is not as combined as the actual LOC Authorities
+page is, there is a way you can search for Subject Headings and
+Authorized Records of Names at Classification Web. Simply
+click the Subject Heading or Names button to be taken to a
+browser for those subjects. You cannot search for all keywords,
+but you can divide each of these two categories into smaller
+categories. For example, you can limit your search to only
+geographic or corporate names, only titles of works or series,
+or personal names, of course. Furthermore, you can search for
+Authorities by Class Number, the LOC record number, or by
+keywords.
+
+Subject Headings in
+Specific Applications
+
+Subject headings and names are virtually useless if they are
+not applied to a record for an item. This section is less about
+the regulations regarding their use and more about the format
+in which they are used. When writing public-facing
+documentation, the "Labelled Display" version should be
+144 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+
+used. When writing a MARC record, the appropriate MARC
+field entry should be used from the "MARC Display" version
+of the record page. For example, the 100 field of an Authorities
+page gives the approved heading with its appropriate subfields
+and indicators. For example, the name of a subject is in subfield
+"a" and the dates are under the subfield "d." When entering
+this data into a MARC field, all that one has to do is to place
+the authorized data into an appropriate MARC field,
+replacing the "100" with "400", "600," "610," or whatever
+field heading is needed. The subdivision symbol in the
+Authorities page can be replaced by $ or whatever subfield sign
+your institution chooses. When searching in ClassWeb or the
+Library of Congress, the subdivision symbols will be replaced
+by commas, parentheses, or dashes. Be sure to write the proper
+subdivision or subfield symbol before you enter subject and
+name data! For example, here are the subfield codes for Field
+650:
+  LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS AND
+                                                                            NAMES | 145
+
+Apply Your Knowledge
+
+Let's go the Authorities page of the Library of Congress! See
+if you can find the most accurate subject headings for these
+items. Then, we will explore combining subject headings in
+accordance with the Subject Headings Manual. Good luck!
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=65#h5p-24
+
+If you would like more information about the Library of
+Congress Subject Headings, please see the Online Training
+created by the Library. This training also examines the idea of
+controlled vocabulary, aboutness, and MARC formatting.
+146 | LIBRARY OF CONGRESS AUTHORITIES: SUBJECT HEADINGS
+AND NAMES
+          SHELVING | 147
+
+PART V
+
+SHELVING
+148 | SHELVING
+     SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+                                                            ORDERS | 149
+
+14.
+
+SHELVING,
+SHELFLISTING, AND
+WORK AND AUTHOR
+ORDERS
+
+After the assignation of the call number and the subject
+heading comes the wonderful task of shelving the book. This
+may seem to be intuitive, and it usually is for the Dewey
+Decimal Classification system. Therefore, we will not spend
+time examining that system. You simply place your book
+according to numerical order and the alphabetical order.
+
+   The Library of Congress, however, is another story. You
+might have already guessed this by the fact that the chapter on
+Classification Web is almost three times longer than OCLC
+Connexion and four hundred words longer than WebDewey.
+Just as coming up with a number in this system is more
+difficult, so shelving can be less intuitive. Fortunately, the
+Library of Congress has provided guidelines and regulations
+for assigning shelf places. An original work is placed first on a
+shelf, followed by:
+150 | SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+ORDERS
+
+ 1. Subsequent editions
+ 2. Translations, also by editions of the original work
+ 3. Abridgements of the work, also by edition
+ 4. Criticisms or analyses of the original work
+ 5. Related works, whose editions, translations,
+
+      abridgments, and criticisms also follow the same process.
+ 6. When a corporation or an individual is the subject of a
+
+      work, those works should be given the same Cutter
+      number as their own work products. They should be
+      placed following the works created by the works' subject.
+      In other words, a biography of Boris Yeltsin would
+      follow any work by Boris Yeltsin.
+
+                                                                  This
+                                                                  graphic,
+                                                                  created
+                                                                  by the
+                                                                  Library of
+                                                                  Congress,
+                                                                  demonstr
+                                                                  ates the
+                                                                  proper
+                                                                  order for
+                                                                  shelving
+                                                                  items.
+
+However, where do the original works go? There are a few
+rules for shelving that are the same as those for the
+Classification system:
+                SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+                                                                        ORDERS | 151
+
+1. Nothing comes before something. In other words, works
+    with only "V" should come before those that have "VB."
+    Additionally, 17 should come before 17.1, which should
+    in turn come before 17.13.
+
+2. First Cutter numbers are the same as decimal numbers.
+    Alphanumerical order is also followed (A comes before
+    C, etc.).
+
+3. Cutter numbers are arranged discretely. Arrange works
+    completely by the first Cutter number and then arrange
+    works by the second Cutter number within the category
+    of the first Cutter number. The second Cutter number
+    is also called the first part of the item number.
+
+4. The last Cutter number, which is also called the second
+    part of the item number, is the year. This should be
+    arranged in the same way that the second Cutter number
+    is arranged in categories of the first Cutter numbers.
+    Chronological order should always be followed.
+
+5. At times, multiple works will be created by the same
+    author in the same year. Some people will create unique
+    first-or-second Cutter numbers. Others will follow
+    another system which is more consistent. They will place
+    lowercase letters for each work after the original one
+    (2010, 2010a, 2010 b, etc.). These should be placed in
+    alphabetical order.
+
+6. Remember again that nothing comes before something.
+    In that spirit, items with one Cutter number should
+    placed before those with two. Items with two should be
+152 | SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+ORDERS
+
+      placed before those with no year.
+
+If a Cutter number includes both uppercase and lowercase
+letters, as some might do with the Dewey Decimal System, best
+practice is to file those discretely and alphabetically, word-by-
+word and letter-by-letter. Spaces and periods, hyphens, should
+be treated the same, and are used to signify yet another discrete
+unit in a call number. On the other hand, apostrophes should
+be completely ignored. If a word is an abbreviation of a larger
+word, such as Mt. or St., that spelling, and not the larger word,
+should be used.
+
+   When categorizing works by title, all initial articles in any
+language should be completely ignored. They should not be
+included in the catalog, or should be included after the rest of
+the title, preceded by a comma.
+
+   Compounded surnames, whether or not they have a
+hyphen, should be listed in author lists with the first part of
+the surname preceding the second. For that matter, surnames
+should precede first names, again being separated by a colon.
+
+   Diacritics and punctuation in titles and names should be
+completely ignored when creating shelf lists. If a name includes
+a character that is not typical, the Library of Congress
+Classification and Shelflisting Manual G100 section should be
+followed.
+
+   Another factor is the order of numbers and letters in initial
+order. Initial numerals should be shelflisted before, not after,
+letters. If numerals are after a name, which virtually only
+                   SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+                                                                          ORDERS | 153
+
+occurs in years of Authority Control Names, they should be
+listed in numerical order as well. If a number is part of a title, it
+should be listed before years.
+
+   Yet another factor is the ampersand symbol. When it
+appears at the beginning of a title, which is rare, it should be
+given precedence over numerals, which means it comes first in
+shelflisting order.
+
+   These rules can be helpful for Dewey Decimal Classification
+system shelflisting and ordering as well. For example, the
+suggestion to ignore diacritics and focus on the letter can help
+people who are making Cutter numbers in the DDC with
+authors whose first letter of their surname includes a diacritic.
+
+Further Divisions
+
+Dividing items by genre, language, and/or format may be
+necessary for ease of access. Whether an item is cataloged
+according to the LCC or DCC, these types of subdivisions
+may be necessary. This is why the section on these divisions is
+here rather than with sections on call number creation. Below
+are some rules for Dewey format and fiction division that have
+been adapted in some locations for other schema. For example,
+even though the College of Southern Idaho Library utilizes
+LCC, we still designate our Spanish materials with an "SPA" at
+the beginning of the call number for ease of access.
+
+For non-fiction books, the first line is usually the classification
+154 | SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+ORDERS
+
+number developed from the DDC schedules. This must have
+at least three digits, and may be considerably longer,
+depending on the subject and the level of specificity.
+
+Exception: if you choose to shelve certain types of books in
+separate areas, then begin those call numbers with a
+descriptive word or abbreviation, or example: REFERENCE,
+LARGE, or ATLAS.
+
+For fiction books, the first line is usually FICTION or some
+abbreviation (FIC., or F). Some libraries use call number
+labels to subdivide their fiction collections by genre, such as
+ROMANCE or SF, but this can get complicated because of
+so many cross-genre titles.
+
+For non-book items, the first line of the call number for both
+fiction and non-fiction works may be a term or abbreviation
+indicating the format of the item. This could be something
+like DVD, or CD for compact discs, or Playaway for a certain
+format of audiobook.
+There are no widespread standards as to what terminology or
+abbreviations should be used for this. If a library is creating
+their call numbers in this way, the terms or abbreviations
+chosen should be easily understood by the patrons using that
+collection.
+
+Online electronic publications are an exception to the call
+                   SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+                                                                          ORDERS | 155
+
+number guidelines. An ebook that you read online or an
+audiobook that you download from online are not physical
+items. They only exist as digital bits and bytes on a computer
+server somewhere. You cannot direct a patron to a physical
+location for this kind of item, so there is no point is giving it a
+call number. How do you tell patrons where to find it? Give
+them the URL that is found in the 856 field of the MARC
+record.
+156 | SHELVING, SHELFLISTING, AND WORK AND AUTHOR
+ORDERS
+                                                                   CONCLUSION | 157
+
+PART VI
+
+CONCLUSION
+158 | CONCLUSION
+            CONCLUSION | 159
+
+15.
+
+CONCLUSION
+
+There you go! Now you know the beginnings of all major
+cataloging schemata, theories, and systems. You also have had
+some experience with websites that are designed to help
+catalogers move swiftly through their work. To ensure that you
+know all of the major topics covered in this book, here are a few
+review exercises.
+
+                   An interactive H5P element has been
+                   excluded from this version of the text. You
+                   can view it online here:
+        https://csi.pressbooks.pub/cataloging/?p=38#h5p-25
+
+Congratulations! You demonstrated that you know how to
+use Connexion, WebDewey, and Classification Web separately
+and together. Furthermore, you demonstrated knowledge of
+FRBR, RDA, and MARC records. Once again I must
+acknowledge my gratitude for OCLC for allowing me to
+include visualizations of the processes for Connexion and
+160 | CONCLUSION
+
+WebDewey. Using all of these three systems together can make
+you a well-rounded and versatile librarian.
+       APPENDIX A: RDA TO MARC 21 MAPS AND WORKFLOWS | 161
+
+APPENDIX A: RDA TO
+MARC 21 MAPS AND
+WORKFLOWS
+
+For more information about RDA and MARC 21, including
+obtaining access to "maps," go to
+https://www.rdaregistry.info/Maps/. Maps are documents
+that essentially act as crosswalks from one schema to another.
+We would include both maps for both bibliographic and
+authority MARC standards, but they are so immense that we
+cannot possibly include them here. Check the "MARC 21
+formats" and "MARC Relator Codes" maps.
+
+   If you would like practice recording MARC data that is
+pertinent to RDA fields, use this table, which was adapted
+from that provided by the Library of Congress in their
+Cataloging Workshop page:
+Field      Ind. Data
+Leader/7               m
+Leader/18              i
+008/22
+008/35-37
+Field  Ind. Data
+020
+040        $a
+041
+       ##  $a DLC $b eng $c DLC $e rda
+
+           $a
+           $h
+Field  Ind. Data
+100
+100        $a
+110
+       0#
+
+           $q
+
+       1#      $c
+
+               $d
+
+           $a
+
+       3#  $d
+
+               $c
+
+               $g
+
+           $a
+           $b
+Field  Ind. Data
+111
+130                $a
+
+                   $n
+                      $d
+                      $c
+
+                   $a
+
+                   $n
+                      $p
+                      $k
+                      $l
+                      $s
+                      $f
+Field  Ind. Data
+240
+245        $a
+250
+       10  $k
+
+               $l
+
+               $f
+
+           $a
+
+           $n
+              $p
+              $b
+              $c
+
+           $a
+Field  Ind. Data
+264
+300    #1 $a
+336    #2#3 $b
+
+          #4 $c
+
+                   $a
+       ##
+
+                   $c
+
+       ##  $a text $2 rdacontent
+Field  Ind. Data
+337
+338    ##  $a unmediated $2 rdamedia
+
+490    ##  $a volume $2 rdacarrier
+
+           $a
+
+           $x
+              $v
+              $a
+              $x
+              $v
+Field  Ind. Data
+500
+       ##  $a
+
+                                           $b
+
+502 ## $c
+                                              $d
+Field  Ind. Data
+504
+505    ##  $a
+520
+           $a
+
+           $a
+Field  Ind. Data
+521
+546                $a
+
+588                $a
+       ##
+
+                   $b
+
+       ##  $a
+Field  Ind. Data
+7__
+7__
+7__
+Field  Ind. Data
+775
+174 | APPENDIX A: RDA TO MARC 21 MAPS AND WORKFLOWS
+
+This table can be adjusted to fit your institution's preferences
+for MARC records, fields, and subfields.
+
+   All documents on the RDA Registry website are licensed
+under a Creative Commons Attribution 4.0 International
+License. Documents featured in the Library of Congress
+Cataloging Workshop are in the public domain as they are
+government workproduct.
+                        APPENDIX B: RDF AND THE SEMANTIC WEB | 175
+
+APPENDIX B: RDF AND
+THE SEMANTIC WEB
+
+The existing cataloging schema are certainly detailed and
+thorough, but there are new developments in the world,
+specifically in the World Wide Web, that require a new type
+of cataloging. The Resource Description Framework is the
+solution to issues caused by the World Wide Web. In this
+framework, each item and individual is given a unique code.
+These codes are arranged in certain positions relative to each
+other and to special "relationship" codes. For example, an
+individual who is both an author and a subject of a book is
+given the same code in both instances. The only difference
+is the code's position in the sequence of RDF codes. In one
+sequence it occupies the first position. In another sequence it
+is in the third place.
+
+   The Resource Description Framework is built upon the
+idea of Linked Data. This is a type of data that is used to
+connect items throughout the internet. One common way to
+explain linked data is to think of a document, say the
+Gettysburg Address. In the previous iterations of the Internet,
+the entire document was a basic unit of data. Through linked
+data, however, each concept and word of the Gettysburg
+Address is a discrete unit of data represented by a machine-
+176 | APPENDIX B: RDF AND THE SEMANTIC WEB
+
+readable code. The entire document is also represented by its
+own machine-readable code. Also, Abraham Lincoln is
+represented by a code. Thus, the document, its concepts, and
+Abraham Lincoln are all connected to each other. In this way,
+Abraham Lincoln can be connected directly with the subjects
+of the Gettysburg Address. Furthermore, he can be connected
+to others who also discussed the same subjects.
+
+   FRBR focuses on entities, relationships, and attributes. In
+a similar way, RDF and linked data focus on the relationships
+between entities. Another similarity to FRBR is that both
+items and authors are considered entities.
+
+   RDF uses a system called Terse RDF Triple Language, or
+Turtle, to organize entities and relationships. This system is
+also referred to as Semantic Triples or Semantic Triads. Thus,
+the digital structure created by all of these codes and their links
+is called the Semantic Web. Semantic triples have a particular
+order.
+
+ 1. Subject: These codes can be the same as Object codes.
+      They stand for an entity. Subjects are the subjects of the
+      record, or the item being describe. In a record about an
+      item, the item being described is always the subject.
+
+ 2. Predicate: These codes provide specific enhancement for
+      all code combinations in RDF records. In the case of
+      triples, they provide information about the relationships
+      between two entities.
+
+ 3. Object: These codes can be the same as Subject codes.
+                        APPENDIX B: RDF AND THE SEMANTIC WEB | 177
+
+      They stand for an entity. Objects are the topic of
+      subjects.
+
+If I were to integrate RDF Semantic Triples into a record
+for The Foundation trilogy, I would write (3236412,
+http://purl.org/dc/elements/1.1/creator, http://id.loc.gov/
+auames/n8thorities/n0126289). This triple states that The
+Foundation trilogy, whose OCLC number is 3236412, was
+created by Isaac Asimov, whose URI is https://id.loc.gov/
+authorities/names/n80126289.html.
+
+   The predicate URI was obtained from
+https://www.dublincore.org/specifications/dublin-core/
+dcmi-
+terms/#http%3a%2f%2fpurl.org%2fdc%2felements%2f1.1%2f
+creator. Dublin Core is an organization in Ohio that created
+yet another metadata schema specifically for use in archives
+and museums. They have a vested interest in Linked Data.
+Therefore, they host a number of initiatives and metadata
+specifications documents. The URI for the book was obtained
+from WorldCat. The URI for Isaac Asimov was taken from
+id.loc.gov, the Linked Data Service of the Library of Congress.
+URIs exist for subject headings, authors, formats, and other
+data points.
+
+   Linked data and RDF can be combined with RDA and
+other elements in MARC records to form a truly connected
+web. As MARC records, EAD (encoded archival description)
+records, MODS (metadata object description schema) records
+178 | APPENDIX B: RDF AND THE SEMANTIC WEB
+
+and other records in various schemata all describe digital and
+physical items, linked data can be used to include physical
+items in the digital network of information. Thus, a website in
+Vietnam can be linked through semantic triples to an artifact
+in a museum in Frankfurt. As we learn more about items and
+relationships, the connections will become denser and more
+complex. Linked data can promote swift communication
+between researchers and users all over the world.
+          GLOSSARY | 179
+
+GLOSSARY
+
+Cataloging
+
+      The process used by librarians, and other professionals,
+      to create records for each specific item in an institution's
+      work. Part of this process is classifying, which involves
+      determining a position for an item based on a
+      predetermined schema. The associated number is put
+      into a record that contains a deluge of other metadata
+      related to a particular item. The end result of cataloging
+      is the creation of a MARC record.
+
+Content rules
+
+      Specifications regarding the format or length of an entry
+      in a field. Usually, an item has either content rules or
+      controlled vocabulary, but sometimes a field will have
+      both. For example, a field may only be filled with
+      numbers, letters, or a specific combination of both (like a
+      date or a serial number).
+
+controlled vocabulary
+
+      A set of allowed terms for particular fields in a record. For
+      example, the word "text" is used for all items that use the
+180 | GLOSSARY
+
+      written word. This textbook, blogs, novels, biographies,
+      and all other items that are written down are designated
+      using this term in MARC Field 336. Use of controlled
+      vocabulary ensures standardization and consistency.
+
+delimiters
+
+      Terms or facets used to limit results in a list produced
+      by a search engine or database. These are the terms or
+      ranges that appear when you click on "Advanced Search"
+      on Google or on a library catalog page.
+
+Functional Requirements for Bibliographic Records
+(FRBR).
+
+      A theoretical system that ensures that an item is described
+      as accurately and thoroughly as possible. The two major
+      constructs in FRBR are WEMI and the RDA
+      framework.
+
+H5P (HTML 5 Package)
+
+      A type of tool created by educational professionals and
+      instructional designers to promote interactivity for
+      multiple settings. Corporate, government, and
+      educational institutions can all use H5P to create
+      interactive, formative assessments and assignments.
+
+MAchine-Readable (Bibliographic) Catalog Records
+                                       GLOSSARY | 181
+
+(MARC)
+
+The content standard developed by librarians in the
+1960s to hold data regarding bibliographic materials.
+This standard, also called a schema, has been revised to
+hold data and metadata for many types of items.
+
+Resource Description and Access (RDA)
+
+A framework created by an international coalition of
+information professionals to replace AACR2. This
+framework ensures that description of resources
+throughout the world are consistent. For example, the
+"text" signifier is an English word. The MARC symbol
+associated with this term is "txt." Usually, these two data
+points are entered together. Terms and symbols signify
+content, media, and carrier (item) type.
+

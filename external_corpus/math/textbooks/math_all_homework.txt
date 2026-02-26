@@ -1,0 +1,776 @@
+                                                                                                     Math 105 Chapter 1 Write-up
+
+Homework Write-up Instructions (No need to turn in this page)
+
+The purpose of write-up assignments is for you to show me what you understand and how you would
+present your reasoning so that I can give you feedback before you take your midterm and final exams.
+
+Showing Your Work
+Show all of your steps, in addition to your answer. Communication is a very important part of
+mathematics. You will get full credit or partial credit based on the work you show and the correctness of
+your answers. Answer questions using a complete sentence where indicated.
+
+Formatting Your Work
+You can write or type your work. If you type your work, use the .doc file. In Word or copy into Google
+Docs. If you want to hand-write your work, print out the pdf file. I recommend practicing on scratch
+paper first or printing out a clean copy for your final draft.
+
+Uploading Your Work
+No matter which method you choose, please upload your completed worksheet as 1 PDF file (Not
+JPEG, Word, or a Zip folder) in the assignments tab in D2L by the assignment due date. The PDF format
+allows me to read your document clearly and handle assignments more efficiently.
+
+         You can use one of these free scanning apps for smartphones to scan as a PDF file. You can also
+         use a home scanner, or scanners available at a library or a PCC campus (all of them have free
+         scanners you can use).
+
+         Adobe: https://acrobat.adobe.com/us/en/acrobat/mobile-app/scan-documents.html
+
+         Android: https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=en
+
+         Android: https://play.google.com/store/apps/details?id=com.mobisystems.mobiscanner&hl=en
+
+         IPhone: https://itunes.apple.com/us/app/camscanner-free-pdf-document/id388627783?mt=8
+
+         IPhone: https://itunes.apple.com/us/app/genius-scan-pdf-scanner/id377672876?mt=8
+
+Reading Feedback
+I will grade your work by hand and write comments about what you did well and any ways you can
+improve. You will be able to see your feedback in D2L within 1 week of the due date. It is important to
+view the feedback before studying for the midterm or final test.
+
+Complete the MyOpenMath online homework first
+Watch the lecture videos and take notes first. Then use your notes to complete the MyOpenMath online
+homework problems. This will build your confidence by giving you instant feedback. Keep working on
+each problem until you get them all correct. You have unlimited tries on each problem. Seek out help
+from me, the tutoring center or etutoring as needed. The write-up is meant to be completed after
+watching the videos, taking notes and completing the online homework.
+
+Resources
+Feel free to get help from me, tutoring centers and etutoring. You may also ask any clarifying questions
+in the Student Q and A discussion board, where you can post anonymously, or the Homework Questions
+board. If you use the discussion forums for any "how to" questions, please use examples that are similar
+to, but not the same as the problems in the assignment. We will all work together to help each other!
+
+                                                                                                                                   Page 0
+                                                                  Math 105 Chapter 1 Write-up
+
+Homework Write-up Chapter 1         Name
+
+Section 1.1 Logic in Everyday Life
+
+1. Circle the statements below that are propositions. [2 points]
+
+a. How far?
+
+b. Portland is not in Oregon.
+
+c. Portland Community College.
+
+d. It is raining.
+
+2. Determine whether each statement is true or false. [3 points]
+    a. If squares have 3 sides, then triangles have 3 sides.
+    b. India is a country and Indiana is a country.
+    c. Japan is a city or Portland is not a county.
+
+3. Write the converse, inverse and contrapositive for the conditional statement and determine which
+    pairs are equivalent to each other. [4 points]
+
+    Original Statement: If you are sick, then you stay home.
+
+    a. Converse:
+
+b. Inverse:
+
+c. Contrapositive:
+
+d. Which pairs of statements are equivalent to each other?
+
+                                                                  Page 1
+                                                                                                     Math 105 Chapter 1 Write-up
+
+Section 1.2: Sets and Venn Diagrams
+
+4. Create a Venn Diagram to illustrate the results of this survey: A survey asked buyers whether color,
+    size, or brand influenced their choice of cell phone. The results are below. Draw a Venn diagram and
+    use it to answer the question below. [4 points]
+
+         � 5 said only color, 8 said only size, 16 said only brand.
+         � 20 said only color and size, 42 said only color and brand, 53 said only size and brand.
+         � 102 said all three, 20 said none of these.
+
+         How many people altogether were influenced by the brand?
+
+5. Create a Venn Diagram to illustrate the results of this survey: 100 pet owners were asked whether
+    they like fish and/or rabbits. The results are below. Draw a Venn diagram and use it to answer the
+    question below. [4 points]
+
+         � 43 said they like fish in general, 75 said they like rabbits.
+         � 32 people said they like both fish and rabbits.
+
+How many people in the survey did not like fish or rabbits?
+
+                                                             Page 2
+                                                                                                     Math 105 Chapter 1 Write-up
+Section 1.3-1.4 Percents and Proportional Reasoning
+6. Safa managed a company to reduce its carbon emissions by 18.3%. The company originally emitted
+
+    920 tons of carbon dioxide annually. How much was the reduction and what are the new emissions?
+    [4 points]
+
+7. Find the unit rates and determine which you would rather buy. Explain your reasoning. [2 points each]
+         a. A 10-pound bag of potatoes for $6. Or a 1.5-pound bag of potatoes for $1.15. Which would
+              you rather buy and why?
+
+         b. 90-count zipper sandwich bags for $1.79, 150-count zipper sandwich bags for $2.79, or 280-
+              count zipper sandwich bags for $5.69. Which would you rather buy and why?
+
+8. Asanji took a trip to Mexico. Upon leaving he decided to convert all of his Mexican Pesos back into
+    U.S. dollars. How many dollars did he receive if he exchanged 72.5 Pesos at a rate of $5.83 = 100
+    Pesos? [4 points]
+
+                                                                                                                                   Page 3
+                                                                                                     Math 105 Chapter 1 Write-up
+Section 1.5 Problem Solving
+9. You are organizing a large dinner event. One venue charges $950 per table of 12. Another venue
+
+    charges a setup fee of $1500 and $40 per person. Which venue is more cost effective? Write out the
+    steps of the problem solving process and any assumptions you make. [8 points]
+
+                                                                                                                                   Page 4
+                                                                                                     Math 105 Chapter 1 Write-up
+10. Sidiki wants to fill a circular sandbox with a diameter of 5 feet and a depth of 1.5 feet. If bags of sand
+
+    contain 3 cubic feet each, how many bags does he need to buy? [4 points]
+
+                                                                                                                                   Page 5
+                                                  Math 105 Chapter 5 Write-up
+
+Homework Write-up Chapter 5                 Name
+
+Section 5.1: Apportionment
+
+It's very important to acknowledge that when Hamilton, Jefferson and others were making the rules for
+apportionment, black people were owned and enslaved in the United States. The 3/5 rule counted the
+black population as only 3/5 of the white population. We need to remember why we still have racism and
+systemic inequality now and continue to make our systems fair for everyone.
+
+1. A country with 5 states conducts a census and needs to determine how many representatives each
+    state will get based on its population. There must be a total of 26 representatives. Determine how
+    many representatives each state will receive.
+
+a. Hamilton's Method [4 points]
+
+State    Population         Standard Quota
+East     351,000
+
+West     180,300
+
+North 223,500
+
+South 101,450
+
+Middle 403,372
+
+Total
+
+Divisor
+
+b. Jefferson's Method [4 points] Show some of the divisors you tried until you got the right one.
+
+State    Population         Standard Quota
+East     351,000
+
+West     180,300
+
+North 223,500
+
+South 101,450
+
+Middle 403,372
+
+Total
+
+Divisor
+
+                                                  Page 1
+                                                Math 105 Chapter 5 Write-up
+
+c. Webster's Method [4 points]
+
+State    Population             Standard Quota
+East     351,000
+
+West     180,300
+
+North 223,500
+
+South 101,450
+
+Middle 403,372
+
+Total
+
+Divisor
+
+d. Hill-Huntington Method [4 points]
+
+State    Population             Standard Quota
+East     351,000
+
+West     180,300
+
+North 223,500
+
+South 101,450
+
+Middle 403,372
+
+Total
+
+Divisor
+
+                                                Page 2
+                                                                       Math 105 Chapter 5 Write-up
+
+Section 5.2 Voting Methods
+
+2. Union representatives are deciding on a bargaining platform for employee pay, benefits and working
+    conditions. Four options have been proposed and voted on. Here is the preference schedule:
+
+Number of voters            6  3                      8      6         6     2
+
+1st choice                  B  A  D                          A         B     C
+
+2nd choice                  C  B                      C      D         A     D
+
+3rd choice                  A  C                      A      B         C     A
+
+4th choice                  D  D                      B      C         D     B
+
+a. How many voters voted in this election? [1 point]
+
+b. What is the minimum number of votes needed for a majority win? [1 point]
+
+c. Find the winner under the plurality method. [1 point]
+
+d. Find the winner under the Instant Runoff Voting method. [2 points]
+
+e. Find the winner under the Borda Count method. [2 points]
+
+f. Find the winner under the Pairwise Comparisons method. If there is a tie, state which candidates
+    are tied. [2 points]
+
+g. Which method do you think is the most fair in this situation and why? [1 point]
+                                                                                                                              Page 3
+                                                                      Math 105 Chapter 5 Write-up
+
+Section 5.3: The Popular Vote vs. the Electoral College and Voting Power
+
+3. Consider a small country with 3 states. The rules for the number of senators and electors are the
+    same as the U.S. government. Each state gets 1 representative for every 40,000 residents.
+
+a. Determine the number of electors for each state and the total for the country. [2 points]
+
+State        Population      Number of     Number of                      Number of
+                          Representatives   Senators                        Electors
+
+Red          200,000
+
+Blue         160,000
+
+Purple       400,000
+
+b. The total number of electors in the Electoral College is _______________. [1 point]
+
+c. How many electoral votes are needed to win the presidential election? _______________ [1 point]
+
+4. There are 2 candidates for the president, Candidate A and Candidate B. When a candidate wins in a
+    state, they get all the electoral votes for that state. Determine who wins the popular vote and who
+    wins the Electoral College vote. [2 points]
+
+    State      Votes for    Votes for        Number of                      Number of
+             Candidate A  Candidate B      Electoral Votes                Electoral Votes
+Red
+Blue             96,000      104,000              for A                          for B
+Purple           70,400       89,600
+Total Votes     248,000      152,000
+
+a. The winner of the popular vote is _______________. [1 point]
+
+b. The winner of the electoral college is _______________. [1 point]
+
+c. Which method do you think is more fair and why? [1 point]
+
+                                                                                              Page 4
+                                                             Math 105 Chapter 5 Write-up
+
+Section 5.4: Gerrymandering and the Efficiency Gap
+
+5. You have just been hired as consultants to your state legislature in the re-districting of the state.
+    a. To assess the current map below, tally the votes, seats won, and surplus votes. [4 points]
+
+Election          District    D                       R   D Surplus or   R Surplus or
+Results:                    Votes                  Votes  Wasted Votes  Wasted Votes
+Democrats win         1
+__________ seats      2
+                      3
+Republicans win       4
+__________ seats      5
+                      6
+                      7
+                   Total
+
+Efficiency Gap                                     1 R                     2 R
+    b. Calculate the efficiency gap using
+         this formula: [2 points]                  3 DRDRD
+
+Party A Wasted Votes - Party B Wasted Votes               D  D D
+                    Total Votes
+                                                             D R 4R D
+    c. Since there are 7 districts, each district
+         represents about 14% of the state         D         R R D R
+         (100%/7). Compare the efficiency gap
+         with that percentage. Is the efficiency          D  RDRR 5
+         gap worth less than one seat or more
+         than one? How many seats? [2 points]                D D D R
+
+                                                   6         D R           R 7
+
+                                                             R R        R
+
+                                                   R
+
+d. Is this a fair map? Why or why not? [1 point]
+
+                                                                           Page 5
+                                 Math 105 Chapter 5 Write-up
+
+Blank page - no need to turn in
+
+                                 Page 6
+                                                               Math 105 Chapter 2.1-2.4 Write-up
+
+Homework Write-up Chapter 2.1-2.4             Name
+
+Section 2.1-2.2 Spreadsheets and Simple and Compound Interest
+
+1. Show all your steps and include any spreadsheet formulas you use, written in proper spreadsheet
+    form. Answer each question using a complete sentence.
+
+a. How much will you have in 20 years if you  Financial Formulas
+    invest $4000 now with an APR of 6% and    =principal + principal*rate*years
+    it is compounded monthly? [2 points]
+
+                                              =FV(rate, nper, pmt, [pv], [type])
+
+                                              =PV(rate, nper, pmt, [fv], [type])
+
+                                              =principal*EXP(rate*years)
+
+                                              =EFFECT(nominal rate, periods per year)
+
+                                              =PMT(rate, nper, pv, [fv], [type])
+
+b. A friend lends you $500 for 2 years at 4% simple interest per year. How much will you pay them
+    back at the end of the loan? [2 points]
+
+c. How much would you need to deposit now in order to have $100,000 in 25 years at 8.5%
+    compounded daily? [2 points]
+
+                                                                                                                              Page 1
+                                                                                             Math 105 Chapter 2.1-2.4 Write-up
+Section 2.3: Savings Plans
+2. Your friend has an Individual Retirement Account (IRA) with an interest rate of 6.5%. She started the
+
+    IRA at age 25 (she is smart!) and deposits $100 per month.
+    a. How much will her IRA contain when she retires at 65? [3 points]
+
+    b. How much of the ending balance came from deposits? What percentage of the ending balance is
+         that? [4 points]
+
+    c. How much of the ending balance came from interest? What percentage of the balance is that? [4
+         points]
+
+                                                                                                                                   Page 2
+                                                                                             Math 105 Chapter 2.1-2.4 Write-up
+Section 2.4: Loan Payments
+3. You need to take out an $8,000 loan to pay off your credit card debt and you can afford monthly
+
+    payments around $400. The bank offers 2 choices: a 2-year loan at 6% or a 3-year plan at 5%.
+
+    a. Calculate your monthly payment for both loans by showing your spreadsheet formulas. [4 points]
+
+b. Calculate the total interest over the loan term for both options. [4 points]
+
+c. Which loan would you choose and why? [2 points]
+
+                                                                                 Page 3
+                                                                                             Math 105 Chapter 2.1-2.4 Write-up
+Sections 2.1-2.4 Mixed
+4. It's important to know when to use each formula so these questions are all mixed up. Show all of
+
+    your steps and include any spreadsheet formulas you use, written in proper spreadsheet form. [2
+    points each]
+    a. Keisha received an inheritance of $20,000 and invested it at 6.9% interest, compounded
+
+         continuously. How much will she have for college in 8 years?
+
+    b. Paul wants to buy a new car. Rather than take out a loan, he decides to save $200 a month in an
+         account earning 3.5% interest compounded monthly. How much will he have saved up after 3
+         years?
+
+    c. Sol is managing investments for a non-profit company. They want to invest some money in an
+         account earning 5% interest compounded annually with the goal to have $30,000 in the account
+         in 6 years. How much should Sol deposit into the account?
+
+    d. How much would you need to save every month in an account earning 4.1% interest to have
+         $5,000 saved up in two years.
+
+    e. Terry and Jess are buying a house for $405,000 and they can afford to put 10% down. Their
+         interest rate is 4.3% for 30 years. What will their monthly mortgage payment be?
+
+    f. Zahid starts saving $150 per month in an account that pays 4.8% compounded monthly. If he
+         continues for 20 years, how much will he have? If he waited 10 years instead and put in $300 per
+         month for 10 years with the same interest, how much would he have?
+
+                                                                                                                                   Page 4
+                                                                   Math 105 Chapter 2.5-3 Write-up
+
+Homework Write-up Chapter 2.5-3                Name
+
+Section 2.5: Income Taxes
+
+1. Amal and Reyes are married filing jointly. Their combined salaries are $135,000. They also have
+    savings interest of $245 and they put $3200 (pre-tax savings) in their retirement fund.
+
+a. Calculate the couple's adjusted gross income (AGI). [2 points]
+
+b. Their itemized deductions are $18,500. State whether they should take the itemized or standard
+    deduction and the amount. [1 point]
+
+c. Calculate their taxable income. [2 points]
+
+d. Use the 2024 tax tables to calculate the taxes they owe. [2 points]
+
+e. During the year, a total of $13,129 was deducted from their paychecks. When they file their taxes
+    will they owe money or get a refund? What is the amount? [1 point]
+
+                                                                                                                              Page 1
+                                                                                                Math 105 Chapter 2.5-3 Write-up
+Section 3.1 Overview of the Statistical Process
+You can insert your graphs and charts into this assignment as a Word or Google Doc. Or you can save
+them as PDFs and use a free online PDF merger to attach to your assignment.
+Show all your steps and include any formulas you use. Answer each question using a complete sentence.
+2. Should the drinking age should be lowered to age 18? To address this question, researchers
+
+    randomly select 1000 US adults: two hundred and fifty 18-24-year-olds, two hundred and fifty 25-
+    40-year-olds, two hundred and fifty 40-55-year-olds, and two hundred and fifty over 55-year-olds.
+    Overall, 73% of those surveyed said no, the drinking age should not be lowered to age 18. The
+    survey reported a margin of error of �4%.
+    Please type complete sentences that include the context of the study and any units.
+    a. Describe the implied population? [2 points]
+
+    b. Describe the sample? [2 points]
+
+    c. What sampling method was used? [2 points]
+
+    d. What is the statistic in the context of this study? (Not the definition) [2 points]
+
+    e. What is the parameter in the context of this study? (Not the definition) [2 points]
+
+                                                                                                                                   Page 2
+                                                                                           Math 105 Chapter 2.5-3 Write-up
+f. What is the confidence interval and how should it be interpreted? [2 points]
+
+g. How would you respond to someone who claims the majority of US adults are in favor of
+    lowering the drinking age? [2 points]
+
+h. Is this an experiment or observational study? Explain. [2 points]
+
+i. Name and describe one type of bias that could be present in this study. [2 points]
+
+Section 3.2: Describing Data
+
+3. In one of my stats classes I asked students, "If you could have one superpower, what it would be?"
+    The response of each student is given below.
+
+Mind Read    Fly              Fly    Fly        Other                    Telekinesis  Fly
+Other        Teleport         Other  Other      Telekinesis              Fly          Teleport
+Mind Read    Teleport         Fly    Other      Invisible                Fly          Other
+Telekinesis  Fly              Other  Invisible  Mind Read                Other        Fly
+
+j. Complete the following table for the data. Show all work. [2 points]
+
+   Super Power                       Frequency  Relative Frequency
+
+Mind Read
+Fly
+Telekinesis
+Invisible
+Teleport
+Other
+
+                                                                                      Page 3
+                                         Math 105 Chapter 2.5-3 Write-up
+
+k. What type of data is this? [1 point]
+
+l. Using a spreadsheet, create a frequency table like the one you just completed. Use formulas
+    to calculate the relative frequencies. Paste your table below. [2 points]
+
+m. Using your table in the spreadsheet, create a relative frequency bar chart and pie chart. Be
+    sure your charts/graphs are titled and labeled meaningfully. Paste them both below. [4
+    points]
+
+Section 3.3-3.4: Summary Statistics: Measures of Center and Variation
+
+4. The heights, in inches, of fourteen students are:
+
+         62, 62, 63, 64, 65, 65, 66, 67, 68, 68, 69, 70, 71, 73
+
+         n. Calculate the mean of the data. Show your steps and round to one decimal place if needed.
+              Include units. [1 point]
+
+o. Find the 5-number summary of the data, including units. [2 points]
+
+                                                                       Page 4
+                                                                                      Math 105 Chapter 2.5-3 Write-up
+
+p. Considering the mean and the median, is the distribution more likely to be left skewed, right
+    skewed, or symmetric? Explain. [2 points]
+
+q. Calculate the standard deviation of the data, including units. [4 points]
+
+Data  Deviation from Mean           Squared Deviation
+62
+
+62
+
+63
+
+64
+
+65
+
+65
+
+66
+
+67
+
+68
+
+68
+
+69
+
+70
+
+71
+
+73
+
+    Sum of the squared deviations:
+
+                 ( x - mean)2
+
+=s =
+                                n -1
+
+                  (You can use the equation editor to show your steps. Select Insert > Equation.)
+
+                                                                                                   Page 5
+                                 Math 105 Chapter 2.5-3 Write-up
+
+Blank page - no need to turn in
+
+                                 Page 6
+                                                                 Math 105 Chapter 4 Write-up
+
+Homework Write-up Chapter 4                            Name
+
+Section 4.1 Contingency Tables
+
+1. The 117th US Congress (2021-2022) is the most diverse yet, but how diverse is it? Below are some
+    contingency tables.
+
+a. Complete each table below. [4 points]
+
+             Openly             Straight or  Total
+             LGBTQ+               not out    221
+                                              50
+House            9                           211
+Democrats                                     50
+Senate           2
+Democrats
+House            0
+Republicans
+Senate           0
+Republicans
+
+Total
+
+House        Black              Latinx        Native   Asian or  White  Total
+Democrats                                    American   Pacific
+Senate        54                  30                   Islander   125   221*
+Democrats      2                   4              3                42    50
+House          2                  10              0       14      194   211
+Republicans    1                   2              3                47    50
+Senate                                            0        2
+Republicans
+                                                           2
+Total
+                                                           0
+
+Note that racial categories have been socially constructed and have many limitations. The US
+Census does not have a category for people from the Middle East, who have been traditionally
+categorized as white. This may not feel representative to them (about 3 million people).
+*Multiracial was not a category so people may be listed in more than one category. That's why the
+total is more than 221 people.
+
+Source: https://www.dailykos.com/stories/2021/2/24/2011804/-Daily-Kos-Elections-presents-our-comprehensive-
+guide-to-the-117th-Congress-members-and-districts
+
+Use the tables to answer the questions. Show your steps and answer questions in a complete
+sentence.
+
+b. What percentage of congress is out as LGBTQ+? [1 point]
+
+c. If a member of congress is chosen at random, what is the probability they are Republican and
+    out as LGBTQ+? [1 point]
+
+                                                                                                                         Page 1
+                                                                                           Math 105 Chapter 4 Write-up
+
+d. If a member of congress is selected, what is the probability they identify as a person of color
+    (Black or Latinx or Native American or Asian or Pacific Islander)? [1 points]
+
+e. Given that a person in congress identifies as Black, what is the probability they are a
+    Democrat? [2 points]
+
+f. Given that a person in congress is a Republican, what is the probability they are White? [2
+    points]
+
+g. Calculate the percentage of each race/ethnicity in congress. Then compare your percentages
+    with the overall US demographics using this link. [4 points]
+    https://www.census.gov/quickfacts/fact/table/US/PST045218
+
+             Black  Latinx   Native   Asian or                                  White
+                            American   Pacific
+                                      Islander
+
+Percentage
+of Congress
+Percentage
+of US
+Population
+
+h. Do you think the representation in congress is fair? Explain why or why not. [2 points]
+
+Section 4.2: Theoretical Probability
+
+2. Toma Todo, or Pirinola, is a game of chance from Mexico. Children as
+    well as adults play toma todo with a pirinola, which is a six-sided top.
+    Each of six possible outcomes on the pirinola is equally likely to occur.
+    To win, each player must acquire all the beans from the other players.
+
+    To begin the game, each player has 10 beans and places 1 bean in a
+    center pile. Turns are taken. A turn consists of spinning the pirinola and
+    following the directions on the side that is faceup after the spin.
+
+                                                                                            Page 2
+                                                                                                Math 105 Chapter 4 Write-up
+The sides of the Pirinola contain this information:
+
+    � pon 1 (put in 1 bean)
+    � pon 2 (put in 2)
+    � toma todo (take all)
+    � toma 1 (take 1)
+    � toma 2 (take 2)
+    � todos ponen (each player puts 1 in the pile)
+If the toma todo side lands faceup, then to continue the game, each player
+must place 1 bean in a center pile again. Play continues until one player has
+all the beans. Source: https://www.uccs.edu/Documents/pipes/mccoyprob-games.pdf
+    a. What is the probability of the pirinola landing on each side? [1 point]
+
+    b. What are the odds of spinning toma todo? [1 point]
+
+    c. What are the odds against spinning toma todo? [1 point]
+
+    d. What is the probability of spinning pon 2 three times in a row? [2 points]
+
+e. What is the chance of spinning toma todo 10 times in a row? [2 points]
+
+3. In your sock drawer you have 2 types of socks (short and long) in different colors:
+
+Blue short: 2  Black short: 3  Black long: 5               Brown short: 4               Pink long: 1
+
+a. What is the probability of drawing a black pair of socks at random? [1 point]
+
+b. What are the odds of drawing the pink socks? [1 point]
+
+c. What is the probability of drawing a blue or short pair of socks at random? [1 point]
+
+d. If you draw socks at random for 4 days in a row (without doing laundry), what is the chance of
+    getting all 4 brown short socks? [2 points]
+
+                                                                                                                         Page 3
+                                    Math 105 Chapter 4 Write-up
+
+Section 4.3: Expected Value
+
+4. The Gone Squatchin' Lottery ticket can be purchased for $1 and has a top prize of $1,200. If you
+
+reveal a sasquatch symbol you win that amount. If you reveal binoculars,  you also get $10.
+
+Using the prize table at https://www.oregonlottery.org/games/scratch-its/details/1283, here is the
+
+probability of winning each prize.
+
+Prize  Probability                  a. Calculate the expected winnings for this type of ticket. Use
+$1200                                   the entire probability table and show your steps. [5 points]
+$500        10
+$200    2, 160, 000
+$100
+$50         14
+$30     2, 160, 000
+$15
+$10         80
+$6      2, 160, 000
+$5
+$3          150
+$2      2, 160, 000
+$1
+$0          600
+        2, 160, 000
+
+          2, 000
+        2, 160, 000
+
+          8, 100
+        2, 160, 000
+
+         10, 800
+        2, 160, 000
+
+         13, 500
+        2, 160, 000
+
+         13, 500
+        2, 160, 000
+
+          94, 500
+        2, 160, 000
+         135, 000
+        2, 160, 000
+         267, 300
+        2, 160, 000
+       1, 614, 446
+        2, 160, 000
+
+                                    b. What is the expected profit or loss for this ticket? [2 points]
+
+                                                                          Page 4
+

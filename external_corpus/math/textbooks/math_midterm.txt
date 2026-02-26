@@ -1,0 +1,187 @@
+Math 105               Midterm Practice Problems (Chapters 1, 5, 2.1-2.4)
+
+These are sample problems to help you prepare for the midterm. The midterm will be given in
+MyOpenMath. Study all class materials and feedback. You'll be using a spreadsheet on the test
+and you may also use a calculator.
+
+1. Write whether the following statements are true or false.
+
+a. Portland is in Oregon or San Francisco is in New York.
+
+b. Portland is in Oregon and San Francisco is in New York.
+
+c. If cats meow, then dogs bark.
+
+d. If 1 + 6 = 7, then 1 + 5 = 7.
+
+2. Use this if-then statement to write the following: If I have a cat then I am happy
+    a. the converse
+
+b. the inverse
+
+c. the contrapositive
+
+3. Draw and label a Venn diagram for each scenario and write whether the sets are disjoint,
+    overlapping or one is a subset of the other.
+
+a. All cars have wheels.          b. Some houses have         c. No cows can fly.
+                                      two stories.
+
+Cara Lee                                                                   Page 1
+4. Students at a local school were surveyed about which
+    languages they speak. Use the Venn diagram to answer the
+    questions.
+    a. How many students were surveyed?
+
+    b. How many students speak English and Chinese?
+
+    c. How many students speak at least two of the languages listed?
+
+    d. How many students speak only Spanish out of the languages listed?
+
+    e. How many students speak Spanish, Chinese and English?
+
+Show all of your steps and thinking. Use any method for problems 5-10.
+5. Your restaurant bill is $67. You want to leave a 20% tip. How much is the tip? How much is
+
+    the total bill?
+
+6. The value of a car dropped from $7500 to $6800 over the last year. How much did the car
+    decrease by? What percent decrease is this?
+
+Cara Lee  Page 2
+7. A line of coats was marked up by 200% and then placed on sale for 30% off. If the owner of
+    the store purchased the jackets wholesale for $70 each, find the sale price and the combined
+    relative change from the wholesale price.
+
+8. A map scale indicates that ½ inch on the map corresponds with 3 real miles. How many
+    miles apart are the two cities that are 3 1 inches apart on the map?
+
+                                                                                4
+
+9. Keila receives a weekly salary of $330. In addition, she gets paid $15 for every item sold in
+    excess of 100 items. How much will Keila earn for the week if she sold 195 items?
+
+10. You just got a circular above ground pool with a 15-foot diameter and a height of 48 inches.
+    You want to know the cost of the water to fill it up to 6 inches from the top and how much
+    chlorine to put in. The package says to use two 3-inch tablets per 10,000 gallons of water.
+    City of Portland water is measured and billed at a rate of $7.559 per 100 cubic feet(ccf). One
+    ccf is 748 gallons.
+
+Cara Lee  Page 3
+11. A small country has four states whose populations are listed below. Their legislature has 116
+    seats. Determine the number of seats that each state would get using the methods below.
+
+a. Hamilton's Method
+
+State     Population       Standard Quota  Initial or Minimum Final
+North         33,700
+South
+East        559,500
+West        141,300
+Total
+              89,100
+
+Divisor
+
+b. Hill-Huntington Method
+
+                            Geo                     (trials)
+                            Mean
+State     Population Quota                 Initial                   Final
+
+North      33,700
+South     559,500
+East      141,300
+West
+Total      89,100
+
+Divisor
+
+Cara Lee                                                             Page 4
+12. Consider a city council election where there are two Democrats: Don and Key, and two
+    Republicans, Elle and Fant. Answer the questions below and determine the winner under
+    each type of voting.
+                       300 219 281 210
+     1st choice Elle Don Key Fant
+     2nd choice Fant Key Don Don
+     3rd choice Don Elle Fant Elle
+     4th choice Key Fant Elle Key
+    a. How many people voted?
+    b. How many votes are needed for a majority win?
+
+    c. Find the winner of the Plurality Method.
+
+    d. Find the winner of the Instant Runoff Method.
+
+    e. Find the winner of the Point System or Borda Count Method.
+
+    f. Find the winner of the Condorcet Method or Pairwise Comparisons Method.
+
+Cara Lee  Page 5
+13. A State map is shown below. Tally the voters and use the information to answer the
+    questions below.
+
+a. Calculate the results of an election and the efficiency gap.
+
+Election Results:  District    D                R   D Surplus or       R Surplus or
+Democrats win                Votes           Votes  Wasted Votes      Wasted Votes
+__________ seats       1
+                       2
+Republicans win        3
+__________ seats       4
+                       5
+                       6
+                    Total
+
+Efficiency Gap                               1 R                                        2 R
+Party A Wasted Votes - Party B Wasted Votes
+                                                    R D D R
+                    Total Votes
+                                             R RDDDDD R
+    b. Calculate the percentage of voters
+         that each seat represents.          RDDD 4 D
+
+    c. Compare the efficiency gap with the   3 R                 D D D R
+         percentage for each seat. How many
+         seats is the efficiency gap worth?  R      DDD R R
+
+    d. Is this a fair map? Why or why not?          D D               D
+
+                                             5                   D R                    R 6
+
+                                                    R R               R                 R
+
+                                             R                    R
+
+Cara Lee                                                              Page 6
+14. Use a spreadsheet to calculate the value for    =principal + principal*rate*years
+    each problem. Write the syntax and your         =FV(rate, nper, pmt, [pv], [type])
+    answer rounded to the nearest cent.             =principal*EXP(rate*years)
+                                                    =PV(rate, nper, pmt, [fv], [type])
+    a. Abbie is buying a used car priced at         =EFFECT(nominal rate, periods per year)
+         $16,735. She gets $4,000 for her trade-in  =PMT(rate, nper, pv, [fv], [type])
+         vehicle, and finances the remainder at
+         10.7% APR, compounded monthly, for five
+         years. Find her monthly car payment.
+
+b. Batula deposits $325 every quarter into an account paying 3.86% APR, compounded
+    quarterly. Find her account balance after ten years.
+
+c. Cristian deposited $800 into a savings account paying 5.2% APR, compounded
+    continuously. Find his account balance after 15 years.
+
+d. Danny wants to have a retirement account balance of one million dollars in 47 years.
+    Find how much he needs to deposit every month, if the account pays 8.42% APR,
+    compounded monthly.
+
+e. Elisa is comparing two different savings accounts. One is 5.25% compounded monthly
+    and the other is 5.10% compounded daily. Calculate the effective rate of each, and state
+    which account will earn more money.
+
+f. Fatima wants to start saving for her kid's college fund. She wants to know how much she
+    needs to invest now to have $100,000 in 18 years, if she finds an account that pays 5.75%
+    compounded monthly.
+
+Cara Lee                                            Page 7
+

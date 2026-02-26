@@ -1,0 +1,1450 @@
+Basic Blueprint Reading
+Basic Blueprint Reading
+
+              RIC COSTIN
+
+      OPEN OREGON EDUCATIONAL RESOURCES
+Basic Blueprint Reading by Linn-Benton Community College is licensed under a
+Creative Commons Attribution 4.0 International License, except where otherwise noted.
+Contents
+
+Introduction              1
+
+1. Cover                  3
+
+2. The Language of Lines  4
+
+3. Visualization          15
+
+4. Technical Sketching    38
+
+5. Scaling                59
+
+6. Dimensioning           65
+
+7. Auxiliary Views        87
+
+8. Sectional Views        96
+
+9. Machined Features      110
+
+10. Print Interpretation  126
+Welcome to the Linn-Benton Welding
+Department's First edition to blueprint
+reading.
+
+Being able to read and understand, as well as sketch, or even draw a
+blueprint, is important to the making of accurate parts and complete
+fabrications.
+
+   Blueprints are tools that communicate what needs to be built or
+made, what materials are needed and what specifications are
+required. They insure that a design is made with complete accuracy
+what meets the needs of the customer.
+
+   This book is an updated version of the originally authored
+publication by the Department of Engineering and Drafting
+Technology Department at Linn-Benton Community College, in
+Albany Oregon.
+
+                                                                                      Introduction | 1
+1. Cover
+
+                                                                                               Cover | 3
+2. The Language of Lines
+
+  · OBJECTLINE
+  · HIDDEN LINE
+  · SECTION LINE
+  · CENTER LINE
+  · DIMENSION LINE
+  · EXTENSION LINE
+  · LEADER LINE
+  · CUTTING PLANE LINE
+  · BREAK LINES
+  · PHANTOM LINES
+  · BORDER LINE
+
+You have heard the saying, "A picture is worth a thousand words". This
+statement is particularly true in regards to technical drawings.
+
+   It would be almost impossible for an engineer, designer, or
+architect to describe in words the shape, size, and relationship of
+a complex object. Therefore, drawings have become the universal
+language used by engineers, designers, technicians, as well as
+craftsmen, to communicate the Information necessary to build,
+assemble and service the products of industry.
+
+   It is Important to remember, as you study Print Reading, that you
+are learning to communicate with the graphic language used by
+Industry: Lines are part of that language.
+
+   Since technical drawings are made of lines, it is logical that the
+first step in learning to "read" a drawing is to learn the meaning of
+each kind of line. Generally, there are 11 basic types of lines. Each
+kind of line has a definite form and "weight". Weight refers to line
+
+4 | The Language of Lines
+thickness or width. When combined in a drawing, lines provide part
+of the Information needed to understand the print.
+
+   Being able to interpret a blueprint and accurately build objects is a
+needed skill to become successful in all trade crafts. It is a skill, like
+many others you will learn, and it will take time and practice to fully
+understand and become proficient.
+
+   Object Line
+   A visible line, or object line is a thick continuous line, used to
+outline the visible edges or contours of an object.
+
+   Hidden Line
+   A hidden line, also known as a hidden object line is a medium weight
+line, made of short dashes about 1/8" long with 1/16"gaps, to show
+edges, surfaces and corners which cannot be seen. Sometimes they
+are used to make a drawing easier to understand. Often they are
+omitted in an isometric view.
+
+                                                                       The Language of Lines | 5
+   Section Line
+   Section lines are used to show the cut surfaces of an object in
+section views. They are fine, dark lines. Various types of section lines
+may indicate the type of material cut by the cutting plane line.
+
+   Center Line
+   Center lines are used to indicate the centers of holes, arcs, and
+symmetrical objects. They are very thin (size), long-short-long kinds
+of lines.
+
+6 | The Language of Lines
+   Dimension Line
+   Dimension lines are thin and are used to show the actual size of
+an object. There are arrowheads at both end that terminate at the
+extension lines.
+
+   Extension Line
+   Extension lines are also thin lines, showing the limits of
+dimensions. Dimension line arrowheads touch extension lines.
+
+Leader Line
+   Leaders are more thin lines used to point to an area of a drawing
+
+requiring a note for explanation. They are preferably drawn at a 45°
+angles.
+
+                                                                        The Language of Lines | 7
+   Cutting Plane Line
+   A cutting plane line (very heavy) helps to show the internal shape at
+a part or assembly by slicing through the object.
+
+Break Line
+   There are three kinds of break lines used in drawings. They are
+
+used to remove, or `break out" part of a drawing for clarity, and also to
+shorten objects which have the same shape throughout their length
+and may be too long to place on the drawing.
+
+8 | The Language of Lines
+Short and long break lines are used for flat surfaces. Cylindrical are
+used on rods, dowels, etc.
+
+   Phantom Line
+   Phantom lines are long-short-short-long lines most often used to
+show the travel or movement of an object or a part in alternate
+positions. It can also be used to show adjacent objects or features.
+
+                                                                       The Language of Lines | 9
+Border Line
+   Borderlines are very thick, continuous lines used to show the
+
+boundary of the drawing or to separate different objects drawn on
+one sheet. They are also used to separate the title block form the rest
+of the drawing.
+
+Quiz....
+   Directions: Name the types of lines shown below. Check your own
+
+answers
+
+10 | The Language of Lines
+The Language of Lines | 11
+Identify the various line types used in this drawing. (instructor will
+provide a copy of this drawing)
+
+   Name the types of lines shown below. Check your own answers.
+
+12 | The Language of Lines
+   Directions: Draw and identify the lines needed to complete the
+figures as indicated.
+
+                                                                      The Language of Lines | 13
+14 | The Language of Lines
+3. Visualization
+
+Visualization
+
+  · PERSPECTIVE
+  · OBLIQUE DRAWING
+  · ISOMETRIC DRAWING
+  · ONE-VIEW DRAWING
+  · TWO-VIEW DRAWING
+  · ORTHOGRAPHIC PROJECTION
+  · HIDDEN SURFACES
+  · CURVED SURFACES
+  · INCLINED SURFACES
+
+Now that you have learned about the kinds of lines found on prints,
+the next step is to develop your visualization abilities. The ability
+to "see" technical drawings; that is to "think in three dimensions,"
+is the most important part of this course. Since most engineering
+and architectural prints utilize some form of orthographic projection
+(multi-view drawing), that type of drawing will be emphasized.
+
+   Before going into a study of orthographic projection, you should
+be able to recognize several other types of drawings. They are; 1.
+Perspective drawing, 2. Oblique drawing, and 3. Isometric drawing. As
+a group, they are called "pictorial drawings". They are found on prints
+and are easy to visualize, so let's look at their differences.
+
+Perspective
+
+Perspective is the most realistic form of drawing. Artists use one-
+
+                                                                                    Visualization | 15
+point perspective, two-point (shown here), and three point to create
+visual depth. Perspectives are used by architects and for industrial
+pictorials of plan layouts, machinery, and other subjects where
+realism is required. Objects drawn in perspective grow smaller as
+they recede into the horizon.
+
+Oblique
+
+Oblique drawings are drawn with one plane (front) of the object
+parallel to the drawing surface. The side, or other visible part of the
+object is generally drawn at 30 or 45. Note that only the side is
+on an angle. Many times these types of drawing are not drawn to
+scale. The receding lines are drawn at 45 or 30 and will be drawn
+at a different scale as the vertical and horizontal lines. This make the
+drawing seem "out of shape". This type of drawing is not used very
+often in industry.
+
+16 | Visualization
+Isometric
+
+Isometric drawings have less distortion than oblique drawings, and
+are used more frequently by industry for that reason. An isometric
+drawing has both visible surfaces drawn at 30. These are the most
+used type of drawings in the piping industry and take a good deal of
+practice to fully understand how to draw. They best represent what
+is being built and what it will look like from the different sides with
+one drawing.
+
+   Directions: Name the types of drawings shown below. Check your
+own answers.
+
+                                                                                    Visualization | 17
+Single View
+
+A single view of an object is sometimes all that is needed for a
+complete visual explanation. When dimensions, material, and other
+
+18 | Visualization
+information is Included, an object requiring only a single view is easy
+to understand.
+
+   Most one-view drawings are of flat objects, made from materials
+such as sheet metal and gasket stock. Spherical objects, such as a
+cannonball, would require only one view and a note indicating the
+material and diameter of the sphere.
+
+   The object shown in the one-view drawing below could be made of
+any appropriate material that might be specified. In appearance, it is
+much like the gasket used as part of the cooling system on many cars.
+All that would need to be noted is the material type and thickness
+required.
+
+                                                                                    Visualization | 19
+Two View
+
+Sometimes "two-view" drawings are use on prints. Two views may
+be all that is needed to show the shape of an object. Objects that
+are cylindrical, such as a length of pipe, are usually shown on a print
+with two views. In such a case, two views is sufficient to explain the
+shape. Notice in the two-view drawing shown below that the length
+of the pipe is shown in one view, while the diameter is called out in
+the other. Without the view on the right, what might this shape be
+mistaken for? Square tube, channel...
+
+Orthographic Projection
+
+Orthographic projection is a name given to drawings that usually
+have three views. Often, the three views selected are the top, front,
+and right side. It is possible, of course, to select other views such as
+the left side or bottom. Generally, though, it's the top, front and right
+side that are traditionally seen by the person reading prints.
+
+   Since most prints make use of the orthographic projection system,
+and because the top, front, right side views are most often used, it
+
+20 | Visualization
+is important that you have their order, or arrangement on the print
+fixed in your mind. To help you understand this system, think of a
+chalkboard eraser, a short length of 2 x 4 lumber, or a common
+brick. It looks like this:
+
+   When seen on a print, using orthographic projection, it would
+appear like this.
+
+This system of orthographic projection may be difficult to
+understand or visualize at first, but you will grasp it with some
+
+                                                                                    Visualization | 21
+practice. Here's a basic example of how it works, using a simple
+object.
+
+   Orthographic projection does not show depth, so the object shown
+above will appear flat. With practice, however, you will learn to scan
+the three views and "read" depth into them. Remember that the
+location of the top, front and right side views does not change. The
+projection lines between the orthographic views below show the
+height, width, and depth relationship that exists between each view
+and the other two views.
+
+22 | Visualization
+   In case you did not understand the three-view on the last page, let's
+take another look at the same thing. This time numbers will be used
+for identification for the surfaces.
+
+                                                                                   Visualization | 23
+Using orthographic projection, the object with the surfaces
+numbered appears like this:
+
+24 | Visualization
+   Notice that the front view (1) is the key to the drawing, because it
+most clearly shows the shape of the object. It tells you the object is
+"L" shaped from the front. The other two views don't tell you much
+by themselves. By looking at surface 1, however, you can see that 2
+is taller than 3. Therefore, in "reading" the surfaces, 2 should appear
+to be closer to you than 3. Now look at 4 and 5. Which surface is
+projected closest to you?·
+
+   Answer: Surface 5 (rotate and place at bottom of layout)
+
+   Now draw a simple box and tape all sides together to form a cube.
+The cube will be 2"x 2"x 2". Once the instructor has approved your
+drawing you will proceed to cut out and tape edges together to form
+a cube.
+
+                                                                                   Visualization | 25
+Visualization Quiz
+
+Directions:
+   All visible surfaces on the objects shown are numbered. To
+
+complete this quiz, you are to place those numbers on the
+corresponding surfaces of the orthographic drawings.
+
+26 | Visualization
+Visualization | 27
+   You may be wondering at this point why something like
+orthographic projection is used on prints when isometric or oblique
+drawings are so much easier to visualize. The answer is that both
+of those types of pictorials are used for relatively uncomplicated
+drawings. When an object is complex, however, neither can equal the
+orthographic system for clear presentation of dimensions, notes, and
+configuration details.
+
+28 | Visualization
+Hidden Surfaces
+
+Another advantage of orthographic projection is that it allows the
+person reading the print to have the ability to see the inside, or
+surfaces of an object which normally could not be seen.
+
+   With complicated objects this can become very useful.
+   In the drawing below, the hidden line in the right side view
+represents the entire surface of the flat area between the two higher
+sides.
+
+                                                                                   Visualization | 29
+   In this example, the hidden lines result from a square hole through
+the middle of the object.
+
+30 | Visualization
+   The hidden lines in this example are there because a part of one
+corner of the front surface was cut away, or "recessed.
+
+Hidden Surfaces
+
+Directions: Draw the hidden lines which are missing in the views
+below. Each problem has one incomplete view.
+
+                                                                                    Visualization | 31
+Curved Surfaces
+
+Curved surfaces are perhaps tricky to "see" until you remember that
+the curve is only shown in one view. You must put the curve in the
+other views yourself, through visualization. Try to think that when
+there is a sharp change of direction like at a corner, then that will
+produce a line visible in another view. When the change of direction
+is smooth like a curve, no line will be seen.
+
+32 | Visualization
+Here's another example of curved surfaces:
+                                                                                Visualization | 33
+   Curved surfaces exercise.
+   Directions: Draw the lines which are missing in the views below.
+Each problem has one incomplete view. Do not draw center lines.
+
+34 | Visualization
+Inclined Surfaces
+
+Inclined surfaces are those which are at an angle, or slanted. In other
+words, they are surfaces which are neither horizontal nor vertical.
+In viewing orthographic drawings you need to be alert to angles and
+inclined surfaces, for they are often found on the prints you will be
+reading later.
+
+   Notice the hidden line in the right view created by the inclined
+surface on this object:
+
+                                                                                   Visualization | 35
+   Here is an object with two inclined surfaces.
+36 | Visualization
+Inclined surfaces exercise
+
+Directions: Draw the lines which are missing in the views below. Each
+problem has one incomplete view.
+
+                                                                                    Visualization | 37
+4. Technical Sketching
+
+Technical Sketching
+
+  · SKETCHING TECHNIQUES
+  · LETTERING
+  · OBLIQUE SKETCHING
+  · ISOMETRIC SKETCHING
+  · ORTHOGRAPHIC SKETCHING
+  · ON-THE-SPOT SKETCHING
+
+On many occasions in your work it will most likely be necessary for
+you to make a sketch. Perhaps your boss can't visualize a particular
+problem without one, or you find it's necessary to make a
+dimensioned sketch to show an apprentice how to complete a job. In
+any case knowing how to sketch can make you more effective, and
+therefore more valuable, as a tradesperson.
+
+Many times out in the field you are working on sketches drawn on
+anything from napkins, cardboard, wood scrapes or any flat surface.
+Don't get me wrong, you will work projects with professionally
+produced drawings but sometimes you have to work with what you
+have.
+
+   Being able to make technical sketches doesn't mean you need to be
+an artist; and sketching isn't difficult if you follow a few simple rules.
+You may be a little slow at first, but with some practice you will be
+able to turn out reasonably good sketches without too much effort.
+
+   You are not going to be judged as a professional draftsperson or
+architect but you need to be able to describe, with lines what you are
+
+38 | Technical Sketching
+needing built, repaired or modified. This take practice and is a very
+important skill to develop.
+
+Sketching Techniques
+
+All you need to start is a pencil and some paper. A soft pencil works
+best for most people, so try a #2 or an F. Keep the pencil sharp, but
+not too sharp: hold it with a grip firm enough for control, but not
+so tight that your arm isn't relaxed. Don't draw heavily at first. That
+way it is easier to erase without smudging. Darken the sketch when it
+begins to shape up the way you want it.
+
+   It's generally best to begin sketching with plain paper, although
+some people like to use grid paper. On the job, you may find yourself
+sketching on the back of a work order or piece of packing crate.
+In any case, it's learning to sketch quickly and effectively that's
+important.
+
+   Here are some limbering up exercises wot get you started. To
+keep your pencil sharper longer, and for more even lines widths, try
+turning your pencil slowly while completing the lines in the exercises
+below.
+
+   Next, try sketching the objects on this page. Make your sketches as
+much like the examples as possible.
+
+   Remember; sketching means freehand drawing. No Straightedges,
+compass, coins, etc!
+
+                                                                         Technical Sketching | 39
+Lettering
+
+Now that you are warmed up, we will take the straight and curved
+lines from the sketching exercise and use them to form letters. The
+entire alphabet can be formed from the straight and curved lines you
+have practiced.
+
+   Look at the lettering below. If your printing is similar, and is easily
+readable, you can skip this exercise and go on to oblique sketching. If
+not, do some practicing. Some of the work ahead (and tests) require
+good lettering.
+
+   Remember, the most important requirement of good lettering is
+
+40 | Technical Sketching
+legibility. There is no use making a drawing if the person looking at
+drawing cannot read your writing.
+
+Oblique Sketching
+
+Oblique sketches are a type of pictorial having one plane parallel
+to the drawing surface, and the visible side sketched at an angle.
+Usually, that angle works best at 30 to 45, or somewhat in between.
+Beginners often have trouble keeping the 30 or 45 lines as the same
+angle. If that happens, your sketch will look distorted.
+
+                                                                          Technical Sketching | 41
+   Here's how to sketch an oblique cube in three steps:
+
+Possibly you might want to show the left side of the cube, or perhaps
+draw the hidden lines, as at the right;
+
+42 | Technical Sketching
+In the spaces below, sketch oblique cubes as indicated.
+   Sketch these objects in oblique, as shown:
+
+                                                                         Technical Sketching | 43
+44 | Technical Sketching
+In this more difficult exercise, you are to make oblique sketches of
+the objects shown. The third problem is drawn in isometric. You are
+
+                                                                         Technical Sketching | 45
+to sketch it in oblique. Convert problem four from orthographic to an
+oblique sketch.
+
+Isometric Sketching
+
+Isometric sketches, unlike oblique, must maintain an angle very close
+to 30°.
+46 | Technical Sketching
+   Therefore, to get the "feel" of an isometric, try sketching 30° angles
+in this exercise:
+
+Sketching in isometric can be done in different ways. Generally, it's
+recommended that you start and the bottom of the object and "box it
+in", thereby enclosing it within a rectangular framework. For example,
+if we were to take a simple object like this,
+
+The steps needed to sketch it in isometric would be;
+                                                                         Technical Sketching | 47
+The unnecessary lines are then removed, leaving the object. Once
+you gain some practice at this, it will be possible for you to make an
+ISO drawing without the "guide" lines. It is important to use them
+early on the help train your brain.
+
+   To the beginner, building a "frame" before sketching the object
+often seems unnecessary. That may be true with simple objects.
+However, when things become more complex, a frame gives you a
+means of developing the various parts in an organized way. Without
+such guidelines you can easily "lose" your sketch.
+
+   Sketch the examples given, using guidelines as shown in the first
+exercise. Draw the guidelines lightly. Notice that 3 and 5 require
+the use of non-isometric lines. Since those lines are not at 30, it is
+best to connect the end points of those lines after the sketch nears
+completion.
+
+48 | Technical Sketching
+Technical Sketching | 49
+Circles and arcs, when sketched in isometric, become elliptical in
+shape. If a circle is used, it will appear distorted, as in this example:
+
+50 | Technical Sketching
+   In sketching isometric circles and arcs, there are three positions
+in which they are normally sketched, depending upon the surface
+where the circular feature is located. Those surfaces, or picture
+planes are:
+
+   On the cube shapes below sketch ellipses as on the examples
+above.
+
+                                                                          Technical Sketching | 51
+You may also want to practice sketching ellipses on the other
+surfaces of the cubes.
+
+52 | Technical Sketching
+Orthographic Sketching
+
+Of all the methods of making drawings, orthographic projection is the
+most commonly used by draftsperson. Although the other methods
+serve their purposes, they cannot always show the parts of an object
+as well as orthographic representation.
+
+   Orthographic projection is a system of projecting from view to view
+to graphically describe the object. As a way of reviewing, study the
+
+                                                                         Technical Sketching | 53
+views of the small garage in this drawing. Notice the location and
+relationship of each view to the other views.
+
+The important thing to remember in orthographic sketching is the
+alignment of views. The top view is projected directly above the front
+view. The front and side view also line up with each other. The height,
+width, and length of the object must remain the same from view to
+view. There should be enough distance between the views to prevent
+crowding; and to leave room for dimensions.
+
+   Produce a top view in the drawing below.
+54 | Technical Sketching
+   Sketch each object in orthographic in the spaces on the right.
+Remember, the idea is to project! Front, top and right side view.
+
+                                                                         Technical Sketching | 55
+56 | Technical Sketching
+"On-THE-SPOT" Sketching
+
+Now that you have learned the three different methods of sketching,
+it is time to make sketches you can place in front of you and touch,
+rather that sketching from drawings on paper.
+
+   Sketching "ON-THE-SPOT" is a standard industry practice. A piece
+
+                                                                         Technical Sketching | 57
+of machinery needs to be changed, a support needs to be added, or
+pictorial information in some way requires a sketch.
+
+   Instructor will give you an object to sketch...
+   You will need to produce an isometric of the object and also an
+orthographic drawing with as many views as required to show details
+of object to be built.
+
+58 | Technical Sketching
+5. Scaling
+
+Scaling
+
+  · SCALE MEASUREMENT
+  · FULL SIZE
+  · HALF SIZE
+  · QUARTER SIZE
+
+The ability to make accurate measurements is a basic skill needed by
+everyone who reads and uses blueprints. This section is intended as
+a review of the fundamental principles of measurement. Since some
+students have had little need to measure accurately, these exercises
+will provide the practice they need. Others, who have had more
+experience, may find these exercises a worthwhile review.
+
+   Whether or not you need to review these fundamentals, there is
+one important thing to remember about getting measurements from
+a print. If you need a dimension that is unclear or is not given, do
+not measure the print! Since prints shrink, stretch, and may not be
+drawn to scale, you can easily come up with some very inaccurate
+dimensions.
+
+Scale Measurement
+
+A drawing of an object may be the same size as the object (full
+size), or it may be larger or smaller than the object. In mo.st cases,
+if it is not drawn full size, the drawing is made smaller than the
+object. This is done primarily for the convenience of the users of the
+drawings. After all, who wants to carry around a full size drawing of
+
+                                                                                           Scaling | 59
+a locomotive? Obviously, with an object as small as a wristwatch, it
+would be necessary to draw to a larger scale.
+
+   A machine part, for example, may be half the size (1/2"=1"); a
+building may be drawn 1/48 size (1/4"=1'-0"); a map may be drawn 1/
+200 size (1"=100'-0"); and a gear in that wristwatch may be ten-times
+size (10"=1").
+
+   There are numerous scales for different needs. Since each
+occupational group has their own frequently used scales, some
+practice or basics review will help you to work with the scales used in
+your technology.
+
+Full Scale
+
+Full scale is simply letting one inch on a ruler, steel rule, or
+draftsman's scale equal one inch on the actual object. Rules of this
+kind are usually divided into 1 /16" or 1 /32" units. The first
+measurement exercise will be with full size. If you can measure
+accurately in full scale, you may want to skip ahead.
+
+   Here is a "big Inch". Each space equals 1/32". If you have not worked
+with accurate measurement, spend some time studying it.
+
+Measurement practice: on the scale above, locate the following
+fractions:
+
+60 | Scaling
+Directions:
+   Each of the fractions below is numbered. Write that number above
+
+the scale and point with an arrow where the fraction is located.
+Number 1 has been completed.
+
+                                                                                            Scaling | 61
+Half Size
+
+The principle of half size measurements on a drawing is simply letting
+a unit, such as 1/2" on the scale, represent a larger unit such as 1" on
+the drawing. If the drawing is properly labeled, the words HALF SIZE
+or 1/2= 1 will appear in the title block.
+
+   Using the half-size scale is not difficult, but it does take some
+practice. To measure a distance of 2-3/16" you look first for the
+2, then go backwards to the zero and count off another 3/16. You
+measure this way for each dimension that has a fraction. Whole
+numbers (numbers without fractions) are measured in the usual way.
+
+Next, locate a half size scale (available in the lab) and measure the
+lines· below to the nearest 1 /32 of an inch. Write the length of the
+line in the space provided.
+
+62 | Scaling
+Because paper is dimensionally unstable due to humidity, exact
+answers to this half size measurement practice cannot be given. That
+is another reminder that it's poor practice to measure from a piece of
+paper.
+
+   Quarter Size
+   Quarter size is used and read in a similar way to half size except
+that each unit, such as a quarter of an inch, represents a larger
+unit, such as one inch. If the drawing is properly labeled the words
+QUARTER SIZE, QUARTER.SCALE, or 1/4 = 1 will appear in the title
+block.
+   The quarter size scale is used in a similar manner as the half size
+scale.
+   For quarter size practice, draw lines in the area provided to the
+required length. Have another student or the lab instructor check
+your lines for accuracy. (A ¼"=1" scale is available in the lab.)
+
+                                                                                           Scaling | 63
+Quiz
+   For this quiz, you will be given an object to measure with a ruler
+
+or tape measure. You will record measurements in full scale and then
+draw each length in ½ and ¼ scale.
+
+64 | Scaling
+6. Dimensioning
+
+  · Numerals
+  · Dimensions
+  · Extension Lines
+  · Arrowheads
+  · Dimension Figures
+  · Isometric Dimensioning
+  · Orthographic Dimensioning
+
+If a drawing is to be complete, so that the object represented by the
+drawing can be made as intended by the designer, it must tell two
+complete stories. It tells this with views, which describe the shape
+of the object, and with dimensions and notes, which gives sizes and
+other information needed to make the object.
+
+   Therefore, your next step is to learn the basics of dimensioning.
+In that way you will understand not only how to interpret a drawing
+to get the information you need, but also how to dimension your
+sketches so that they can be used to communicate size information
+to others.
+
+Numerals
+
+It may seem a bit basic, but a few exercises with the shapes of
+numbers comes before dimensioning. The reason for such review is
+simply that incorrectly or carelessly made numbers on a drawing or
+sketch can easily be misinterpreted by someone on the job. That can
+be costly.
+
+   Therefore, the study of numbers forms is justified.
+   The number forms presented here have been determined to be the
+
+                                                                                  Dimensioning | 65
+most legible, and are used by industry nationwide. The United States
+standardized 1/8" vertical numbers are correctly formed as follows:
+
+Dimension Lines
+
+The dimension line is a fine, dark, solid line with arrowheads on each
+end. It indicates direction and extent of a dimension. In machine
+sketches and drawings, in which fractions and decimals are used for
+dimensions, the dimension line is usually broken near the middle to
+provide open space for the dimension numerals. In architectural and
+structural sketches and drawings, the numerals are usually above an
+unbroken dimension line.
+
+In either case, the dimension line which is closest to the object
+should be placed approximately
+
+   1/2 away. The other dimensions beyond the first dimension (if
+66 | Dimensioning
+any) should be approximately 3/8 apart. You do not necessarily
+have to remember this, but you should remember not to crowd your
+dimension lines and to keep them a uniform distance apart.
+
+   The most important thing is that the drawing needs to be "clean"
+and dimensions need to be located in a space where they cannot be
+confused with a surface they are not intended to be used for.
+
+   Here is how dimension lines should be sketched:
+
+Note: Dimensions less than six feet (72 in.) are given in inches.
+Dimensions over six feet are usually shown in feet and inches. Be
+sure that it is clear how dimensions are called out. When calling out
+dimensions that are over 12", make sure ALL of dimensions are called
+out in total inches or feet inches throughout the entire drawing.
+Either 4'-5" or 53", they both mean the same thing but if there is a mix
+of dimensioning it can become easy to look at 4'-8" and see 48".
+
+                                                                                  Dimensioning | 67
+Extension Lines
+
+Extension lines on a drawing are fine, dark, solid lines that extend
+outward from a point on a drawing to which a dimension refers.
+Usually, the dimension line meets the extension line at right angles.
+There should be a gap of about 1 / 16 where the extension line
+would meet the outline of the object, and the extension line should
+go beyond the outermost arrowhead approximately 1 /8. Also, there
+should be not gaps where extension lines cross. Notice in this
+example the larger dimensions are correctly placed outside, or
+beyond the shorter dimensions, and that the dimensions are
+preferably not drawn on the object itself. Sometimes, however, it is
+necessary to dimension on the object.
+
+   It is important to remember to place dimensions on the views,
+68 | Dimensioning
+in a two or three view drawing, where they will be the most easily
+understood. Avoid dimensioning to a hidden line and avoid the
+duplication of dimensions. Use common sense; keep dimensions as
+clear and simple as possible. Remember, the person reading your
+drawing needs to clearly understand, beyond question, how to
+proceed. Otherwise, costly time and material will be wasted.
+
+   There are two basic methods of placing dimensions on a sketch.
+They may be placed so they read from the bottom of the sketch
+(unidirectional dimensions) or from the bottom and right side
+(aligned dimensions). The unidirectional system is usually best,
+because it is more easily read by workmen.
+
+   When dimensions will not fit in a space in the usual way, other
+methods are used to dimension clearly, when those crowded
+conditions exist.
+
+                                                                                  Dimensioning | 69
+   Arrowheads
+   Arrowheads are placed at each end of dimension lines, on leader
+lines, etc. Correctly made, arrows are about 1/8" to 3/16" in length,
+and are about three times as long as they are wide. Usually they have
+a slight barb, much like a fishhook.
+   To make your drawing look clean, use the same style throughout
+your drawing or sketch.
+
+Dimension numerals
+
+Numerals used to dimension an object are normally about 1/8" in
+height.
+
+70 | Dimensioning
+When a dimension includes a fraction, the fraction is approximately 1
+/ 4 in height, making the fractional numbers slightly smaller to allow
+for space above and below the fractional line.
+
+Again, it is particularly important that the numbers and fractions you
+may put on a sketch or drawing be legible. Sloppy numbers can cause
+expensive mistakes.
+
+Notes
+
+Notes are used on drawings to provide supplementary information.
+They should be brief and carefully worded to avoid being
+misinterpreted, and located on the sketch in an uncrowded area. The
+leader lines going to the note should be kept short. Notes are usually
+added after a sketch has been dimensioned to avoid interference with
+dimensions.
+
+                                                                                   Dimensioning | 71
+   Quiz
+   Directions: Dimension the examples as indicated.
+   Dimension this 3 ¼ x 6 15/32 rectangle unidirectionally on the top
+and right sides.
+
+72 | Dimensioning
+With a note, show a 5/16 drilled hole.
+
+   Dimension this object. The shorter lines are 3 inches in length.
+                                                                                  Dimensioning | 73
+   Dimension this object. Use a ruler or scale to determine the line
+lengths.
+
+Oblique Dimensioning
+
+Oblique dimensioning is mostly remembering to avoid dimensioning
+on the object itself (when possible) and the use of common sense
+74 | Dimensioning
+dimensioning principles. It is also usually best to have dimensions
+read from the bottom (unidirectional) as shown here.
+
+Although it is best not to dimension on the view itself, its usually
+accepted practice to place diameter and radius dimension on the
+views if space permits.
+
+   Sometime space and time is limited and you might have to bend the
+typical rules of drawing and dimensioning. The most important thing
+is to keep the drawing clean, concise, try to not a repeat dimensions
+but give all required ones.
+
+   Directions: Complete as indicated.
+                                                                                  Dimensioning | 75
+   Dimension this three inch cube.
+
+   The shorter section of this rod is 5/8 inches in diameter by 2 1/
+8 inches long. The longer section is 7/8 inches in diameter by 3 ½
+inches long. Dimension the drawing.
+
+76 | Dimensioning
+Isometric Dimensioning
+
+When dimensioning an isometric sketch, it is important to keep
+dimensions away from the object itself, and to place the dimension on
+the same plane as the surface of the object being dimensioned. You
+will probably find that to dimension well in isometric will take some
+practice.
+
+                                                                                  Dimensioning | 77
+Place notes on an isometric drawing without regard to placing them
+on the same plane, as with dimensions. It is easier to do, and easier to
+read.
+
+78 | Dimensioning
+   Isometric notes do not have to be on the same plane.
+
+   Notice in the example above that part of each leader line to the
+notes are sketched at an approximate angle of 15, 30, 45, 60 or 75
+degrees. This is done to avoid confusion with other lines. Never draw
+leader lines entirely horizontal or vertical.
+
+                                                                                  Dimensioning | 79
+Quiz
+   Directions: complete as indicated.
+   Dimension this drawing. The dimensions are 3" long, 2 1/8" wide, 1
+
+5/8" high with a 45 angle ½" deep. The angle begins as the midpoint
+of the 3" long dimension.
+
+80 | Dimensioning
+   Dimension this drawing. The base is ½" x 1 ½" square. The cylinder
+is 1" . x 1-1/8"
+long. The drilled through hole is 5/8".
+
+                                                                                  Dimensioning | 81
+   Quiz
+   Directions: You will be given an object to sketch and dimension.
+
+Orthographic Dimensioning
+
+When you look at the dovetailed object several pages back, it is
+easy to see that an isometric sketch can quickly become cluttered
+with dimensions. Because of this, more complicated sketches and
+drawings are dimensional in orthographic. This method provides the
+best way to dimension clearly and in detail.
+
+   Here are seven general rules to follow when dimensioning.
+
+82 | Dimensioning
+· Show enough dimensions so that the intended sizes can be
+   determined without having a workman calculate or assume any
+   distances.
+
+· State each dimension clearly, so it is understood in only one
+   way.
+
+· Show dimensions between points, lines or surfaces which have a
+   necessary relationship to each other or which control the
+   location of other components or mating parts.
+
+· Select or arrange dimensions to avoid accumulations of
+   dimensions that may cause unsatisfactory mating of parts. (In
+   other words, provide for a buildup of tolerances, as in the
+   example below.
+
+· Show each dimension only once. (Do not duplicate dimensions).
+· Where possible, dimension each feature in the view where it
+
+   appears most clearly, and where its true shape appears.
+· Whenever possible, specify dimensions to make use of readily
+
+   available materials, parts and tools.
+
+                                                                               Dimensioning | 83
+   Notice the dimensions are correctly placed between the views,
+rather than around the outside edges of the drawing.
+
+   Quiz
+   Directions: one a separate piece of paper, make a dimensioned
+orthographic sketch of this object.
+
+84 | Dimensioning
+Directions: on a separate piece of paper, make a dimensional
+orthographic sketch of the object.
+
+                                                                                  Dimensioning | 85
+Quiz
+   Directions: You will be given an object to sketch and dimension.
+
+86 | Dimensioning
+7. Auxiliary Views
+
+  · FRONT VIEW AUXILIARIES
+  · TOP VIEW AUXILIARIES
+  · SIDE VIEW AUXILIARIES
+  · SKETCHING AUXILIARY VIEWS
+
+When an object has a slanted or inclined surface, it usually is not
+possible to show the inclined surface in an orthographic drawing
+without distortion. To present a more accurate description of any
+inclined surface, an additional view, known as an auxiliary view, is
+usually required.
+
+   An auxiliary view is simply a "helper" view, which shows the slanted
+part of the object as it actually is. It turns, or projects, the. object so
+that the true size and shape of the surf ace (or surfaces) are seen as
+they actually are.
+
+   Auxiliary views are commonly found on many types of industrial
+drawings.
+
+Front View Auxiliaries
+
+There are three basic type of auxiliary views. In the first type, the
+auxiliary view is projected from the front view of a three view
+(orthographic) drawing. In the second and third types of drawings,
+the auxiliary views are projected from the top and side views.
+
+   Here is a front view auxiliary of a simple object with an inclined
+surface.
+
+                                                                                Auxiliary Views | 87
+   Notice that the projection lines are perpendicular to the slanted
+surface of the first view, and that only the slanted surface of the
+object is shown in the auxiliary view. · The rest of the object is
+omitted, however, for clarification portions of the adjacent· surfaces
+are sometimes shown. Also, notice that the slanted surfaces of the
+top and side views are shortened because of distortion, whereas the
+surface of the auxiliary view is true, or actual size.
+
+   To sketch an auxiliary view, you begin with orthographic. views of
+the object and add projection lines perpendicular (90) to the slanted
+surface, adding a reference line any convenient distance from the
+view with the slanted surface.
+
+88 | Auxiliary Views
+   Next, the distance CB on the auxiliary view is made the same length
+as the related distance in one of the orthographic views; in this
+example it's the side view. This completes the auxiliary view.
+
+                                                                                Auxiliary Views | 89
+Top View Auxiliaries
+
+A top view auxiliary is developed in the same way as a front view
+auxiliary, except that the auxiliary is projected from the top view.
+
+   Whether the auxiliary view is to be projected from the front, top,
+or side view depends on the position of the object, or which surface
+of the object is slanted. In this example, the top view is slanted.
+Therefore the auxiliary view must be projected from the top view.
+
+   Again, notice how the angled surfaces shown in the front and side
+views are not shown in true length.
+
+90 | Auxiliary Views
+Side View Auxiliary
+
+Side view auxiliaries are drawn in the same way as front and top view
+auxiliaries. Again, where the auxiliary view is to be projected depends
+upon the position of the object or which surface of the object is
+slanted.
+
+Obviously, these are very basic auxiliary view examples and are
+presented to introduce you to the concept of auxiliary views.
+
+   As objects with inclined surfaces become more complex, auxiliary
+views provide a means of presenting objects in their true size and
+shape.
+
+                                                                                Auxiliary Views | 91
+Sketching Auxiliary Views
+
+The following problems require and auxiliary view to be complete.
+Sketch the auxiliary views required in the spaces provided.
+
+   Drawing practice 1
+
+Drawing practice 2
+   In this problem, a round hole is centered on the slanted surface and
+
+drilled through the object. The hole appears elliptical in the. front and
+side views because of distortion. It will appear in its true shape on
+the auxiliary view. Remember that the auxiliary is developed from the
+view with the slanted surface. Complete the auxiliary view.
+92 | Auxiliary Views
+Drawing practice 3
+   In this problem, a square hole has been cut part way into the object.
+
+Complete the auxiliary view.
+
+                                                                                Auxiliary Views | 93
+Quiz
+   Directions: Complete the auxiliary view in the space provided.
+
+94 | Auxiliary Views
+Auxiliary Views | 95
+8. Sectional Views
+
+Sectional Views
+
+  · CUTTING PLANE
+  · CUTTING PLANE LINE
+  · SECTION LINING
+  · FULL SECTIONS
+  · HALF SECTIONS
+  · BROKEN OUT SECTIONS
+  · REVOLVFD SECTIONS
+  · OFFSET SECTIONS
+  · REMOVED SECTIONS
+
+You have learned that when making a multiview sketch, hidden edges
+and surfaces are usually shown with hidden (dash) lines.
+
+   When an object becomes more complex, as in the case of an
+automobile engine block, a clearer presentation of the interior can be
+made by sketching the object as it would look if it were cut apart. In
+that way, the many hidden lines on the sketch are eliminated.
+
+   The process of sketching the internal configuration of an object
+by showing it cut apart is known as sectioning. Sectioning is used
+frequently on a wide variety of Industrial drawings.
+
+   In this example, blocks A and B result after the block in figure 1 has
+been "Sectioned". When you cut an apple in half you have sectioned
+it. Just as an apple can be sectioned any way you choose, so can an
+object in a sectional view of a drawing or sketch.
+
+96 | Sectional Views
+Sectional Views | 97
+Cutting Plane
+A surface cut by the saw in the drawing above is a cutting plane.
+Actually, it is an imaginary cutting plane taken through the
+object, since the object is imagined as being cut through at a
+desired location.
+Cutting Plane Line
+A cutting plane is represented on a drawing by a cutting plane
+line. This is a heavy long-short-short-long kind of line
+terminated with arrows. The arrows in show the direction of
+view.
+
+   Once again, here is an graphic example of a cutting plane line and
+the section that develops from it.
+
+98 | Sectional Views
+Section Lining
+
+The lines in the figure above, which look like saw marks, are called
+section lining. They are found on most sectional views, and indicate
+the surface which has been exposed by the cutting plane. Notice that
+the square hole in the object has no section lining, since it was not
+changed by sectioning.
+
+   Different kinds of section lining is used to identify different
+materials. When an object is made of a combination of materials,
+a variety of section lining symbols makes materials identification
+easier. Here are a few examples:
+
+                                                                               Sectional Views | 99
+   Section lines are very light. When sketching an object or part that
+requires a sectional view, they are drawn by eye at an angle of
+approximately 45 degrees, and are spaced about 1/8" apart. Since
+they are used to set off a section, they must be drawn with care.
+
+   It is best to use the symbol for the material being shown as a
+section on a sketch. If that symbol is not known, you may use the
+general purpose symbol, which is also the symbol for cast iron.
+
+Full Sections
+
+When a cutting plane line passes entirely through an object, the
+resulting section is called a full section Fig. 7 illustrates a full section.
+
+100 | Sectional Views
+   It is possible to section an object whenever a closer look
+intentionally is desired. Here is an object sectioned from two
+different directions.
+
+Half Sections
+
+If the cutting plane is passed halfway through an object, and one-
+quarter of the object is removed, the resulting section is a half
+section. A half section has the advantage of showing both inside and
+outside configurations.
+
+   It is frequently used for symmetrical objects. Hidden lines are
+usually not shown on the un-sectioned half unless they are needed
+for clearness or for dimensioning purposes. As in all sectional
+drawings, the cutting plane take precedence over the center line.
+
+                                                                               Sectional Views | 101
+   Here is another example of a half section. Remember that only one
+fourth of the object is removed with a half section, whereas half of
+the object is generally removed with a full section.
+
+102 | Sectional Views
+   This manufacturer's drawing, using both full and half section,
+illustrates the advantages of sectional views. The different line
+directions indicate different parts and materials used in the assembly
+of this valve.
+
+                                                                              Sectional Views | 103
+   Quiz
+   Directions: On a separate sheet of paper, complete the section
+view.
+
+104 | Sectional Views
+Broken Out Sections
+
+In many cases only a small part of a view needs to be sectioned in
+order to show some internal detail. In the figure below, the broken
+out section is removed by a freehand break line. A cutting plane line
+does not need to be shown, since the location of the cut is obvious.
+
+                                                                              Sectional Views | 105
+Revolved Sections
+
+A revolved section shows the shape of an object by rotating a section
+90 degrees to face the viewer. The three revolved sections illustrated
+in the spear-like object of figure 12 show the changes that take place
+in its shape.
+
+106 | Sectional Views
+Offset Sections
+
+An offset section is a means of including in a single section several
+features of an object that are not in a straight line. To do this, the
+cutting plane line is bent, or "OFFSET" to pass through the features
+of the part.
+
+Removed Sections
+
+A section removed from its normal projected position in the standard
+                                                                              Sectional Views | 107
+arrangement of views is called a "removed" section. Such sections are
+labeled SECTION A-A, SECTION B-B, etc., corresponding to the letter
+designation at the ends of the cutting plane line. Removed sections
+may be partial sections and are often drawn to a different scale.
+
+Quiz
+   Directions: Complete the half section view of a separate sheet of
+
+paper.
+
+108 | Sectional Views
+Sectional Views | 109
+9. Machined Features
+
+Machined Features
+
+·  BEVEL
+
+·  BOSS
+
+·  CHAMFER
+
+·  COUNTERBORE
+
+·  COUNTERSINK
+
+·  DOVETAIL
+
+·  FILLET
+
+·  KERF
+
+·  KEYWAY
+
+·  KEYSEAT
+
+·  KNURL
+
+·  LUG
+
+·  NECK
+
+·  PAD
+
+·  ROUND
+
+·  SPLINE
+
+·  SPOTFACE
+
+·  T-SLOT
+
+The machined features in this section are common terms related
+to basic industry processes. These terms are often found on prints.
+For a better understanding of these processes, look at the models of
+machined features in the Print Reading Lab.
+
+110 | Machined Features
+Bevel
+
+A surface cut at an angle. In regard to welding, a bevel will normally
+end up being a surface prep for a weld.
+
+Boss
+
+A circular pad on forgings or castings, which project out from that
+body of the part. The surface of the boss is machined smooth for a
+bold head to seat on and it has a hole drilled through to accommodate
+the bolt shank.
+
+                                                                           Machined Features | 111
+Chamfer
+
+A process of cutting away a sharp external corner or edge. Not for
+welding.
+
+112 | Machined Features
+Counterbore
+
+To enlarge drilled hole to a given diameter and depth. Usually done
+for recessing a bolt head.
+
+Countersink
+
+To machine a conical depression in a drilled hole for recessing
+flathead screws or bolts.
+
+                                                                          Machined Features | 113
+Dovetail
+
+A slot of any depth and width, which has angled sides.
+
+114 | Machined Features
+Quiz
+Directions: Name the machined features shown below.
+
+                                                                       Machined Features | 115
+Fillet
+
+A small radius filling formed between the inside angle of two surfaces.
+
+Kerf
+
+The narrow slot formed by removing material while sawing or other
+machining.
+
+116 | Machined Features
+Keyway
+
+A narrow groove or slot cut in the shaft hole of a sleeve or hub for
+accommodating a key.
+
+Keyseat
+
+A narrow groove or slot cut in a shaft for accommodating a key.
+
+Knurl
+
+To uniformly roughen with a diamond or straight pattern a cylindrical
+or flat surface.
+
+                                                                          Machined Features | 117
+Lug
+
+A piece projecting out from the body of a part. Usually rectangular in
+cross section with a hole or slot in it.
+
+Neck
+
+To machine a narrow groove on a cylindrical part or object.
+118 | Machined Features
+Quiz
+   Directions: Name the machined features shown below. Check your
+
+answer.
+
+                                                                          Machined Features | 119
+Additional features and shapes.
+
+120 | Machined Features
+Pad
+
+A slightly raised surface projecting out from the body of a part. The
+pad surface can be of any size or shape. (Remember, bosses can only
+be round)
+
+Round
+
+A small radius rounded outside corner formed between two surfaces.
+
+                                                                          Machined Features | 121
+Spline
+
+A gear-like serrated surface on a shaft. Take the place of a key when
+more torque strength is required.
+
+Spotface
+
+A round surface on a casting or forging for a bold head. Usually about
+1/16" deep.
+
+122 | Machined Features
+T-Slot
+
+A slot of any dimensions to resemble a "T".
+
+Quiz
+   Directions: Name that machined features shown below. Check your
+
+Answers.
+
+                                                                         Machined Features | 123
+124 | Machined Features
+Machined Features | 125
+10. Print Interpretation
+
+Print Interpretation
+
+This final section introduces basic print reading. Because machine
+drawings are used to some extent in nearly every trade, the working
+drawings used in this section are all machine drawings.
+
+   The purpose of this package is to provide an opportunity to put
+your fundamental knowledge of print reading to use before you go on
+to more specialized and advanced print reading activities.
+
+   Exercise 1
+   Study the print below and fill in the related dimensions.
+
+126 | Print Interpretation
+Exercise 2
+   Study the print below and fill in the related dimensions.
+
+                                                                         Print Interpretation | 127
+Exercise 3
+   Study the print below and fill in the related dimensions.
+
+128 | Print Interpretation
+Exercise 4
+   Study the print below and fill in the related dimensions.
+
+                                                                        Print Interpretation | 129
+   Exercise 5
+   Study the print below and fill in the related dimensions.
+
+130 | Print Interpretation
+Print Interpretation | 131
+

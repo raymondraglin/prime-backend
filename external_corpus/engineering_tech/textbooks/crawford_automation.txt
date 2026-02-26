@@ -1,0 +1,762 @@
+      Crawford Automation - A Guided
+Application of Structured Problem Solving
+CRAWFORD AUTOMATION - A GUIDED
+APPLICATION OF STRUCTURED PROBLEM
+SOLVING
+
+Continuous Improvement in Action
+
+STEPHEN THOMSON; KEVIN HOLLIS; AND LAURIE TURNBULL
+
+Conestoga College
+Kitchener, ON
+Crawford Automation - A Guided Application of Structured Problem Solving by Stephen Thomson; Kevin Hollis; and Laurie Turnbull is
+licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where otherwise noted.
+CONTENTS
+
+Introduction                                                        1
+
+Acknowledgements                                                    4
+
+Crawford Case
+
+Crawford Case                                                       5
+
+Theory: Practical Problem-Solving Approach                          11
+
+Activity: Apply the Practical Problem-Solving Approach to the Case  12
+
+Appendices                                                          19
+
+Alternative Text for Complex Images and Figures                     29
+              INTRODUCTION | 1
+
+INTRODUCTION
+
+In this case study you will apply structured problem-solving to address a common supply chain issue! What
+first appears as the issue may just be a symptom of a root cause. In this case study, you will be presented
+with a real-life problem that requires a structured approach to be solved effectively. This case is a collaboration
+between the Conestoga Centre for Supply Chain Innovation and ATS Automation and utilizes the ATS
+Business Model (ABM) approach to identifying and solving root causes.
+
+   Structured problem-solving is a process that enables individuals and teams to identify, analyze, and solve
+problems systematically. This approach involves breaking down complex problems into smaller, more
+manageable parts, and then using data and analytical tools to identify the root cause of the problem. Once the
+root cause has been identified, a range of possible solutions can be generated and evaluated before selecting the
+best one to implement.
+
+   The structured problem-solving approach has been widely used in various industries and fields, such as
+manufacturing, healthcare, finance, and education. It is a valuable tool for anyone who needs to solve problems
+efficiently and effectively, regardless of their level of expertise or experience.
+
+   In this case study, you will have the opportunity to practice your structured problem-solving skills by
+working through a real-life problem that requires a systematic approach to be solved. You will be presented
+with a detailed scenario, and you will need to apply the steps of structured problem-solving to analyze the
+situation, identify the root cause of the problem, and develop and evaluate potential solutions.
+
+   By the end of this case study, you will have gained a better understanding of how structured problem-solving
+can be applied to real-life situations, and you will have developed practical skills that you can apply to future
+problems you may encounter. Let's get started!
+
+Accessibility Statement
+
+Please review Conestoga College's Accessibility Statement for OER Projects.
+
+Authors
+
+Stephen Thomson
+
+Stephen is the acting director of the Centre for Supply Chain Innovation (CSCI) (formerly known as the
+Magna Centre for Supply Chain Excellence) at Institute of Technology and Advanced Learning in Kitchener,
+2 | INTRODUCTION
+
+Ontario, Canada. Prior to becoming the director of CSCI, Stephen was a 15-year veteran of the supply chain
+cluster of programs. Stephen has designed and taught courses at the diploma, degree, and post-graduate level,
+specializing in data analytics, data visualization, and decision support modeling. Stephen is also the college's
+SAP faculty lead assisting programs with integrating the topics of ERP systems, business processes, simulation
+games, and advanced analytics into curriculum.
+
+   Over the past three years, Stephen has been a primary investigator in applied research, participating in multi-
+disciplinary teams focusing on projects related to supply chain analytics and sustainability. Research topics
+have included logistics visualizations, predictive analytics, and the development of a sustainability scorecard
+framework.
+
+   Stephen can be reached at sthomson@conestogac.on.ca.
+
+Kevin Hollis
+
+Kevin is a faculty member in the School of Business at Conestoga College ITAL. Kevin is a fulltime professor
+on the Supply Chain Management - Global program team, where he helps students develop skills and
+prepare to embark on their future work careers. Kevin is an MBA and qualified engineer with over 30 years
+manufacturing and supply chain management experience across multiple manufacturing sectors, warehousing
+& distribution, and 3PL services. Kevin also has an industrial engineering background which he has used to
+help organizations analyze and improve process performance.
+
+   Kevin can be reached at khollis@conestogac.on.ca.
+
+Laurie Turnbull
+
+Laurie Turnbull is a professor in the School of Business at Conestoga College ITAL with over twenty-five
+years of industry and academic experience in international business. He obtained his Masters of Science degree
+(MSc) in Operations and Supply Chain Management (2016) from the University of Liverpool. Specializing
+in procurement, logistics, and risk management, Laurie uses that experience to help his students develop
+the critical skills necessary to manage global supply chains contributing to an organization's competitive
+advantage.
+
+During his career in consumer goods manufacturing and the logistics service sector, Laurie frequently
+contributed to nationally recognized trade publications, including Canadian Transportation & Logistics and
+Canadian Shipper . He was awarded the CITT-Certified Logistics Professional (CCLP) designation by the
+Canadian Institute of Traffic and Transportation, recognizing expertise in Canadian supply chain logistics,
+and the Professional Materials Manager designation (P.M.M.) by the Materials Handling and Management
+Society. In 2014 he received the CITT Award of Excellence, given to an individual whose career has exemplified
+innovation in the field of supply chain logistics and who has accumulated many notable achievements.
+                                                                                                                                           INTRODUCTION | 3
+
+Laurie's research interests include supply chain planning and geopolitical disruptions. He is actively involved
+with two of Canada's leading supply chain associations, Supply Chain Canada and CITT.
+
+Teaching Resources
+
+Request the teaching resources for this case [new tab].
+
+       Note that requesting faculty must be vetted before the teaching resources can be distributed.
+       The teaching resources are copyrighted by the authors and all rights are reserved. Teaching
+       resources are for teaching purposes and may not be shared or republished in any form.
+4 | ACKNOWLEDGEMENTS
+
+ACKNOWLEDGEMENTS
+
+We would like to express our gratitude to our industry collaborator, Caleb Connor, from ATS Automation,
+for his invaluable contribution to our project! Caleb's expertise and support have been instrumental in making
+our vision a reality.
+
+   We would also like to extend our thanks to Kim Carter, Holly Ashbourne, Rachel Stuckey, and the Open
+Educational Resource team at Conestoga College ITAL, for guiding us along this journey and to Will Snyder
+from Media Services at Conestoga College ITAL, for making the video magic.
+
+   The authors are grateful for the partnership, collaboration, and support that has allowed us to achieve our
+goals.
+
+   With much gratitude,
+   Stephen Thomson - Director of Supply Chain Innovation
+
+Land Acknowledgement
+
+We wish to acknowledge and express gratitude to Indigenous peoples for their contributions as we work
+towards reconciliation by learning about the people, the land, and the traditional territories on which we work
+and reside. Conestoga College is located on the traditional territory of the Anishinaabe, Haudenosaunee, and
+Neutral peoples.
+               CRAWFORD CASE | 5
+
+CRAWFORD CASE
+
+     Problem-Solving Case Study Intro Video (2 min 22 s)
+
+       Play the video below to listen to an introduction from the coach.
+
+                             One or more interactive elements has been excluded from this version of the text. You can view
+                             them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=51#oembed-1
+
+       Conestoga OLC. (2023, January 25). Problem solving case study intro [Online video]. YouTube.
+       Licensed for reuse CC BY-NC-SA.
+
+The New Supply Chain Manager
+
+It was early Monday morning, October 2, 2022, and Priyanka Kaur was starting her second week as the new
+Supply Chain Manager at Crawford Automation in Barrie, Ontario, Canada. She was thrilled when the
+company offered her the job and still couldn't believe her good fortune. Before leaving India to pursue an
+opportunity as an international student in Canada, with a chance to find a full-time job, she had already
+completed a degree in Mechanical Engineering. In addition, she had several years of experience in the
+fabrication industry in her hometown of Kolkata, India, including supervisory experience, so she was ready
+for the role of Supply Chain Manager with Crawford Automation. Still, she couldn't help but notice the
+culture at Crawford was almost exclusively male-dominated, which explained her response when HR called to
+offer her the job, "Really? Oh my, I can't believe it! Yes, yes, I accept the position. Thank you, I am very
+grateful."
+
+   However, those concerns faded into the background as Kaur immersed herself in the onboarding process at
+Crawford. The first week had been reserved for "new hire" orientation comprising the usual Human
+Resources onboarding processes, touring the office area, meeting administrative employees, and training on
+the company's ERP system (see Appendix A for the organizational chart). She also had an opportunity
+6 | CRAWFORD CASE
+
+to spend time with the company's General Manager, Hugh Robertson, who explained the company's history,
+competitive marketing position, and strategic plans for the coming year.
+
+   Her overall responsibilities included purchasing, logistics, and inventory management, and towards the end
+of the week, she finally got a chance to meet her staff. Kaur has a small team of two-to-three employees in each
+area, but it was clear they had their hands full and were pleased the company had hired a new Supply Chain
+Manager.
+
+Purchasing at Crawford Automation
+
+Kaur had previous experience in logistics and inventory control and was comfortable with those
+responsibilities. However, she had little direct experience in purchasing and was unsure in that role. This
+became more evident when her Purchasing Supervisor, Kevin MacDonald, described the scope of their
+department's operations, including the number of domestic and international suppliers involved, the
+sophistication of the parts they ordered, and the logistics requirements related to ensuring supplier deliveries
+were on time for production. Kaur realized the importance of that relationship when MacDonald mentioned
+that supplier on-time delivery had been declining in recent months: it was currently 75% but the company
+requirement is 95% on-time delivery.
+
+   Kaur was determined to get down to business, and her first meeting was with Harvey Morrison, the Plant
+Manager. Morrison had been with the company for over ten years and proved to be a wealth of knowledge
+about everything and everyone.
+
+   Morrison took Kaur on a tour of the Plant, explaining the various production processes underway. "Do
+you have any experience in the automation business, Priyanka?" Morrison asked as they made their way
+between several workstations. "A little," Kaur replied. "I worked in a metal fabrication company for several
+years before coming to Canada. We specialized in the airline industry, fabricating wing and fuselage parts from
+high-density composite materials for some of the largest airlines in the world."
+
+   "Sounds interesting," said Morrison. "We may not be a `highflyer' like your previous employer, but we're
+pretty advanced in our own way. Our customers are manufacturing companies, mostly consumer goods
+producers but some industrial clients as well. When they need a new machine or automated conveyor system,
+they come to us and ask us to produce it, and sometimes design it too. It could be a new machine to produce a
+brand-new product, or a bigger machine to produce more volume of an existing product."
+
+   Kaur stopped and pushed several large boxes aside to get a better look around. "So, all the people in this
+area are working on the same thing?" she asked Morrison.
+
+   "Could be," he answered. "But, keep in mind, we're talking about highly sophisticated machinery. For
+example, right now we're producing a high-volume extrusion molding machine for a large consumer beverage
+company. It's only one machine, but it will produce thousands of bottles per minute that will feed into their
+conveyor systems and be filled with beverage products. A machine like this has to be built from scratch,
+hundreds of different parts, most we design and make ourselves, but some come from our suppliers."
+                                                                                                                                        CRAWFORD CASE | 7
+
+   "I'm glad I asked," Kaur replied. "That gives me a better idea of the role my departments play in all of this."
+Morrison steered Kaur back towards the office area, saying, "Well, now that you mention it, there's something
+I wanted to talk to you about your department and some problems we've been having."
+
+   "Oh, are you saying my employees aren't doing their jobs very well?" Kaur asked.
+   "Look, Priyanka, don't take this the wrong way," Morrison said. "You saw how many people I have
+working out there. Our customers pay up to one million dollars for some of these machines, sometimes more,
+therefore they demand high-quality and on-time delivery. I'm glad the company hired you, it's no secret that
+we have had some significant production delays this year because the supply chain department couldn't
+arrange the delivery of parts and materials to meet my production schedules."
+   Kaur considered this for a moment and said, "Harvey, thank you for the tour and the insights into some of
+the problems in my department. I assure you this will be a top priority for me and I will look into it
+immediately."
+
+"Thank Goodness You're Finally Here.....!"
+
+Kaur knew firsthand the importance of timely supplier deliveries from her experience in the fabrication
+industry. Back in her department, she decided to talk to MacDonald: "Harvey Morrison just gave me a Plant
+tour, and from his comments, I get the impression he's not too happy with some of your suppliers."
+
+   "Look, Priyanka," said Kevin defensively, "these suppliers were in place long before I got here, so they must
+know what they're doing. When things don't show up, I get phone calls from Mike Brown demanding to
+know where his order is. Call the suppliers, and it's the same story every time. They tell me our orders were
+shipped on schedule and that I should call the trucking companies or check with Receiving. I call the carriers,
+and they say they don't have it. Then I call Paul Robertson and he says he hasn't seen it either. But between
+you and me, I'm not sure he would know, so thank goodness you're finally here to help sort things out!"
+
+   "What do you mean by that?" Kaur asked.
+   "My team has been tracking missed on-time deliveries (OTD) for the last two months (see Appendix B
+for Late PO data) and we have found the main issue is incorrect data entry; however, I am unclear on how
+to present this data and what the next steps to improve the situation are. I know that receiving is one of the
+busiest areas in the company and floor space is in short supply, so maybe they are having difficulty locating the
+orders."
+   Kaur was able to take a quick look at the Late Purchase order data the purchasing team has compiled and
+recommended that a Pareto diagram would be the most effective method to show the data and explained that
+she was going to introduce a tool called an Ishikawa diagram (commonly referred to as a "Fishbone") to the
+team soon. Kaur was interested to see if anything in the data provided indicated their suppliers were performing
+unsatisfactorily.
+8 | CRAWFORD CASE
+
+The Receiving Department
+
+Kaur asked MacDonald to generate a supplier performance report for the company's key suppliers, then
+headed back to the Plant to speak with Paul Robertson, the Shipping & Receiving Supervisor. The Shipping
+& Receiving department was not included in her tour with Morrison, and she was curious after hearing
+MacDonald's comments.
+
+   When she arrived at the Shipping & Receiving department, she saw that MacDonald might have a point.
+Boxes and crates of all shapes and sizes filled the area to the point where it was difficult to find an aisle and in
+one of the receiving docks was a skid full of random boxes blocking access for any material handling
+equipment (MHE). She asked one of the staff on the floor and was told: "I think that stuff came in yesterday
+and it is all the receipts with discrepancies, so we are waiting for purchasing to tell us what to do with them.
+When a shipment arrives we have to match the purchase order, with the packing slip, and the label on the
+boxes. None of these boxes match."
+
+   Finally, behind a solid wall of boxes, Kaur discovered the Shipping Office and, inside, was Paul Robertson.
+
+                   An interactive H5P element has been excluded from this version of the text. You can view it
+                   online here:
+                   https://ecampusontario.pressbooks.pub/crawfordcase/?p=51#h5p-1
+
+   Looking at the purchase order Robertson just showed her, Kaur realized this is exactly the same missing
+roller bearing MacDonald could not find (see Appendix C - Purchase Order).
+
+The Problem
+
+Later that day, around 4 p.m. Kaur received an email from Morrison asking if she could come to the
+production area. When she arrived, Morrison waved her over to one of the workstations.
+
+   "Thanks for coming. I thought it would help if you saw this for yourself. We're supposed to install the ball
+bearings on this machine today, but now we have found out we don't have any. The inventory records say we
+should have two in stock, but we don't. Kevin tells me the supplier says they shipped our order three days ago,
+which contained 15 sets of Part #: 9902233567 Roller Bearings required for this job. Orillia to Barrie is
+usually next-day delivery with the trucking company, but Robertson says he never received the order." (see
+Appendix C - Purchase Order)
+
+   Kaur saw that Morrison was waiting for an answer from her and asked, "What do you suggest I do?"
+                                                                                                                                        CRAWFORD CASE | 9
+
+   "I don't know; I just thought you should see firsthand the problems we're having with some of your
+suppliers," Morrison replied as he handed Kaur a copy of the inventory record. "I could ask Paul to drive up
+to Orillia and pick up the part, but he won't get there before 4:30, and since this has happened before, Orillia
+Components will charge us an overtime pickup penalty of $500 for a $60 part. And since there will be rush
+hour traffic on Highway 400 at this time of day, he'll be lucky to get back here by 8 p.m. tonight, and I can't
+keep my Production department on overtime waiting for him.
+
+   Kaur thought for a moment about the supplier analysis she had just completed. "Harvey, it's too late to do
+anything about this today. Leave it with me, and I'll get back to you first thing tomorrow morning."
+
+The After-Hours Investigation
+
+Before she left for home, Kaur needed to make a plan. How will she and the team determine what had
+happened to the missing part and figure out what the root cause of this recurring issue is? She knew she
+needed to see the issues firsthand and collect data to understand the extent of the issue and to set a baseline of
+performance.
+
+   One of the first things Kaur requested was a supplier performance report and the supplier performance
+scorecards for the top five vendors. She was informed that the accounting department creates and publishes
+scorecards and that the performance reports were not up to date. Furthermore, it would take accounting weeks
+to gather, organize, and summarize the data. She decided to ask her purchasing team to perform the analysis.
+Crawford's IT department has set up an analytics self-serve where managers have direct access to download
+data directly from SAP (the company's enterprise resource planning system) directly into Excel to perform
+analysis and data visualizations (Download the SAP data file [downloads an Excel file]).
+
+   Utilizing the self-serve tool, Kaur was able to download the complete Key Supplier Performance report (see
+Appendix D - Key Supplier Performance Report). One of the key findings she is hoping to see is whether
+the Crawford purchasing team is providing their vendors with the required five day lead time (time between
+the date ordered and date required) and whether supplier confirmation dates are consistently entered.
+
+   Kaur wanted to do one more thing before she went home and waited in her office until 7 p.m., long after
+the plant had closed and everyone had left for the day. Armed with a flashlight, a copy of the Purchase Order
+to Orillia Components (see Appendix C - Purchase Order), and the packing slip from the receipt (see
+Appendix E - Packing Slip) she went to see if she could find the missing roller bearings.
+
+   Can you find the box containing the missing parts in this pile? When the box is located can you identify the
+discrepancy between the Purchase Order, Packing Slip, and the box label?
+
+                   One or more interactive elements has been excluded from this version of the text. You can view
+                   them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=51
+10 | CRAWFORD CASE
+
+As she walks towards the receiving area, Kaur is thinking, "The only way to solve this problem is to use the
+structured problem-solving approach I was taught in school and has worked in the past. It is important that I
+find the root cause to this issues, or else they will keep happening."
+
+As part of Kaur's team, you will use a structured problem-solving approach to find the root cause of
+Crawford's supply chain problems and help the team determine countermeasures that will improve this
+situation once and for all.
+                                                                                     THEORY: PRACTICAL PROBLEM-SOLVING APPROACH | 11
+
+THEORY: PRACTICAL PROBLEM-SOLVING
+APPROACH
+
+            5-Step Practical Problem-Solving Process
+
+    This is an adaptation of the 5-Step Practical Problem-Solving Process used at ATS Automation (based in
+             Cambridge, Canada), as part of their ATS Business Model (ABM). [Image description]
+12 | ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE
+
+ACTIVITY: APPLY THE PRACTICAL
+PROBLEM-SOLVING APPROACH TO THE
+CASE
+
+Activity: Application of Structured Problem Solving
+
+Watch the following videos of Caleb Connor (ABM Lead) from ATS Automation introducing the concept of
+structured problem-solving.
+
+                             One or more interactive elements has been excluded from this version of the text. You can view
+                             them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=55#oembed-1
+
+       Conestoga OLC. (2023, January 25). Problem-solving case study step 1 [Online video]. YouTube.
+       Licensed for reuse CC BY-NC-SA.
+
+Step 1: Define the Team!
+
+Who would be best involved in this Problem-Solving Team? List the roles you would want to involve.
+ 1. Use the organizational chart to choose who should be involved in the project and explain their role and
+      why they should be on the team. (see Appendix A - Organizational Chart)
+                                               ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE | 13
+
+                             One or more interactive elements has been excluded from this version of the text. You can view
+                             them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=55#oembed-2
+
+       Conestoga OLC. (2023, January 25). Problem-solving case study step 2 [Online video]. YouTube.
+       Licensed for reuse CC BY-NC-SA.
+
+Step 2: Identify the Problem
+
+ 1. What are the targets of on-time supplier delivery? Given the table below, graph the data and determine
+      the performance over the past 12 months, by month and in total. Is there a trend or pattern (# of PO
+      On-time / # of PO)? What is the identified gap?
+Month      # of PO Receipts  # of Late PO Receipts  # of Supplier Scorecards Issued
+January    1256              378                    0
+February   1344              399                    0
+March      1452              433                    0
+April      1678              433                    2
+May        1198              278                    3
+June       1098              245                    4
+July       987               203                    6
+August     970               199                    8
+September  1409              245                    11
+October    1987              280                    13
+November   2240              300                    15
+December   2334              298                    16
+                                               ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE | 15
+
+2. From this analysis, construct a single-sentence problem statement.
+
+                             One or more interactive elements has been excluded from this version of the text. You can view
+                             them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=55#oembed-3
+
+       Conestoga OLC. (2023, January 25). Problem-solving case study step 3 [Online video]. YouTube.
+       Licensed for reuse CC BY-NC-SA.
+
+Step 3: Investigate the Root Cause.
+
+ 1. Review and analyze the data collected on late purchase orders. (see Appendix B for Late PO data) -
+      The team also conducted a follow-up study of a selection of problem purchase orders over the past two
+      months to help identify the root cause, or causes, of these missing and late purchase orders.
+        a. How does this data start to inform your understanding of the issue?
+
+ 2. Review the Ishikawa / Fishbone Diagram - The team did this as pre-work to inform this analysis. (see
+      Appendix F - Ishikawa Diagram - Top Three Analysis) Multiple possible problem areas were
+      identified under six broad categories, and following a team vote, the most popular were identified and
+      highlighted in blue together with the number of votes each received. The three that received the highest
+      votes are shown in Appendix F - Top Three Analysis together with an assortment of possible root
+      causes for each. Review the 14 possible root causes shown in the Top Three Analysis against the
+      information provided in the case study.
+        a. Which three possible root causes would you choose to investigate further?
+
+ 3. What data provided in the case study have you used to support your selections for further investigation?
+      Complete the supplier performance table shown in Appendix D (see Appendix D - Key Supplier
+      Performance Report) to complete the report you must utilize the data from the provided workbook.
+      (Download the Excel File with Crawford Case Data)
+              a. What observations can you make from the completed supplier performance report data?
+             b. Are there any relationships or connections between the supplier performance data that
+                  support or contradict the possible root causes listed in:
+
+                      Appendix F - Ishikawa Diagram,
+16 | ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE
+
+                      Appendix B - Late PO data?
+
+              c. Reconsider the question asked above -- "Which three possible root causes would you choose
+                  to investigate further?" -- and based on the additional supplier performance data, identify if
+                  your selections have changed from those you identified earlier? If so, why?
+
+ 4. Go to the Gemba. Kaur has decided that your team needs to look for the missing part 998223356, which
+      the vendor said was shipped to Crawford Automation. You will need to review the PO and the Packing
+      Slip for this part, which can be found in Appendix C (see Appendix C - Purchase Order), and
+      Appendix E (see Appendix E - Packing Slip).
+              a. Did you find the box?
+             b. Why do you think the box had not been received?
+
+                           One or more interactive elements has been excluded from this version of the text. You can
+                           view them online here: https://ecampusontario.pressbooks.pub/crawfordcase/?p=55
+
+    Step 3: Investigate the Root Cause Continued
+
+      5. Conduct a Five Whys analysis and complete the table in Appendix G (see Appendix G - The Five
+      Whys Template).
+
+         There are four main steps to using the Five Whys template:
+       1. The observed problem is documented to initiate the process.
+       2. Use the template to document the answers to the following questions.
+
+              a. Why (#1) is the observed problem happening?
+             b. What Gemba evidence supports the answers generated?
+       3. Continue the process for Why (#2) through to Why (#5) as required.
+              a. Why (#2) are the answers/findings in the previous step happening?
+             b. What Gemba evidence supports the answers generated?
+       4. Repeat the process by asking up to five Why questions until the root cause(s) are identified.
+                                       ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE | 17
+
+                             One or more interactive elements has been excluded from this version of the text. You
+                             can view them online here: https://ecampusontario.pressbooks.pub/
+                 crawfordcase/?p=55#oembed-4
+
+       Conestoga OLC. (2023, January 25). Problem-solving case study step 4 [Online video].
+       YouTube. Licensed for reuse CC BY-NC-SA.
+
+Step 4: Identify and Implement Countermeasures
+
+Using the Five Whys analysis, identify for each root cause a short-term countermeasure to ensure the issue
+does not get worse and a long-term countermeasure to fix forever (process improvement).
+
+ 1. Does every action have a clear action, owner, and due date?
+
+                             One or more interactive elements has been excluded from this version of the text. You
+                             can view them online here: https://ecampusontario.pressbooks.pub/
+                             crawfordcase/?p=55#oembed-5
+
+       Conestoga OLC. (2023, January 25). Problem-solving case study step 5 [Online video].
+       YouTube. Licensed for reuse CC BY-NC-SA.
+
+Step 5: Verify the Impact of Countermeasures and Start Again
+
+It is important in this step that your next review meeting is scheduled and that the team begins to collect
+the data to measure the impact of countermeasures.
+
+ 1. Choose one of the recommended corrective actions and identify which of Crawford's performance
+      measures (as discussed in the case) should be impacted.
+18 | ACTIVITY: APPLY THE PRACTICAL PROBLEM-SOLVING APPROACH TO THE CASE
+
+       2. For the chosen action, identify a performance measure that could be negatively impacted by the
+            corrective action. For example, quality may suffer when operators are asked to increase speed.
+                                                           APPENDICES | 19
+
+APPENDICES
+
+Appendix A - Organizational Chart
+
+                        Organizational Chart
+
+            [Image description for organizational chart.]
+                        [Return to Case Text]
+
+                     [Return to Activity Step 1]
+20 | APPENDICES
+
+                 Appendix B - Late PO Data
+
+Reasons for Late (PO Lines)                                            Month 1         Month 2
+Incorrect Data Entry
+Documentation Issue                                                                12           13
+Expedite Request - Could not be executed
+Vendor - Over Capacity                                                             4            3
+Quality Issue - Reject
+Wrong Shipment Method                                                              1            3
+Incorrect Item Shipped
+                                                                                   5            5
+
+                                                                                   4            1
+
+                                                                                   1            2
+
+                                                                                   0            0
+
+A follow-up study on Incorrect Data Entry was conducted to gain further insights.
+
+Incorrect Data Entry                                                   Month 1         Month 2
+Receipt Incorrect
+Receipt not Entered on Time                                                        1            1
+Incorrect or Missing Promise Date
+Unknown                                                                            4            6
+
+                                                                                   6            5
+
+                                                                                   1            1
+
+                                           [Return to Case Text]
+                                          [Return to Activity Step 3]
+                             APPENDICES | 21
+
+Appendix C - Purchase Order
+
+                   Accessible purchase order [downloads a Word document].
+                                        [Return to Case Text]
+
+                                     [Return to Activity Step 3]
+
+Appendix D - Key Supplier Performance Report
+
+                  (Jan. 1 - Dec. 31, 2022)
+Supplier     Location         Part/Material # of Purchase Purchase Orders (PO) Order Value  % PO          Average       % of PO with  % of PO
+                                                                                            Delivered on  Order Lead    Confirmation  Delivered
+                                                                                            Time          Time          Dates         Complete *
+
+Orillia      Orillia, ON,     Power           [empty cell]  [empty cell]                    [empty cell] [empty cell]   [empty cell] [empty cell]
+Components   Canada           distribution    [empty cell]  [empty cell]
+LTD.                          cable harness   [empty cell]  [empty cell]                    [empty cell]  [empty cell]  [empty cell]  [empty cell]
+             Hsinchu,                         [empty cell]  [empty cell]                    [empty cell]  [empty cell]  [empty cell]  [empty cell]
+TSMC         Taiwan           Programmable    [empty cell]  [empty cell]                    [empty cell]  [empty cell]  [empty cell]  [empty cell]
+                              controller                                                    [empty cell]  [empty cell]  [empty cell]  [empty cell]
+Precision    Monterrey,
+Gear Corp    Mexico           Hydraulic gear
+                              subassembly
+Adams        Edmonton AB
+Machine Co.  Canada           Feeder tray
+
+Lakeshore    Belleville, ON,  Motor control
+Robotics     Canada           drive system
+                                                                                                                                          APPENDICES | 23
+
+� Notes: For the purposes of analysis you will need create formulae and use logical and summary
+   spreadsheet functions to calculate the measures for the Key Supplier Performance Report.
+
+� # of Purchase Orders: The # of Purchase Orders placed with each supplier.
+� Purchase Order Value: The total value of Purchase Orders for each vendor
+� % of PO Delivered on Time: This calculation requires logic. If there is no promise/confirmation date
+
+   then a on-time order is when the Date Delivered = Promise/Confirmation Date. When the
+   confirmation date is missing then an on-time order is when the Date Delivered = Date Required
+� Average Order Lead Time - Lead Time = days difference between Date Ordered and Date Required
+� % of PO with Confirmations - The % of purchase orders that had confirmation dates, summarize for
+   each supplier
+� % of PO Delivered Complete - A complete order is defined when the # of lines delivered = # of lines
+   ordered
+
+                                               [Return to Case Text]
+                                             [Return to Activity Step 3]
+24 | APPENDICES
+
+                 Appendix E - Packing Slip
+APPENDICES | 25
+26 | APPENDICES
+
+                    Accessible packing slip [downloads a Word document].
+                                       [Return to Case Text]
+
+                                    [Return to Activity Step 3]
+
+                 Appendix F - Ishikawa Diagram
+
+                        Completed by the Process Improvement Team
+
+                 [Image description for Ishikawa Diagram]
+                                                                                                                                              APPENDICES | 27
+
+              Appendix F1 - Ishikawa Top 3 Analysis
+
+                                  [Image description for Ishikawa Top Three Analysis]
+                                                [Return to Activity Step 3]
+
+              Appendix G - The Five Whys Template
+
+                                                The Five Whys Template
+   This Five Whys template is used to systematically identify the root causes of problems observed in the
+workplace. It is in table form and allows users to document the observed effects of three different problems and
+then focus on the root cause by documenting the Gemba evidence found in answer to the question "Why?".
+28 | APPENDICES
+
+                            [Image description for Five Why analysis template.]
+                 Accessible Five Whys analysis template [downloads a Word document].
+
+                                   [Return to Activity Step 3 Continued]
+                                                                              ALTERNATIVE TEXT FOR COMPLEX IMAGES AND FIGURES | 29
+
+ALTERNATIVE TEXT FOR COMPLEX IMAGES
+AND FIGURES
+
+5-Step Practical Problem-Solving Process
+
+The Practical Problem-Solving Cycle involves five steps:
+
+ 1. Start with a team-based approach. This should be cross-functional with a process owner.
+ 2. Identify the problem. Problem identification requires a goal (target), an actual baseline (the current
+
+      state), a gap (the difference between the actual and target), and a trend (results over time).
+ 3. Investigate the root cause. Use data, the Pareto principle, Gemba, and the Five Whys methods to
+
+      generate multiple potential root causes and likely root causes.
+ 4. Implement short-term countermeasures and long-term corrective actions. Short-term countermeasures
+
+      are quick "Band-Aids to stop the bleeding" and are based on hypotheses. Long-term corrective actions
+      are prioritized by their likely impact on the problem's resolution.
+ 5. Verify the impact of countermeasures and corrective actions and then start the cycle again.
+
+[Back to image]
+
+Appendix A - Organization Chart
+
+This organizational chart depicts the reporting structure of Crawford Automation. There are three levels from
+top to bottom.
+
+ 1. Hugh Robertson, general manager.
+ 2. Direct reports to Hugh Robertson: Frank Jamieson (Marketing and Sales Manager), Harvey Morrison
+
+      (Plant Manager), Priyanka Kaur (Supply Chain Manager), and Tanya Smith (Human Resources
+      Manager).
+ 3. Direct reports to second-level managers. Jack Tennyson (Ontario Sales), Gilles Langlois (Eastern Canada
+      Sales), and Kyle Adams (Western Canada Sales), report to Frank Jamieson (Marketing and Sales
+      Manager). Michael Brown (Production Supervisor), Arthur Shepherd (Material Coordinator), Neil
+      Sinclair (Maintenance Supervisor), and Paul Robertson (Shipping and Receiving Supervisor) report to
+      Harvey Morrison (Plant Manager). Kevin MacDonald (Purchasing Supervisor), Brian Stewart
+30 | ALTERNATIVE TEXT FOR COMPLEX IMAGES AND FIGURES
+
+      (Logistics Supervisor), and Linda Jamieson (Inventory Supervisor) report to Priyanka Kaur (Supply
+      Chain Manager). Rosemary Clark (Human Resources Supervisor), Jim Baker (Human Resources
+      Clerk), and Maria Lopez (Benefits Administrator) report to Tanya Smith (Human Resources Manager).
+      End of the organizational chart.
+
+[Back to figure]
+
+Appendix F - Ishikawa Diagram
+
+This Ishikawa diagram shows six broad areas of consideration and the potential root causes within each area.
+The team cast votes to determine the most likely root causes, which are highlighted in blue, together with the
+number of votes each potential root cause received. The six broad areas and associated possible root causes
+identified in the diagram are:
+
+ 1. Mother Nature (Environment) - comprising possible root causes: Winter weather, Customs delays,
+      Cargo bumping, and Supplier execution (highlighted blue with 10 votes received)
+
+ 2. People (Resource) - comprising possible root causes: Data management - confirmation not entered
+      (highlighted in blue with 7 votes received), Data entry error by Receiver, Data entry error by Buyer,
+      Process adherence, and Received out of sequence by Receiver (highlighted in blue with 1 vote)
+
+ 3. Method (Process) - comprising possible root causes: Supplier selection, Supplier relationship
+      management (highlighted in blue with 9 votes received), and Purchase order re-approval / delayed
+      receipt
+
+ 4. Material - comprising possible root causes: Incorrect freight terms on a Purchase order, Address book
+      set-up, and Commodity performance (highlighted in blue with 1 vote received)
+
+ 5. Machine - comprising possible root causes: Purchase order issue due to SAP discrepancy, and purchase
+      order receipt out of date
+
+ 6. Measurement - comprising possible root causes: How we calculate OTD - i.e. transit (highlighted in
+      blue with 1 vote received), Supplier clarification of delivery date shipped versus date received, Movement
+      and disposition time- QA inspection in building 2, No confirmation date received (highlighted in blue
+      with 1 vote received), and By-pass receiving
+
+[Back to figure]
+                                                                              ALTERNATIVE TEXT FOR COMPLEX IMAGES AND FIGURES | 31
+
+Appendix F1 - Ishikawa Top Three
+
+This figure depicts the top three most likely root cause areas identified through the completion of the Ishikawa
+diagram in Appendix F.
+
+ 1. Supplier execution. This received 10 votes. Supplier execution includes delta between request and
+      promise, top contributing suppliers to on-time delivery, transit offset validation, delta between promise
+      and actual, line volumes versus on-time delivery performance, percentage of order completion, ABC
+      complexity versus on-time delivery, manufacturing versus purchase on-time delivery, and geographical
+      versus on-time delivery.
+
+ 2. Supplier relationship management. This received 9 votes. Supplier relationship management includes
+      the number of supplier corrective action reports issued versus on-time delivery, score cards issues versus
+      on-time delivery, supplier longevity versus on-time delivery, and invoice issues by the supplier.
+
+ 3. Data management. This received 7 votes and includes invoice issues by the buyer.
+
+[Back to image]
+
+Appendix G - The Five Whys Template
+
+The template is a table with three double-column sections, one for each cause. Each cause is divided into two
+columns, one with the heading Why? and one with the heading Evidence. The table has five rows with empty
+cells to fill in the Whys and Evidence for each cause.
+
+   There are four main steps to using the Five Whys template:
+
+ 1. The observed problem is documented to initiate the process.
+ 2. Use the template to document the answers to the following questions.
+
+       1. Why (#1) is the observed problem happening?
+       2. What Gemba evidence supports the answers generated?
+ 3. Continue the process for Why (#2) through to Why (#5) as required.
+       1. Why (#2) are the answers/findings in the previous step happening?
+       2. What Gemba evidence supports the answers generated?
+ 4. Repeat the process by asking up to 5 Why questions until the root cause(s) are identified.
+
+[Back to template]
+

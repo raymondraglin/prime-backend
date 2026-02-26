@@ -1,0 +1,3991 @@
+Fundamentals of Finance
+Fundamentals of
+      Finance
+
+      ANNETTE NGUYEN
+
+                    DEAKIN UNIVERSITY
+Fundamentals of Finance Copyright © by Deakin University is licensed under
+a Creative Commons Attribution-NonCommercial 4.0 International License,
+except where otherwise noted.
+
+This book was published by Deakin University via the Council of
+Australian University Librarians Open Educational Resources
+Collective. The online version is available at
+https://oercollective.caul.edu.au/fundamental-finance.
+
+Disclaimer
+
+Note that corporate logos and branding are specifically excluded from
+the Creative Commons Attribution Noncommercial Licence of this
+work, and may not be reproduced under any circumstances without
+the express written permission of the copyright holders.
+
+Copyright
+
+Fundamentals of Finance by Annette Nguyen is licensed under a
+Creative Commons Attribution Noncommercial 4.0 Licence by Deakin
+University.
+
+Recommended citation: Nguyen, A. (2024). Fundamentals of Finance.
+Deakin University. https://oercollective.caul.edu.au/
+fundamental-finance
+
+Recommended attribution: Fundamentals of Finance by Annette
+Nguyen is licensed under a Creative Commons Attribution
+Noncommercial 4.0 Licence by Deakin University.
+
+Cover (illustration) Image by Tung Lam from Pixabay
+Contents
+
+Introduction                                  1
+
+Accessibility Information                     2
+
+Acknowledgement of Country                    iv
+
+Acknowledgements                              v
+
+About the Author                              vi
+
+Part I. Main Body
+
+Chapter 1 - Introduction to Finance           7
+
+Chapter 2 - Present and Future Values         22
+
+Chapter 3 - Present and Future Values with    37
+
+Applications
+
+Chapter 4 - Financial markets and financial   50
+
+institutions
+
+Chapter 5 - Bond market and bond valuation    68
+
+Chapter 6 - Stock market and stock valuation  87
+
+Chapter 7 - Risk and Return:                  106
+
+Chapter 8 - Foreign Exchange                  118
+Introduction
+
+Welcome to Fundamentals of Finance, a comprehensive
+learning manual to introduce first year students to the building
+blocks that form the foundation of the financial world.
+Whether you are starting a journey towards a career in finance,
+business or simply looking to understand how the world of
+finance works, this book is your starting point. At its core,
+finance is about making decisions under uncertainty. In this
+book, you will explore different types of financial markets,
+institutions and instruments and understand the purposes
+that they serve. You will discover why a dollar today is worth
+more than a dollar in the future and learn to apply the valuation
+principle to evaluate debt and equity instruments. You will gain
+insights into how investors assess the value of their investment.
+Risk and returns are two inseparable concepts in finance.
+Understanding the relationship between the two is essential
+in making informed investment decisions. You will explore
+different types of risks and how they can be measured. Finally,
+you will be introduced to the foreign exchange market, an
+integral part of our global economy. With this book, you are
+stepping into the fascinating world of finance, equipped with
+the knowledge to navigate its complexities.
+
+                                                                                  Introduction | 1
+Accessibility
+Information
+
+We believe that education must be available to everyone which
+means supporting the creation of free, open, and accessible
+educational resources. We are actively committed to increasing
+the accessibility and usability of the textbooks we produce.
+
+Accessibility features of the web
+version of this resource
+
+We have done our best to ensure the web version of this
+resource has been optimized for people who use screen-reader
+technology:
+
+         all content should be navigable using a keyboard
+         links, headings, and tables are formatted to work with
+
+            screen readers
+         images have alt tags, and
+         Information is not conveyed by colour alone.
+
+Other file formats available
+
+In addition to the web version, this book is available in a
+number of file formats including PDF, EPUB (for eReaders), and
+various editable files. Choose from the selection of available file
+types from the `Download this book' drop-down menu. This
+
+2 | Accessibility Information
+option appears below the book cover image on the eBook's
+landing page.
+
+   Copyright Note: This accessibility disclaimer is adapted
+from BCampus's Accessibility Toolkit, licensed under a Creative
+Commons Attribution 4.0 International license and University
+of Southern Queensland's Enhancing Inclusion, Diversity,
+Equity and Accessibility (IDEA) in Open Educational Resources
+(OER) licensed under a Creative Commons Attribution-
+NonCommercial-ShareAlike 4.0 International License.
+
+                                                               Accessibility Information | 3
+Acknowledgement of
+Country
+
+Deakin University's Acknowledgement of Country
+
+Deakin University is located in Victoria, Australia. We would
+like to acknowledge the Traditional Custodians of the lands on
+which our University campuses are based: The Wadawurrung
+people of the Kulin Nation on whose Country our Geelong
+campuses are located, the Wurundjeri people of the Kulin
+Nation on whose Country our Burwood campus is located and
+the Peek Whurrong people of the Maar Nation on whose
+Country our Warrnambool campus is located. We pay our
+respects to elders past and present on whose lands the
+creation of this resource was undertaken and where many
+students using this text will be located.
+
+4 | Acknowledgement of Country
+Acknowledgements
+
+I would like to acknowledge that this book draws significant
+inspirations from various books that I have read and enjoy
+throughout the years. They are Principles of Corporate Finance
+by Richard Brealey, Stewart Myers and Frankline Allen and Alex
+Edmans 14th Edition 2023, Business Finance by Graham
+Peirson, Rob Brown, Steve Easton, Peter Howard and Sean
+Pinder 12th Edition, Corporate Finance by John Graham, Chris
+Adam and Ganesh Gunasingham 3rd edition and Investments
+by Zvi Bodie, Alex Kane and Alan Marcus 12 edition.
+
+                                                                      Acknowledgements | 5
+About the Author
+
+Annette Nguyen completed her bachelor degree at the
+University of Melbourne and subsequently pursue her post
+graduate studies at Monash University majoring in Finance.
+She has taught Fundamentals of Finance at Deakin University
+in the last 11 years. Her research interest are centred around
+Investments, with a particular focus on asset pricing.
+
+6 | About the Author
+Chapter 1 -
+Introduction to
+Finance
+
+     Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Define what finance is about
+          · Define the corporate objective in relation to
+
+             maximising the wealth of shareholders
+          · Understand the different corporate financial
+
+             decisions and their impacts on the firms value
+          · Define the different legal form of business
+
+             organisation and compare the three typical forms
+             of business
+          · Identify the advantages and disadvantages of
+             each type of business structure
+
+ 1. What is Finance?
+
+Finance is concerned with the allocation and distribution of
+monetary capital and risks amongst various entities. It is an
+
+                                                Chapter 1 - Introduction to Finance | 7
+area of study that delves into how individuals, businesses, and
+institutions value, obtain, and manage their financial resources.
+Finance can be divided into four broad categories: Corporate
+Finance, Investments, Financial Markets and Institutions and
+Personal Finance. Let's explore each of these four areas of
+Finance:
+
+  · Corporate Finance is the study of how corporations make
+      financial decisions in order to maximise their shareholders
+      wealth. Essentially, corporate finance is about how
+      corporations invest in real assets which generate income,
+      how these assets are funded and how the income is
+      distributed to shareholders.
+
+  · Investments is the field that examines how individuals
+      and managers allocate their assets over time under
+      conditions of certainty and uncertainty. The goal of
+      investments not only aim to maximise returns but do so in
+      a manner that is consistent with the investor's objectives
+      and tolerance for risk. The investment process often
+      involves valuations, risk and returns analysis, constructing
+      and evaluating portfolio performance.
+
+  · Financial Markets and Financial Institutions is the study
+      that focuses on understanding how financial markets
+      operate, the various types of financial instruments that are
+      traded, the structure and functioning of financial
+      institutions and how they all contribute to the broader
+      financial system.
+
+  · Personal Finance is a field that examines the financial
+      decisions of an individual or a household. This includes
+      retirement planning, insurance, saving, insurance, tax
+      planning and estate planning. Personal finance involves
+      continuous learning and adjustment to adapt to life
+      changes, economic shifts and individual circumstances.
+
+8 | Chapter 1 - Introduction to Finance
+2. Why study Finance?
+
+Whether your aim is to land a high paying finance careers or
+not, finance provides you powerful tools to understand and
+navigate the interplay of market conditions and economic
+forces. Studying finance is not just about managing money
+but it is about making critical decisions in a world full of
+uncertainties. For example, you have probably heard the
+phrase "There is nothing such as a Free Lunch". So, in order
+to earn a return, you have to take some risk. The more risks
+you take, the higher returns you earn. Finance tells you that
+not all risks are counted as equal. Some risks will enable you
+to achieve higher returns, others will not. What about maybe
+there is a "free" lunch i.e. investment opportunities that offer
+high returns but very low or no risks. Are these opportunities
+real? What is their chance of happening or repeating in the
+future? What about legendary investors such as Warren Buffet,
+Jim Simons or Peter Thiel? Are they lucky? Do they take higher
+risks and what risks do they take? What investment strategies
+do they follow? Finance offers essential insights that help you
+addressing these questions.
+
+3. How are businesses are formed?
+
+In Australia, in order to operate a business, you need to decide
+on its structure. Each structure has certain advantages and
+disadvantages. The most suitable structure for your business
+should be based on its scale and nature, as well as your
+preferred management style. When starting or expanding your
+business, you have the option to select from four fundamental
+structures:
+
+ 1. A sole trader is a business structure that is known for its
+
+                                                Chapter 1 - Introduction to Finance | 9
+      simplicity in setup and operations, offering complete
+      control over assets and business choices. It benefits from
+      minimal reporting obligations and is typically a cost-
+      effective model. Sole traders can file tax returns using
+      their personal tax file number (TFN). However, this
+      structure carries the disadvantage of unlimited liability,
+      meaning personal assets could be at risk if the business
+      faces financial difficulties. Additionally, sole traders are
+      personally responsible for paying tax on all income earned
+      from the business.
+2. A partnership is a business structure in which two or more
+      individuals manage and operate a business in accordance
+      with the terms and objectives set out in a Partnership
+      Deed. The income or losses are shared among the
+      partners according to the partnership deed.
+
+          The partnership business structure is also known for its
+          ease of establishment and cost-efficiency, often
+          involving less complexity compared to forming a
+          corporation. When forming a partnership, it is necessary
+          to obtain a separate Tax File Number (TFN) for the entity,
+          which is used for all tax-related matters. Additionally,
+          partnerships must acquire an Australian Business
+          Number (ABN) and utilize it in all their business dealings.
+          The partnership itself is not subject to income tax.
+          Instead, the tax responsibility is passed on to the
+          individual partners, who each pay tax on their
+          proportion of the net income generated by the
+          partnership. Finally, if the business's turnover reaches
+          or exceeds $75,000, the partnership must register for
+          the Goods and Services Tax (GST). This structure allows
+          individuals to pool their resources and expertise but also
+          necessitates a high level of mutual trust and clear
+          communication due to the joint responsibility for the
+
+10 | Chapter 1 - Introduction to Finance
+         partnership's commitments. There are three principal
+         forms of partnership:
+
+ · General Partnership (GP): In this arrangement, all partners
+     participate in the day-to-day management of the business
+     and each partner has joint liability for the debts and
+     obligations of the business. This means that each partner
+     is individually responsible, as well as collectively with other
+     partners, for the liabilities of the partnership.
+
+ · Limited Partnership (LP): This form of partnership consists
+     of both general and limited partners. The general partners
+     manage the business and have unlimited liability for its
+     debts, while the limited partners contribute capital and
+     share in the profits but typically do not participate in
+     managing the business. Limited partners' liability is
+     restricted to the amount they have invested in the
+     partnership.
+
+ · Incorporated Limited Partnership (ILP): This form of
+     partnership consists of both general and limited partners.
+     The general partners manage the business and have
+     unlimited liability for its debts, while the limited partners
+     contribute capital and share in the profits but typically do
+     not participate in managing the business. Limited
+     partners' liability is restricted to the amount they have
+     invested in the partnership.
+
+3. A company is a form of a business structure where it is
+     recognized as an independent legal entity, distinct from
+     its owners or members, setting it apart from sole trader or
+     partnership structures. Functioning much like an
+     individual, a company is capable of incurring debt,
+     initiating legal action, or being subject to legal claims.
+     Shareholders of a company are typically not personally
+     accountable for the company's financial liabilities. Their
+     main financial responsibility is limited to paying any
+
+                                              Chapter 1 - Introduction to Finance | 11
+      amount that may be outstanding on their shares if such a
+      payment is requested. However, it's important to note that
+      the company's directors can face personal liability if they
+      do not fulfill their legal duties. Setting up a company can
+      be a complex and costly endeavour. It is generally more
+      suited to those who anticipate fluctuating business
+      income and may benefit from the ability to carry forward
+      losses to offset future profits. This structure is often
+      favoured by those seeking to reinvest earnings into the
+      business or plan for a long-term investment, due to the
+      protections and potential tax advantages it can offer. If the
+      company's turnover reaches or exceeds $75,000, you are
+      required to register for the Goods and Services Tax (GST).
+      Non-profit organizations have a higher threshold set at
+      $150,000 for GST registration.
+4. A trust is a structure where a trustee carries out the
+      business on behalf of the trust's members (or
+      beneficiaries). In a trust structure, the trustee, who may be
+      an individual or a company, holds and manages the
+      business for the benefit of other parties, known as
+      beneficiaries. This trustee bears full responsibility for all
+      aspects of the trust, including both its income and any
+      losses. Setting up a trust structure is typically costly and
+      complex, often chosen to safeguard business assets for
+      the beneficiaries' advantage. The trustee is charged with
+      the decision-making regarding the distribution of
+      business profits among the beneficiaries. Due to the
+      intricate nature of trusts, establishing one requires
+      significant time, expertise, and careful planning.
+
+The following diagram summarises the key differences
+between business structures:
+
+12 | Chapter 1 - Introduction to Finance
+                    Sole trader Partnership  Company Trust
+                    Low Medium
+Cost                                         Medium to    High
+                    Simple Moderate          high
+Complexity of                                             Highly
+setting up          Low  Low                 Complex      complex
+Tax obligations     Low                                   High
+                    You  Low to              Medium
+Legal obligations   You  medium
+                                             High         Medium
+Owner               You  You and your
+                         partners            Company shareholders Trustee
+Responsibility for
+business                 You and your        The          Trustee
+decisions                partners            director(s)
+                         share
+Responsibility for                           Generally,   Trustee
+debts or losses          You and your        the
+                         partners            company
+Separate bank            share
+account needed
+Extra               No   Yes                 Yes          Yes
+administration
+and reporting       No   Yes                 Yes          Yes
+
+Choose your business structure by business.gov.au used under
+CC-BY 3.0 Australia
+
+4. What is the objective of a corporation?
+
+Shareholders want managers to maximise the market value of
+the firm. A smart and effective manager makes decision that
+increase the current value of the company's shares, thereby
+enhancing the wealth of its shareholders. This is known as the
+principle of shareholder wealth maximisation.
+
+4.1 How do we measure the value of the
+
+                         Chapter 1 - Introduction to Finance | 13
+firm?
+
+There are various methods for valuing a corporation. One of the
+most common and straightforward approaches is to calculate
+the firm's market capitalisation. This is done by multiplying
+the current share price of the company by its total number of
+outstanding shares.
+
+   This can be calculated using online share market data from
+sites such as Yahoo Finance. Using data from here, on on 8/
+01/2023 the market capitalization of Telstra can be calculated
+as: 3.9050 * 11.55 (billion) = 45.1 billion dollars. Have a look at
+todays data to see how Telstra's market capitalisation has
+changed.
+
+   There are other methods to measure a company's value, such
+as using revenue multiples, earnings multiples, or more
+complex valuation techniques like discounted cash flow
+analysis. Each method has its own advantages and is suitable
+for different types of analysis or investment decisions. The
+choice of valuation method can depend on the nature of the
+company's business, the availability of financial data, and the
+specific goals of the valuation.
+
+4.2 Is maximising the value of the firm
+equivalent to maximising profit?
+
+Maximising the value of a firm and maximising profit are
+related but not equivalent. Profit is not cash and maximising
+profit refers to the short-term goal of increasing a company's
+earnings or profits. It involves strategies to enhance revenue
+and reduce costs without consideration the risks to future cash
+flows by doing so.
+
+   Maximising the value of the firm is a broader and more long-
+term objective. It involves increasing the overall worth of the
+
+14 | Chapter 1 - Introduction to Finance
+firm to its shareholders, which encompasses not just current
+profits but the future cash flows and its associated risks. This
+approach considers factors like market expansion, innovation,
+customer loyalty, and brand strength.
+
+   In essence, while maximising profit is about making the
+most money in the short term, maximising the value of the
+firm is about increasing the overall worth of the business in
+the long run. The latter includes building sustainable business
+models, investing in growth opportunities, managing risks
+effectively, and maintaining a strong reputation, all of which
+contribute to long-term shareholder value.
+
+4.3 Do managers always maximise the
+value of the firm and act in the best
+interests of shareholders?
+
+While managers are expected to act in the best interest of
+shareholders by maximising the value of the firm, they may
+not always do so. This discrepancy leads to what is known as
+agency problems. Agency problems arise when there is a
+conflict of interest between the needs of the principal (in this
+case, the shareholders) and the agents (the managers). Since
+managers are hired to run the company on behalf of the
+shareholders, their decisions should align with the
+shareholders' interest in maximising firm value. However, this
+alignment does not always happen due to several reasons:
+
+  · Divergence of goals: Managers may have personal goals
+      that differ from the goal of shareholder wealth
+      maximization. For instance, they might be more
+      interested in expanding the company size to enhance
+      their personal power and status, even if it's not in the best
+      financial interest of the shareholders.
+
+                                               Chapter 1 - Introduction to Finance | 15
+  · Risk Preferences: Shareholders typically have diversified
+      portfolios and may prefer riskier strategies that promise
+      higher returns, while managers, whose personal wealth
+      (like stock options, job security) is tied to the company,
+      may prefer safer, less profitable strategies.
+
+  · Short-Term Focus: Managers might focus on short-term
+      achievements to enhance their reputation or achieve
+      short-term performance targets, while shareholders
+      generally benefit more from long-term strategic planning
+      and investments.
+
+To mitigate these agency problems, various mechanisms can
+be employed:
+
+  · Performance based incentives: Aligning managers'
+      compensation with shareholder interests, such as
+      granting stock options or bonuses tied to company
+      performance, can encourage managers to work towards
+      maximizing shareholder value.
+
+  · Corporate Governance: Effective governance structures,
+      including a strong, independent board of directors, can
+      oversee and limit managerial actions that do not align
+      with shareholder interests.
+
+  · Market Discipline: The threat of takeover or shareholder
+      activism can also serve as a check on managerial
+      decisions.
+
+  · Regulatory Oversight: Regulations and legal frameworks
+      can set standards for managerial behaviour and protect
+      shareholder rights.
+
+16 | Chapter 1 - Introduction to Finance
+4.4. Does the pursuit of increasing a
+corporation's shareholder wealth conflict
+with social objectives?
+
+Maximising the value of the firm and pursuing social objectives
+can sometimes appear to be in conflict, but actually, they are
+complementary. Traditionally, maximising shareholder value
+often focuses primarily on financial returns. This perspective
+can lead to a perceived conflict with social objectives, as actions
+beneficial for short-term profits may not align with social or
+environmental well-being. For example, cost-cutting measures
+might increase profits but could also lead to reduced workforce
+welfare or environmental harm.
+
+   A more modern approach integrates social objectives into
+the definition of corporate objective. This perspective, often
+associated with the concept of Corporate Social Responsibility
+(CSR) and Environmental, Social, and Governance (ESG) criteria,
+argues that addressing social and environmental issues can
+be beneficial for long-term corporate objective. Sustainable
+practices can enhance a company's reputation, improve
+stakeholder relations, and mitigate risks associated with social
+and environmental issues, thereby potentially increasing long-
+term shareholder value.
+
+   The stakeholder theory posits that companies should serve
+not only their shareholders but all stakeholders, including
+employees, customers, and the community. By addressing the
+needs and concerns of a broader group, companies can build a
+more sustainable and ethical business model that, in the long
+term, can also maximise shareholder value. In summary, short-
+term profit maximization can conflict with social objectives,
+but in the long term, integrating social goals may be essential
+for sustainable profitability and resilience.
+
+                                               Chapter 1 - Introduction to Finance | 17
+4.5 What are the key decisions made by
+managers to maximise the value of the firm
+and hence the wealth of its shareholders'?
+
+Managers maximise the firm's value by making a number of
+key corporate policies. These decisions are considered as key
+corporate policies because each of them has a direct impact on
+the firm's value.
+
+The BIG THREE
+
+Image: The big three decisions in companies
+
+ 1. Investment decisions
+The investment decision sometimes is referred to as the capital
+budgeting or capital expenditure (CAPEX). It involves the
+acquisition, management and disposal of real assets. Real
+assets are assets that produce cash flows for a corporation
+through their productive use. These include tangible items like
+oil fields, land, and factories. Additionally, corporations invest
+in intangible assets such as research and development (R&D),
+advertising, and the development of computer software. These
+
+18 | Chapter 1 - Introduction to Finance
+expenditures are considered investments because they
+contribute to the development of know-how, brand
+recognition, and reputation.
+
+2. Financing decisions
+
+To finance its investments, a corporation can obtain funds
+either from lenders or from shareholders. When borrowing,
+the corporation receives cash from lenders and commits to
+repaying the debt along with interest. If shareholders provide
+the funding, they are not guaranteed a specific return; instead,
+they receive any future dividends the company may distribute.
+The decision of choosing between debt and equity financing is
+referred to as the capital structure decision. The term "capital"
+denotes the firm's sources of long-term financing.
+
+ 3. Payout decisions
+
+Some companies pay dividends to their shareholders, others
+do not. Payout policy answer a series of questions: "Should the
+company pay cash to its shareholders, how much and what
+are the mechanisms a corporation can use to distribute cash
+to its shareholders". Corporations pay out cash by distributing
+dividends or by buying back some of their outstanding shares.
+Cash rich companies are more inclined to pay dividends
+whereas growth-oriented companies, often without a history of
+dividend payments are less likely to initiate such payouts in the
+near future.
+
+                                               Chapter 1 - Introduction to Finance | 19
+      Takeaways and looking ahead
+
+        In the first chapter, we delve into on what finance is,
+     why it is important and perhaps interesting at the
+     same time. We start to embark on a journey of
+     someone who is contemplating to open a business and
+     having to decide on the best structure for his/her
+     business. We also explore the corporate objectives.
+     Given manager's goal is to maximise the value of the
+     company and hence the wealth of their shareholder, do
+     they always do so? Is the value maximization objective
+     contradicting with the social objectives and what are
+     the key corporate decisions that will exert a significant
+     influence on the company's value. In the next, chapter,
+     we will examine the concept of Valuations i.e. the time
+     value of money, present and future value.
+
+References:
+
+Support for businesses in Australia | business.gov.au
+   Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+20 | Chapter 1 - Introduction to Finance
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+                                               Chapter 1 - Introduction to Finance | 21
+Chapter 2 - Present
+and Future Values
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Define and discuss the principle time value of
+             money.
+
+          · Define and contrast future and present values.
+          · Able to move cashflows from the present to the
+
+             future and vice versa
+          · Distinguish between compounding versus
+
+             discounting
+          · Understand the concept of discount rate.
+
+1. Basic Principles of Finance
+
+In finance, we focus on cashflows, not accounting profit. There
+are two types of cashflows: cash receipts are denoted as cash
+inflows while cash payments are denoted as cash outflows.
+When assessing investment opportunities, financial managers
+
+22 | Chapter 2 - Present and Future Values
+are not only concerned with the magnitude of the cashflows
+but also the timing and risks of these expected cashflows. The
+overarching principle that influences how managers value
+future cashflows and hence what investment decisions to
+make is the time value of money which states that "A dollar
+received today is always worth more than a dollar received in
+the future".
+
+1.1 Why is a dollar today always worth more
+than a dollar in the future?
+
+The reason is money available today can be invested and grow.
+When someone invests, they expect to be compensated in
+some form of "returns" but how large should these returns be?
+There are three components that make up the rate of returns.
+
+   First, by investing, the investor is deferring consumption
+today in anticipation of consuming more in the future. That
+is, the investment has to grow in real terms in order for the
+investor to consume more. Second, when an individual's
+money is tied up in investments, the value of that money can
+be eroded by inflation. Thus, the rate of return has to be high
+enough to also cover the inflation rate. Finally, there may be
+risks associated with the investment. The future returns on an
+investment are not guaranteed and there is a possibility of
+not receiving the expected return, or in worse case scenarios,
+losing the initial capital. Investments that carry higher risks
+typically need to offer higher returns to attract investors. Taken
+together, the invested funds should yield a return that
+compensates for the delay in consumption, inflation and risk.
+
+       Total Return = Inflation rate + Real interest rate + Risk
+                                        premium
+
+                                         Chapter 2 - Present and Future Values | 23
+1.2 What about interest rate? Is it a form of
+return?
+
+Interest refers to the return on debt investment, where the
+investor lends money to an entity (such as a corporation,
+government, or financial institution) in exchange for the
+promise of future repayments. Interest rate is often expressed
+as a % per annum (p.a).
+
+   Example: Suppose you invest $100 in a bank account that
+pays interest of r = 6% a year. In the first year, what is the
+interest that you earn and what is the value of your
+investment?
+
+   Answer: In the first year, the interest that you earn will be
+0.06 * $100 = $6. The value of your investment will grow to $100
++ $6 = $106 or $100 * (1+0.06) = $106.
+
+2. Present and Future Values
+
+2.1 Terminology
+
+Before we proceed, let's introduce some terminology:
+
+  · Nominal interest: is the stated interest rate on a financial
+      product or investment e.g. 5% p.a.
+
+  · Principal refers to the amount of borrowing or lending.
+  · Time to maturity: is the duration from the current date
+
+      until the date when the principal amount of a debt
+      instrument is due to be repaid in full.
+  · Present value (PV) is the current worth of a future sum of
+      money or stream of cash flows given a specific discount
+      rate.
+  · Future value (FV) is the value of a current asset at a
+
+24 | Chapter 2 - Present and Future Values
+      specified date in the future, based on an assumed rate of
+      return over time.
+  · A discount rate refers to the rate of return used to
+      discount future amounts of money, converting them into
+      their equivalent present value.
+
+2.2 Why is it necessary to distinguish
+between present and future values?
+
+The distinction is crucial because these concepts serve unique
+purposes in financial decision-making. Present value helps in
+understanding the current worth of money that will be
+received or paid in the future which is vital for comparing the
+value of cash flows occurring at different times. Conversely,
+future value is used to determine how much a current sum
+of money will grow overtime. This assists in forecasting the
+growth of current investments which is crucial for long-term
+planning and setting realistic financial goals. Both concepts
+are grounded in the time value of money principle.
+
+   Example: Let's say you decide to deposit $100 into an account
+offering a 5% p.a. After one year, your investment grows to $100
+multiplied by (1 + 0.05), which equals $105. Hence, the amount
+of $105 represents the future value of your $100 investment
+over a year, at a 5% annual interest rate.
+
+   Conversely, the $100 can be considered as the present value
+of $105, discounted back one year at a 5% annual rate. As an
+investor, if you know that the interest rate is 5% p.a then you are
+indifferent between receiving $100 now or $105 one year from
+now.
+
+   The process of going from the present value to the future
+value is called compounding, whereas the method of
+translating future amounts back to the present is referred to as
+discounting.
+
+                                         Chapter 2 - Present and Future Values | 25
+Image: Compounding and Discounting
+
+2.3.  Present and Future Values
+
+2.3.1 Calculating present and future value
+
+The methods used to determine present and future values vary
+based on the kind of interest rate arrangement in place.
+Broadly speaking, there are two types of interest rate
+arrangements: simple interest and compound interest.
+
+   Simple interest is a method of accruing interest where the
+interest charge is calculated solely on the principal amount.
+Interest does not compound, interest earned is not reinvested
+to earn additional interest. The principal amount remains
+unchanged throughout the term of the loan or investment.
+Simple interest is often used in short-term borrowing and
+lending where the horizon is less than 1 year.
+
+   Compound interest is the method by which interest earned
+on a principal amount is reinvested, so that in subsequent
+periods, interest is then earned on the new principal, which
+includes the previously earned interest. This compounding
+
+26 | Chapter 2 - Present and Future Values
+effect leads to the principal amount growing over time,
+allowing the investor to earn "interest on interest".
+
+   Example: What is the future value of $100 at the end of year
+1 with interest rate of 6%?
+
+   Interest earned during the year will be $100 * 0.06 = $6. The
+future value or value at year 1 will be FV1 = $100 + $100 * 0.06
+= $106. In this case, both simple and compound interest yield
+the same results.
+
+                          Principal = PV = 100
+                                r = 0.06 p.a.
+                                     n = 1
+
+                      FV1 = 100 * (1 + 0.06) = 106
+
+What is the future value of $100 at the end of year 2?
+
+For compound interest, the interest will be calculated on the
+$106 balance. The interest earned during year 2 will be 0.06 *
+$106 = $6.36. Hence the future value or value at year 2 will be
+FV2 = $106 + $106 * 0.06 =112.36.
+
+   For simple interest, the interest will be calculated on the
+initial principal which does not change over time. So, the
+interest earned during year 2 is still 0.06 * $100 = $6. The future
+value or value at year 2 will be $106 + $100 * 0.06 = $112.
+
+Principal = PV = 100                Principal = PV = 100
+
+r = 0.06 p.a.                       r = 0.06 p.a.
+   n = 2                               n = 2
+   Compound interest FV2 = FV1 *       Simple interest FV2 = FV1 + 100
+
+(1 + 0.06)                          * 0.06
+   = 100 * (1 + 0.06) * (1 + 0.06)     = 100 + 100 * 0.06 +100 * 0.06
+   =100 * (1 + 0.06)2                  =100 * (1 + 0.06 * 2)
+   =112.36                             =112
+
+                      Chapter 2 - Present and Future Values | 27
+The difference of $0.36 is due to interest on interest under the
+compounding interest arrangement.
+
+   What is the future value of $100 at the end of year 5?
+
+Year  Compound interest
+1     100.00 * (1+0.06) = 106.00
+2     106.00 * (1+0.06) = 112.36
+3     112.36 * (1+0.06) = 119.10
+4     119.10 * (1+0.06) = 126.25
+5     126.25 * (1+0.06) = 133.82
+
+      FV = PV (1+i)n = 100 * (1.06)5 = 133.82
+
+As the investment horizon increases, the difference in future
+values between compound and simple interest arrangements
+becomes wider. This is because compound interest earns
+interest on the interest already earned, while simple interest
+only earns interest on the principal amount.
+
+   Future value formula for compound and simple interest:
+
+      Equation 1:
+
+          Equation 2:
+28 | Chapter 2 - Present and Future Values
+Where:
+
+  · FV = value of investment at the end of period n
+  · PV = original principal (P0) or present value
+  · i = the rate of interest per period
+  · n = the number of periods
+
+2.3.2 Future value and compounding frequency
+
+Compounding frequency refers to how often the interest on
+an investment or loan is calculated and added to the principal
+balance. This frequency can significantly impact the amount
+of interest accrued over time. The more frequently interest is
+compounded, the more interest is earned on the interest
+already accumulated. Common compounding frequencies
+include:
+
+   Annual compounding: Interest is compounded once a year.
+This is the simplest form of compounding. For example, with an
+annual interest rate of 5%, $100 compounded annually would
+grow to $105 after one year.
+
+   Semi-annual compounding: Interest is compounded twice
+a year. Interest is paid and added to the principal two times
+per year. The interest rate per period is the annual interest
+rate divided by two since it is the rate that is applied every six
+months.
+
+   For example, with an annual rate of 6%, a principal of $100
+would earn 3% interest (half of 6%) in the first six months, and
+then the new amount ($103) would earn another 3% for the
+second half of the year.
+
+                                         Chapter 2 - Present and Future Values | 29
+   Quarterly compounding: Interest is compounded four times
+a year. The annual rate is divided by four, and this rate is applied
+every quarter.
+
+   Monthly compounding: Interest is compounded every
+month. The annual rate is divided by 12, and this monthly rate
+is applied to the balance each month.
+
+   The formula for compound interest considering different
+compounding frequencies is:
+
+          Equation 3:
+
+Where:
+
+  · m = Number of compounding periods in a year
+  · n = Number of years in the entire period
+
+Example: You have $1,000 to invest in a bank account paying
+an interest of 5% p.a. What is the value of your investment after
+10 years if interest is compounded annually, semi-annually,
+quarterly and monthly.
+
+   Answer: i = 0.05, with annual compounding, m = 1, m x n = 10
+x 1 =10. The above formula yields a future value of $1,628.89. For
+semi-annual compounding, the future value is $1,638.62 (m = 2,
+m x n = 20, i = 0.05/2 = 0.025). Similarly, the future value under
+quarterly and monthly compounding is $1,643.62 and $1,647.01,
+respectively. This example demonstrates how more frequent
+compounding can lead to greater accumulation of wealth due
+to the "interest on interest" effect.
+
+   In fact, the above formula and the one in equation 2 are
+equivalent. I is the interest rate per period and n is the number
+
+30 | Chapter 2 - Present and Future Values
+of periods. If nominal interest is 5% p.a but compounding every
+quarterly then the interest per period is 5%/4 = 1.25%. If the
+investment horizon is 10 years but interest payment is
+calculated every quarter then the number of periods in
+quarters is 40. Note that i and n has to match. If interest is on
+a per quarter period, the number of periods should also be the
+number of quarters.
+
+2.3.3 Present value and discounting
+
+The future value is calculated by determining how much the
+present value will grow to over a certain period. Conversely,
+the present value is calculated by determining how much a
+future amount of money worths in terms of today's dollars.
+The method of converting the future value back to the present
+is called discounting. In other words, the present value is the
+discounted value of future cash flows.
+
+   Present value can be calculated using equation 4:
+
+          Equation 4:
+
+The formula illustrates that as n increases, PV decreases. The
+value a dollar in the future decreases if it is received later in
+the future. The higher the discount rate i, the lower the present
+value. The discount rates reflect the opportunity cost of capital
+i.e. the potential return that investors forgo when they choose
+to invest their resources in one option over an alternative. It is
+the rate of return the investor could have earned by putting his/
+
+                                          Chapter 2 - Present and Future Values | 31
+her money into the next best investment. Therefore, the higher
+the discount rate, the less valuable a future dollar is today as
+investors prefer to receive money sooner rather than later if
+they can earn a higher return on that money elsewhere.
+
+   Example: You're planning a vacation in five years and
+anticipate it will cost $10,000. Given a 5% annual interest rate
+from the bank, how much should you deposit now to ensure
+you have the $10,000 needed for the trip in five years?
+
+Answer: Applying equation 5, where FV5 = $10,000; i= 0.05, n=5.
+
+          Equation 5:
+
+   So, you need to deposit $7,835 into the bank now in order to
+receive $10,000 in 5 years.
+
+32 | Chapter 2 - Present and Future Values
+2.3.4 Other applications
+
+Due to the time value of money, cash flows at different times
+cannot be simply summed up in their nominal amounts. To
+compare or aggregate them, they must be adjusted to a
+common point in time, either through discounting to present
+value or compounding to a future value. For example, if you
+receive $100 today and another $100 in a year, you can't just
+add them to say you have $200 at today's value. If the annual
+interest rate is 5%, the $100 received a year later is actually
+worth less today. Using discounting, its present value would be
+around $95.24. So, in today's terms, you would have $195.24, not
+$200.
+
+   From equation 2, if you know future value, interest rate and
+time periods, you can work out present value. In generally,
+knowing any three variables will enable you to figure out the
+fourth one. For example, in 2012, Facebook (now Meta) went
+public with the price of $38 per share. In 2024, the current price
+of Meta is $374 per share. What is the annual rate of return did
+the investors who bought the shares at $38 at the IPO and hold
+them until January 2024?
+
+   Answer: Applying the formula in equation 2 where FV = $374,
+PV = $38, n = 12. The missing variable is r. $374 = $38 * (1 +r)12.
+(1+r)12 =374/38 = 9.8421. (1+ r) = 9.84211/12
+
+   R= 1.2099 - 1= 20.99% or 21% per year.
+
+2.4 Annual percentage rate versus
+effective annual rate
+
+Interest rates in financial markets can be presented in several
+forms, with the Annual Percentage Rate (APR) being the most
+common, particularly when dealing with banks. The APR is
+based on the assumption of once-a-year compounding.
+
+                                         Chapter 2 - Present and Future Values | 33
+However, this doesn't truly reflect the `effective' interest rate if
+we're evaluating loan terms that compound more frequently.
+
+   The more precise way to gauge the yearly rate, accounting
+for the impact of multiple compounding periods within the
+year, is to use the Effective Annual Rate (EAR). The EAR is
+essentially the actual yearly growth rate that includes the
+effects of compounding. This rate provides a genuine measure
+of the cost associated with borrowing or the real yield from
+lending when compounding is more frequent than annually.
+
+   For example, if a bank quotes an APR of 6% with semi-annual
+compounding, the EAR would be higher than 6% because the
+interest is compounded twice a year, not once. To calculate the
+EAR from the APR in this scenario, you would use the formula
+to adjust for the effect of compounding. The calculation would
+show that the EAR is approximately 6.09%, which is the true
+cost of the loan or the actual yield on an investment over the
+year, taking into account the compounding effect.
+
+          Equation 6: Effective annual rate formula
+
+M is the frequency of compounding periods within a single
+year, indicating how often interest is calculated and added to
+the balance over that year. Effective Annual Rate (EAR) provides
+a more precise measure of the annual interest rate, factoring in
+the effects of the compounding periods.
+
+   Example: Suppose your mortgage comes with a stated
+annual interest rate of 8% per annum; however, the
+repayments are structured on a monthly basis. You'd want to
+know the actual yearly interest rate the bank is effectively
+
+34 | Chapter 2 - Present and Future Values
+applying to your loan. This is determined by calculating the
+Effective Annual Rate (EAR), which takes into account the
+monthly compounding of interest.
+
+   Applying the above formula where m = 12, APR = 8%, so the
+monthly interest rate is 8%
+
+Quoted versus effective annual interest rate:
+
+Frequency  Quoted Annual  n Formula            Effective Annual
+           Rate                                Rate
+                          1 I                  10%
+Annual     10%            2 (1+i/2)2-1         10.25%
+                          12 (1+i/12)12-1      10.47%
+Semi-annual 10%           365 (1+i/ 365)365-1
+                           ei-1                10.5156%
+Monthly    10%
+                                               10.5171%
+Daily      10%
+
+Continuous 10%
+
+Continuous compounding is used in other more advanced
+finance subjects (such as derivatives).
+
+Takeaways and looking ahead
+
+       In this chapter, we define and describe the
+                                       Chapter 2 - Present and Future Values | 35
+     implications of the time value of money. We also
+     explore the process of compounding and discounting.
+     Finally, we distinguish between the stated (nominal)
+     annual interest rates, which do not take into account
+     the frequency of compounding within a year, and
+     effective annual interest rates which do reflect
+     compounding effects, thereby offering a true reflection
+     of the annual interest rate.
+
+References:
+
+Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+36 | Chapter 2 - Present and Future Values
+Chapter 3 - Present
+and Future Values with
+Applications
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Calculate the present value and future value for
+             multiple cash flows
+
+          · Describe how to calculate the present value and
+             future value of an ordinary annuity and annuity
+             due
+
+          · Explain what (growing) perpetuities are and
+             calculate the present values of (growing)
+             perpetuities
+
+              Chapter 3 - Present and Future Values with Applications | 37
+3.1 Mixed cash flow stream
+
+3.1.1 Future value of cash flow streams
+
+Financial managers frequently need to evaluate series of cash
+flows that occur in future period. From the last chapter, the
+future value (FV) of a series of cash flows cannot be found by
+simply summing them up. Each individual cash flow needs to
+be converted to a common point in time in the future and then
+sum up. The following example illustrates this principle:
+
+   Mary wants to determine the balance in an investment
+account earning 9% annual interest. She makes the following
+ends of year deposits as follows: $500 in year 1, $900 in year 2,
+$400 in year 3, $700 in year 4.
+
+   Where i = 9%:
+
+   The future value of this stream of cash flow can be found by
+bringing the value of each of the cash flow to year 4.
+
+   FV = 500×(1+0.09)3 + 900×(1+0.09)2 + 400×(1+0.09)1 + 700
+             = 647.51 + 1069.29 + 436 +700
+             = $2,852.8
+
+3.1.2 Present value of multiple cash flows
+
+Just as with future value, the present value (PV) of multiple
+cash flows is determined by summing up the present values of
+each individual cash flow. Each cash flow is discounted back to
+the current period to reflect its value in today's terms.
+
+38 | Chapter 3 - Present and Future Values with Applications
+   For example, if you expect to receive $100 in one year, $200
+in two years, and $300 in three years, and the discount rate is
+5%, you would discount each of these cash flows back to their
+present value. The sum of these present values would give you
+the total current worth of your future cash flows.
+
+   Where i = 5%
+
+   PV = 300/(1+0.05)3 + 200/(1+0.05)2 + 100/(1+0.05)
+   = 285.71 + 181.41 + 95.24
+   =$562.36
+
+3.2 Annuity: A special case of level cash
+flows
+
+An annuity is a stream of equal periodic cash flows over a stated
+period of time. This stream of cash flows can represent regular
+inflows from an investment or outflows as committed
+expenses that need to occur in the future. Annuities are often
+associated with retirement income, however, their application
+is not limited to retirement income. Rather mortgage
+payments, insurance premium, rent and lease payments can
+all be classified as annuities.
+
+   For a stream of cash flows to be qualified as an annuity, it
+needs to meet three conditions:
+
+  · The amount of cash flows are the same each period.
+  · The interval between each cash flow is the same.
+  · The cash flows occur for a fixed amount of time i.e. they do
+
+      not go on forever.
+
+              Chapter 3 - Present and Future Values with Applications | 39
+There are two types of annuity:
+   Ordinary annuity: is an annuity where cash flows are received
+
+and paid at the end of each period. Example: mortgage
+repayments, salaries, insurance premiums.
+
+   Annuity due: is an annuity where cash flows are received
+and paid at the beginning of each period. Example: tuition
+payment, rent.
+
+3.2.1 The future value of an ordinary annuity
+
+The future value of an ordinary annuity refers to the amount of
+money that will be accumulated in the future when a series of
+equal payments are made at the end of consecutive periods at
+a certain interest rate.
+
+   Here is the timeline of the cashflows for an ordinary annuity:
+
+   To calculate the future value of an ordinary annuity, one
+option is to bring each of the cash flow to the future i.e. end of
+period 5 and add them up just like any other stream of cash
+flow. However, there is a quicker way. The future value of an
+ordinary annuity can be computed according to the following
+formula:
+
+          Equation 1:
+
+40 | Chapter 3 - Present and Future Values with Applications
+Where:
+
+  · FVA: future value of an annuity,
+  · i: interest rate per period,
+  · CF: cash flow each period and
+  · n: number of the periods.
+
+Example: Suppose you are saving for retirement and decide
+to deposit $1,000 into your retirement fund at the end of each
+year for the next 20 years. Assume the retirement fund offers
+an annual interest rate of 5%. At the end of year 20, what is the
+balance of your retirement account?
+
+   Since the deposits are made at the end of each year over
+a span of 20 years, this pattern of payment qualifies as an
+ordinary annuity and the formula in Equation 1 can be applied
+to calculate the accumulate amount at the end of the 20th
+year. The example also shows that when cash flows happen for
+a long period of time, bring each cash flow to the future is very
+time consuming and hence not realistic. Equation 1 offers a far
+better alternative.
+
+   Answer: N = 20, i = 5% and CF = 1000.
+   Future value factor is (1 + 0.05)20 -1 = 1.6533
+   FV = 1000 * 1.6533/0.05 = $33,066
+
+               Chapter 3 - Present and Future Values with Applications | 41
+3.2.2 The future value of an annuity due
+
+For annuity due, the cash flow pattern is very similar to the
+ordinary annuity. The only difference is each payment occurs
+at the beginning of the period rather than in the end. The
+timeline of the cashflows for an annuity due is as follows:
+
+   In an annuity due, each payment accrues interest for an
+additional period compared to an ordinary annuity, because
+payments in an annuity due are made at the beginning rather
+than at the end of each period. Consequently, the future value
+of an annuity due will always exceed the future value of an
+ordinary annuity when both have identical cash flows and the
+same duration.
+
+   The future value of an annuity due is therefore:
+
+          Equation 2:
+
+Example: Suppose you are saving for retirement and decide to
+deposit $1,000 into your retirement fund at the beginning of
+each year for the next 20 years. Assume the retirement fund
+offers an annual interest rate of 5%. At the end of year 20, what
+is the balance of your retirement account?
+
+42 | Chapter 3 - Present and Future Values with Applications
+   Answer: The only difference between this example and the
+above example is the deposit is made at the beginning of each
+period instead of the end. This stream of cashflow is therefore
+classified as an annuity due and the future value can be
+calculated as:
+
+   Future value of an annuity due = Future value of an annuity *
+(1 + i)
+
+   = 33,066 * (1+0.05) = $34,719.3
+
+3.2.3 Present value of an ordinary annuity
+
+The present value of an ordinary annuity measures the current
+worth of a series of future periodic payments at a given interest
+rate. It answers the question: "How much would I have to invest
+today to receive a certain payment amount at regular intervals
+for a specified period, given a particular interest rate?"
+
+   The formula for the present value of an ordinary annuity is
+given by:
+
+          Equation 3:
+
+Example: If you require $5,000 every month to live for the next
+              Chapter 3 - Present and Future Values with Applications | 43
+20 years starting by next month. How much money should you
+deposit into your account now if the bank is paying an interest
+of 6% p.a?
+
+   Answer: The sum you need upfront is essentially the present
+value of an ordinary annuity, with each payment being $5,000.
+Since the payments are monthly over 20 years, you have a total
+of 240 payment periods (12 months x 20 years). The monthly
+interest rate is 0.5% (which is the annual rate of 6% divided by
+12 months).
+
+   Applying the formula in equation 3, CF = $5,000, (1 + 0.005)240
+is 0.3021. PV = 5000 (1 - 0.3021)/0.005 =$697,903.86.
+
+   In order to receive $5,000 per month starting from the next
+month, you need to deposit $697,903 today if the bank is
+paying an interest of 6% p.a.
+
+3.2.4 Present value of an annuity due
+
+Just as with the future value, the present value of an annuity
+due is obtained by adjusting the present value of an ordinary
+annuity forward by one additional period.
+
+   The formula for the present value of an annuity due can be
+given by:
+
+          Equation 4:
+
+Example: Suppose you still require $5000 monthly payment to
+
+44 | Chapter 3 - Present and Future Values with Applications
+fund your lifestyle expenses for the next 20 years with the first
+payment needed immediately. How much you need to deposit
+now if the bank is paying an interest of 6% p.a?
+
+   Answer: Since the first payment is required immediately, this
+stream of cashflow is classified as an annuity due. The first
+payment happens at month 0 while the last payment happens
+at month 19. The present value of an annuity due can be
+obtained by compounding the present value of an ordinary
+annuity one more period.
+
+   PV of an annuity due = PV of an ordinary annuity * (1 + i)
+   = 697,903 * (1+0.005) = $701,595.38.
+   Similar to future value, the present value of an annuity due is
+always higher than the present value of an ordinary annuity.
+
+3.2.5 Application of an annuity formula
+
+The application of an annuity extends beyond calculating
+present and future value. The formula allows investors to
+establish monthly payment amounts, discern the growth or
+discount rate necessary to reach a specified future sum, or
+determine the duration required for an investment to mature
+to a desired lump sum. The annuity equation comprises four
+variables; by knowing any three, the remaining one can be
+deduced by rearranging the equation.
+
+   Example: You need $200,000 as a deposit to buy your new
+home. If the interest rate is 6% p.a and you can only put aside
+maximum $3,500 per month towards this saving goal. How
+long will it take you to achieve your initial deposit for your
+home? Assume the first payment will start 1 month from now.
+
+   Answer: $200,000 is the Future Value that your monthly
+payments will grow to. Interest per period is 0.06/12 = 0.005 or
+0.5% per month since each payment is made monthly, what
+you need is monthly interest rate. $3500 is the amount that you
+need to pay every month in order to achieve a future lumpsum
+
+              Chapter 3 - Present and Future Values with Applications | 45
+of $200,000. Since the first payment commences one month
+from now, it is an ordinary annuity. What we need to find is the
+number of periods that required to reach $200,000
+
+   Applying the formula in equation 1:
+
+   In order to solve for n, we take log on both sides, n*log(1.005) =
+log(1.2857), n=log(1.2857)/log(1.005). N = 50.39 periods and since
+each period is 1 month, if each month you put aside $3500 and
+the bank is paying an interest of 6% per annum, you need to
+save 50.39 moths or 4.2 years to reach $200,000.
+
+3.3 Perpetuities
+
+3.3.1 Present value of a perpetuity
+
+A perpetuity is defined as a stream of equal cash flows that
+continue indefinitely. It's a type of annuity that has no end,
+theoretically lasting forever. For instance, dividend
+distributions can be regarded as a form of perpetuity since
+the company is assumed to operate on a going concern basis.
+Although companies might not exist forever, in the perspective
+of investors, the lifespan of a company is considered to be
+indefinite.
+
+46 | Chapter 3 - Present and Future Values with Applications
+   A perpetuity does not have a future value since its life is
+indefinite. The present value of a perpetuity is given by:
+
+          Equation 5:
+
+Example: Your grandfather is retiring at the end of next year.
+He would like to ensure that he and after he dies his heirs, will
+receive payments of $11,309 a year forever, starting when he
+retires. If he can invest at 9.9% per annum, how much does your
+grandfather need to invest NOW to receive the desired cash
+flow?
+
+   Answer: The amount of money he needs to invest now is the
+present value of the perpetuity where each cashflow is $11,309,
+interest rate is 9,9% or 0.099.
+
+                         =
+
+3.3.2 Growing Perpetuities
+
+A growing perpetuity is a series of cash flows that increase at a
+constant rate indefinitely. Unlike a standard perpetuity, which
+has a fixed cash flow, a growing perpetuity takes into account
+the growth of the payments over time.
+
+              Chapter 3 - Present and Future Values with Applications | 47
+   The CF1 grows at a constant rate (g) year on year forever.
+
+          Equation 6:
+
+Example: As a millionaire intending to establish a scholarship
+in your name, you wish to grant an annual scholarship of
+$50,000, with the amount increasing by the inflation rate of
+approximately 3% each year. If the interest rate is 7% p.a, how
+much do you need to put down today to ensure the scholarship
+can be sustained indefinitely?
+
+   Answer: This is a growing perpetuity since the payment
+required in the first year is $50,000. In the second year, the
+required repayment is 50,000 * (1 + 0.03) = $51,500. In the third
+year, the payment would be 51,500 * 1.03 and so on. The amount
+that you need to put down today would be the present value
+of this growing perpetuity where the growth rate is 3% p.a and
+interest rate is 7% p.a.
+
+                            =
+
+48 | Chapter 3 - Present and Future Values with Applications
+      Takeaways and looking ahead
+
+        This chapter wraps up our discussion on the present
+     and future values of single and multiple cash flows. The
+     forthcoming chapter will expand these valuation
+     principles by applying the present and future value
+     formulas to the valuation of more complex financial
+     instruments, namely stocks and bonds. We will
+     examine how these formulas assist investors in making
+     informed decisions about the intrinsic value of these
+     securities, taking into account expected future cash
+     flows and risks.
+
+References:
+
+Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+              Chapter 3 - Present and Future Values with Applications | 49
+Chapter 4 - Financial
+markets and financial
+institutions
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Understand and distinguish between real
+             assets and financial assets
+
+          · Identify the functions of the financial system:
+                   o direct flow of funds
+                   o indirect flow of funds
+
+          · Understand the different types of financial
+             markets, financial institutions, and financial
+             instruments
+
+          · Understand the functions of key regulators of
+             Australian financial markets and system
+
+50 | Chapter 4 - Financial markets and financial institutions
+4.1. Real vs financial assets
+
+4.1.1. Real assets
+
+Real assets represent all the elements required for the
+production of goods and services which a society's members
+are able to generate. They are the essential building blocks
+of an economy's wealth, representing the core resources that
+determine its productive capacity. In the context of a company,
+real assets are the cornerstone of its ability to produce output.
+These are the physical or tangible and non-physical or
+intangible resources that the company utilizes in its operations.
+The examples of real assets include property, plant and
+equipment, land, buildings and machines.
+
+   Intangible assets: These do not have a physical presence but
+still needed as part of the production process. They include
+knowledge, intellectual property i.e. patents, copyrights,
+trademarks and trade secrets.
+
+   From topic 1, we know that investment decisions are vital for
+any business as they directly impact the company's potential
+to create value. Making wise investment decisions means
+identifying which real assets will yield the most favourable cash
+flows, taking into consideration the costs of obtaining,
+operating, and improving these assets. These decisions are not
+confined to initial purchases; they also encompass the
+continuous process of maintaining existing assets to ensure
+their ongoing productivity and deciding when and how to
+upgrade them to respond to technological advancements,
+market demands, or regulatory requirements. The aim is to
+optimize the efficiency and profitability of the assets
+throughout their lifecycle, ensuring that they contribute
+positively to the company's financial health and competitive
+position.
+
+                Chapter 4 - Financial markets and financial institutions | 51
+4.1.2. Financial assets
+
+Financial assets i.e. financial securities are assets that are
+created by the law which outlines the rights and obligations
+of the holder and the issuer. These assets do not contribute
+directly to the productive capacity of the economy. They
+represent the claims over the cashflows produced by real
+assets. Unlike real assets, financial assets are created by the
+financing decisions. The examples of financial assets include
+stocks and bonds which represent the claims of the capital
+providers' claims on the cash flows.
+
+4.2. The financial system
+
+The financial system is a complex network that includes
+financial markets, institutions and products, all of which play
+a critical role in the economy. The financial system's primary
+purpose is to efficiently direct funds from savers, who have
+excess funds, to borrowers, who have a deficit of funds, thereby
+facilitating investment in productive ventures, which is critical
+for economic growth and prosperity. In order for the financial
+system to have a smooth functioning that allows for free flow
+of capital and ensures its integrity and stability, there needs
+to be independent bodies that oversee the financial system.
+These are regulators who enforce legal requirements, protect
+consumers, monitor risks and maintain confidence in the
+financial system.
+
+4.2.1 Financial markets
+
+  · Financial markets are physical or virtual venues where
+      financial instruments are traded. Financial markets can be
+
+52 | Chapter 4 - Financial markets and financial institutions
+      classified according to different criteria:
+  · Maturity: money vs capital market
+  · New and outstanding security: primary vs secondary
+
+      market
+  · Asset types: equity, bond, fx and derivatives
+  · Organisation of transactions: exchange traded vs over the
+
+      counter.
+
+4.2.1.1 Money markets versus capital market
+
+Money markets provide a platform for the issuance and trading
+of short-term securities i.e. instruments with maturities of less
+than 12 months. The money markets are largely composed of
+institutional investors, such as banks, mutual funds, and
+corporations, rather than individual investors. These
+participants either have surplus funds and are looking to earn
+interest or have a short-term shortage of funds and need to
+borrow. Unlike stock exchanges, money markets do not have
+a specific physical trading location. Transactions can be
+completed over the counter (OTC), through electronic systems,
+or via telephone. The instruments traded in the money markets
+include Treasury notes, certificates of deposit, commercial bills,
+promissory notes, inter-bank loans, and repurchase
+agreements (repos). Each of these serves a specific function in
+terms of liquidity management for financial institutions:
+
+  · Treasury notes: Short-term debt obligations issued by the
+      government.
+
+  · Certificates of deposit (CDs): Term deposits with banks
+      that offer higher interest rates than regular savings
+      accounts.
+
+  · Commercial bills: Issued by companies to finance their
+      immediate cash flow needs.
+
+  · Promissory notes: Unsecured notes that are used for
+
+                Chapter 4 - Financial markets and financial institutions | 53
+      financing a wide range of transactions.
+  · Inter-bank loans: Short-term loans made from one bank to
+
+      another to manage liquidity.
+  · Repurchase agreements (Repos): Short-term borrowing
+
+      for dealers in government securities; the dealer sells the
+      government securities to investors with an agreement to
+      buy them back at a higher price at a later date.
+
+Capital markets facilitate the raising of long-term funds. Here is
+a breakdown of these markets:
+
+  · Equity market: This market is where ownership stakes in
+      companies are issued and traded. Investors who purchase
+      equities are essential providing capital to the firms as
+      owners.
+
+  · Corporate debt market: his market is for the issuance and
+      trading of corporate bonds, which are debt securities
+      issued by companies to fund their operations, expansions,
+      or investments. Investors who buy corporate bonds are
+      essentially lending money to the issuing company in
+      return for periodic interest payments and the return of the
+      bond's face value at maturity.
+
+  · Government debt market: Governments issue debt
+      securities, such as bonds and treasury bills, to finance
+      budget deficits and fund various projects. These securities
+      are considered to be backed by the full faith and credit of
+      the issuing government, making them one of the safest
+      investment options. They can be traded in both domestic
+      and international capital markets.
+
+  · Foreign exchange market: This is a global decentralized
+      market for the trading of currencies. It supports
+      international trade and investment by enabling currency
+      conversion. For example, if a company in one country
+      wants to purchase goods from another country, it can use
+      the foreign exchange market to convert its currency into
+
+54 | Chapter 4 - Financial markets and financial institutions
+      the currency of the seller's country.
+  · Derivative market: Derivatives are financial instruments
+
+      that derive their value from an underlying asset or
+      benchmark. This market provides instruments like
+  · futures, forwards, options, and swaps, which are used for
+      hedging against risks or speculating on future
+      movements of the underlying assets. The derivatives
+      market can be used to manage a range of risks, including
+      interest rates, currencies, equities, and credit risks.
+
+4.2.1.2. Primary markets versus secondary market
+
+Primary markets are the financial venues where new securities
+are created and sold for the first time to investors. Corporations,
+governments, and other entities who need funding will issue
+new financial assets to raise capital directly from investors.
+Investment banks play a crucial role in facilitating this process.
+They help issuers to determine the price of the new securities
+and through rigorous marketing strategies, sell the securities
+to investors. Investors in the primary market can be
+institutional investors like pension funds and mutual funds,
+or retail investors. By purchasing the newly issued financial
+assets, investors provide the issuers with the funds they need.
+In return, investors receive the financial assets which may
+represent debt (bonds), equity (stocks), or other financial
+interests in the company. An example of a primary market is
+Initial Public Offerings (IPOs) where a company offers its shares
+to the public for the first time. IPOs can involve equity, but
+companies also issue debt and other financial assets through
+similar primary market mechanisms.
+
+   Secondary markets are marketplaces where investors buy
+and sell existing financial assets, those that have already been
+issued in primary markets. The financial instruments traded
+in secondary markets are stocks, bonds and other financial
+
+                Chapter 4 - Financial markets and financial institutions | 55
+instruments. Unlike primary market, trading in the secondary
+market does not result in the creation of new assets. It is purely
+the exchange of ownership of existing securities. The trade
+is between two investors, and the money involved in the
+transaction goes from the buyer to the seller, not to the issuing
+company. The role of secondary market is to provide liquidity
+for financial assets. This liquidity is crucial because it gives
+investors the confidence that they can readily convert their
+assets into cash if needed. By providing liquidity, secondary
+markets reduce the risk of investing in primary markets.
+Investors are more likely to purchase new financial assets if
+they know that they can later sell them in a secondary market.
+This, in turn, helps primary markets function more effectively as
+it broadens the investor base and potentially lowers the cost of
+capital for issuers.
+
+4.2.1.3. Exchange traded markets versus over the
+counter market
+
+Exchange-traded markets are structured and regulated
+environments where securities are bought and sold. These
+markets such as the Australian Stock Exchange (ASX) or the
+New York stock exchange (NYSE) are characterized by their
+high level of organization, transparency, and stringent
+information disclosure requirements. These markets operate
+under strict regulatory oversight, which ensures fair trading
+practices and the protection of investors. Regulatory bodies
+establish rules that govern the operations of these markets
+and the conduct of all market participants. Issuers of securities
+in exchange-traded markets are required to provide
+comprehensive information about their financial health,
+performance, and any other material information that might
+affect the value of their securities. This requirement is designed
+to maintain a high level of transparency and allows investors to
+
+56 | Chapter 4 - Financial markets and financial institutions
+make informed decisions. Trading on exchanges is transparent,
+meaning that buy and sell orders, prices of securities and
+completed transactions, are visible to all market participants.
+This ensures that all participants have access to real-time
+information regarding market prices, contributing to a fair and
+competitive market environment.
+
+   Over-the-counter (OTC) markets are decentralized markets
+where trading of financial instruments is facilitated by a
+network of dealers rather than on a centralized exchange. OTC
+markets typically operate with less regulatory oversight
+compared to exchange-traded markets. This can lead to a
+wider range of products being traded, including those that
+may not meet the stringent listing requirements of formal
+exchanges. OTC markets offer more flexibility as the terms of
+trades are not standardized. This allows for the customization
+of trade agreements to suit the specific needs of the parties
+involved. Unlike the centralized nature of exchange trading,
+OTC markets do not have a physical location or central
+exchange. Trading occurs directly between parties. Financial
+institutions or dealers act as market makers by quoting prices
+at which they will buy (bid) and sell (ask) financial instruments.
+Dealers hold an inventory of financial instruments to facilitate
+this trading. Prices in OTC markets can often be negotiated.
+Since trades do not occur in a public venue, dealers can provide
+private quotes to clients and may adjust prices based on the
+size of the transaction or the relationship with the client.
+
+4.2.1.4. Financial markets by products
+
+Equity market: The market where equities, commonly known
+as shares, are traded is typically referred to as the stock market
+or equity market. These include ordinary shares, preference
+shares and hybrid securities. Equities are most commonly
+traded on organized exchanges, such as the Australian
+
+                Chapter 4 - Financial markets and financial institutions | 57
+Securities Exchange (ASX), which provide a platform for buyers
+and sellers to transact in a regulated and standardized
+environment.
+
+   Bond market: The bond market, also known as the debt
+market or credit market, is where investors trade bonds, which
+are long-term debt instruments. These includes corporate
+bonds and long-term government debt securities. While a
+significant volume of bond trading occurs over-the-counter
+(OTC), where trades are negotiated privately between two
+parties, bonds can also be listed and traded on formal
+exchanges like the Australian Securities Exchange (ASX). OTC
+transactions are typically larger and involve institutional
+investors, whereas exchange trading can offer more
+accessibility for retail investors.
+
+   Foreign exchange market: The currency market, also known
+as the foreign exchange market or FX market, is a global
+decentralized marketplace for the trading of currencies. The
+primary function of the FX market is to enable the conversion
+of one currency into another. This is necessary for international
+trade, where businesses and individuals need to pay for goods
+and services in a foreign currency. The market consists of a
+network of banks, financial institutions, brokers, and dealers
+who are licensed to trade in foreign exchange. These
+participants operate in major financial centres around the
+world and conduct transactions directly with each other or
+through electronic trading platforms. The FX market operates
+24 hours a day, five days a week, and is the most traded market
+in the world, with trillions of dollars exchanged daily.
+
+   The derivatives market: is where financial instruments
+known as derivatives are traded. These are securities whose
+value is derived from the value of other underlying financial
+assets, such as stocks, bonds, commodities, currencies, interest
+rates, or market indexes. The types of derivative instruments
+include:
+
+   Options: Contracts that give the holder the right, but not the
+
+58 | Chapter 4 - Financial markets and financial institutions
+obligation, to buy or sell an underlying asset at a specified price
+within a certain time period.
+
+   Futures: Standardized contracts traded on an exchange that
+obligate the buyer to purchase, or the seller to sell, an
+underlying asset at a predetermined price on a specified future
+date.
+
+   Forwards: Customized contracts between two parties to buy
+or sell an asset at a specified price on a future date. These are
+often used for hedging purposes.
+
+   Swaps: Contracts to exchange cash flows or other financial
+instruments for the purpose of exchanging risk (e.g., interest
+rate risk, currency risk).
+
+4.2.2. Australia's financial institutions
+
+Financial institutions can be divided into three broad
+categories: financial intermediaries, investing institutions and
+financial agency institutions.
+
+4.2.2.1 Financial Intermediaries
+
+Intermediated Finance is a key feature of the financial system,
+providing a more efficient allocation of resources, risk
+management, and liquidity transformation. It allows for the
+pooling of funds from many small investors to meet the large
+capital requirements of borrowers, while also providing security
+and return for the investors. During this process, the supplier of
+funds i.e. the investor provide funds to a financial intermediary,
+such as depositing money in a bank through instruments like
+a term deposit. The user of the fund (the borrower) is the
+individual or entity that requires funds for purposes such as
+buying a house, starting or expanding a business, or other
+financial needs. They receive funds from the financial
+
+                Chapter 4 - Financial markets and financial institutions | 59
+intermediary in the form of loans or other credit arrangements,
+such as a housing loan. In the middle of the transaction is the
+financial intermediary i.e. the bank who takes on the role of
+managing funds between the suppliers and users. With the
+funds collected from investors, the intermediary extends loans
+or credit to those in need of funds. In this system, the claims of
+the supplier of funds (investor) and the user of funds (borrower)
+are solely with the financial intermediary. The investor does not
+have a direct claim against the borrower, which means that if
+the borrower defaults on the loan, the bank is responsible for
+compensating the investor, not the borrower.
+
+   Financial intermediaries refer to institutions who serve as
+middlemen between parties in financial transactions. These
+are typically known as ADIs (Authorised deposit taking
+institutions). As the name implied, these institutions are
+authorised by a financial regulatory body to accept deposits
+from the public. Banks, credit unions, and building societies
+are examples of ADIs. They pool the deposits they receive and
+use these funds to provide loans or credit to borrowers. The
+financial intermediary creates a separate contract with each
+party--the lender (or depositor) and the borrower. Their
+revenue is earned primarily through the interest spread. This
+is the difference between the interest rates they charge
+borrowers for loans and the interest rates they provide to
+depositors for their savings. For instance, a bank may offer a
+1% interest rate on savings accounts but charge 4% interest on
+home loans, earning a spread of 3%.
+
+4.2.2.2. Investing institutions
+
+Investing institutions are entities that manage and sell
+investment products to the public and use the pooled funds
+to invest in a variety of asset classes. Depending on the
+
+60 | Chapter 4 - Financial markets and financial institutions
+regulations, these institutions can invest in both real and
+financial assets. These institutions include:
+
+   Superannuation funds: These funds collect contributions
+from employers on behalf of employees as well as from fund
+members directly. They invest these contributions across
+different asset classes with the goal of providing income
+benefits for members upon retirement. Common investments
+include equities, debt securities, real estate, and cash.
+
+   Managed funds: These funds pool money from many
+investors to invest in a diversified portfolio of financial assets.
+Professional fund managers select and manage these assets
+on behalf of the investors. Managed funds provide investors
+with access to a wider range of investments than they might
+be able to afford or manage on their own.
+
+   Private equity firms: These firms invest in private companies
+that are not listed on a stock market. Investments made by
+private equity firms are usually long-term and can be high-risk,
+partly because of the illiquidity of the shares--they are more
+difficult to sell compared to public equities. Private equity can
+be classified into two types:
+
+  · Venture capital firms (VC): Venture capital firms focus on
+      investing in start-up and early-stage companies with high
+      growth potential. These investments are inherently risky
+      due to the unproven nature of the businesses but can
+      yield high returns if the companies succeed.
+
+  · Private equities: In addition to venture capital, private
+      equity also includes buyouts, growth capital, and
+      mezzanine capital. PE investments are characterized by
+      active ownership, where the PE firm seeks to add value to
+      the company through strategic, operational, or
+      managerial improvements.
+
+Hedge funds: are often considered to be higher risk compared
+to traditional investment funds that are often considered not
+
+                Chapter 4 - Financial markets and financial institutions | 61
+suitable for retail investors. Unlike traditional managed funds,
+which may focus on a diversified portfolio of stocks or bonds,
+hedge funds often engage in a wide array of investment and
+trading activities. These can include leveraged investments,
+short-selling, derivatives trading, and other sophisticated
+investment strategies. Hedge funds generally operate with less
+regulatory oversight than other investment vehicles such as
+mutual funds. This allows them more freedom in their
+investment decisions, but it also means less protection for
+investors. They are often only accessible to accredited or
+qualified investors who have a higher degree of financial
+literacy and can bear the risk of loss.
+
+   General insurance companies: are financial entities that
+collect premiums from households and businesses and
+provide a range of insurance policies to protect individuals and
+businesses against various risks. These include property, motor
+vehicle and employer's liability insurance. In order to ensure
+that they have sufficient liquidity to cover claims and
+operational expenses, general insurance companies invest
+their assets primarily in short-term financial securities such
+as deposits, short-term loans, government securities or liquid
+equities. he investment strategies of general insurance
+companies are often conservative, emphasizing liquidity and
+safety due to the nature of their liabilities. They need to ensure
+that funds are available when claims are made, which can be
+unpredictable. Consequently, they tend to avoid locking in
+their assets in long-term or illiquid investments. Their
+investment decisions are also subject to regulatory guidelines
+that aim to maintain solvency and protect the interests of the
+insured parties.
+
+   Life insurance companies: unlike general insurance, life
+insurance companies offer a range of financial products and
+services, primarily focusing on risk mitigation and financial
+planning for individuals. The type of products they offer include
+life insurance which offers financial compensation to
+
+62 | Chapter 4 - Financial markets and financial institutions
+beneficiaries upon the policyholder's death. They also provide
+accident and disability insurance: which covers for losses due
+to accidental injuries or disability, which can include lump-sum
+payments or ongoing income support. To support their long-
+term liabilities (such as life insurance payouts), life insurance
+companies tend to invest in a mix of equities and debt
+securities. Besides traditional insurance, life insurance
+companies offer investment products that combine
+investment with insurance coverage, such as annuities. They
+may also manage superannuation (retirement savings)
+products, allowing policyholders to invest and grow their funds
+for retirement.
+
+4.3 Financial regulators
+
+The objectives of regulators are:
+   Systematic Stability: This refers to the overall health and
+
+functioning of the financial system. Systemic stability is
+achieved when the system is resilient to economic shocks and
+able to operate without significant crises, such as widespread
+bank failures or bank runs. A bank run occurs when a large
+number of depositors withdraw their funds simultaneously,
+often due to fears that the bank will become insolvent.
+Ensuring systemic stability is crucial to prevent such crises,
+which can lead to severe economic and social disruptions.
+
+   Deposit Protection: refers to safeguarding the interests of
+bank depositors, those with small account balances who may
+not have the financial expertise to fully understand complex
+banking products and the health of the financial institutions
+themselves. Asymmetric information is a situation where one
+party, in this case, the financial institutions have more or better
+information than depositors. To protect depositors, various
+mechanisms such as deposit insurance schemes are put in
+
+                Chapter 4 - Financial markets and financial institutions | 63
+place, which guarantee to cover deposits up to a certain
+amount, thereby reducing the risk for individual depositors.
+
+   Social objectives: Many financial institutions are profit driven
+therefore without appropriate mechanisms in place, they will
+not serve the interest of the public as a whole. The institutions
+need to be given incentives so that they will engage in
+behaviours that benefit every members of society. This
+includes keeping bank fees low to ensure affordability for all
+segments of society, providing financial support to specific
+sectors of the economy that may have social value, such as
+small businesses or industries that create significant
+employment opportunities. These objectives often align with
+broader goals such as income redistribution, economic
+inclusion, and the promotion of equitable growth.
+
+   There are three main regulatory bodies in Australia:
+
+  · The RBA (Reserve Bank of Australia): The RBA serves as
+      Australia's central bank and its main functions are crucial
+      to the nation's financial system and overall economic
+      performance. The RBA oversees the payment systems to
+      ensure they are safe and efficient, and providing banking
+      services to the government and other financial
+      institutions. The most important function of the RBA is
+      formulating and implementing monetary policy. The main
+      tool the RBA uses for this purpose is setting the cash rate,
+      which is the interest rate on overnight loans in the money
+      market. In the first Tuesday of every month except
+      January, the RBA board meets to decide the outcome of
+      its review of the cash rate and releases a statement that
+      announces any changes to the rate. Changes to the cash
+      rate can influence a range of other interest rates, including
+      those for mortgages and savings, and can thereby affect
+      the behaviour of borrowers and savers, the level of
+      economic activity, and ultimately the rate of inflation.
+      Finally, the RBA monitors and assess the health of the
+
+64 | Chapter 4 - Financial markets and financial institutions
+   financial system and work with other regulatory bodies to
+   manage and mitigate systemic risks. The RBA aims to
+   prevent problems that may arise from the financial
+   system, such as bank runs or the collapse of financial
+   institutions, that could have detrimental effects on the
+   economy.
+· ASIC (Australian Securities and Investments Commission):
+   is an independent Australian government body that acts
+   as Australia's corporate regulator. Its role is to enforce and
+   regulate company and financial services laws to protect
+   Australian consumers, investors, and creditors. ASIC
+   oversees companies to ensure they adhere to corporate
+   governance standards. Corporate governance involves a
+   set of rules and processes by which a company is directed
+   and controlled, focusing on the internal and external
+   corporate structures with the intention of monitoring the
+   actions of management and directors and thereby
+   mitigating the risks of corporate fraud. For the financial
+   services sector: ASIC supervises and regulates the
+   insurance, banking and superannuation industry to
+   ensure they operate efficiently, honestly and fairly with the
+   aim to promote transparency and market integrity.
+· APRA (Australian Prudential Regulation Authority): While
+   ASIC is focused on consumer protection and market
+   integrity, APRA is involved in the prudential oversight of
+   financial institutions. APRA's core function is to oversee
+   banks, credit unions, building societies, general insurance
+   companies, life insurance, and most members of the
+   superannuation industry. It sets standards and supervises
+   institutions to ensure that, under all reasonable
+   circumstances, these financial promises made to
+   consumers are met. APRA ensures that the institutions it
+   supervises manage risks effectively, requiring them to
+   hold sufficient capital and have appropriate risk
+   management frameworks in place to deal with potential
+
+             Chapter 4 - Financial markets and financial institutions | 65
+      adverse scenarios. APRA is responsible for planning for
+      financial crises and has a role in responding to them if
+      they occur. This includes the power to take control of an
+      institution if its viability is threatened and managing its
+      restructure or orderly exit from the industry if necessary.
+
+     Key Takeaways
+
+          · This chapter provides an overview of on the
+             operation of the financial system in Australia, the
+             players within the system and the role that they
+             serve. In the forthcoming chapter, we will apply
+             the present and future value formulas to value
+             the two classic financial instruments of the
+             financial market namely, debt and equity.
+
+References:
+
+Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+   Reserve Bank of Australia (rba.gov.au)
+   ASIC Home | ASIC
+
+66 | Chapter 4 - Financial markets and financial institutions
+Welcome to APRA | APRA
+            Chapter 4 - Financial markets and financial institutions | 67
+Chapter 5 - Bond
+market and bond
+valuation
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Understand the fundamental principles of
+             bonds and the bond market.
+
+          · Compute the price of a bond and explain the
+             relation between bond prices and interest rate.
+
+          · Distinguish between a bond's coupon rate and
+             yield to maturity.
+
+          · Explain the concept of interest rate risk, default
+             risk and default risk premium
+
+5.1. What is a bond?
+
+A bond is essentially a form of debt instrument, which can
+be likened to an "I owe you" note. It represents a formal and
+
+68 | Chapter 5 - Bond market and bond valuation
+enforceable contract between the issuer, who is the borrower,
+and the investor, who acts as the lender. This agreement
+outlines several key components:
+
+  · Par value: This is also known as the face value or principal
+      of the bond. It is the amount that the issuer agrees to
+      repay the bondholder at the bond's maturity.
+
+  · Coupon rate: The coupon rate is the interest rate that the
+      bond issuer pays on the bond's face value. It is usually a
+      fixed percentage, expressed as an annual percentage rate
+      (APR). However, there can be variable or floating rates,
+      which are often linked to benchmarks like the LIBOR or
+      inflation indicators.
+
+  · Coupon payment dates: These are the scheduled dates on
+      which the bond issuer makes interest payments to the
+      bondholder. The payments are typically made on a
+      quarterly or semi-annual basis.
+
+  · Maturity date: This is the date on which the bond will
+      expire, and the issuer is obligated to pay the par value to
+      the bondholder. Bonds can have varying lengths of
+      maturity, ranging from a few months to several decades.
+
+In the context of bonds, the issuer does not need to know
+the identity of the bondholder. The bond issuer has a legal
+obligation to make payments, such as interest or principal
+repayments, to whom-ever is in possession of the bonds at the
+time those payments are due. This means that if the bonds are
+sold or transferred from one investor to another, the issuer's
+responsibility is to make the due payments to the new holder
+of the bonds. This anonymous nature of bond ownership allows
+for easy trading of the bonds on the market, as the transfer of
+ownership does not require the issuer's direct involvement or
+notification.
+
+                               Chapter 5 - Bond market and bond valuation | 69
+5.1.1 Types of corporate bonds
+
+  · Coupon bonds: are a type of bond that feature fixed
+      interest payments, known as coupons, which are paid to
+      the bondholder periodically over the bond's lifespan. The
+      rate of these coupon payments is predetermined and
+      remains constant until the bond reaches its maturity date.
+      Upon maturity, the principal amount of the bond is repaid
+      to the bondholder, and the bond is then considered
+      retired or concluded. Coupon bonds often include
+      standard call provisions that are common in many types of
+      bonds. This provision gives the issuer the right, but not the
+      obligation, to pay back the face value of the bond before
+      its maturity date under specific conditions. This can be
+      beneficial for the issuer, particularly if interest rates have
+      fallen since the bond was issued, allowing them to
+      refinance at a lower cost. Coupon payments are often
+      made on an annual or semi-annual basis.
+
+  · Zero coupon bonds: are bonds that do not offer periodic
+      coupon payments. Instead, investors receive a single
+      payment at the bond's maturity. Since zero-coupon bonds
+      do not provide coupon or interest payments, they are
+      typically sold at a significant discount from their face (or
+      par) value. The difference between the par value and price
+      of the bond represents the interest that accumulates over
+      the life of the bond.
+
+  · Convertible bonds: are bonds that offer the bondholder
+      the right to convert the bond into a predetermined
+      number of shares of the issuing company's common stock
+      at specific times during the bond's life, usually at the
+      discretion of the bondholder.
+
+70 | Chapter 5 - Bond market and bond valuation
+5.1.2 Overview of Australian financial market
+
+Have a look at the Figure 1: Australian Financial Markets on
+this Australian Equity Market Facts page on the RBA website.
+This depicts the types and historical trends of various financial
+securities in Australia as a percentage of GDP, indicating their
+relative size and importance within the economy over time.
+
+   The graph depicts a contrasting trend between government
+bonds and equities. While the proportion of government
+bonds relative to GDP has generally decreased, the equity
+market has shown growth, particularly from the 1980s
+onwards. Corporate bonds have also grown but remain a
+smaller fraction of the GDP compared to equities and
+government bonds. Overall, there is a general shift in the
+Australian financial markets from a strong reliance on
+government and government-backed bonds in the early 20th
+century towards a more diversified structure with significant
+equity and corporate bond markets in the later years.
+
+5.2 Coupon rate versus coupon yield
+
+The bond contract often states the coupon rate and other
+features of the bond such as par value, time maturity or
+whether or not the bond is callable. However, it does not
+specifies the yield to maturity i.e. coupon yield, another variable
+that determines the price of the bond. So, what is yield to
+maturity and how it differs from the coupon rate?
+
+   Coupon rate determines the annual interest rate that the
+issuer promises to pay the bondholder on the bond's face
+value, expressed as a percentage.
+
+   Coupon yield: is the return that an investor can expect to
+
+                                Chapter 5 - Bond market and bond valuation | 71
+receive from the bond if it is held until maturity assuming all
+the coupon payments are reinvested at the same rate.
+
+   While coupon rate is often fixed, the coupon yield can
+change over time if the price of the bond changes due to
+market conditions.
+
+5.3 Bond Valuation
+
+5.3.1 The valuation principle
+
+The value of a financial asset is equal to the present value of
+all expected future cash flows, discounted at an appropriate
+discount rate
+
+          Equation 1:
+
+Where:
+
+· P = Value (price) of an asset at time 0, present value of the
+
+stream of cash flows
+
+· CFt = cash flow in period t
+
+· i     = the market interest rate (discount rate)
+
+· n     = number of discounting periods
+
+72 | Chapter 5 - Bond market and bond valuation
+Based on this formula, the value or price of any financial asset
+at time 0 can be calculated by forecasting the future cash flows
+the asset is expected to generate and then discounting these
+cash flows to their present value using an appropriate discount
+rate. Let's apply this valuation principle to price a coupon
+paying bond.
+
+5.3.2 Bond valuation
+
+For a coupon paying bond, the cash flows comprise two
+components: the coupon payments and the par value
+component usually paid at the maturity date. The timeline of
+the cashflows for a coupon bond is depicted as follows:
+
+   Given that the coupon payments remain constant and the
+first payment is made one period after time 0, this series of
+coupon payments essentially constitutes an ordinary annuity.
+Consequently, we can apply the present value formula for an
+ordinary annuity to calculate the current worth of these
+coupon payments at time 0.
+
+   The second component is the par value, the lumpsum that
+usually paid at maturity. Since it is a one-off payment, we can
+use the formula for single cash flow to discount it back to
+present. The price of the bond is the PV of coupons + PV of par
+value.
+
+          Equation 2:
+
+                               Chapter 5 - Bond market and bond valuation | 73
+The price of the bond then becomes PV of an ordinary annuity
++ PV of one last single cash flow (or Par value)
+
+          Equation 3:
+
+where Fn is the par value.
+
+Example: AR Ltd is issuing a 10-year bond with a coupon rate
+
+of 8.89 per cent. The interest rate for similar bonds is currently
+
+5.97 per cent. Assuming annual payments and a face value of
+
+$1000, what is the present value of the bond?
+
+Answer: Step 1: Outline the cash flows that the financial asset
+
+i.e. the bond pays. The coupon payment each period is:
+
+Coupon  payment             per                period   =
+
+                                 =
+   So, the cashflows are: 88.9 per year for 10 years and a one-off
+1000 at the end of year 10. N = 10 and i = 0.0597. The discount
+rate is the coupon yield. It reflects the opportunity cost of
+capital i.e. the return that investors expect from the bond.
+
+74 | Chapter 5 - Bond market and bond valuation
+5.3.3 Par, premium and discount bonds
+
+  · Par bonds: When a bond's coupon rate (C) is equal to the
+      market rate (i), the bond will trade at its face (or par) value.
+      The reason is the market rate i.e. yield to maturity
+      represent the rate of return that investors expect from
+      holding the bond. If investors expect a rate of return of 10%
+      p.a for holding the bond and the coupon rate is also
+      exactly 10%, the bond will be selling at par.
+
+  · Discount bond: If the coupon rate (C) of a bond is lower
+      than the prevailing market interest rate (i), the bond will
+      be sold at a price below its face (or par) value. The reason is
+      the coupon rate that the bond is offering is less than what
+      investors expect. Therefore, to achieve the required rate of
+      the return, investors will sell the bond driving its price
+      below the par value.
+
+  · Premium bonds: When a bond's coupon rate (C) exceeds
+      the current market interest rate (i), the bond will be traded
+      at a price higher than its face (or par) value. In this case,
+      the coupon rate that the bond is offering is higher than
+      what investors expect which make investors willing to pay
+      a price that is higher than the par value.
+
+                               Chapter 5 - Bond market and bond valuation | 75
+5.3.4 Semi-annual bond valuation
+
+Most corporate bonds make coupon payments semi-annually,
+meaning twice a year. However, it's a standard practice to
+quote their coupon rates on an annual basis. This means that
+even though these bonds pay coupons every six months, the
+stated coupon rate reflects the interest amount that would
+be paid over a full year. For instance, if a bond has an annual
+coupon rate of 4%, it would actually pay 2% every six months.
+The formula for a semi-annual coupon paying bond is as
+follows:
+
+          Equation 4:
+
+Since the coupon payment is made every six months if the
+bond matures in n years, in total, there would be 2n periods. is
+the par or face value paid in period 2n.
+
+   Example: You are interested in investing in a 3-year bond
+with a face value of $1000 that pays a 6.3 per cent coupon
+with interest to be received semi-annually. Your required rate
+of return is 6.6 per cent. What is the most that you would be
+willing to pay for this bond?
+
+   Answer: The coupon rate is 6.3% p.a, since the coupon is
+paid every six months. The coupon payment each period is
+0.063×1000/2 = 31.50. The number of periods is therefore 3×2 =
+6. The discount rate each period is 0.066/2 = 0.033 since each
+period is now 6 months instead of 1 year.
+
+76 | Chapter 5 - Bond market and bond valuation
+5.3.5 Zero coupon bond
+
+As the name implied, zero coupon bond has no coupon
+payment. The only cash flow that the bond pays is the par
+value. The value of the bond is simply the present value of
+this final cash flow discounted back to the present using the
+appropriate discount rate i.e. yield to maturity.
+
+          Equation 5:
+
+Example: You are thinking to invest in a zero coupon bond that
+is matures in 6 years with a face value $100,000. How much are
+you willing to pay for the bond if the current market interest
+rate for similar bond is 6% p.a?
+
+   Answer: Par value is $100,000, n=6 and yield to maturity I =
+0.06.
+
+                               Chapter 5 - Bond market and bond valuation | 77
+5.4 Bond yields
+
+Yield to maturity (YTM): is the rate of return that an investor
+expects to earn if they hold a bond until its maturity date,
+and all scheduled coupon and principal payments are made
+without default. It is used as a discount rate that makes the
+present value of coupons and principal payments equal to the
+price of the bond. YTM is not static, it changes in response to
+changes in market interest rates and other economic factors.
+
+   When market interest rates rise, investors expect a higher
+return from their investments which lead the YTM of existing
+bonds increases, often resulting in lower bond prices.
+Conversely, when market interest rates fall, the YTM of existing
+bonds generally decreases, leading to higher bond prices. This
+inverse relationship between yield and price is a fundamental
+principle of bond investing.
+
+   Bonds with longer maturities experience greater price
+fluctuations compared to bonds with shorter maturities for the
+same level of change in their Yield to Maturity (YTM).
+
+   For bonds valuation, since the cash flows are predetermined,
+the price of the bond largely depends solely on the discount
+rate (YTM). How do we know what investors required rate of
+return on a bond is?
+
+   Answer: We can invert the yield to maturity from the bond
+price and once the YTM is obtained, it will enable us to price
+similar bonds.
+
+   Example: Westpac Banking Corporation has a 3-year bond
+outstanding that pays a 7 per cent coupon and is currently
+priced at $913.88. What is the yield to maturity of this bond?
+
+78 | Chapter 5 - Bond market and bond valuation
+Assume semi-annual coupon payments and a par value of
+$1000.
+
+   Answer: Since the coupon is paid semi-annual, the number
+of periods is 2 x 3 =6. The coupon payment each period is 0.07 x
+1000 = 35.
+
+   Applying formula in equation 4:
+
+   Y denotes yield to maturity or i in equation 4.
+   Using excel, y = 5.21% so i = 2 x y = 2 x 5.21% = 10.42%.
+
+5.5 Risk of investing in bonds
+
+Investing in bonds, like any other investments involves a
+number of risks. The two major risks that associated with bonds
+are:
+
+  · Credit (Default Risk): This risk reflects the probability that
+      the bond issuer will be unable to fulfill the debt payment
+      obligations as they fall due. Generally, government bonds
+      have lower credit risks compared to corporate bonds.
+      Credit rating agencies assign ratings to bonds globally,
+      serving as an indicator of their credit risk. These ratings
+      essentially evaluate the likelihood that the bond issuer will
+      default on its debt obligations, including interest
+      payments and the repayment of the principal. A higher
+      rating suggests a lower risk of default, indicating greater
+      financial stability and strength of the issuer. Conversely, a
+      lower rating indicates higher risk, implying a greater
+      chance that the issuer might fail to meet its payment
+
+                               Chapter 5 - Bond market and bond valuation | 79
+      obligations.
+  · Interest rate: Interest rate risk refers to the possibility of
+
+      incurring losses on investments due to a rise in market
+      interest rates. When interest rates in the market go up, the
+      appeal of holding existing bonds diminishes. This is
+      because new bonds issued in the market offer higher
+      coupons compared to the fixed coupons of existing bonds.
+
+5.5.1 Interest rate risk
+
+When interest rates in the market rise, the Yield to Maturity
+(YTM) of bonds also increases. This is because YTM is essentially
+a reflection of the opportunity cost of capital. If interest rates
+are higher, investors naturally expect greater returns on their
+investments since they could potentially earn more by
+investing in other opportunities with higher yields.
+Consequently, as market interest rates go up, the required rate
+of return (or discount rate) for existing bonds increases, which
+in turn lowers their market prices.
+
+   The impact of rising interest rates on bond prices, however,
+is not uniform across all bonds. Generally, bonds with longer
+maturities are more sensitive to changes in interest rates and
+will experience greater price reductions compared to shorter-
+term bonds. This is because the longer the time until a bond's
+maturity, the longer the period during which the investor is
+locked into lower coupons relative to the market, thus
+increasing the bond's interest rate risk. The following picture
+compares the price of a 1-year bond and a 10-year bond when
+interest rate changes:
+
+80 | Chapter 5 - Bond market and bond valuation
+   The graph demonstrates that when market interest rates
+increase, the prices of both short-term and long-term bonds
+decrease. However, the extent of the price decline differs
+significantly between the two. While the short-term bond
+experiences a relatively minor decrease in price, the long-term
+bond's price drops much more sharply.
+
+5.5.2 Default risk
+
+As mentioned above, default risk that borrowers may not make
+the promised payments. It is the risk of losing not just the
+return on capital but the return of capital i.e. the principal.
+Therefore, in order to hold bonds that have positive default risk,
+investors must be paid a premium. Default risk premium (DRP)
+is the difference between interest rate on a security that has
+default risk (idr) and the interest rate on a risk-free (irf) security.
+
+                                       DRP = idr - irf
+   The DRP is essentially the extra return that a bond offering
+
+                               Chapter 5 - Bond market and bond valuation | 81
+a default risk pays over a risk-free security, like an Australian
+Government Bond.
+
+5.5.3 Bond ratings
+
+Moody's Investors Service (Moody's) and Standard & Poor's
+Global Ratings (S&P) are the two leading credit rating agencies
+that evaluate the likelihood of borrowers repaying their debts,
+effectively assessing their creditworthiness. Fitch Group ranks
+as the third largest in this field. While Moody's and S&P have
+their own unique rating scales, the meaning behind their
+ratings is broadly similar.
+
+   The highest quality bonds, considered to have the minimal
+risk of default, are given the top ratings of Aaa by Moody's
+and AAA by S&P. These ratings reflect the highest level of
+creditworthiness.
+
+   Bonds are categorized as investment-grade if they are rated
+between Aaa (or AAA) and Baa (or BBB). These ratings suggest
+a lower risk of default and are typically sought after by
+conservative investors, including certain institutional investors.
+
+   Conversely, bonds rated below Baa (or BBB) are classified as
+non-investment grade. These include junk bonds, speculative-
+grade bonds, or high-yield bonds, which carry a higher risk
+of default but offer higher returns to compensate for this
+increased risk.
+
+   The following table shows the Investment ratings by S & P,
+Moody and Fitch:
+
+82 | Chapter 5 - Bond market and bond valuation
+                S & P Moody Fitch Description
+
+Investment
+Grade
+
+AAA             AAA Aaa     AAA   Prime, highest quality,
+                                  lowest credit risk
+
+AA+             AA+ Aa1     AA+   High quality, very low
+                                  credit risk
+
+AA              AA Aa2      AA
+
+AA-             AA- Aa3     AA-
+
+A+              A+ A1       A+ Upper medium grade, low credit risk
+
+A               A     A2    A
+
+A-              A-    A3    A-
+
+BBB+            BBB+ Baa1   BBB+ Lower medium grade, moderate credit risk
+
+BBB             BBB   Baa2  BBB
+                BBB-  Baa3
+BBB-                        BBB-
+
+Non-investment
+grade (Junk)
+
+BB+             BB+ Ba1     BB+   Speculative, substantial
+                            BB    credit risk
+BB              BB Ba2      BB-
+                            B+    Highly speculative, high
+BB-             BB- Ba3     B     credit risk
+                            B-
+B+              B+ B1       CCC   Substantial risks,
+                            CCC   extremely speculative
+B               B     B2    CCC-
+                            CC
+B-              B-    B3
+
+CCC+            CCC+ Caa1
+
+CCC             CCC   Caa2
+CCC-            CCC-  Caa3
+CC              CC    Ca
+
+                Chapter 5 - Bond market and bond valuation | 83
+C C C C Extremely high levels of credit risk
+
+D  D  D  Default
+
+5.5.4 Australian bond market
+
+In Australia, most corporate bonds are not traded on the
+Australian Securities Exchange (ASX), the primary stock
+exchange in the country. Instead, these bonds are typically
+traded over-the-counter (OTC). OTC trading means that the
+bonds are traded in a decentralized manner, often through
+broker-dealer networks, rather than on a centralized exchange
+like the ASX. To invest in these corporate bonds, an investor
+usually needs to go through a broker. The broker executes the
+order by finding a matching buyer or seller in the OTC market.
+This method of trading can be less transparent than exchange
+trading, with prices and availability varying more significantly.
+
+   For individual investors looking to invest in bonds through
+a more familiar and accessible platform, Exchange-traded
+Treasury Bonds (eTBs) offer an alternative. eTBs are essentially
+government bonds that are listed and traded on the ASX. They
+represent an investment in an Australian Government bond,
+providing the safety and stability associated with government
+debt. These bonds are more accessible to individual investors
+and offer benefits like regular interest payments and the return
+of face value at maturity. eTBs can be bought and sold just like
+stocks through the ASX, offering transparency, ease of trading,
+and accessibility that might not be available with OTC
+corporate bonds.
+
+84 | Chapter 5 - Bond market and bond valuation
+ Takeaways and looking ahead
+
+   This chapter provided an overview of bonds and the
+Australian bond market, detailing how bonds function
+as a crucial method for companies and other entities to
+raise capital. As debt securities, bonds involve lending
+money to the issuer in exchange for regular interest
+payments and the return of the principal at maturity.
+We've explored the various aspects of bonds, including
+their pricing, the relationship between bond prices and
+interest rates, the distinction between a bond's coupon
+rate and its yield to maturity, and the risks associated
+with bond investing, such as interest rate risk and
+default risk.
+
+   In the next chapter, we will shift our focus to the
+second major channel for companies to raise capital:
+equity. Equity represents ownership in a company and
+comes with different characteristics and valuation
+methods compared to debt securities like bonds. We
+will explore the different types of equity securities, and
+the principles behind equity valuation. This will provide
+a comprehensive understanding of how companies
+raise capital and how investors can evaluate and invest
+in these different types of securities
+
+                         Chapter 5 - Bond market and bond valuation | 85
+References:
+
+Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+86 | Chapter 5 - Bond market and bond valuation
+Chapter 6 - Stock
+market and stock
+valuation
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Understanding the Basics of Stocks and Stock
+             Returns
+
+          · Applying the Dividend Discount Model (DDM)
+             to Value Stocks
+
+          · Getting to know the landscape of the World's
+             and the Australian stock market
+
+          · Exploring investment banking functions and
+             initial public offering (IPO)
+
+6.1 Overview of the share market
+
+Suppose you have $10,000 to invest in 1989 and you decide to
+put it in the share market. If the average annual rate of return
+
+                              Chapter 6 - Stock market and stock valuation | 87
+is 8% p.a., by 2023, you would end up with $147,850. While
+Australia is an island, separated from the rest of the world, our
+share market does not seem to behave that way. In fact, our
+market tracks the trend in the global market very closely and
+since 2002, we seem to perform better than the global market.
+
+   If we are doing so well, why investors from the rest of the
+world does not seem to pour money into our market? Have
+a look at this chart from Visual Capitalist showing the break
+down of the global equity market. Here we can see is that
+not all markets are created equal. Some are much bigger and
+hence considered more important than others. The
+construction of the global market does not involve putting the
+same amount of money into each market. Rather, market with
+larger size receives a higher weight.
+
+   Once we zoom into the performance of a given stock market,
+the same feature holds. That is, not all stocks are created equal.
+Based on their size i.e. market cap, some are more important
+than others. The performance of the overall stock market
+largely depends on the performance of the very few. Have a
+look at this visualisation of the US market return composition
+by Morningstar to see how the largest companies have
+changed between 2020 to 2023. How much has the size of the
+rest of the market changed changed over this time?
+
+6.2 Ordinary vs Preference Shares
+
+6.2.1 What are ordinary shares?
+
+Ordinary shares, also known as common stocks or common
+equity, represent an ownership stake in a corporation.
+Individuals holding these shares are essentially part-owners of
+the company. This ownership represents a residual claimant,
+
+88 | Chapter 6 - Stock market and stock valuation
+which means shareholders are entitled to a share of the
+company's earnings after all other obligations have been met.
+
+   Those who invest in ordinary shares typically anticipate the
+receipt of dividends, which are periodic distributions of the
+company's profits. However, in scenarios where a company
+defaults on its obligations, debt holders reserve the right to
+initiate liquidation proceedings, subsequently assuming
+control over the company's assets to recuperate owed funds.
+Shareholders on the other hand cannot force the company to
+go into liquidation. These shareholders are among the last to
+be considered for repayment. They have to wait until all debts
+and other financial obligations have been paid to receive the
+residual claims on the company's assets. This underscores the
+heightened risk that ordinary shareholders bear, a risk that
+is counterbalanced by the potential for higher returns over a
+long-term investment horizon, reflecting the fundamental risk-
+return trade-off in finance.
+
+   Holding shares give investors the right to vote on critical
+corporate governance issues. Such issues may include strategic
+decisions like mergers and acquisitions, executive
+remuneration packages, and the election or removal of board
+members. Essentially, this voting power enables shareholders
+to influence the direction and management of the company,
+something that debt holders do not get to enjoy since debt
+holders do not own the company.
+
+   Another advantage for ordinary shareholders is that their
+liability is limited. In the worst-case scenario of company failure,
+the personal financial exposure of shareholders is restricted
+to the amount of their investment in the company's shares,
+protecting their other personal assets. Finally, the life of
+ordinary shares is infinity. Unlike debt securities, which have
+specified maturity dates when the principal is to be repaid,
+ordinary shares remain valid as long as the company is in
+operation. Shareholders can choose to hold on to their shares
+
+                              Chapter 6 - Stock market and stock valuation | 89
+indefinitely or sell them on the open market whenever they
+choose.
+
+6.2.2. What are preference shares?
+
+Preference shares, also known as preferred stocks, are a class of
+equity that exhibits characteristics of both bonds and common
+stocks. These shares typically offer investors a steady income
+stream through fixed dividends, which can either be a set
+amount or a fixed percentage of the company's profits, much
+like the coupon payment of a bond. Due to their equity nature,
+preference shares do not have a maturity date. Shareholders of
+these stocks are entitled to receive annual dividend payments
+indefinitely, or for as long as they hold the shares. The
+dividends received by preference shareholders can be
+classified as a perpetuity and hence one can use the perpetuity
+formula to ascertain the current value of a preference share.
+Finally, preferred shareholders have lower ranking compared
+to bond and other debt holders, but they have higher ranking
+compared to ordinary shareholders when it comes to profit
+distribution and claims on assets in the event of liquidation.
+
+6.3 Equity Valuation
+
+6.3.1 Preference share valuation
+
+The valuation principle states that the value of any financial
+asset is the present value of the future cash flows discounted
+back to the present using the appropriate discount rate. Since
+preference shareholders receive a constant stream of dividends
+
+90 | Chapter 6 - Stock market and stock valuation
+indefinitely, the present value of the preference share can be
+obtained using a perpetuity formula.
+
+   The value of the preference share is then given by:
+
+          Equation 1:
+
+Where:
+  · PS0 = Preference share market price
+  · Dp = Next period's dividend payment
+  · rp = Discount rate
+
+Example: Suppose we have a company, ABC Corp., which has
+issued preference shares that pay an annual fixed dividend of
+$5 per share. If the current market rate of return for similar
+preference shares is 6%, what is the price of ABC Corp.'s
+preference shares?
+
+   Answer:
+
+                               Chapter 6 - Stock market and stock valuation | 91
+6.3.2 How are equity returns are measured?
+
+Investors earn returns from shares not only through dividend
+payments but also via capital gains or losses. These gains or
+losses are realized when investors sell their shares at a different
+price from their purchase cost. The return on investment,
+therefore, encompasses the change in the share's value over
+time, alongside any income from dividends received. For each
+share, the total dollar return is the sum of holding period
+income and capital gains (losses). Since dividend payment
+represents the income that the stockholder earns during the
+holding period,
+
+                    Total dollar return = Divt+1 + (Pt+1 - Pt)
+   In finance, when it comes to return, we do not use dollar
+returns to evaluate the performance of an investment. The
+reason is dollar returns depend on the initial capital investment
+which make it difficult to compare across stocks. For example,
+suppose you buy 1 share A for $50 per share and sells it for $55
+per share, your dollar return would be $5 per share. Meanwhile,
+you can buy 1 share B for $10 and sell it for $12 per share, your
+dollar return on share B would be $2 per share but which one
+is a better investment? Based on just the dollar return alone, A
+would seem to be a better share but instead of buying 1 share
+of A, you could have bought 5 shares B for the same $50 and
+if you do that, you would end up with 5 x 12 =$60 which clearly
+yields a return that is higher than A.
+   Therefore, to measure the performance of an investment, we
+use a percentage return i.e. the rate of return.
+   The rate of return on investment is given by the following
+formula:
+
+92 | Chapter 6 - Stock market and stock valuation
+          Equation 2:
+
+If we reorganise the formula, the current value or price of a
+share can be calculated as:
+
+          Equation 3:
+                                         or
+
+P0 is the price of the share at time 0 i.e. now. P1 denotes the
+price in the future i.e. period 1 and D1 is the dividend received
+during the period and r investors' expected rate of return.
+Equation 3 corresponds to the present value formula with P1
+and D1 represent the future cashflows and r the discount rate.
+
+   Example: You are thinking whether or not to invest in XYZ
+Manufacturing Co. where the investment expectations are as
+follows: an anticipated dividend payment of $2.5 to be received
+in one year. You expect to be able to sell the share for $30 at the
+end of the year and investor required rate of return on shares
+with similar risk is around 8% per year. What is the maximum
+price you are willing to pay for XYZ manufacturing Co?
+
+                               Chapter 6 - Stock market and stock valuation | 93
+   Answer: The value of XYZ today is the present value of the
+future cashflows i.e. the incoming dividend and the potential
+resale value discounted at the required rate of return of 8% p.a.
+
+   You should be prepared to pay no more than 30.09 for XYZ
+today. If you pay such price and assume that your cashflows
+turn out to be as expected, the rate of return you achieve is 8%
+p.a.
+
+   This example assumes that you would only hold the share for
+1 year. What if your investment horizon is 2 years. The company
+announces that the dividend in the first year is $2.5 per share
+and this dividend will increase by 10% in the following year. You
+expect to be able to sell the stock at the end of year 2 for $37.
+How much are you willing to pay for XYZ Co. today?
+
+   No matter how long the investment horizon is expanded into
+the future, the valuation principle still holds. The value of the
+asset is the present value of all future cashflows where the
+cashflows are all different.
+
+   The dividend in year 2 is D2 = D1 x (1+0.1) = 2.5 x 1.1= 2.75
+
+94 | Chapter 6 - Stock market and stock valuation
+                   Price = PV(dividends) + PV(sale price)
+
+6.3.3 Dividend discount model
+
+The value of the stock today equals to the sum of all of its
+future cashflows discounted back to their present values. If
+dividends are the main cashflows that investors get for holding
+the stock, the fair price of a stock can be computed using
+the present value of these anticipated dividend payments. To
+apply the Dividend Discount Model (DDM), it's necessary to
+make projections about the future dividends a company will
+pay. These projections often involve simplifying assumptions to
+handle the uncertainty and variability of future dividends. Two
+common methods used for this purpose are:
+
+   Constant Growth Rate Model: This approach assumes that
+dividends will grow at a constant rate indefinitely. It can also
+consider a special case where the growth rate is zero, meaning
+dividends are expected to remain constant over time.
+
+   Variable Growth Rate Model: In contrast, this model allows
+for dividends to grow at different rates during different periods.
+It's more flexible and can accommodate various growth
+patterns, such as a company expecting higher growth in the
+initial years and lower growth thereafter.
+
+   For an ordinary shareholder, the timeline for the cashflows
+that the shareholder can expect is as follows:
+
+                               Chapter 6 - Stock market and stock valuation | 95
+   The value of the stock can be calculated by discounting these
+cashflows i.e. dividends and price to the present using the
+discount rate r
+
+   Since Pn, the price of the stock in period n, depends on the
+present value of the future dividends starting in period n+1, the
+price of the stock today can be simplified to:
+
+   If these dividends are the same, the price of the stock can
+be computed as the present value of a perpetuity. If these
+dividends are not constant, calculating the price of the stock
+involves forecasting future dividend until infinity which is
+extremely difficult to do. However, when dividends are not
+constant but growing at a constant rate forever then the above
+formula becomes a perpetuity that grows at a constant rate
+forever i.e. a growing perpetuity that we cover in chapter 3.
+
+   Suppose that D0 is the dividend paid at time 0. If dividends
+are growing at a constant rate g then D1 will be equal to D0 x (1
++ g), D2 = D1 x (1 + g). Substitute D1 = D0 x (1 + g) into D2, we have
+D2 = D0 x (1 + g)2. Similarly, D3 = D0 x (1 + g)3 and so on.
+
+   Using the growing perpetuity formula:
+
+          Equation 4:
+
+96 | Chapter 6 - Stock market and stock valuation
+                                      or
+
+   This is known as the Gordon Growth Model. The formula in
+equation 4 reveals two important points: first, g has to be less
+than r. The growth rate must be less than the discount rate. If
+g = r then we have a situation where we have to divide D1 by
+0 which is undefined. If g > r then the price will be negative
+which is not possible since price can only be 0 under the worst
+case scenario. It happens when you lose what have invested in,
+price cannot be negative due to limited liability. Second, the
+price of the stock today depends on dividends starting from
+period 1 onwards. The value of a financial asset depends on
+future cashflows not the cashflows in the past.
+
+   Example: Suppose a company, XYZ Corp, just paid a dividend
+of $3.00. Assume that this dividend is expected to grow at a rate
+of 4% per year forever, if investors require a return of 15%, how
+much are you willing to pay for XYZ stock today?
+
+   Answer: The price of the stock today depends on dividend in
+period 1 and onwards so the first thing we need to work out is
+D1. Since the growth rate is constant at 4% per year, D1 = D0 x (1
++ g). D1 = $3 x (1 + 0.04) = 3.12.
+
+   Applying the formula in equation 4, where D1= 3.12, g= 0.04
+and r = 0.15. The price of the stock today is:
+
+                               Chapter 6 - Stock market and stock valuation | 97
+6.3.4 Two-stage variable growth model
+
+The Gordon Growth Model assumes that dividend will be
+growing at a constant rate forever which is unrealistic for 2
+reasons. First, if the growth rate is consistently higher than
+some form of long-term average, for example, the global GDP
+growth rate then it is possible that one day the company will be
+larger than the world which is not possible. Second, companies
+have different growth rates during its life cycle. When the
+company is young, it will be growing at a very rapid rate. As
+the company matures, the growth rate will be levelling off to
+a steady state due to either increasing competition or running
+out of innovations. To make the Gordon model more realistic,
+we incorporate different stages of growth into the formula.
+
+   The following example illustrates a scenario when the
+company is growing very fast for the first 3 year. From year 4
+onwards, the company grows at a smaller but stable rate until
+infinity.
+
+   If price is the present value of future cashflows then
+
+   If D1 is growing at a constant growth rate of g then price at
+time 0 can be calculated based on dividend in time 1
+
+   In this scenario, the constant growth rate only take effects
+from year 4 onwards so price at time 3 can be calculated based
+on dividend in time 4
+
+98 | Chapter 6 - Stock market and stock valuation
+   Combining these two effects, the value of the stock at time 0
+is therefore given by:
+
+   The price at time 0 is the present value of a mixed stream
+of cash flows for the first 3 years and growing perpetuity from
+year 4 onwards. The last cashflow represents P3 i.e. value of the
+stock at time 3. We need to discount it by further 3 periods to
+arrive at the present value.
+
+   Example: Suppose a firm is expected to increase dividends
+by 20% in one year and by 15% in the second year. That is,
+the first stage of rapid growth lasts for two years. After that
+dividends will increase at a rate of 5% per year indefinitely. If the
+last dividend was $1 and the required return is 20%, what is the
+current price P0? What is the stock price at the end of year 2?
+
+   Answer: As with any valuation exercise, the first task involves
+estimating future cashflows. The timeline of the cashflows is
+listed as follows:
+
+   Since the constant growth rate will start taking effect from
+dividend in year 3, this allows us to work out the value of the
+stock at time 2.
+
+   We know the discount rate r which is 20%, and the constant
+
+                               Chapter 6 - Stock market and stock valuation | 99
+growth rate of 5%. However, we do not know dividend in time
+3.
+
+   The question states that dividend will increase in the first
+year at 20% so D1 = D0 x (1 + 0.2).
+
+   For the second year, dividend will increase further by 15% so
+D2 = D1 x (1 + 0.15).
+
+   After that, dividend will increase at a rate of 5% forever so D3
+= D2 x (1 + 0.05).
+
+   D3 = D0 (1 + 0.2) x (1 + 0.15) x (1 + 0.05) = 1 x 1.2 x 1.15 x 1.05 = $1.449.
+   Once we have dividend in time 3 and since this dividend will
+be growing at a constant rate forever, the value of the stock at
+time 2 is:
+
+   The cashflows for the stock can be simplified as:
+
+   The current price of the stock can be computed using D1, D2
+and P2 as follows:
+
+             D0 = 1
+             D1 = D0 * (1 + 0.2) = 1(1.2)=1.2
+             D2 = D1*(1 + 0.15) = 1*(1.2)*(1.15)=1.38
+             D3 = D2*(1 + 0.05) = 1*(1.2)*(1.15)*(1.05)=1.449
+
+100 | Chapter 6 - Stock market and stock valuation
+6.4 Other approaches to share valuation
+
+The dividend discount model is one of the most popular
+models used in share valuation. However, this model has a
+number of limitations. First, the model is not applicable for
+companies that do not pay dividends. Second, the model relies
+heavily on projecting future dividends, growth rates for varying
+phases, and a discount rate. Inaccurate predictions of these
+variables can lead to a significantly erroneous stock valuation.
+Essentially, the reliability of the valuation is contingent upon
+the precision of the input data. Therefore, due to these
+limitations, an alternative method of stock valuation that
+employs market comparables is often used. This approach
+assesses a company's value by comparing it with similar
+companies in the market.
+
+   Among the most commonly used metrics are the P/E (Price-
+to-Earnings) ratio and the P/S (Price-to-Sales) ratio. The
+underlying principle of this method is the assumption that
+comparable firms should exhibit similar P/E ratios. Therefore,
+if we possess the earnings information for the company of
+interest, we can estimate its market value by multiplying its
+earnings by the P/E ratio of its peers.
+
+6.5 Overview of the Australian share
+market (ASX)
+
+The Australian Securities Exchange (ASX) is a principal financial
+marketplace in Australia where securities including shares,
+bonds, derivatives, and other financial instruments are actively
+traded. As of 2024, there are 2200 companies listed on the ASX
+with a total market capitalisation of 2.6 trillion dollars with an
+average daily turnover around 6 billion dollars.
+
+                              Chapter 6 - Stock market and stock valuation | 101
+6.5.1 Primary and secondary market
+
+The primary market refers to the sector of the capital market
+where new securities are created and offered directly to
+investors by the issuing entities. This is the market where
+businesses, governments, or public sector institutions can raise
+capital by selling financial assets such as stocks, bonds, or other
+instruments to investors for the first time. The funds raised
+through these sales are typically used for expansion,
+development projects, or other operational purposes. This
+infusion of capital from investors to issuers is a fundamental
+aspect of economic growth and corporate expansion.
+Investment banks play a crucial role in this process by
+underwriting these new financial assets and facilitating the
+Initial Public Offerings (IPOs) or the issuance of new debt. The
+process is characterized by several stages, including regulatory
+approval, due diligence, and pricing, before the financial assets
+are finally made available to the public.
+
+   The secondary market on the other hand is where already-
+issued securities are bought and sold by and to investors.
+Unlike the primary market where securities are first issued by
+companies in exchange for capital, the secondary market
+involves the trading of existing ownership stakes in various
+financial assets such as stocks, bonds, and other investment
+instruments. Instead, the secondary market provides a
+platform for investors to sell to and buy from one another,
+offering a means to realize the value of their investments. In
+this market, transactions are facilitated by brokerage firms and
+do not involve the issuing companies; hence, no new capital
+is raised for the corporations whose stocks are being traded. A
+key feature of the secondary market is that it offers liquidity,
+allowing for financial assets to be quickly converted to cash.
+This process is crucial for the functionality of the primary
+market, as investors are more likely to purchase new securities
+if they know they can later sell them on the secondary market.
+
+102 | Chapter 6 - Stock market and stock valuation
+Moreover, it enables investors to diversify their portfolios and
+manage risk more effectively by allowing them to adjust their
+holdings in response to changes in market conditions or their
+investment strategies.
+
+6.5.2 Investment banking
+
+Investment banks serve a pivotal role in the financial markets
+by aiding companies in securing long-term financing. They
+assist corporations through the complex process of issuing
+bonds, which is a method of raising debt, as well as conducting
+Initial Public Offerings (IPOs), the process through which a
+company's shares are offered to the public in the equity
+markets for the first time. In addition to helping the companies
+with capital raising, investment banks also play a significant
+role in facilitating mergers and acquisitions. They provide
+strategic advisory services for both buyers and sellers, helping
+to negotiate deals, structure transactions, and arrange the
+financing needed to execute mergers or acquisitions.
+
+   Investment banks are very different from commercial banks.
+Commercial banks cater to the day-to-day banking needs of
+individuals and businesses, offering services such as savings
+accounts, mortgages, and personal loans. These banks play a
+vital role in the economic cycle by accepting deposits, which
+they then lend out, facilitating personal and business financial
+growth.
+
+                             Chapter 6 - Stock market and stock valuation | 103
+      Summary and key takeaways
+
+        This chapter explores the distinctive characteristics of
+     equities and provides and overview of the Australian
+     share market. We've acquired techniques for valuing
+     stocks by employing methods like the Dividend
+     Discount Model and analyzing market comparables.
+     Shares are high-risk investments, yet they carry the
+     potential for substantial returns. To determine the
+     investment's merit, it's essential to assess if the
+     expected returns from the stock adequately
+     compensate for the risks. Upcoming chapters will
+     broaden our understanding of this dynamic by
+     examining the concepts of risk and return, providing a
+     deeper insight into financial decision-making
+     processes in the context of investing.
+
+References:
+
+Graham, J., Smart, S. B., Adam, C., Gunasingham, B.
+Introduction to Corporate Finance (2nd Asia - Pacific Edition)
+2017.
+
+   Brealey, R., Myers S. C., Allen F., Edmans, A. Principles of
+Corporate Finance (14th Edition) 2022.
+
+   Peirson, G., Brown, R., Easton, S., Howard, P., Pinder, S.
+Business Finance (12th Edition) 2015.
+
+104 | Chapter 6 - Stock market and stock valuation
+Chapter 6 - Stock market and stock valuation | 105
+Chapter 7 - Risk and
+Return:
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Define and measure realised and expected
+             return on an investment
+
+          · Define and calculate measures of risk
+          · Measure and interpret the expected return and
+
+             risk of an individual investment
+          · Explain the relationship between risk and
+
+             return
+
+7.1. Investment and the rate of return
+
+An investment is the allocation of current money and resources
+with the hope of achieving greater returns in the future. For
+instance, buying a share in a company is done with the
+expectation that the return generated from owning the share
+will justify the time, the money locked up in the investment
+
+106 | Chapter 7 - Risk and Return:
+and the risk of the investment. An investment decision should
+only be executed after considering the risk and return from the
+investment. Let's first define what constitutes the return of an
+investment.
+
+   The return on an investment measures the performance of
+the investment over a certain period. It captures the gain and
+loss that the investor experienced on the investment. There are
+two component that makes up the total return: the income
+component i.e. dividends from the stock, coupon (interest)
+payment from the bond or rental income from properties. The
+second component is the capital gain (loss) from the
+investment. It is the increase or decrease in the value of the
+investment asset itself, which reflects the changes in the price
+of the asset during the holding period.
+
+   Realised return, as the name suggests, is the return from
+an asset that has been realised. It measures the performance
+of the asset during a given period, which is the change in
+cashflows, divided by the initial investment. The realised return
+takes into account both the capital gain and income
+components.
+
+          Equation 1:
+
+where:
+
+· Rt    Return over the period
+
+· Asset Pricet Price at the end of the period
+
+· Asset Pricet-1 Price at the end of the previous period
+
+· CFt   Dividend received over the period
+
+        Chapter 7 - Risk and Return: | 107
+   Unlike realised return, expected return is the rate of return
+expected to be earned from the investment over a period.
+Expected return is about the future, while realised return is
+about the past. Often, the expected return is also referred to
+as the required rate of return, signifying the minimum rate of
+return investors require to justify the risk of their investment
+and to make the investment attractive to them.
+
+7.2 Risk
+
+7.2.1 Definition of risk
+
+Webster's dictionary defines risk in the context of investments
+as the potential for an asset, such as stock or commodity, to
+decrease in value. Risk, in a broader sense, refers to the
+likelihood that an investment's actual return will fall short of
+its anticipated return. In the financial markets, since investors
+dislike risks while prefer assets with high expected returns,
+investors typically require higher expected returns as
+compensation for assuming greater levels of risk. The principle
+is that the more substantial the risk one takes, the greater the
+return they will demand to justify the possibility of incurring a
+loss. This dynamic is fundamental to investment strategy and
+affects how portfolios are constructed, as investors seek to align
+their risk tolerance with their financial goals.
+
+7.2.2 Measuring expected return and risk
+
+To determine the anticipated return and risk associated with
+an asset, we employ two methodologies:
+
+108 | Chapter 7 - Risk and Return:
+   Historical data average: This approach involves calculating
+the average return of the asset over a past period. By analysing
+historical performance data, investors can get a sense of the
+asset's average rate of return, which is then used as a basis to
+estimate future returns. The expected return estimated using
+the historical average is calculated as:
+
+          Equation 2:
+
+This process simply involves adding up each return
+observations and divide by the number of periods. It is just a
+simple arithmetic average:
+
+          Equation 3:
+
+Probability distribution method: This technique is applicable
+when the potential outcomes and their respective probabilities
+are known. By assigning probabilities to different possible
+returns, one can calculate the expected return as a weighted
+average, where each potential return is weighted by its
+likelihood. This method is more nuanced and can
+accommodate complex scenarios where returns are
+
+                                                       Chapter 7 - Risk and Return: | 109
+contingent on certain events or conditions. It allows for a more
+tailored analysis based on specific forecasts or models of future
+events.
+
+7.2.3. How do we measure risk?
+
+Harry Markowitz in his seminal 1952 "Portfolio Selection" paper
+measure risk as the standard deviation of an investment's
+returns. Standard deviation, a statistical measure, gauges the
+range of possible outcomes, indicating the volatility of returns.
+
+   To find standard deviation, we first need to compute variance
+and standard deviation can be found by taking the square root
+of the variance:
+
+          Equation 4:
+
+Intuitively, variance measures the "average" squared distance
+from expected value i.e. what you expect to get compared to
+what you might get. Since it is a squared measure, standard
+deviation or risk is obtained by taking the square root of the
+variance. Essentially, the wider the deviation from expected
+value -- or the greater the standard deviation -- the higher the
+risk associated with the investment.
+
+   Most investors dislike risks or have an aversion to risk; this
+phenomenon is termed `risk aversion.' Thus, investors typically
+demand higher expected returns from investments that are
+
+110 | Chapter 7 - Risk and Return:
+perceived to be riskier. However, how large these
+compensations for risk should be?
+
+   It depends on individual risk preferences, which vary
+significantly among investors as some are more risk averse
+than others. In addition, the degree of risk aversion for a given
+investor can change overtime and can be affected by various
+factors such as personal financial situations, life stages, past
+investment experiences, and even broader economic
+conditions. Understanding this subjective element of
+investment risk is crucial for both individual investors crafting
+a personal investment strategy and for financial economists
+designing models that attempt to predict market behaviour.
+
+7.2.4. Risk premium
+
+An investment with zero risk is called a risk-free asset. An
+investment which has a risk element is called a risky asset, the
+higher the risk the higher the expected return. Risk premiums
+represent the additional returns that riskier investments
+provide over safer alternatives, such as government bonds. This
+premium serves as a form of compensation for investors who
+tolerate the increased uncertainty inherent in riskier assets
+compared to more secure ones.
+
+   Consider the rationale behind an investor's decision to
+engage in the stock market rather than depositing funds into
+a bank account. The choice often stems from the expectation
+that, although the stock market involves more risk, it also
+typically offers a higher return as a reward for bearing that risk.
+On average, historical data shows that stocks have yielded a
+risk premium of approximately 4-6% over Treasury bonds. This
+premium incentivizes investors to allocate capital to the stock
+market, accepting the additional risk in anticipation of greater
+financial rewards.
+
+                                                         Chapter 7 - Risk and Return: | 111
+7.3 Portfolio theory
+
+Modern Portfolio Theory (MPT), introduced by Harry Markowitz
+in 1952, is a revolutionary approach to investment strategy that
+extends beyond the merit of individual asset selection to the
+dynamics of portfolio composition. It's not solely about
+identifying a good investment but about creating the optimal
+mix of assets to balance the overall portfolio risk and return.
+
+   At the heart of MPT is the concept of diversification. The
+theory asserts that a portfolio composed of various
+investments will, on the whole, bear less risk than the sum of
+the risks of its individual components. This reduction in risk is
+achieved because the price movements of different assets are
+not perfectly correlated.
+
+   The key question is how do we come up with a "diverse
+investment"? This brings us to the concept of portfolio.
+
+7.3.1 What is a portfolio?
+
+A portfolio is a collection of assets. A portfolio is formed to
+reduce risk. Suppose you have $10,000 to invest and you decide
+to put $3,000 in stock A and $7,000 in stock B. Stock A earns
+an expected return of 7% p.a. while stock B earns an expected
+return of 10% p.a. What is the expected return of the portfolio?
+
+   Answer: The weight of stock A in the portfolio is 7,000/10,000
+= 0.7. A makes up 70 percent of the portfolio and B therefore
+makes up 30 percent of the portfolio. The weight of all
+securities that make up the portfolio has to be 1. The expected
+return of the portfolio is the weighted average of the expected
+returns of the assets that make up the portfolio. In this case, it
+is 0.7 x 0.07 +0.3 x 0.1 = 0.052.
+
+112 | Chapter 7 - Risk and Return:
+7.3.2. How does diversification reduce risk?
+
+The volatility of the portfolio can be reduced if the assets in the
+portfolio do not perfectly move in the same direction. Suppose
+you have two assets X and Y and if X goes up 10%, Y goes down
+by 10% then by investing in both X and Y, you can achieve a
+portfolio with zero risk. On the other hand, if X goes up by 10%,
+Y also goes up by 10%, then putting both X and Y in the same
+portfolios will not eliminate any risk. How much risk you can
+reduce depends on the co-movement in returns between the
+assets in the portfolio. The correlation coefficient is a statistical
+measure that dictates the relationship between two variables.
+A correlation coefficient only fluctuates between -1 and 1. The
+lower the correlation coefficient, the greater the diversification
+benefits. If the correlation is 1, there is no diversification benefit.
+
+   Since every company is different, their correlation is not 1
+and therefore the more companies you put into a portfolio, the
+greater the diversification benefits or risk reduction. However,
+there is a limit to diversification. As the number of companies
+in the portfolio increases, there is some risk that still remains.
+This risk is known as systematic risk.
+
+   Assets tend to move positively with each other since they
+are affected by macroeconomic factors that have pervasive
+impacts on the whole economy. Through diversification, the
+risk that we can reduce is unsystematic risk, risks that are
+specific to individual companies. On the other hand, market
+wide factors that affect all risky assets cannot be diversified
+away. Risk can be decomposed into two components:
+
+           Total risk = Systematic Risk + Firm Specific Risk.
+   Systematic risk, also known as market risk, is the type of
+risk that affects the entire market or economy. Examples of
+systematic risks are interest rate changes, inflation, recessions
+and wars etc.. Systematic risks cannot be diversified.
+   Firm specific risk, also known as unsystematic risk, is the
+type of risk that only affects a specific company or industry.
+
+                                                        Chapter 7 - Risk and Return: | 113
+Examples of unsystematic can include poor management
+decisions, production capabilities or changes in consumers
+demand for its products and services.
+
+   Since unsystematic risks can be eliminated, the relevant
+measure of risk should only be systematic risk. If investors wish
+to hold an undiversified portfolio and hence be exposed to
+unsystematic risk then that is purely the decision of the
+investors which the market will not compensate for.
+
+7.3.3 How is systematic risk quantified?
+
+In finance, we measure systematic risk using beta. Beta
+captures the proportionate movement in the stock returns
+relative to the returns on the market as a whole. For example,
+consider a stock with a beta of 1.5. This suggests that if the
+market return increases by 2% during a specific timeframe,
+the stock's return is expected to increase by 3% (1.5 times the
+market movement) in that same timeframe. On the other
+hand, a stock with a beta of 0.5 implies that if the market return
+rises by 2%, the stock's return would likely increase by just 1% in
+that period, showing less sensitivity to market movements.
+
+   Stocks with a beta greater than 1 are considered more volatile
+than the entire market, while those with a beta equal to 1 have
+volatility that mirrors the market average. Stocks with a beta
+less than 1 are less volatile in comparison. The market itself has
+a beta fixed at 1.0. Typically, a stock's beta is found between
+0 and 2, although negative betas can occur. Over time, it is
+observed that betas generally gravitate toward the mean value
+of 1.0.
+
+114 | Chapter 7 - Risk and Return:
+7.4. The Capital Asset Pricing Model
+
+The Capital Asset Pricing Model (CAPM) developed by William
+Sharpe (1964) provides a description on the relationship
+between expected return and risk of the asset. According to the
+CAPM, the only relevant measure of risk is not the variance or
+the total risk but only the systematic risk component, which is
+the covariance with the market portfolio, known as beta. The
+higher the beta, the higher the expected return.
+
+   Expected return = Risk free rate + risk premium
+
+          Equation 5:
+
+The CAPM provides a useful concept for evaluating investment
+risks and returns. It suggests that the expected return on a
+security is equal to the risk-free rate plus a risk premium. The
+risk premium is determined by the beta of the security,
+reflecting how much risk the investment adds to a diversified
+portfolio.
+
+   Since beta is computed based the covariance with the
+market portfolio, we need to define what is the market
+portfolio. The market portfolio is a portfolio that includes all
+securities in the market. Since constructing such portfolio is
+typical costly and hence not feasible, we can get a pretty good
+proxy for the market portfolio. In Australia, we use the All
+Ordinaries Index or S&P/ASX 200 Index to proxy for the market
+portfolio. In the U.S, the S&P500 index or Russell 2000 are often
+used as the market portfolio.
+
+   Once you know the betas of the individual assets that make
+
+                                                        Chapter 7 - Risk and Return: | 115
+up the portfolio, you can calculate the beta of the portfolio as
+follows:
+
+          Equation 6:
+
+Example: Support you have 3 stocks in your portfolio A, B and
+C. You invest $10,000 in stock A, $15,000 in stock B and $25,000
+in stock C. The beta of stock A is 0.8, the beta of stock B is 1.2
+while beta of stock C is 1.5. What is the beta of the portfolio?
+
+   Answer:
+   Total Portfolio Value=$10,000+$15,000+$25,000=$50,000.
+   The weight of stock A is 10,000/50,000 = 0.2.
+   The weight of stock B is 15,000/50,000 = 0.3
+   The weight of stock C is 25,000/50,000 = 0.5.
+   Beta of the portfolio is (0.8×0.2)+(1.2×0.3)+(1.5×0.5) = 1.27.
+
+      Summary and Key Takeaways
+
+        In this topic, we define risk and expected return of an
+     individual asset. Next, we learn to form portfolio in
+     order to reduce risk. In equilibrium, investors will prefer
+     a well-diversified portfolio since it will give investors the
+     lowest risk for a given level of expected return or the
+
+116 | Chapter 7 - Risk and Return:
+     highest expected return for a given level of risk. When
+     investors hold a well diversified portfolio, what matters
+     is the systematic risk component. A security's expected
+     return only depends on the systematic risk and market
+     risk premium.
+
+References:
+
+Investments by Zvi Bodie, Alex Kane and Alan Marcus 12
+edition.
+
+                                                        Chapter 7 - Risk and Return: | 117
+Chapter 8 - Foreign
+Exchange
+
+      Chapter Learning Objectives
+
+        After completing this chapter, students should be
+     able to
+
+          · Describe the main features of the foreign
+             exchange (FX) market with a particular emphasis
+             on Australia
+
+          · Explain the purposes of FX markets
+          · Interpret exchange rates (direct/indirect quotes,
+
+             cross rates, and bid-offer quotes)
+          · Explain the operation of spot and forward FX
+
+             contracts
+
+8.1 An overview of the foreign exchange
+market
+
+The foreign exchange market is a global venue for the trading
+of currencies, allowing participants to convert one type of
+currency into another. The primary purposes of the foreign
+
+118 | Chapter 8 - Foreign Exchange
+exchange (FX) markets include enabling the settlement of
+cross-border transactions that stem from international trade
+activities, investment and financing operations, establishing
+the relative prices of different currencies, and providing a
+platform for market participants to hedge against potential
+losses due to currency value fluctuations.
+
+   These markets play a critical role in supporting international
+business by ensuring that entities can engage in financial
+transactions in the appropriate currency for their needs.
+Moreover, the FX markets contribute to the determination of
+exchange rates, which are vital economic indicators
+influencing global economic health. Investors and businesses
+utilize these markets to manage their exposure to foreign
+exchange risk, ensuring that currency volatility does not
+adversely impact their financial strategies and operations.
+
+8.1.1 What is an exchange rate?
+
+An exchange rate is the price at which one currency can be
+exchanged for another. It's an expression of the value of one
+currency in terms of another. For instance, if the exchange rate
+between the US dollar (USD) and the euro (EUR) is 1.2, it means
+that one USD can be exchanged for 1.2 euros. Exchange rates
+can be influenced by a variety of factors, including economic
+indicators, market speculation, political stability, and interest
+rates. The US dollar plays a pivotal role in the world of exchange
+rates due to several factors:
+
+   Reserve Currency: The USD is widely held by governments
+and institutions as part of their foreign exchange reserves. This
+widespread use as a reserve currency underpins its
+significance in global trade and finance.
+
+   Benchmark Currency: Many commodities and goods traded
+on the global market are priced in USD, including oil, gold,
+and many other raw materials. This means that the dollar is
+
+                                                     Chapter 8 - Foreign Exchange | 119
+a benchmark currency against which the value of other
+currencies is often measured.
+
+   Global Trade: The USD is the primary medium of exchange
+in international trade. For countries that do not have widely
+traded currencies, the USD serves as the intermediary,
+enabling easier trade between countries with different
+currencies.
+
+   Financial Markets: The United States hosts some of the
+world's largest and most liquid financial markets. This makes
+the USD a dominant currency for international borrowing and
+investing.
+
+   In addition to the USD, The Trade Weighted Index (TWI) is
+a complex measure that evaluates the Australian Dollar (AUD)
+against a portfolio of various international currencies. These
+currencies are selected based on their significance in
+international trade with Australia. The TWI assigns different
+weights to each currency, reflecting the proportion of trade
+that Australia conducts with each respective currency's
+country of origin.
+
+8.1.2 Pegged versus floating exchange rates
+
+In the aftermath of World War II, the Bretton Woods
+Agreement and System were established, shaping a new
+international monetary framework that spanned from the
+mid-1940s until the early 1970s. This system brought together
+44 Allied nations in an unprecedented cooperative effort to
+manage currency exchange and foster financial stability across
+nations. At the heart of the Bretton Woods System was the
+requirement for other countries to peg their currencies to the
+value of the U.S. dollar. The U.S. dollar, in turn, was linked to
+gold at a fixed rate of 35 dollars per ounce. This gold standard
+for the dollar provided a sense of security and stability, as it
+
+120 | Chapter 8 - Foreign Exchange
+guaranteed that the dollar's value was backed by a tangible
+asset.
+
+   However, by 1971, it became evident that the United States
+did not possess sufficient gold reserves to support the
+burgeoning supply of dollars worldwide. This discrepancy led
+to a `run on the gold reserve' as countries began to doubt
+the sustainability of the fixed exchange rate and sought to
+exchange their dollar holdings for gold. Developed countries
+started to shift from the Bretton Woods System and move
+towards a floating exchange rate system, where the value of
+a currency is allowed to fluctuate according to the foreign
+exchange market. In this new era, exchange rates were no
+longer fixed to a specific gold quantity or pegged to the dollar.
+Instead, they were determined by supply and demand
+dynamics, influenced by factors such as interest rates,
+economic performance, and geopolitical events.
+
+   This transition marked the beginning of modern foreign
+exchange markets which is a complex global system where
+currency values are subject to rapid changes and are
+influenced by a multitude of economic conditions and policies.
+The shift to floating rates also reflected a broader trend towards
+liberalized trade and capital flows, setting the stage for the
+integrated global economy that continues to evolve in the
+present day.
+
+   In today's global economy, most currencies are subject to
+floating exchange rates, where their values are determined by
+the forces of market supply and demand. This market-driven
+approach can lead to greater short-term fluctuations in
+currency values, as they respond to real-time economic events
+and sentiment. However, this system also tends to prevent the
+build-up of imbalances that require large, disruptive
+adjustments.
+
+   For instance, Australia made a significant shift in its
+monetary policy by allowing the Australian Dollar (AUD) to float
+on the 12th of December 1983. This transition from a fixed
+
+                                                     Chapter 8 - Foreign Exchange | 121
+exchange rate meant that the AUD's value was no longer tied
+to any specific foreign currency or set of currencies, and
+instead, its value could change from moment to moment
+based on trading in the foreign exchange market. This move
+was aimed at giving the Australian economy greater flexibility
+to absorb external shocks and to align more closely with the
+constantly changing conditions of the global economy.
+
+   In contrast, some developing countries employ a managed
+floating rate system. This hybrid approach allows a currency
+to float in the foreign exchange markets, but the central bank
+might intervene to stabilize or adjust the currency's value in
+relation to other currencies. The Chinese Yuan (CNY), for
+instance, has been managed in such a way that it is loosely
+pegged to a basket of currencies, allowing the People's Bank of
+China to guide its valuation while still letting market dynamics
+play a role.
+
+8.1.3 The role of exchange rates in the
+economy
+
+Exchange rates hold critical significance within an economy, as
+they are the determining prices at which a country values its
+international transactions. They directly affect the local cost of
+goods and services that are traded in foreign currencies, as well
+as the domestic valuation of foreign assets and liabilities held
+by investors within the country.
+
+  · Exporters: Companies based in Australia that
+      manufacture goods or provide services domestically and
+      then sell these to international customers are subject to
+      exchange rate risk. A rise in the value of the Australian
+      Dollar (AUD) against other currencies can make their
+      products more expensive and less competitive in global
+      markets. Exporters will favour a low exchange rate.
+
+122 | Chapter 8 - Foreign Exchange
+  · Importers: Businesses that import goods and services to
+      sell within Australia will benefit if AUD appreciates as the
+      same AUD now buys more of the foreign goods. A weaker
+      AUD on the other hand increases the cost of purchasing
+      these foreign goods, affecting profitability.
+
+  · Investors: Australians investing in international markets,
+      whether in stocks, bonds, or real estate, must consider the
+      impact of exchange rate movements on their investments.
+      If the AUD depreciates against the currency of the
+      investment, the value of the investment in AUD terms
+      increases, and vice versa.
+
+  · Borrowers: Entities or individuals that take out loans
+      denominated in foreign currencies face risks if the AUD
+      weakens against the currency they must repay their debt
+      in. This could increase the cost of servicing the debt when
+      converted back into AUD.
+
+The influence of exchange rates extends beyond these groups
+to almost every sector that engages with the global economy,
+from tourism operators to multinational corporations. It affects
+decisions ranging from pricing strategies and budget
+forecasting to international expansions and hedging policies.
+
+8.2. Quotes of foreign exchange
+
+A direct quote in the context of foreign exchange (forex) is the
+price of one unit of a foreign currency expressed in terms of the
+local or domestic currency.
+
+   In Australia, the value of the Australian dollar is measured as
+the value of 1 AUD relative to the US Dollar, often abbreviated as
+AUD/USD. For example, if AUD/USD equals to 0.68, this means
+that 1 AUD can be exchanged for 0.66 USD or 66 US cents. An
+increase in this measure reflects an appreciation of the AUD,
+
+                                                     Chapter 8 - Foreign Exchange | 123
+while a decrease in AUD/USD reflects the AUD has depreciated
+against the USD.
+
+8.2.1. Cross rates
+
+Cross rates are exchange rates between two currencies
+calculated from their common relationships with a third
+currency, often known as the intermediary currency.
+
+   Example: Imagine you are an investor or a traveller looking to
+exchange EUR for AUD, and there's no direct EUR/AUD quote
+available. You can calculate the cross rate EUR/AUD using USD
+as the intermediary currency. EUR/USD = 1.15 (1EUR = 1.15 USD).
+AUD/USD = 0.77 (1 AUD= 0.77 USD).
+
+   EUR/AUD = EUR/USD * USD/AUD. You do not have USD/AUD,
+what you have is AUD/USD which is 0.77. Therefore, USD/AUD =
+1/0.77 = 1.3. EUR/AUD = 1.15 * 1.3 = 1.495. So, 1EUR = 1.495 AUD.
+
+8.2.2 Explaining exchange rate movement
+
+Exchange rates movements are very difficult to predict. There
+are a number of factors that influence the fluctuations of
+exchange rates and these factors do not happen in isolation,
+they often interact with each other which makes exchange rate
+movements very difficult to predict.
+
+ 1. Purchasing Power Parity: PPP is based on the law of one
+      price which states that in the absence of transaction costs
+      and other barriers to trade, the price of identical goods
+      and services should equalize across different countries
+      when prices are expressed in a common currency. This is
+      because any significant price differences would be
+      eliminated through arbitrage--the practice of buying
+
+124 | Chapter 8 - Foreign Exchange
+     goods in a cheaper market to sell them in a more
+     expensive one. In practice, PPP does not hold because of
+     transaction costs, tariffs and other trade barries exist and
+     can prevent the prices of the same goods to be equal. In
+     addition, PPP only applies to tradable goods and not to
+     services such as haircuts.
+2. Expected interest rate parity (EIRP): Interest rate parity
+     suggests the difference in interest rates between two
+     countries will be equal to the differential between the
+     forward exchange rate and the spot exchange rate of their
+     currencies. Carry trade is a strategy used by investors
+     where they borrow money in a currency with a low-
+     interest rate and invest it in a currency with a higher
+     interest rate. The goal is to profit from the interest rate
+     differential as long as the exchange rate between the two
+     currencies does not offset the profit from the interest
+     rates. Even though carry trades are based on exploiting
+     the interest rate differentials, they are not reliable
+     predictors of currency movements because currency
+     values are influenced by many factors other than interest
+     rates, including economic data, political events, and
+     market sentiment. Central banks can change interest
+     rates unexpectedly, affecting currency values and carry
+     trade positions or high-interest rate currencies often come
+     with higher risk, which can lead to sudden and sharp
+     "unwinding" of carry trades if the market sentiment
+     changes.
+3. Expected interest rates: When a country is expected to
+     raise its interest rates, it often leads to an inflow of foreign
+     capital. Investors and international capital tend to seek the
+     highest return, so if they expect a country's interest rates
+     to rise, they might start moving funds into that country's
+     assets in anticipation of higher returns. This increased
+     demand for the country's currency (needed to purchase
+     the local assets) tends to drive up its value.
+
+                                                    Chapter 8 - Foreign Exchange | 125
+4. Terms of trade (ratio of export prices to import prices):
+      The terms of trade measure the rate at which a country's
+      exports can be exchanged for imports. An improvement in
+      the terms of trade (where export prices rise relative to
+      import prices) typically generates more revenue from
+      exports relative to the cost of imports. As international
+      buyers purchase a country's exports, they need to acquire
+      the country's currency to make payments, leading to
+      increased demand for that currency on the foreign
+      exchange market. As demand for the currency increases,
+      its value will generally appreciate. If the terms of trade
+      deteriorate (export prices fall or import prices rise),
+      demand for the currency weakens, leading to
+      depreciation. For a country like Australia, which is a major
+      exporter of commodities such as iron ore, coal, and natural
+      gas, the terms of trade are significantly influenced by
+      global commodity prices. When commodity prices are
+      high, Australia's terms of trade improve, strengthening the
+      AUD.
+
+ 5. Current account balance: The current account includes
+      the trade balance (exports and imports of goods and
+      services), net income from abroad (like dividends and
+      interest), and net current transfers (such as foreign aid,
+      remittances). When a country's exports exceed its imports,
+      it has a trade surplus, and there is a higher demand for its
+      currency. This is because foreign buyers need to exchange
+      their currency for the exporting country's currency to pay
+      for the goods or services. This increased demand can
+      cause the currency to appreciate. Conversely, if a country's
+      imports are greater than its exports, it has a trade deficit.
+      This condition means that more of its currency is being
+      used to purchase foreign goods and services than is being
+      brought in by exports. This increased supply of the
+      currency on the global market can lead to depreciation.
+
+6. RBA intervention: Central banks may intervene in foreign
+
+126 | Chapter 8 - Foreign Exchange
+    exchange markets to influence the value of their currency.
+    This is typically done to counteract excessive volatility or
+    misalignments that are not consistent with the country's
+    economic fundamentals. If a central bank believes its
+    currency is undervalued and has depreciated too much
+    due to market overshooting or speculation, it may
+    intervene by buying its own currency. This demand can
+    prop up the currency's value. Conversely, if the currency is
+    deemed to be overvalued, the central bank may sell its
+    own currency to push down its value, making exports
+    more competitive. Interventions are generally large in
+    scale to ensure they have the necessary impact on the
+    market. However, they tend to be infrequent to maintain
+    the market credibility of the central bank and avoid the
+    expectation that the central bank will always act to correct
+    movements in the exchange rate.
+7. Speculation: Speculation in the context of foreign
+    exchange (FX) refers to the act of trading currencies with
+    the aim of making a profit from fluctuations in exchange
+    rates. Speculators do not necessarily intend to take
+    delivery of the currency; instead, they seek to predict and
+    capitalize on market movements.
+
+     Takeaway and Summary
+
+       In this chapter, we have defined some of the
+
+                                                   Chapter 8 - Foreign Exchange | 127
+     terminology and functions regarding the foreign
+     exchange market. We also explore the role that the
+     forex market plays in the economy and grasp the
+     underlying principles that drives changes in exchange
+     rates.
+
+References:
+
+International Financial Management by Jeff Madura, Ariful
+Hoque and Chandrasekhar Krishnamurti. End Asia Pacific
+Edition.
+
+128 | Chapter 8 - Foreign Exchange
+

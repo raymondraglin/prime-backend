@@ -1,0 +1,2591 @@
+           Sexual Orientation and
+               Gender Identity
+
+        Employment Discrimination
+
+                                   by Matthew W. Green, Jr.
+                                 Associate Professor of Law
+           Cleveland-Marshall College of Law / Cleveland State University
+
+CALI eLangdell® Press 2017
+About the Author
+
+Matthew W. Green Jr. is an associate professor of law at the Cleveland-Marshall College of Law.
+Professor Green has taught courses in employment discrimination, employment Law, disability
+law and a seminar on sexual orientation and gender identity discrimination. His scholarship
+focuses on employment discrimination, sexual orientation and the law and workplace retaliation.
+He earned his J.D. from the University of Baltimore School of Law and LL.M. from Columbia
+University, where he was a Harlan Fiske Stone Scholar.
+
+                                                               1
+Notices
+
+This is the first edition of this stand-alone chapter, published November 2017. Visit
+http://elangdell.cali.org/ for the latest version and for revision history.
+This work by Matthew W. Green, Jr., is licensed and published by CALI eLangdell Press under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+4.0). CALI and CALI eLangdell Press reserve under copyright all rights not expressly granted by
+this Creative Commons license. CALI and CALI eLangdell Press do not assert copyright in US
+Government works or other public domain material included herein. Permissions beyond the scope
+of this license may be available through feedback@cali.org.
+In brief, the terms of that license are that you may copy, distribute, and display this work, or make
+derivative works, so long as
+
+     you give CALI eLangdell Press and the author credit;
+     you do not use this work for commercial purposes; and
+     you distribute any works derived from this one under the same licensing terms as this.
+Suggested attribution format for original work:
+Matthew W. Green, Jr., Sexual Orientation and Gender Identity Employment Discrimination, Published by
+CALI eLangdell® Press. Available under a Creative Commons BY-NC-SA 4.0 License.
+
+CALI® and eLangdell® are United States federally registered trademarks owned by the Center
+for Computer-Assisted Legal Instruction. The CALI graphical logo is a trademark and may not be
+used beyond the scope of this license without permission.
+Should you create derivative works based on the text of this book or other Creative Commons
+materials therein, you may not use this book's cover art and the aforementioned logos, or any
+derivative thereof, to imply endorsement or otherwise without written permission from CALI.
+This material does not contain nor is intended to be legal advice. Users seeking legal advice should
+consult with a licensed attorney in their jurisdiction. The editors have endeavored to provide
+complete and accurate information in this book. However, CALI does not warrant that the
+information provided is complete and accurate. CALI disclaims all liability to any person for any
+loss caused by errors or omissions in this collection of information.
+
+                                                               2
+About CALI eLangdell Press
+
+The Center for Computer-Assisted Legal Instruction (CALI®) is: a nonprofit organization with
+over 200 member US law schools, an innovative force pushing legal education toward change for
+the better. There are benefits to CALI membership for your school, firm, or organization.
+ELangdell® is our electronic press with a mission to publish more open books for legal education.
+How do we define "open?"
+
+     Compatibility with devices like smartphones, tablets, and e-readers; as well as print.
+     The right for educators to remix the materials through more lenient copyright policies.
+     The ability for educators and students to adopt the materials for free.
+Find available and upcoming eLangdell titles at elangdell.cali.org. Show support for CALI by
+following us on Facebook and Twitter, and by telling your friends and colleagues where you
+received your free book.
+
+                                                               3
+Table of Contents
+
+About the Author ............................................................................................................................ 1
+Notices ............................................................................................................................................ 2
+About CALI eLangdell Press.......................................................................................................... 3
+I. Introduction ............................................................................................................................. 5
+II. A Federal Statute Protecting LGBT Employees .................................................................. 6
+III. Title VII and Sexual Orientation.......................................................................................... 9
+
+  A. Early Judicial Perspectives .................................................................................................. 9
+        DeSantis v. Pacific Tel. Co., Inc. ......................................................................................... 9
+           Notes and Questions....................................................................................................... 13
+           Problem 1 ....................................................................................................................... 13
+
+  B. The Evolving Meaning of "Discrimination Because of Sex" ............................................ 14
+        1. Gender Nonconformity............................................................................................... 14
+        Price Waterhouse v. Ann B. Hopkins ................................................................................ 15
+           Notes and Questions....................................................................................................... 20
+        2. Same-Sex Harassment ................................................................................................ 21
+
+  C. Stereotyping and Sexual Orientation.............................................................................. 22
+        Brian D. Prowel v. Wise Business Forms, Inc................................................................... 23
+           Notes and Questions....................................................................................................... 30
+           Problem 2 ....................................................................................................................... 32
+           Problem 3 ....................................................................................................................... 33
+
+  D. Sexual Orientation Discrimination Is Sex Discrimination................................................. 33
+        Kimberly Hively v. Ivy Tech Community College of Indiana .......................................... 33
+           Notes and Questions....................................................................................................... 46
+           Problem 4 ....................................................................................................................... 48
+
+IV. Gender Identity and Expression......................................................................................... 48
+  A. Gender Identity and Expression and Sex Stereotyping...................................................... 50
+        Smith v. City of Salem, Ohio............................................................................................. 50
+           Notes and Questions....................................................................................................... 55
+  B. An alternative route to protecting transgender employees ................................................ 58
+           Problem 5 ....................................................................................................................... 59
+  Appendix ................................................................................................................................... 61
+                                                               4
+I. Introduction
+
+         This Chapter will address the current protections that are available to lesbian, gay, bisexual
+and transgender ("LGBT") individuals who allege they have been victims of employment
+discrimination.1 The Chapter's primary focus will be on federal statutory law, particularly Title
+VII of the Civil Rights Act of 1964 ("Title VII"). Although the focus here is on federal law,
+Appendix I to this Chapter lists the states that protect individuals from public and/or private
+discrimination under state laws.
+
+         LGBT employees have argued with mixed results in the courts that discrimination against
+an individual because of sexual orientation, gender identity or gender expression is also
+"discrimination because of sex" prohibited by Title VII. As a result, it is necessary to understand
+what it means under Title VII to discriminate "because of sex," and how that meaning has evolved.
+Cases relevant to the issue are included herein. In that regard, while one goal of this Chapter is to
+serve as a stand-alone resource for anyone interested in this area of the law, the Chapter is intended
+primarily to be used as an additional resource in an Employment Discrimination or related civil-
+rights course. The Chapter or parts of it (including the Problems that are scattered throughout)
+may be used or adapted to supplement other classroom material. It is both assumed and likely that
+as you review materials contained in this Chapter, you already will have covered certain topics
+earlier in your course. These topics might include, for instance, burden of proof schemes
+commonly used to analyze employment discrimination claims, as well as cases discussing
+"discrimination because of sex," including sexual harassment, and discrimination because of
+religion. Although the Chapter includes cases addressing such issues as sex discrimination, some
+of those cases have been liberally edited. You may of course skip over any case with which you
+are already familiar (and about which you need no refresher) and only review the Notes, Questions
+and Problems that may follow.
+
+         This Chapter is divided into four parts. Part I provides a brief overview of congressional
+efforts to enact a statute to protect individuals from employment discrimination on the basis of
+sexual orientation and gender identity. Part II discusses Title VII and sexual orientation. It first
+examines why early courts tended to reject arguments that the statute protects individuals on that
+basis. It then discusses subsequent Supreme Court decisions pertaining to sex discrimination that
+have resulted in some courts rethinking earlier positions on both sexual orientation and gender
+identity. Finally, Part III discusses ways in which recent courts have handled sexual orientation
+discrimination under Title VII. Part IV similarly examines early judicial treatment of claims
+
+1 Although this Chapter uses the acronym "LGBT," advocacy groups and others may also use the acronym LGBTQ.
+The "Q" often stands for "Queer" or "Questioning." See e.g., Human Rights Campaign, Glossary of Terms,
+http://www.hrc.org/resources/glossary-of-terms; Lori Grisham, What Does the Q in LGBT Q Stand for, USA Today,
+https://www.usatoday.com/story/news/nation-now/2015/06/01/lgbtq-questioning-queer-meaning/26925563/.
+
+                                                               5
+brought by individuals alleging discrimination on the basis of their gender identity and/or
+expression and explores how the law has developed in this area as well.
+
+II. A Federal Statute Protecting LGBT Employees
+
+         In 1974, New York Representative Bella Abzug introduced the Equality Act, which, had it
+been enacted, would have amended several antidiscrimination statutes, including Title VII, to
+protect individuals from discrimination on the basis of sexual orientation among other traits. The
+bill never made it out of committee. See Lisa Bornstein & Megan Bench, Married on a Sunday,
+Fired on a Monday: Approaches to Federal LGBT Civil Rights Protections, 22 Wm. & Mary J.
+Women & L. 31, 47-48 (2015). Over the next two decades, numerous bills were proposed to
+amend the civil rights statutes to prohibit discrimination on the basis of sexual orientation, but
+none made it beyond committee either. See id.
+
+         In 1994, the Employment Non-Discrimination Act ("ENDA") was introduced in both
+houses of Congress to protect individuals on the basis of sexual orientation. Rather than to amend
+existing civil rights laws, ENDA was a stand-alone measure that would have protected individuals
+against only employment discrimination. According to Chai Feldblum, who serves as an EEOC
+Commissioner and who drafted the initial version of ENDA, the decision to make the bill a stand-
+alone that focused exclusively on the workplace was largely prompted by the political realities
+facing the LGBT community during that period. Chai R. Feldblum, The Federal Gay Rights Bill:
+From Bella to ENDA, in Creating Change: Sexuality, Public Policy, and Civil Rights 201-02 (John
+D'Emilio et al. eds., 2000). For instance, Feldblum explains that ENDA was born around the time
+that President Bill Clinton and gay rights advocates had lost the battle to end the ban on gays in
+the military. That defeat, which resulted in the now defunct Act known as "Don't Ask, Don't
+Tell," squelched momentum and "weakened the perceived political power" of gay rights
+organizations. Id. Against that backdrop, the decision to focus only on employment was
+considered a more feasible goal than to try for a more comprehensive bill. Moreover, other civil
+rights communities were concerned that opening Title VII to amendments would risk also opening
+it up to "unfriendly changes." See id. Accordingly, a stand-alone measure, similar to the then
+recently enacted Americans with Disabilities Act, was favored in lieu of amending existing laws.
+See id.
+
+         Although ENDA originally only protected individuals from discrimination because of
+sexual orientation, a transgender-inclusive ENDA was introduced in the 110th Congress in 2006.
+Controversy stirred regarding the addition and it was taken out before the House voted on the
+measure. A sexual-orientation only version of ENDA passed in the House in 2007, but not in the
+Senate. Subsequent versions of ENDA again included transgender protections, but the measure
+still failed to pass both Houses of Congress at the same time. After the doomed attempt in 2007,
+ENDA passed the Senate in 2013 but failed to get a vote in the Republican-controlled House. See
+generally, Note, William S. Sung, Taking the Fight Back to Title VII: A Case for Redefining
+"Because of Sex" to Include Gender Stereotypes, Sexual Orientation, and Gender Identity, 84 S.
+
+                                                               6
+Cal. L. Rev. 487, 495-498, 501-506 (2011) (detailing early attempts to enact the Equality Act and
+ENDA).
+
+          In 2015, Congress and LGBT-rights advocates abandoned ENDA, and in its place, the
+Equality Act of 2015 was introduced in both houses of Congress. See
+https://www.congress.gov/bill/114th-congress/house-bill/3185. Similar to the earlier version of
+the Equality Act introduced by Representative Abzug decades prior, the Equality Act of 2015
+would have amended existing Civil Rights laws, but this time to protect individuals, among other
+things, from discrimination on the basis of sexual orientation and gender identity. See id.
+
+         One reason that advocates abandoned ENDA was because of its broad religious exemption,
+which arguably placed all religiously affiliated non-profit organizations beyond the measure's
+reach. See S.815, 113th Cong, § 6 (Exemption For Religious Institution) (2013); H.R. 1755, 113th
+Cong., § (same), https://www.congress.gov/bill/113th-congress/senate-bill/815/text; see also Ed
+O'Keefe, Gay Rights Groups Withdraw Support of ENDA After Hobby Lobby Decision, 9 (The
+Washington Post, July 8, 2014, available at https://www.washingtonpost.com/news/post-
+politics/wp/2014/07/08/gay-rights-group-withdrawing-support-of-enda-after-hobby-lobby-
+decision/?utm_term=.c04a1f34a92e. In other words, most religiously-affiliated organizations
+would have been exempted from ENDA's non-discrimination proscriptions. ENDA differed from
+Title VII in that regard. Title VII only permits religious institutions to discriminate against
+individuals on the basis of religion but not on the basis of other protected traits enumerated in the
+statute. See 42 U.S.C. §§ 2000e-1(a), 2000e-2(h)(2). Accordingly, Title VII's religious
+provisions, for example, would not permit a religious institution to discriminate against individuals
+on the basis of race or national origin. ENDA, however, would have permitted such entities to
+discriminate on the basis of sexual orientation.
+
+         In 2014, the U.S. Supreme Court decided Hobby Lobby, which permitted closely-held for-
+profit corporations to claim exemption under the Religious Freedom Restoration Act ("RFRA")
+from federal laws that burdened the religious rights of the corporations' owners. See Burwell v.
+Hobby Lobby, 134 S.Ct. 2751 (2014). Advocates grew concerned that ENDA's already broad
+religious exemptions coupled with the rights Hobby Lobby extended to for-profit organizations
+promised to swallow whole the anti-discrimination protections ENDA purported to provide. See
+O'Keefe, supra. The concern was not without merit. In a suit brought by the EEOC, a federal
+district court held that although Title VII was violated when an employer fired a male-to-female
+transgender employee who wanted to dress in accord with her gender identity, RFRA operated as
+a complete defense to any violation of the employee's statutory rights. See EEOC v. R.G. & G.R.
+Funeral Homes, Inc., 201 F. Supp.3d 837 (E.D. Mich. 2016). That decision is currently pending
+appeal. See EEOC v. R.G. & G.R. Funeral Homes, Inc., No. 16-2424 (6th Cir., filed Oct. 13,
+2016).
+
+         Unlike ENDA, the Equality Act expressly provided that RFRA "shall not provide a claim
+. . . defense . . . or [other] . . . basis for challenging the application or enforcement of [Title VII]."
+S. 1858, 114th Cong. § 1107.Claims (2015); H.R. 3185, 114th Cong. § 1107.Claims (2015),
+https://www.congress.gov/bill/114th-congress/house-bill/3185/text. The Equality Act was re-
+introduced in the 115th Congress in May 2017. See Dems Re-Introducing LGBT Rights Bill, The
+
+                                                               7
+Advocate (May 1, 2017), http://www.advocate.com/politics/2017/5/01/dems-re-introducing-lgbt-
+rights-bill. That measure will face an uphill battle in the current Congress. See id. Moreover,
+until it or similar legislation is enacted, then at least at the federal level, LGBT employees will
+have to continue to rely on Title VII to fill the gap in statutory protection against employment
+discrimination.
+
+         ...
+
+         Plaintiffs have long argued that Title VII's prohibition against sex discrimination also bars
+discrimination on the basis of sexual orientation and gender identity. You may already be familiar
+with Title VII's legislative history as it pertains to "sex." It bears briefly repeating here. It is not
+clear what Congress had in mind when it included "sex" as a trait protected by Title VII. The
+legislative history is sparse. See Meritor Sav. Bank, FSB v. Vinson, 477 U.S. 57, 63-64 (1986)
+(noting that there is "little legislative history to guide us in interpreting the Act's prohibition against
+discrimination based on "sex"). "Sex" was not originally included among the traits protected by
+Title VII. It was added on the floor of the House by Representative Howard Smith, a Virginia
+congressman, who opposed Title VII, one day before the House voted on the bill. See id. It is
+commonly understood that the amendment to add "sex" was intended as a poison pill. See
+generally Bornstein & Bench, supra at 35-36. During the debate over the sex amendment, neither
+sexual orientation nor gender identity was ever mentioned. See e.g., I. Bennett Capers, Sex(ual
+Orientation) and Title VII, 91 Colum. L. Rev. 1158, 1168 (1991) ("Nothing in the legislative
+history suggests that Congress considered whether the word "sex" encompassed sexuality or
+sexual practices"); see also Holloway v. Arthur Andersen & Co., 566 F.2d 659, 662-63 (9th Cir.
+1977) overruled by Schwenck v. Hartford, 204 F.3d 1197, 1201-02 (9th Cir. 2000) (concluding that
+Title VII's legislative history demonstrates that Congress did not intend to include "transsexuals"
+within the prohibition of discrimination "because of sex").
+
+         Does the failure of members of Congress to utter the words sexual orientation, transgender
+or gender identity necessarily mean that those traits fall outside the scope of Title VII's prohibition
+of "discrimination because of sex?" Early courts universally answered that question in the
+affirmative. More recently, some courts and the EEOC have determined that the statute does
+indeed protect individuals from discrimination on these bases although that position is far from
+being uniform among the courts. It is fair to say that the law in this area is evolving. The following
+materials explore the murky legal landscape.
+
+                                                               8
+III. Title VII and Sexual Orientation
+
+A. Early Judicial Perspectives
+
+DeSantis v. Pacific Tel. Co., Inc.
+608 F.2d 327 (9th 1978).
+
+CHOY, Circuit Judge:
+
+Male and female homosexuals brought three separate federal district court actions claiming that
+their employers or former employers discriminated against them in employment decisions because
+of their homosexuality. They alleged that such discrimination violated Title VII of the Civil Rights
+Act of 1964, 42 U.S.C. § 2000e et seq., and 42 U.S.C. §1985(3). The district courts dismissed the
+complaints as failing to state claims under either statute. Plaintiffs below appealed. Because of the
+similarity of issues involved, this court consolidated the appeals at the request of counsel for
+appellants. We affirm.
+
+I. Statement of the Case
+
+A. Strailey v. Happy Times Nursery School, Inc.
+
+Appellant Strailey, a male, was fired by the Happy Times Nursery School after two years' service
+as a teacher. He alleged that he was fired because he wore a small gold ear-loop to school prior to
+the commencement of the school year. He filed a charge with the Equal Employment Opportunity
+Commission (EEOC) which the EEOC rejected because of an alleged lack of jurisdiction over
+claims of discrimination based on sexual orientation. He then filed suit on behalf of himself and
+all others similarly situated, seeking declaratory, injunctive, and monetary relief. The district court
+dismissed the complaint as failing to state a claim under either Title VII or § 1985(3).
+
+B. DeSantis v. Pacific Telephone & Telegraph Co.
+
+DeSantis, Boyle, and Simard, all males, claimed that Pacific Telephone & Telegraph Co. (PT&T)
+impermissibly discriminated against them because of their homosexuality. DeSantis alleged that
+he was not hired when a PT&T supervisor concluded that he was a homosexual. According to
+appellants' brief, "BOYLE was continually harassed by his co-workers and had to quit to preserve
+his health after only three months because his supervisors did nothing to alleviate this condition."
+Finally, "SIMARD was forced to quit under similar conditions after almost four years of
+employment with PT&T, but he was harassed by his supervisors (as well). . . . In addition, his
+personnel file has been marked as not eligible for rehire, and his applications for employment were
+rejected by PT&T in 1974 and 1976." Appellants DeSantis, Boyle, and Simard also alleged that
+PT&T officials have publicly stated that they would not hire homosexuals.
+
+These plaintiffs also filed charges with the EEOC, also rejected by the EEOC for lack of
+jurisdiction. They then filed suit on behalf of themselves and all others similarly situated seeking
+
+                                                               9
+declaratory, injunctive, and monetary relief under Title VII. . . . They also prayed that the district
+court issue mandamus commanding the EEOC to process charges based on sexual orientation. The
+district court dismissed their complaint. It held that the court lacked jurisdiction to compel the
+EEOC to alter its interpretation of Title VII. It also held that appellants had not stated viable claims
+under . . . Title VII. . . .
+
+C. Lundin v. Pacific Telephone & Telegraph
+
+Lundin and Buckley, both females, were operators with PT&T. They filed suit in federal court
+alleging that PT&T discriminated against them because of their known lesbian relationship and
+eventually fired them. They also alleged that they endured numerous insults by PT&T employees
+because of their relationship. Finally, Lundin alleged that the union that represented her as a PT&T
+operator failed adequately to represent her interests and failed adequately to present her grievance
+regarding her treatment. Appellants sought monetary and injunctive relief. The district court
+dismissed their suit as not stating a claim upon which relief could be granted. . . .
+
+II. Title VII Claim
+
+Appellants argue first that the district courts erred in holding that Title VII does not prohibit
+discrimination on the basis of sexual preference. They claim that in prohibiting certain
+employment discrimination on the basis of "sex," Congress meant to include discrimination on the
+basis of sexual orientation. They add that in a trial they could establish that discrimination against
+homosexuals disproportionately effects [sic] men and that this disproportionate impact and
+correlation between discrimination on the basis of sexual preference and discrimination on the
+basis of "sex" requires that sexual preference be considered a subcategory of the "sex" category
+of Title VII. . . .
+
+A. Congressional Intent in Prohibiting "Sex" Discrimination
+In Holloway v. Arthur Andersen & Co., 566 F.2d 659 (9th Cir. 1977), plaintiff argued that her
+employer had discriminated against her because she was undergoing a sex transformation and that
+this discrimination violated Title VII's prohibition on sex discrimination. This court rejected that
+claim, writing: The cases interpreting Title VII sex discrimination provisions agree that they were
+intended to place women on an equal footing with men. (Citations omitted.)
+
+Giving the statute its plain meaning, this court concludes that Congress had only the traditional
+notions of "sex" in mind. Later legislative activity makes this narrow definition even more evident.
+Several bills have been introduced to amend the Civil Rights Act to prohibit discrimination against
+"sexual preference." None have [sic] been enacted into law.
+
+Congress has not shown any intent other than to restrict the term "sex" to its traditional meaning.
+Therefore, this court will not expand Title VII's application in the absence of Congressional
+mandate. The manifest purpose of Title VII's prohibition against sex discrimination in
+employment is to ensure that men and women are treated equally, absent a bona fide relationship
+between the qualifications for the job and the person's sex. . . .
+
+                                                              10
+Following Holloway, we conclude that Title VII's prohibition of "sex" discrimination applies only
+to discrimination on the basis of gender and should not be judicially extended to include sexual
+preference such as homosexuality. . . .
+
+B. Disproportionate Impact
+
+Appellants argue that recent decisions dealing with disproportionate impact require that
+discrimination against homosexuals fall within the purview of Title VII. They contend that these
+recent decisions, like Griggs v. Duke Power Co., 401 U.S. 424 (1971), establish that any
+employment criterion that affects one sex more than the other violates Title VII. They quote from
+Griggs:
+
+          What is required by Congress (under Title VII) is the removal of artificial,
+          arbitrary, and unnecessary barriers to employment when the barriers operate
+          invidiously to discriminate on the basis of racial or other impermissible
+          classifications.
+
+401 U.S. at 431. They claim that in a trial they could prove that discrimination against homosexuals
+disproportionately affects men both because of the greater incidence of homosexuality in the male
+population and because of the greater likelihood of an employer's discovering male homosexuals
+compared to female homosexuals.
+
+Assuming that appellants can otherwise satisfy the requirement of Griggs, we do not believe that
+Griggs can be applied to extend Title VII protection to homosexuals. In finding that the
+disproportionate impact of educational tests on blacks violated Title VII, the Supreme Court in
+Griggs sought to effectuate a major congressional purpose in enacting Title VII: protection of
+blacks from employment discrimination. For as the Supreme Court noted in Philbrook v. Goldgett,
+421 U.S. 707 (1975), in construing a statute, "(o)ur objective . . . is to ascertain the congressional
+intent and give effect to the legislative will." Id. at 713.
+
+The Holloway court noted that in passing Title VII Congress did not intend to protect sexual
+orientation and has repeatedly refused to extend such protection. . . . Appellants now ask us to
+employ the disproportionate impact decisions as an artifice to "bootstrap" Title VII protection for
+homosexuals under the guise of protecting men generally.
+
+This we are not free to do. Adoption of this bootstrap device would frustrate congressional
+objectives as explicated in Holloway, not effectuate congressional goals as in Griggs. It would
+achieve by judicial "construction" what Congress did not do and has consistently refused to do on
+many occasions. It would violate the rule that our duty in construing a statute is to "ascertain . . .
+and give effect to the legislative will." Philbrook, 421 U.S. at 713. We conclude that the Griggs
+disproportionate impact theory may not be applied to extend Title VII protection to homosexuals.
+
+C. Differences in Employment Criteria
+                                                              11
+Appellants next contend that recent decisions have held that an employer generally may not use
+different employment criteria for men and women. They claim that if a male employee prefers
+males as sexual partners, he will be treated differently from a female who prefers male partners.
+They conclude that the employer thus uses different employment criteria for men and women and
+violates the Supreme Court's warning in Phillips v. Martin-Marietta Corp., 400 U.S. 542 (1971):
+
+          The Court of Appeals therefore erred in reading this section as permitting one
+          hiring policy for women and another for men . . . .
+
+Id. at 544.
+
+We must again reject appellants' efforts to "bootstrap" Title VII protection for homosexuals. While
+we do not express approval of an employment policy that differentiates according to sexual
+preference, we note that whether dealing with men or women the employer is using the same
+criterion: it will not hire or promote a person who prefers sexual partners of the same sex. Thus
+this policy does not involve different decisional criteria for the sexes.
+
+D. Interference with Association
+
+Appellants argue that the EEOC has held that discrimination against an employee because of the
+race of the employee's friends may constitute discrimination based on race in violation of Title
+VII. . . . They contend that analogously discrimination because of the sex of the employees' sexual
+partner should constitute discrimination based on sex.
+
+Appellants, however, have not alleged that appellees have policies of discriminating against
+employees because of the gender of their friends. That is, they do not claim that the appellees will
+terminate anyone with a male (or female) friend. They claim instead that the appellees discriminate
+against employees who have a certain type of relationship i.e., homosexual relationship with
+certain friends. As noted earlier, that relationship is not protected by Title VII. . . . Thus, assuming
+that it would violate Title VII for an employer to discriminate against employees because of the
+gender of their friends, appellants' claims do not fall within this purported rule.
+
+E. Effeminacy
+
+Appellant Strailey contends that he was terminated by the Happy Times Nursery School because
+that school felt that it was inappropriate for a male teacher to wear an earring to school. He claims
+that the school's reliance on a stereotype that a male should have a virile rather than an effeminate
+appearance violates Title VII.
+
+                                                              12
+In Holloway this court noted that Congress intended Title VII's ban on sex discrimination in
+employment to prevent discrimination because of gender, not because of sexual orientation or
+preference. . . . Recently the Fifth Circuit similarly read the legislative history of Title VII and
+concluded that Title VII thus does not protect against discrimination because of effeminacy. Smith
+v. Liberty Mutual Insurance Co., 569 F.2d at 326-27. We agree and hold that discrimination
+because of effeminacy, like discrimination because of homosexuality . . . or transsexualism
+(Holloway), does not fall within the purview of Title VII.
+
+E. Conclusion as to Title VII Claim
+
+Having determined that appellants' allegations do not implicate Title VII's prohibition on sex
+discrimination, we affirm the district court's dismissals of the Title VII claims.
+
+AFFIRMED.
+
+Notes and Questions
+
+1. Discrimination "because of sex": According to the Ninth Circuit, what did Congress
+intend by including the word "sex" in Title VII?
+
+2. Associational Discrimination: The court rejected the plaintiffs' argument that their
+employers engaged in associational discrimination. Why does the court reject that argument? As
+the court explains (and as discussed in cases set forth later in this chapter), courts have accepted
+such claims in the context of race. Consider the following Problem:
+
+Problem 1
+
+Lori, a white female sales associate at Go-Mart, had received glowing employment evaluations for
+the six years she had worked for the company. Her supervisors throughout the years had often told
+Lori that she was destined for management. In year seven of her employment, Lori began dating
+Mark Johnson, a black male, who visited her one day at work. Several of Lori's coworkers saw
+Mark and Lori kiss during his visit, and informed management. Go-Mart managers decided to set
+up an "intervention" whereby they cornered Lori in the break room and told her that while she had
+real promise, her "particular type of relationship" would hurt her chances to become a manager.
+Lori responded that her personal business was her own and her relationship did not affect her job
+performance. The next few weeks were sheer havoc for Lori. Her every move was scrutinized and
+she was written up for small matters, such as not fastening the top button on her smock despite the
+absence of any such formal rule in Go-Mart's policy manual. A week later, Go-Mart's store
+manager fired her allegedly for being impolite to customers. Lori contends that the real reason for
+her discharge was because of her relationship with Mark.
+
+                                                              13
+         Lori brings a Title VII race discrimination claim against Go-Mart. The company defends
+against Lori's claim by arguing that it did not fire Lori because of her race; it did so because of her
+relationship. Please analyze Lori's claim under Title VII.
+
+         Assume that instead of dating Mark, Lori was dating Theresa, and the relationship yielded
+the same response from Lori's employers. In light of DeSantis, would the outcome differ?` Should
+it? What if instead of race or sex, religion was the issue? Assume that Lori, her co-workers and
+managers are Episcopalians and feel strongly that Episcopalians should date their own kind. Mark
+is Jewish. Different result from the scenario involving race or sex?
+
+B. The Evolving Meaning of "Discrimination Because of Sex"
+
+         Two Supreme Court decisions, Price Waterhouse v. Hopkins, 490 U.S. 228 (1989) and
+Oncale v. Sundowner Offshore Services, 523 U.S. 75 (1998) are often considered as having
+expanded the scope of Title VII's prohibition of "discrimination because of sex." They
+undoubtedly have had a profound effect on the way courts have handled Title VII claims brought
+by LGBT employees alleging discrimination because of their sex, sexual orientation, gender
+identity or gender expression. Both cases are discussed below.
+
+                  1. Gender Nonconformity
+         The court in DeSantis rejected the argument by one of the plaintiffs that Title VII had been
+violated when his employer discriminated against him based on his effeminacy. According to the
+court "effeminacy, like discrimination because of homosexuality . . . or transsexualism . . . does
+not fall within the purview of Title VII." Revisit the court's holding in that regard after reading the
+following case.
+
+                                                              14
+Price Waterhouse v. Ann B. Hopkins
+490 U.S. 228 (1989).
+
+Opinion
+
+Justice BRENNAN announced the judgment of the Court and delivered an opinion, in which
+Justice MARSHALL, Justice BLACKMUN, and Justice STEVENS join.
+
+Ann Hopkins was a senior manager in an office of Price Waterhouse when she was proposed for
+partnership in 1982. She was neither offered nor denied admission to the partnership; instead, her
+candidacy was held for reconsideration the following year. When the partners in her office later
+refused to repropose her for partnership, she sued Price Waterhouse under Title VII of the Civil
+Rights Act of 1964, 78 Stat. 253, as amended, 42 U.S.C. § 2000e et seq., charging that the firm
+had discriminated against her on the basis of sex in its decisions regarding partnership. Judge
+Gesell in the Federal District Court for the District of Columbia ruled in her favor on the question
+of liability, 618 F. Supp. 1109 (1985), and the Court of Appeals for the District of Columbia Circuit
+affirmed. 263 U.S.App.D.C. 321, 825 F.2d 458 (1987). We granted certiorari to resolve a conflict
+among the Courts of Appeals concerning the respective burdens of proof of a defendant and
+plaintiff in a suit under Title VII when it has been shown that an employment decision resulted
+from a mixture of legitimate and illegitimate motives. 485 U.S. 933, 108 S.Ct. 1106, 99 L.Ed.2d
+268 (1988).
+
+I
+
+At Price Waterhouse, a nationwide professional accounting partnership, a senior manager becomes
+a candidate for partnership when the partners in her local office submit her name as a candidate.
+All of the other partners in the firm are then invited to submit written comments on each
+candidate--either on a "long" or a "short" form, depending on the partner's degree of exposure to
+the candidate. Not every partner in the firm submits comments on every candidate. After reviewing
+the comments and interviewing the partners who submitted them, the firm's Admissions
+Committee makes a recommendation to the Policy Board. This recommendation will be either that
+the firm accept the candidate for partnership, put her application on "hold," or deny her the
+promotion outright. The Policy Board then decides whether to submit the candidate's name to the
+entire partnership for a vote, to "hold" her candidacy, or to reject her. The recommendation of the
+Admissions Committee, and the decision of the Policy Board, are not controlled by fixed
+guidelines: a certain number of positive comments from partners will not guarantee a candidate's
+admission to the partnership, nor will a specific quantity of negative comments necessarily defeat
+her application. Price Waterhouse places no limit on the number of persons whom it will admit to
+the partnership in any given year.
+
+Ann Hopkins had worked at Price Waterhouse's Office of Government Services in Washington,
+D.C., for five years when the partners in that office proposed her as a candidate for partnership.
+
+                                                              15
+Of the 662 partners at the firm at that time, 7 were women. Of the 88 persons proposed for
+partnership that year, only 1--Hopkins--was a woman. Forty-seven of these candidates were
+admitted to the partnership, 21 were rejected, and 20--including Hopkins--were "held" for
+reconsideration the following year. Thirteen of the 32 partners who had submitted comments on
+Hopkins supported her bid for partnership. Three partners recommended that her candidacy be
+placed on hold, eight stated that they did not have an informed opinion about her, and eight
+recommended that she be denied partnership.
+
+In a jointly prepared statement supporting her candidacy, the partners in Hopkins' office
+showcased her successful 2-year effort to secure a $25 million contract with the Department of
+State, labeling it "an outstanding performance" and one that Hopkins carried out "virtually at the
+partner level." Plaintiff's Exh. 15. Despite Price Waterhouse's attempt at trial to minimize her
+contribution to this project, Judge Gesell specifically found that Hopkins had "played a key role
+in Price Waterhouse's successful effort to win a multi-million dollar contract with the Department
+of State." 618 F. Supp., at 1112. Indeed, he went on, "[n]one of the other partnership candidates at
+Price Waterhouse that year had a comparable record in terms of successfully securing major
+contracts for the partnership." Ibid.
+
+The partners in Hopkins' office praised her character as well as her accomplishments, describing
+her in their joint statement as "an outstanding professional" who had a "deft touch," a "strong
+character, independence and integrity." Plaintiff's Exh. 15. Clients appear to have agreed with
+these assessments. At trial, one official from the State Department described her as "extremely
+competent, intelligent," "strong and forthright, very productive, energetic and creative." Tr. 150.
+Another high-ranking official praised Hopkins' decisiveness, broadmindedness, and "intellectual
+clarity"; she was, in his words, "a stimulating conversationalist." Id., at 156-157. Evaluations such
+as these led Judge Gesell to conclude that Hopkins "had no difficulty dealing with clients and her
+clients appear to have been very pleased with her work" and that she "was generally viewed as a
+highly competent project leader who worked long hours, pushed vigorously to meet deadlines and
+demanded much from the multidisciplinary staffs with which she worked." 618 F. Supp., at 1112-
+1113.
+
+On too many occasions, however, Hopkins' aggressiveness apparently spilled over into
+abrasiveness. Staff members seem to have borne the brunt of Hopkins' brusqueness. Long before
+her bid for partnership, partners evaluating her work had counseled her to improve her relations
+with staff members. Although later evaluations indicate an improvement, Hopkins' perceived
+shortcomings in this important area eventually doomed her bid for partnership. Virtually all of the
+partners' negative remarks about Hopkins--even those of partners supporting her--had to do with
+her "interpersonal skills." Both "[s]upporters and opponents of her candidacy," stressed Judge
+Gesell, "indicated that she was sometimes overly aggressive, unduly harsh, difficult to work with
+and impatient with staff." Id., at 1113.
+
+There were clear signs, though, that some of the partners reacted negatively to Hopkins'
+personality because she was a woman. One partner described her as "macho" (Defendant's Exh.
+30); another suggested that she "overcompensated for being a woman" (Defendant's Exh. 31); a
+third advised her to take "a course at charm school" (Defendant's Exh. 27). Several partners
+
+                                                              16
+criticized her use of profanity; in response, one partner suggested that those partners objected to
+her swearing only "because it's a lady using foul language." Tr. 321. Another supporter explained
+that Hopkins "ha[d] matured from a tough-talking somewhat masculine hard-nosed mgr to an
+authoritative, formidable, but much more appealing lady ptr candidate." Defendant's Exh. 27. But
+it was the man who, as Judge Gesell found, bore responsibility for explaining to Hopkins the
+reasons for the Policy Board's decision to place her candidacy on hold who delivered the coup de
+grace: in order to improve her chances for partnership, Thomas Beyer advised, Hopkins should
+"walk more femininely, talk more femininely, dress more femininely, wear make-up, have her hair
+styled, and wear jewelry." 618 F. Supp., at 1117.
+
+Dr. Susan Fiske, a social psychologist and Associate Professor of Psychology at Carnegie-Mellon
+University, testified at trial that the partnership selection process at Price Waterhouse was likely
+influenced by sex stereotyping. Her testimony focused not only on the overtly sex-based comments
+of partners but also on gender-neutral remarks, made by partners who knew Hopkins only slightly,
+that were intensely critical of her. One partner, for example, baldly stated that Hopkins was
+"universally disliked" by staff (Defendant's Exh. 27), and another described her as "consistently
+annoying and irritating" (ibid.); yet these were people who had had very little contact with
+Hopkins. According to Fiske, Hopkins' uniqueness (as the only woman in the pool of candidates)
+and the subjectivity of the evaluations made it likely that sharply critical remarks such as these
+were the product of sex stereotyping--although Fiske admitted that she could not say with
+certainty whether any particular comment was the result of stereotyping. Fiske based her opinion
+on a review of the submitted comments, explaining that it was commonly accepted practice for
+social psychologists to reach this kind of conclusion without having met any of the people involved
+in the decisionmaking process.
+
+In previous years, other female candidates for partnership also had been evaluated in sex-based
+terms. As a general matter, Judge Gesell concluded, "[c]andidates were viewed favorably if
+partners believed they maintained their femin[in]ity while becoming effective professional
+managers"; in this environment, "[t]o be identified as a `women's lib[b]er' was regarded as [a]
+negative comment." 618 F. Supp., at 1117. In fact, the judge found that in previous years "[o]ne
+partner repeatedly commented that he could not consider any woman seriously as a partnership
+candidate and believed that women were not even capable of functioning as senior managers--yet
+the firm took no action to discourage his comments and recorded his vote in the overall summary
+of the evaluations." Ibid.
+
+Judge Gesell found that Price Waterhouse legitimately emphasized interpersonal skills in its
+partnership decisions, and also found that the firm had not fabricated its complaints about Hopkins'
+interpersonal skills as a pretext for discrimination. Moreover, he concluded, the firm did not give
+decisive emphasis to such traits only because Hopkins was a woman; although there were male
+candidates who lacked these skills but who were admitted to partnership, the judge found that these
+candidates possessed other, positive traits that Hopkins lacked.
+The judge went on to decide, however, that some of the partners' remarks about Hopkins stemmed
+from an impermissibly cabined view of the proper behavior of women, and that Price Waterhouse
+had done nothing to disavow reliance on such comments. He held that Price Waterhouse had
+unlawfully discriminated against Hopkins on the basis of sex by consciously giving credence and
+
+                                                              17
+effect to partners' comments that resulted from sex stereotyping. Noting that Price Waterhouse
+could avoid equitable relief by proving by clear and convincing evidence that it would have placed
+Hopkins' candidacy on hold even absent this discrimination, the judge decided that the firm had
+not carried this heavy burden.
+
+A
+
+In passing Title VII, Congress made the simple but momentous announcement that sex, race,
+religion, and national origin are not relevant to the selection, evaluation, or compensation of
+employees. Yet, the statute does not purport to limit the other qualities and characteristics that
+employers may take into account in making employment decisions. The converse, therefore, of
+"for cause" legislation, Title VII eliminates certain bases for distinguishing among employees
+while otherwise preserving employers' freedom of choice. This balance between employee rights
+and employer prerogatives turns out to be decisive in the case before us.
+
+Congress' intent to forbid employers to take gender into account in making employment decisions
+appears on the face of the statute. In now-familiar language, the statute forbids an employer to
+"fail or refuse to hire or to discharge any individual, or otherwise to discriminate with respect to
+his compensation, terms, conditions, or privileges of employment," or to "limit, segregate, or
+classify his employees or applicants for employment in any way which would deprive or tend to
+deprive any individual of employment opportunities or otherwise adversely affect his status as an
+employee, because of such individual's ... sex." 42 U.S.C. §§ 2000e-2(a)(1), (2) (emphasis added).
+We take these words to mean that gender must be irrelevant to employment decisions. To construe
+the words "because of" as colloquial shorthand for "but-for causation," as does Price Waterhouse,
+is to misunderstand them.
+
+...
+
+C
+
+In saying that gender played a motivating part in an employment decision, we mean that, if we
+asked the employer at the moment of the decision what its reasons were and if we received a
+truthful response, one of those reasons would be that the applicant or employee was a woman. In
+the specific context of sex stereotyping, an employer who acts on the basis of a belief that a woman
+cannot be aggressive, or that she must not be, has acted on the basis of gender.
+
+...
+
+As to the existence of sex stereotyping in this case, we are not inclined to quarrel with the District
+Court's conclusion that a number of the partners' comments showed sex stereotyping at work. See
+infra, at 1793-1794. As for the legal relevance of sex stereotyping, we are beyond the day when
+an employer could evaluate employees by assuming or insisting that they matched the stereotype
+associated with their group, for " `[i]n forbidding employers to discriminate against individuals
+because of their sex, Congress intended to strike at the entire spectrum of disparate treatment of
+
+                                                              18
+men and women resulting from sex stereotypes.' " Los Angeles Dept. of Water and Power v.
+Manhart, 435 U.S. 702, 707, n. 13, 98 S.Ct. 1370, 1375, n. 13, 55 L.Ed.2d 657 (1978), quoting
+Sprogis v. United Air Lines, Inc., 444 F.2d 1194, 1198 (CA7 1971). An employer who objects to
+aggressiveness in women but whose positions require this trait places women in an intolerable and
+impermissible catch 22: out of a job if they behave aggressively and out of a job if they do not.
+Title VII lifts women out of this bind.
+
+Remarks at work that are based on sex stereotypes do not inevitably prove that gender played a
+part in a particular employment decision. The plaintiff must show that the employer actually relied
+on her gender in making its decision. In making this showing, stereotyped remarks can certainly
+be evidence that gender played a part. In any event, the stereotyping in this case did not simply
+consist of stray remarks. On the contrary, Hopkins proved that Price Waterhouse invited partners
+to submit comments; that some of the comments stemmed from sex stereotypes; that an important
+part of the Policy Board's decision on Hopkins was an assessment of the submitted comments; and
+that Price Waterhouse in no way disclaimed reliance on the sex-linked evaluations. This is not, as
+Price Waterhouse suggests, "discrimination in the air"; rather, it is, as Hopkins puts it,
+"discrimination brought to ground and visited upon" an employee. Brief for Respondent 30. By
+focusing on Hopkins' specific proof, however, we do not suggest a limitation on the possible ways
+of proving that stereotyping played a motivating role in an employment decision, and we refrain
+from deciding here which specific facts, "standing alone," would or would not establish a
+plaintiff's case, since such a decision is unnecessary in this case. But see post, at 1805
+(O'CONNOR, J., concurring in judgment).
+
+. . .
+
+In finding that some of the partners' comments reflected sex stereotyping, the District Court relied
+in part on Dr. Fiske's expert testimony. Without directly impugning Dr. Fiske's credentials or
+qualifications, Price Waterhouse insinuates that a social psychologist is unable to identify sex
+stereotyping in evaluations without investigating whether those evaluations have a basis in reality.
+This argument comes too late. At trial, counsel for Price Waterhouse twice assured the court that
+he did not question Dr. Fiske's expertise (App. 25) and failed to challenge the legitimacy of her
+discipline. Without contradiction from Price Waterhouse, Fiske testified that she discerned sex
+stereotyping in the partners' evaluations of Hopkins and she further explained that it was part of
+her business to identify stereotyping in written documents. Id., at 64. We are not inclined to accept
+petitioner's belated and unsubstantiated characterization of Dr. Fiske's testimony as "gossamer
+evidence" (Brief for Petitioner 20) based only on "intuitive hunches" (id., at 44) and of her
+detection of sex stereotyping as "intuitively divined" (id., at 43).
+. . .
+
+Indeed, we are tempted to say that Dr. Fiske's expert testimony was merely icing on Hopkins'
+cake. It takes no special training to discern sex stereotyping in a description of an aggressive female
+employee as requiring "a course at charm school." Nor, turning to Thomas Beyer's memorable
+advice to Hopkins, does it require expertise in psychology to know that, if an employee's flawed
+"interpersonal skills" can be corrected by a soft-hued suit or a new shade of lipstick, perhaps it is
+
+                                                              19
+the employee's sex and not her interpersonal skills that has drawn the criticism
+
+Price Waterhouse also charges that Hopkins produced no evidence that sex stereotyping played a
+role in the decision to place her candidacy on hold. As we have stressed, however, Hopkins showed
+that the partnership solicited evaluations from all of the firm's partners; that it generally relied very
+heavily on such evaluations in making its decision; that some of the partners' comments were the
+product of stereotyping; and that the firm in no way disclaimed reliance on those particular
+comments, either in Hopkins' case or in the past. Certainly a plausible--and, one might say,
+inevitable--conclusion to draw from this set of circumstances is that the Policy Board in making
+its decision did in fact take into account all of the partners' comments, including the comments
+that were motivated by stereotypical notions about women's proper deportment.
+
+[The Supreme Court remanded the case so that the court of appeals could reevaluate the case
+consistent with the standard the Supreme Court established].
+
+Notes and Questions
+
+1. Price Waterhouse was a plurality opinion. However, six justices (the plurality and two
+separate concurrences) "agreed that [the conduct about which Ann Hopkins complained was]
+indicative of gender discrimination. . . ." Glenn v. Brumby, 663 F.3d 1312, 1316 (11th Cir. 2011);
+see also Hively v. Ivy Tech Community College, 853 F.3d 339, 346 & n.2 (7th Cir. 2017) (en banc)
+(noting that six justices agreed "that the conduct about which Hopkins complained could support
+a finding of sex discrimination for purposes of Title VII"). "Sex" refers to "an individual's
+anatomical and biological characteristics," while "gender" refers to "socially-constructed norms
+associated with a person's sex." See Smith v. City of Salem, Ohio, 378 F.3d 566, 573 (6th Cir. 2004)
+(citations omitted). Price Waterhouse held that "Title VII barred not just discrimination because
+of biological sex, but also gender stereotyping--failing to act or appear according to expectations
+defined by gender." Glenn, 663 F.3d at 1316. For purposes of Title VII, courts use the terms "sex"
+and "gender" interchangeably and discrimination on either basis is unlawful under the statute. See
+Hively, 853 F.3d at 343 & n.1 ("Many courts, including the Supreme Court, appear to have used
+"sex" and "gender" synonymously.").
+
+2. Does Price Waterhouse overrule DeSantis at least to the extent of the Ninth Circuit's
+holding that discrimination against men because of their effeminacy does not violate Title VII? In
+a post-Price Waterhouse case, the Ninth Circuit held that it does. In Nichols v. Azteca Restaurant
+Enterprises, Inc., 256 F.3d 864 (9th Cir. 2001), the plaintiff had been derided because "he carried
+his tray like a woman," refused to have sex with a female coworker and was frequently called
+sexually derogatory names (e.g., "fucking female whore"). See id. at 870, 874-75. The court
+overruled DeSantis to the extent that case conflicted with Price Waterhouse. It explained that the
+Supreme Court's holding that Title VII is violated when an employer discriminates against a
+woman for acting insufficiently feminine "applies with equal force to a man who is discriminated
+against for acting too feminine." See id. at 874.
+
+                                                              20
+                  2. Same-Sex Harassment
+
+NOTE ON ONCALE
+
+         Oncale v. Sundowner Offshore Services, 523 U.S. 75 (1998), is the second case that has
+greatly influenced the interpretation of Title VII's prohibition of "discrimination because of sex"
+and the rights of LGBT individuals under the statute. In Oncale, the Supreme Court resolved a
+circuit split regarding whether same-sex sexual harassment was actionable under Title VII. The
+plaintiff in Oncale was male and worked as a roustabout with an all-male crew. He was subjected
+to pervasive and severe abuse carried out by coworkers, including a sexual assault. Relying on
+circuit precedent, the district court dismissed his claim and the U.S. Court of Appeals for the Fifth
+Circuit affirmed.
+
+         Prior to Oncale, courts addressed the issue of same-sex sexual harassment in one of three
+ways. Some, like the Fifth Circuit, which decided Oncale, held that same-sex sexual harassment
+was never cognizable under Title VII. Other courts allowed such claims only if the plaintiff could
+prove the harasser was homosexual and thus the harassing conduct was motivated by sexual desire.
+Finally, other courts suggested that such claims were viable as long as the harasser's conduct was
+sexual in nature.
+
+         The Supreme Court held that same-sex sexual harassment was cognizable under Title VII
+as long as the harassment occurred "because of sex." Writing for a unanimous Court, Justice Scalia
+explained that Title VII's proscription against sex discrimination protects women and men and
+"evinces a congressional intent to strike at the entire spectrum of disparate treatment of men and
+women." Id. at 78. He acknowledged that "male-on-male sexual harassment in the workplace was
+not the principal evil Congress was concerned with when it enacted Title VII." Id. at 79. However,
+he continued, "statutory prohibitions often go beyond the principal evil to cover reasonably
+comparable evils, and it is ultimately the provisions of our laws rather than the principal concerns
+of our legislators by which we are governed." Id. at 79-80 (emphasis added).
+
+         The Court suggested three ways in which a plaintiff alleging same-sex sexual harassment
+might show the discrimination was because of sex. First, courts and juries may draw such an
+inference where "there [was] credible evidence that the harasser was homosexual." Second, "a
+trier of fact might reasonably find [sex] discrimination . . . if a female victim is harassed in such
+sex-specific and derogatory terms by another woman as to make it clear that the harasser is
+motivated by general hostility to the presence of women in the workplace." Finally, "[a] same-sex
+harassment plaintiff may also, of course, offer direct comparative evidence about how the alleged
+harasser treated members of both sexes in a mixed-sex workplace." According to the Court,
+[w]hatever evidentiary route the plaintiff chooses to follow, he or she must always prove that the
+conduct at issue constituted "discrimina[tion] ... because of ... sex." Id. at 80-81.
+
+         Oncale has often been cited for the proposition that Title VII is not limited to an
+interpretation anticipated by legislators in 1964 when the statute was enacted. See e.g., Hively, 853
+F.3d at 345 ("The Court [in Oncale] could not have been clearer: the fact that the enacting Congress
+
+                                                              21
+may not have anticipated a particular application of the law cannot stand in the way of the
+provisions of the law that are on the books. It is therefore neither here nor there that the Congress"
+that prohibited sex discrimination under Title VII "may not have realized or understood the full
+scope of the words it chose.")
+
+         Moreover, Oncale has also been instrumental to LGBT employees alleging sex
+discrimination on the basis of sex stereotyping. Although the Supreme Court set forth three bases
+for showing discrimination is because of sex, the courts that have reached the issue have "held that
+[these] paths are illustrative, not exhaustive." EEOC v. Boh Bros. Construction Co., 731 F.3d 444,
+455 & n.6 (5th Cir. 2013) (en banc) (citing cases from other circuits). As you will see in the
+materials that follow, LGBT plaintiffs alleging sex discrimination, including harassment, have
+relied on evidence of sex stereotyping to show that alleged discrimination was because of sex.
+
+C. Stereotyping and Sexual Orientation
+
+         An issue that has arisen post-Price Waterhouse that has affected claims by gay and lesbian
+individuals is determining what constitutes evidence of "sex stereotyping" or "gender non-
+conforming behavior" for purposes of Title VII. Ann Hopkins was discriminated against because,
+according to her employers, she failed to act and appear in ways typically associated with the ways
+in which women should act and appear. To allege a viable sex discrimination claim, must a plaintiff
+in Hopkins's position show that the discrimination was based on the type of observable gender
+non-conforming behavior at issue in Price Waterhouse? If so, what does that mean for gay and
+lesbian employees? Ann Hopkins was not a lesbian, but she was considered to be "macho" by her
+employers. Should it have affected her claim had she been a macho lesbian?
+
+         "Machoism" aside, should lesbianism alone have sufficed as constituting the type of gender
+non-conforming behavior an employer is prohibited from considering when making employment
+decisions? See Matthew W. Green Jr., Same-Sex and Immutable Traits: Why Obergefell v. Hodges
+Clears a Path to Protecting Gay and Lesbian Employees From Workplace Discrimination Under
+Title VII, 20 J. Gender Race & Justice 1, 24-25 (2017) (noting that "numerous scholars have
+recognized that one of the prime motivations for discrimination against gays and lesbians is
+discomfort with the manner in which homosexuality departs from traditional gender roles . . .");
+see also Brian Soucek, Perceived Homosexuals, 63 Am. U. L. Rev. 715, 726 (2014) ("Following
+Price Waterhouse to its logical conclusion would appear to require that sexual orientation be
+brought, along with the rest of the spectrum of gender stereotypes, under the protective umbrella
+of Title VII.").
+
+         The case set forth immediately below and the explanatory material that follow address
+these issues. They attempt to provide an overview of the way courts have treated claims by
+employees who allege discrimination because of their gender non-conformity and who are LGB
+or are perceived to be.
+
+                                                              22
+Brian D. Prowel v. Wise Business Forms, Inc.
+579 F.3d 285 (3rd Cir. 2009).
+
+OPINION OF THE COURT
+Hardiman, Circuit Judge.
+Brian Prowel appeals the District Court's summary judgment in favor of his former employer,
+Wise Business Forms, Inc. Prowel sued under Title VII of the Civil Rights Act of 1964 and the
+Pennsylvania Human Relations Act, alleging that Wise harassed and retaliated against him because
+of sex and religion. The principal issue on appeal is whether Prowel has marshaled sufficient facts
+for his claim of "gender stereotyping" discrimination to be submitted to a jury. We also consider
+whether the District Court erred in granting summary judgment to Wise on Prowel's religious
+discrimination claim.
+
+. . .
+
+II.
+Prowel began working for Wise in July 1991. A producer and distributor of business forms, Wise
+employed approximately 145 workers at its facility in Butler, Pennsylvania. From 1997 until his
+termination, Prowel operated a machine called a nale encoder, which encodes numbers and
+organizes business forms. On December 13, 2004, after 13 years with the company, Wise informed
+Prowel that it was laying him off for lack of work.
+
+A.
+Prowel's most substantial claim is that Wise harassed and retaliated against him because of sex.
+The theory of sex discrimination Prowel advances is known as a "gender stereotyping" claim,
+which was first recognized by the Supreme Court as a viable cause of action in Price Waterhouse
+v. Hopkins, 490 U.S. 228, 109 S.Ct. 1775, 104 L.Ed.2d 268 (1989).
+
+Prowel identifies himself as an effeminate man and believes that his mannerisms caused him not
+to "fit in" with the other men at Wise. Prowel described the "genuine stereotypical male" at the
+plant as follows:
+
+            [B]lue jeans, t-shirt, blue collar worker, very rough around the edges. Most of
+            the guys there hunted. Most of the guys there fished. If they drank, they drank
+            beer, they didn't drink gin and tonic. Just you know, all into football, sports, all
+            that kind of stuff, everything I wasn't.
+
+                                                              23
+In stark contrast to the other men at Wise, Prowel testified that he had a high voice and did not
+curse; was very well-groomed; wore what others would consider dressy clothes; was neat; filed
+his nails instead of ripping them off with a utility knife; crossed his legs and had a tendency to
+shake his foot "the way a woman would sit"; walked and carried himself in an effeminate manner;
+drove a clean car; had a rainbow decal on the trunk of his car; talked about things like art, music,
+interior design, and decor; and pushed the buttons on the nale encoder with "pizzazz."
+
+Some of Prowel's co-workers reacted negatively to his demeanor and appearance. During the last
+two years of his employment at Wise, a female co-worker frequently called Prowel "Princess." In
+a similar vein, co-workers made comments such as: "Did you see what Rosebud was wearing?";
+"Did you see Rosebud sitting there with his legs crossed, filing his nails?"; and "Look at the way
+he walks."
+
+Prowel also testified that he is homosexual. At some point prior to November 1997, Prowel was
+"outed" at work when a newspaper clipping of a "man-seeking-man" ad was left at his workstation
+with a note that read: "Why don't you give him a call, big boy." Prowel reported the incident to
+two management-level personnel and asked that something be done. The culprit was never
+identified, however.
+
+After Prowel was outed, some of his co-workers began causing problems for him, subjecting him
+to verbal and written attacks during the last seven years of his tenure at Wise. In addition to the
+nicknames "Princess" and "Rosebud," a female co-worker called him "fag" and said: "Listen,
+faggot, I don't have to put up with this from you." Prowel reported this to his shift supervisor but
+received no response.
+
+At some point during the last two years of Prowel's employment, a pink, light-up, feather tiara
+with a package of lubricant jelly was left on his nale encoder. The items were removed after Prowel
+complained to Henry Nolan, the shift supervisor at that time. On March 24, 2004, as Prowel entered
+the plant, he overheard a co-worker state: "I hate him. They should shoot all the fags." Prowel
+reported this remark to Nolan, who said he would look into it. Prowel also overheard conversations
+between co-workers, one of whom was a supervisor, who disapproved of how he lived his life.
+Finally, messages began to appear on the wall of the men's bathroom, claiming Prowel had AIDS
+and engaged in sexual relations with male co-workers. After Prowel complained, the company
+repainted the restroom.
+
+B.
+
+In addition to the harassment Prowel allegedly experienced because of his sex, he also claims that
+he was discriminated against because of religion. Specifically, Prowel argues that his conduct did
+not conform to the company's religious beliefs. When asked at his deposition what those religious
+beliefs were, Prowel responded: "a man should not lay with another man."
+
+For a few months during the spring of 2004, Prowel found anonymous prayer notes on his work
+machine on a daily basis. Prowel also found messages indicating he was a sinner for the way he
+
+                                                              24
+lived his life. Additionally, he found a note stating: "Rosebud will burn in hell." Prowel attributed
+these notes and comments to Michael Croyle, a Christian employee who refused to speak to
+Prowel. Moreover, Prowel testified in his deposition that nothing was left on his machine after
+Croyle left the company.
+
+Another co-worker, Thomas Bowser, stated that he did not approve of how Prowel lived his life.
+Prowel testified that Bowser brought religious pamphlets to work that stated "the end is coming"
+and "have you come clean with your maker?"
+
+C.
+
+Prowel alleges that his co-workers shunned him and his work environment became so stressful
+that he had to stop his car on the way to work to vomit. At some point in 2004, Prowel became
+increasingly dissatisfied with his work assignments and pay. Prowel believed he was asked to
+perform more varied tasks than other nale encoder operators, but was not compensated fairly for
+these extra tasks, even though work piled up on his nale encoder.
+
+In April 2004, Prowel considered suing Wise and stated his intentions to four non-management
+personnel, asking them to testify on his behalf. Prowel allegedly told his colleagues that the lawsuit
+would be based on harassment for not "fitting in"; he did not say anything about being harassed
+because of his homosexuality. These four colleagues complained to management that Prowel was
+bothering them.
+
+On May 6, 2004, General Manager Jeff Straub convened a meeting with Prowel and supervisors
+Nolan and John Hodak to discuss Prowel's concern that he was doing more work for less money
+than other nale encoder operators. Prowel's compensation and workload were discussed, but the
+parties did not reach agreement on those issues. Straub then asked Prowel if he had approached
+employees to testify for him in a lawsuit, and Prowel replied that he had not done so. Prowel has
+since conceded that he did approach other employees in this regard.
+On December 13, 2004, Prowel was summoned to meet with his supervisors, who informed him
+that he was terminated effective immediately for lack of work.
+
+III.
+
+After exhausting his administrative remedies before the Equal Employment Opportunity
+Commission, Prowel sued Wise in the United States District Court for the Western District of
+Pennsylvania, alleging claims under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e,
+et seq., and the Pennsylvania Human Relations Act, 43 Pa. Cons.Stat. § 951, et seq. (PHRA).
+Prowel alleged harassment and wrongful termination because of sex. . . . Following discovery,
+Wise moved for summary judgment and the District Court granted the company's motion in its
+entirety. As relevant to this appeal, the District Court held that Prowel's suit was merely a claim
+for sexual orientation discrimination-which is not cognizable under Title VII-that he repackaged
+as a gender stereotyping claim in an attempt to avoid summary judgment. Prowel's religious
+
+                                                              25
+discrimination claim failed for the same reason. As for Prowel's retaliation claim, the District Court
+held that Prowel had a good faith belief that he had engaged in protected activity under Title VII,
+but that his belief was not objectively reasonable given that his complaint was actually based on
+sexual orientation discrimination. Prowel filed this timely appeal.
+
+IV.
+
+In evaluating Wise's motion for summary judgment, the District Court properly focused on our
+decision in Bibby v. Philadelphia Coca Cola Bottling Co., 260 F.3d 257 (3d Cir.2001), wherein
+we stated: "Title VII does not prohibit discrimination based on sexual orientation. Congress has
+repeatedly rejected legislation that would have extended Title VII to cover sexual orientation." Id.
+at 261 (citations omitted). This does not mean, however, that a homosexual individual is barred
+from bringing a sex discrimination claim under Title VII, which plainly prohibits discrimination
+"because of sex." 42 U.S.C. § 2000e-2(a). As the District Court noted, "once a plaintiff shows that
+harassment is motivated by sex, it is no defense that it may also have been motivated by anti-gay
+animus." Dist. Ct. Op. at 6 (citing Bibby, 260 F.3d at 265). In sum, "[w]hatever the sexual
+orientation of a plaintiff bringing a same-sex sexual harassment claim, that plaintiff is required to
+demonstrate that the harassment was directed at him or her because of his or her sex." Bibby, 260
+F.3d at 265.
+
+Both Prowel and Wise rely heavily upon Bibby. Wise claims this appeal is indistinguishable from
+Bibby and therefore we should affirm its summary judgment for the same reason we affirmed
+summary judgment in Bibby. Prowel counters that reversal is required here because gender
+stereotyping was not at issue in Bibby. As we shall explain, Bibby does not dictate the result in this
+appeal. Because it guides our analysis, however, we shall review it in some detail.
+John Bibby, a homosexual man, was a long-time employee of the Philadelphia Coca Cola Bottling
+Company. Id. at 259. The company terminated Bibby after he sought sick leave, but ultimately
+reinstated him. Id. After Bibby's reinstatement, he alleged that he was assaulted and harmed by
+co-workers and supervisors when he was subjected to crude remarks and derogatory sexual graffiti
+in the bathrooms. Id. at 260.
+
+Bibby filed a complaint with the Philadelphia Commission on Human Relations (PCHR), alleging
+sexual orientation discrimination. Id. After the PCHR issued a right-to-sue letter, Bibby sued in
+federal court alleging, inter alia, sexual harassment in violation of Title VII. Id. The district court
+granted summary judgment for the company because Bibby was harassed not "because of sex,"
+but rather because of his sexual orientation, which is not cognizable under Title VII. Id. at 260-61.
+
+On appeal, this Court affirmed, holding that Bibby presented insufficient evidence to support a
+claim of same-sex harassment under Title VII. Despite acknowledging that harassment based on
+sexual orientation has no place in a just society, we explained that Congress chose not to include
+sexual orientation harassment in Title VII. Id. at 261, 265. Nevertheless, we stated that employees
+may-consistent with the Supreme Court's decision in Price Waterhouse-raise a Title VII gender
+stereotyping claim, provided they can demonstrate that "the[ir] harasser was acting to punish
+
+                                                              26
+[their] noncompliance with gender stereotypes." Id. at 264; accord Vickers v. Fairfield Med. Ctr.,
+453 F.3d 757, 762 (6th Cir.2006); Nichols v. Azteca Rest. Enters., Inc., 256 F.3d 864, 874 (9th
+Cir.2001); Higgins v. New Balance Athletic Shoe, Inc., 194 F.3d 252, 259 (1st Cir.1999). Because
+Bibby did not claim gender stereotyping, however, he could not prevail on that theory. We also
+concluded, in dicta, that even had we construed Bibby's claim to involve gender stereotyping, he
+did not marshal sufficient evidence to withstand summary judgment on that claim. Bibby, 260 F.3d
+at 264-65.
+
+In light of the foregoing discussion, we disagree with both parties' arguments that Bibby dictates
+the outcome of this case. Bibby does not carry the day for Wise because in that case, the plaintiff
+failed to raise a gender stereotyping claim as Prowel has done here. Contrary to Prowel's argument,
+however, Bibby does not require that we reverse the District Court's summary judgment merely
+because we stated that a gender stereotyping claim is cognizable under Title VII; such has been
+the case since the Supreme Court's decision in Price Waterhouse. Instead, we must consider
+whether the record, when viewed in the light most favorable to Prowel, contains sufficient facts
+from which a reasonable jury could conclude that he was harassed and/or retaliated against
+"because of sex."
+
+[The court set forth the holding and rationale of Price Waterhouse.]
+
+Like our decision in Bibby, the Supreme Court's decision in Price Waterhouse provides the
+applicable legal framework, but does not resolve this case. Unlike in Price Waterhouse-where
+Hopkins's sexual orientation was not at issue-here there is no dispute that Prowel is homosexual.
+The difficult question, therefore, is whether the harassment he suffered at Wise was because of his
+homosexuality, his effeminacy, or both.
+
+As this appeal demonstrates, the line between sexual orientation discrimination and discrimination
+"because of sex" can be difficult to draw. In granting summary judgment for Wise, the District
+Court found that Prowel's claim fell clearly on one side of the line, holding that Prowel's sex
+discrimination claim was an artfully-pleaded claim of sexual orientation discrimination. However,
+our analysis-viewing the facts and inferences in favor of Prowel-leads us to conclude that the
+record is ambiguous on this dispositive question. Accordingly, Prowel's gender stereotyping claim
+must be submitted to a jury.
+
+Wise claims it laid off Prowel because the company decided to reduce the number of nale encoder
+operators from three to two. This claim is not without support in the record. After Prowel was laid
+off, no one was hired to operate the nale encoder during his shift. Moreover, market conditions
+caused Wise to lay off 44 employees at its Pennsylvania facility between 2001 and September
+2006, and the company's workforce shrank from 212 in 2001 to 145 in 2008. General Manager
+Straub testified that in determining which nale encoder operator to lay off, he considered various
+factors, including customer service, productivity, cooperativeness, willingness to perform other
+tasks (the frequency with which employees complained about working on other machines), future
+advancement opportunities, and cost. According to Wise, Prowel was laid off because: comments
+on his daily production reports reflected an uncooperative and insubordinate attitude; he was the
+highest paid operator; he complained when asked to work on different machines; and he did not
+
+                                                              27
+work to the best of his ability when operating the other machines.
+
+Prowel asserts that these reasons were pretextual and he was terminated because of his complaints
+to management about harassment and his discussions with co-workers regarding a potential lawsuit
+against the company. In this respect, the record indicates that Prowel's work compared favorably
+to the other two nale encoder operators. Specifically, Prowel worked on other equipment fifty-four
+times during the last half of 2004 while a co-worker did so just once; Prowel also ran more jobs
+and impressions per hour than that same co-worker; and Prowel's attendance was significantly
+better than the third nale encoder operator. Finally, although Wise laid off forty-four workers
+between 2001 and 2006, it laid off no one in 2003, only Prowel in 2004, and just two in 2005.
+Although Prowel is unaware what role his sexual orientation played in his termination, he alleges
+that he was harassed and retaliated against not because of the quality of his work, but rather because
+he failed to conform to gender stereotypes.
+
+The record demonstrates that Prowel has adduced evidence of harassment based on gender
+stereotypes. He acknowledged that he has a high voice and walks in an effeminate manner. In
+contrast with the typical male at Wise, Prowel testified that he: did not curse and was very well-
+groomed; filed his nails instead of ripping them off with a utility knife; crossed his legs and had a
+tendency to shake his foot "the way a woman would sit." Prowel also discussed things like art,
+music, interior design, and decor, and pushed the buttons on his nale encoder with "pizzazz."
+Prowel's effeminate traits did not go unnoticed by his co-workers, who commented: "Did you see
+what Rosebud was wearing?"; "Did you see Rosebud sitting there with his legs crossed, filing his
+nails?"; and "Look at the way he walks." Finally, a co-worker deposited a feathered, pink tiara at
+Prowel's workstation. When the aforementioned facts are considered in the light most favorable
+to Prowel, they constitute sufficient evidence of gender stereotyping harassment-namely, Prowel
+was harassed because he did not conform to Wise's vision of how a man should look, speak, and
+act-rather than harassment based solely on his sexual orientation.
+
+To be sure, the District Court correctly noted that the record is replete with evidence of harassment
+motivated by Prowel's sexual orientation. Thus, it is possible that the harassment Prowel alleges
+was because of his sexual orientation, not his effeminacy. Nevertheless, this does not vitiate the
+possibility that Prowel was also harassed for his failure to conform to gender stereotypes. See 42
+U.S.C. § 2000e-2(m) ("[A]n unlawful employment practice is established when the complaining
+party demonstrates that ... sex ... was a motivating factor for any employment practice, even though
+other factors also motivated the practice."). Because both scenarios are plausible, the case presents
+a question of fact for the jury and is not appropriate for summary judgment.
+
+In support of the District Court's summary judgment, Wise argues persuasively that every case of
+sexual orientation discrimination cannot translate into a triable case of gender stereotyping
+discrimination, which would contradict Congress's decision not to make sexual orientation
+discrimination cognizable under Title VII. Nevertheless, Wise cannot persuasively argue that
+because Prowel is homosexual, he is precluded from bringing a gender stereotyping claim. There
+is no basis in the statutory or case law to support the notion that an effeminate heterosexual man
+can bring a gender stereotyping claim while an effeminate homosexual man may not. As long as
+the employee-regardless of his or her sexual orientation-marshals sufficient evidence such that a
+
+                                                              28
+reasonable jury could conclude that harassment or discrimination occurred "because of sex," the
+case is not appropriate for summary judgment. For the reasons we have articulated, Prowel has
+adduced sufficient evidence to submit this claim to a jury.
+
+V.
+Prowel also argues that the District Court erred when it granted Wise summary judgment on his
+claim of religious harassment. To survive summary judgment on this claim, Prowel must show:
+(1) intentional harassment because of religion, that (2) was severe or pervasive, and (3)
+detrimentally affected him, and (4) would detrimentally affect a reasonable person of the same
+religion in that position, and (5) the existence of respondeat superior liability. Abramson, 260 F.3d
+at 276-77.
+
+Our review of the record leads to the conclusion that Prowel cannot satisfy the first essential
+element of his cause of action. Prowel admits that no one at Wise harassed him based
+on his religious beliefs. Rather, Prowel contends that he was harassed for failing to conform
+to Wise's religious beliefs. Title VII seeks to protect employees not only from discrimination
+against them on the basis of their religious beliefs, but also from forced religious
+conformity. Harris v. Forklift Sys., Inc., 510 U.S. 17, 20, 114 S.Ct. 367, 126 L.Ed.2d 295
+(1993); Abramson, 260 F.3d at 277. Nevertheless, when asked to identify which of Wise's beliefs
+to which he failed to conform, Prowel could identify just one: "that a man should not lay with
+another man." Likewise, in response to Wise's statement of undisputed material facts, Prowel
+admitted: "the only way in which [he] failed to conform to his co-workers' religious beliefs was
+by virtue of his status as a gay man." Finally, over a month after Wise moved for summary
+judgment, Prowel averred that he suffered religious harassment because: "I am a gay male, which
+status several of my co-workers considered to be contrary to being a good Christian."
+
+Prowel's identification of this single "religious" belief leads ineluctably to the conclusion that he
+was harassed not "because of religion," but because of his sexual orientation. Given Congress's
+repeated rejection of legislation that would have extended Title VII to cover sexual
+orientation, see Bibby, 260 F.3d at 261, we cannot accept Prowel's de facto invitation to hold that
+he was discriminated against "because of religion" merely by virtue of his homosexuality.
+
+In support of his argument that the District Court should not have granted Wise summary judgment
+on his religious harassment claim, Prowel relies upon Erdmann v. Tranquility Inc., 155 F. Supp.2d
+1152 (N.D. Cal. 2001). In Erdmann, a homosexual employee claimed religious discrimination
+because his boss insisted that he become heterosexual. Id. at 1156. Wholly apart from the fact that
+it is not binding precedent, Erdmann cannot bear the weight Prowel places upon it. Unlike Prowel,
+Erdmann did not claim Title VII religious harassment based exclusively upon his homosexual
+status. Rather, the employer in that case insisted that Erdmann convert to the employer's faith and
+lead the company's daily prayer service. Id. at 1158. Prowel has not cited any facts supporting
+analogous religious coercion.
+
+In sum, the same principle that requires Prowel's gender stereotyping claim to be submitted to the
+jury requires that his religious harassment claim fail at this stage. As explained above, Prowel's
+gender stereotyping claim is not limited to, or coextensive with, a claim of sexual orientation
+
+                                                              29
+harassment. Accordingly, the jury will have to determine the basis of the harassment. By contrast,
+Prowel's religious harassment claim is based entirely upon his status as a gay man. Because
+Prowel's claim was a repackaged claim for sexual orientation discrimination-which is not
+cognizable under Title VII-we hold that the District Court did not err in granting Wise summary
+judgment on that claim.
+
+VI.
+For the foregoing reasons, we will vacate the judgment of the District Court . . . and will remand
+for further proceedings consistent with this opinion.
+
+Notes and Questions
+
+1. Sexual Orientation and Title VII: Every circuit court of appeals that has reached the
+issue, except one, has held that Title VII does not protect against sexual orientation discrimination.
+See Hively v. Ivy-Tech Comm. Coll., 853 F.3d 339, 341-42 (7th Cir. 2017) (en banc) (collecting
+cases). The court in Prowel is in accord but explains that plaintiffs may "raise a gender stereotyping
+claim" under Title VII "provided they can demonstrate that the[ir] harasser was acting to punish
+noncompliance with gender stereotypes." Accordingly, the court stated that the dispositive
+question is whether Prowel was harassed because of his gender nonconformity, his homosexuality
+or both. The court opined that the record was unclear on those issues and thus was for a jury to
+decide. Do you agree with the court that the motivations underlying Prowel's harassers were
+unclear?
+
+2. Sexual Orientation vs. Gender Nonconformity (Status v. Conduct):
+Prowel demonstrates one approach courts have taken to analyze claims involving sex stereotyping
+that are asserted by individuals who are LGB or are perceived to be. In a now vacated opinion, a
+panel of the U.S. Court of Appeals for the Seventh Circuit recognized that courts have "with
+limited success, tr[ied] to figure out how to draw the line between gender nonconformity
+discrimination, which can form the basis of a legal claim based on sex stereotyping and sexual
+orientation discrimination, which cannot. See Hively v. Ivy-Tech Comm. Coll., 830 F.3d 698,
+vacated on other grounds by 853 F.3d 339, 346 & n.2 (7th Cir. 2017) (en banc). For instance, some
+courts have rejected claims of sex discrimination if they believe that the allegations that indicate
+sexual orientation discrimination outweigh those that indicate the discrimination occurred because
+of sex stereotyping. See e.g., Christiansen v. Omnicom Group, Inc., 167 F. Supp.3d 598, 618-21
+(S.D.N.Y. 2016), rev'd, 852 F.3d 195, 201 (2nd Cir. 2017) (although harasser referred to plaintiff
+as effeminate, the harasser showed multiple examples of anti-gay animus). Other courts have
+drawn a line although allegations of sex stereotyping and sexual orientation discrimination blur.
+See e.g., Burnett v. Union RR Co., No. 17-1012017 WL 2731284 (W.D. Pa. June 26, 2017) (finding
+that plaintiff had sufficiently alleged that he had been "subjected to a hostile work environment
+because of gender nonconformity" after, among other things, repeatedly being called "fag,"
+"butthole Burnett," "hot butt fagot" and being asked whether he "was taking it up the ass").
+
+                                                              30
+         Several courts, however, have concluded that it is impossible to draw lines in this area and
+have declined to try to do so. In other words, for LGB individuals, their sexual orientation, itself,
+is gender nonconforming and discrimination on that basis is actionable under Title VII. See e.g.,
+Winstead v. Lafayette Cnty. Bd. of Cnty. Comm'rs, 197 F. Supp.3d 1334, 1346 (N.D. Fla. 2016)
+("[G]ay people, simply by identifying themselves as gay, are violating the ultimate gender
+stereotype--heterosexual attraction. . . . When a "traditionally masculine" gay man is fired because
+he is gay, that firing is no less because of sex than when an "effeminate" gay man is fired). See
+Terveer v. Billington, 34 F. Supp.3d 100 (D. D.C. 2014) (denying employer's motion to dismiss;
+"Plaintiff has alleged that he is "a homosexual male whose sexual orientation is not consistent with
+the Defendant's perception of acceptable gender roles); Heller v. Columbia Edgewater Country
+Club, 195 F. Supp.2d 1212, 1224 (D. Ore. 2002) (denying employer's motion for summary
+judgment as a jury could find that the plaintiff (a woman) was harassed and discharged because of
+a failure to conform to how a woman ought to behave; plaintiff was attracted to other women and
+her supervisor believed that she should be attracted to and date men).
+
+         Still, LGB plaintiffs who fail to conform to gender norms in appearance, mannerisms and
+behavior in the workplace appear to have greater success pursuing sex discrimination claims based
+on sex stereotypes than have gender conforming LGB individuals. See e.g., Evans v. Georgia
+Regional Hosp., 850 F.3d 1248, 1254 (11th Cir 2017) (holding that Title VII does not protect
+against sexual orientation discrimination, but holding that the plaintiff should be allowed leave to
+amend her complaint to allege that her "decision to present herself in a masculine manner" resulted
+in adverse employment actions); Christiansen v. Omnicom Group, 852 F.3d 195, 201 (2nd Cir.
+2017) (holding that plaintiff's gender stereotyping allegations stated a Title VII claim; plaintiff
+"alleges that he was perceived by his supervisor as effeminate and submissive and that he was
+harassed for these reasons"); Vickers v. Fairfield Med. Ctr., 453 F.3d 757, 762 (6th Cir.2006)
+(holding that Price Waterhouse was concerned with gender nonconforming characteristics that
+were readily demonstrable in the workplace, such as appearance or mannerisms; employees are
+not protected merely because they are perceived to be homosexual); Nichols v. Azteca Restaurant
+Enters., Inc., 256 F.3d 864, 874 (9th Cir. 2001) (holding that consistent with Price Waterhouse,
+harassment based on the perception that a male employee was effeminate occurred because of sex);
+see also Brian Soucek, Perceived Homosexuals, 63 Am. U. L. Rev. 715, 726 (2014) (discussing
+trend among the courts: "In cases involving sexuality, plaintiffs tend to win if and only if they fail
+to conform to stereotypes in ways seen at work.").
+
+         What are the implications of protecting gay and lesbian employees under Title VII only if
+they fail to conform to gender norms in their behavior or appearance while leaving masculine gay
+men or feminine lesbians unprotected?
+
+3. Forced Religious Conformity: Prowel also alleged religious discrimination. The court
+explained that "Title VII seeks to protect employees not only from discrimination against them on
+the basis of their religious beliefs, but also from forced religious conformity." In a leading case
+addressing religious conformity, the Seventh Circuit described the prohibition as forbidding an
+employer from forcing employees "to measure up to [the employer's] religious expectations."
+
+                                                              31
+Venters v. City of Delphi, 123 F.3d 956, 972 (7th Cir. 1997) (a plaintiff "need only show that her
+perceived religious shortcomings . . . played a motivating role in [the employment decision]").
+
+         The court rejected Prowel's claim of religious discrimination because it was based on his
+failure to conform to his coworker's religious views about homosexuality. According to the court,
+Prowel's religious claim was an attempt to bootstrap protection for sexual orientation onto Title
+VII. Do you agree? If an employer is not allowed as a condition of employment to require an
+employee to live in accord with the employer's religious views, then should it matter what those
+views entail? Is Prowel being punished because the religious view pertains to homosexuality?
+Suppose Prowel's coworkers held strong religious views about the sanctity of marriage. Suppose
+also that Prowel is heterosexual and that his employer terminates him after learning that he is
+involved in an adulterous relationship with a married woman "in violation of God's command."
+Different result than in Prowel? See Sarenpa v. Express Images, Inc., No. Civ. 04-15 38
+(JRT/JSM), 2005 WL 329455 (D. Minn. Sept. 8, 2005) (addressing religious conformity claim in
+the context of an extramarital relationship); see also Terveer v. Billington, 34 F. Supp.3d 100 (D.
+D.C. 2014) (addressing religious conformity claim in the context of sexual orientation and
+disagreeing with Prowel).
+
+4. Retaliation: The district court granted summary judgment in favor of Wise on Prowel's
+retaliation claim. To assert such a claim, Prowel had to show that he engaged in protected activity,
+which may consist of opposing a practice Title VII makes unlawful (e.g., discrimination because
+of race or sex). See 42 U.S.C. § 2000e-3(a). The courts of appeals have universally held that
+plaintiffs meet that burden if they show they had a good faith, reasonable belief that the
+discriminatory practices about which they complain violate the statute. See Matthew W. Green Jr.,
+What's So Reasonable About Reasonableness? Rejecting a Case-Law Centered Approach to Title
+VII's Reasonable Belief Doctrine, 62 U. KAN. L. REV. 759, 771 & n.50 (2014). Because sexual
+orientation is not explicitly protected by Title VII, the district court held that Prowell could not
+have reasonably believed that discrimination on that basis was unlawful. Why does the Third
+Circuit reverse the district court with respect to the retaliation claim? Should employees who
+challenge sexual orientation discrimination in the workplace be protected from retaliation under
+Title VII? What factors should determine the reasonableness of an employee's belief about the
+unlawfulness of challenged conduct? Is it even reasonable to assume that lay employees know
+which traits are protected by federal law and which are not? See McCarthy v. R.J. Reynolds
+Tobacco Co., No. CIV. 2:09-2495 WBS DAD, 2011 WL 4006634, at *4 (E.D. Cal. Sept. 8, 2011)
+(finding for purposes of a retaliation claim that plaintiffs were reasonable in their belief that sexual
+orientation discrimination was unlawful under Title VII; noting the "growing gay rights movement
+in this country" as support for the reasonable belief).
+
+Problem 2
+
+Christopher Danvers was employed as a security guard at FMC, Inc., where he worked with 15
+other male security guards. Christopher alleges that after his coworkers learned that he had
+
+                                                              32
+befriended a "male homosexual" he was subjected to harassment. He alleged that his coworkers,
+among other things, made frequent derogatory comments regarding his sexual preferences and
+activities; frequently called him a "fag" and questioned his masculinity because of his "special
+friend"; asked him for sexual favors; repeatedly touched his crotch with a tape measure; shoved
+sanitary napkins in his face and simulated sex with a stuffed animal and then tried to push the
+stuffed animal into Danvers' crotch and backside. On another occasion, he alleged his coworkers
+handcuffed him, pulled down his pants and simulated sex with him while one of coworkers
+photographed the incident. The images were later placed in Christopher's workplace mailbox.
+Christopher says that his coworkers have repeatedly asked, but that he has refused to answer,
+whether he is gay.
+
+Christopher comes to you for advice on whether he has an actionable Title VII claim. Please advise
+him.
+
+Problem 3
+
+Thomas Lucas worked for ACME, Inc., for several years and while employed there, he enjoyed a
+cordial relationship with his supervisor Lois Hopscotch. That all seemed to change after Thomas
+married his partner, Joe Feldman. Lois had a habit of calling her subordinates by their last names
+and she treated Joe the same way, calling him "Lucas." After he married, however, Thomas would
+repeatedly remind Lois that he had taken Joe's last name and that she should call him "Feldman,"
+not "Lucas." Lois ignored his requests to be called by his married name. She told Thomas that she
+would never refer to him as "Feldman" because she refused to recognize his "so-called marriage"
+or his name change. "It's just not natural," she said. She told him that either he would go by
+"Lucas" or he'd have to find another job. When Thomas insisted on being called "Feldman," Lois
+fired him.
+
+Thomas comes to you for advice on whether he has an actionable Title VII claim. Please advise
+him.
+
+D. Sexual Orientation Discrimination Is Sex Discrimination
+
+Kimberly Hively v. Ivy Tech Community College of Indiana
+853 F.3d 359 (7th Cir. 2017) (en banc)
+
+Opinion
+
+WOOD, Chief Judge.
+
+Title VII of the Civil Rights Act of 1964 makes it unlawful for employers subject to the Act to
+discriminate on the basis of a person's "race, color, religion, sex, or national origin . . . ." 42 U.S.C.
+§ 2000e-2(a). For many years, the courts of appeals of this country understood the prohibition
+
+                                                              33
+against sex discrimination to exclude discrimination on the basis of a person's sexual orientation.
+The Supreme Court, however, has never spoken to that question. In this case, we have been asked
+to take a fresh look at our position in light of developments at the Supreme Court extending over
+two decades. We have done so, and we conclude today that discrimination on the basis of sexual
+orientation is a form of sex discrimination. We therefore reverse the district court's judgment
+dismissing Kimberly Hively's suit against Ivy Tech Community College and remand for further
+proceedings.
+
+I
+
+Hively is openly lesbian. She began teaching as a part-time, adjunct professor at Ivy Tech
+Community College's South Bend campus in 2000. Hoping to improve her lot, she applied for at
+least six full-time positions between 2009 and 2014. These efforts were unsuccessful; worse yet,
+in July 2014 her part-time contract was not renewed. Believing that Ivy Tech was spurning her
+because of her sexual orientation, she filed a pro se charge with the Equal Employment
+Opportunity Commission on December 13, 2013. It was short and to the point:
+
+  I have applied for several positions at IVY TECH, fulltime, in the last 5 years. I believe I am
+  being blocked from fulltime employment without just cause. I believe I am being discriminated
+  against based on my sexual orientation. I believe I have been discriminated against and that my
+  rights under Title VII of the Civil Rights Act of 1964 were violated.
+
+After receiving a right-to-sue letter, she filed this action in the district court (again acting pro se).
+Ivy Tech responded with a motion to dismiss for failure to state a claim on which relief can be
+granted. It argued that sexual orientation is not a protected class under Title VII. . . . Relying on a
+line of this court's cases exemplified by Hamner v. St. Vincent Hosp. and Health Care Ctr., Inc.,
+224 F.3d 701 (7th Cir. 2000), the district court granted Ivy Tech's motion and dismissed Hively's
+case with prejudice.
+
+Now represented by the Lambda Legal Defense & Education Fund, Hively has appealed to this
+court. After an exhaustive exploration of the law governing claims involving discrimination based
+on sexual orientation, the panel affirmed. Hively v. Ivy Tech Cmty. Coll., 830 F.3d 698 (7th Cir.
+2016). It began its analysis by noting that the idea that discrimination based on sexual orientation
+is somehow distinct from sex discrimination originated with dicta in Ulane v. Eastern Airlines,
+Inc., 742 F.2d 1081 (7th Cir. 1984). Ulane stated (as if this resolved matters) that Title VII's
+prohibition against sex discrimination "implies that it is unlawful to discriminate against women
+because they are women and against men because they are men." Id. at 1085. From this truism, we
+deduced that "Congress had nothing more than the traditional notion of `sex' in mind when it voted
+to outlaw sex discrimination. . ." Doe v. City of Belleville, Ill., 119 F.3d 563, 572 (7th Cir. 1997),
+cert. granted, judgment vacated sub nom. City of Belleville v. Doe, 523 U.S. 1001 (1998),
+abrogated by Oncale v. Sundowner Offshore Servs., Inc., 523 U.S. 75 (1998).
+
+...
+
+Almost all of our sister circuits have understood the law in the same way. . . .
+
+                                                              34
+...
+
+That is not because the Supreme Court has left this subject entirely to the side. To the contrary, as
+the panel recognized, over the years the Court has issued several opinions that are relevant to the
+issue before us. Key among those decisions are Price Waterhouse v. Hopkins, 490 U.S. 228 (1989),
+and Oncale v. Sundowner Offshore Servs., Inc., 523 U.S. 75 (1998). Price Waterhouse held that
+the practice of gender stereotyping falls within Title VII's prohibition against sex discrimination,
+and Oncale clarified that it makes no difference if the sex of the harasser is (or is not) the same as
+the sex of the victim. Our panel frankly acknowledged how difficult it is "to extricate the gender
+nonconformity claims from the sexual orientation claims." 830 F.3d at 709. That effort, it
+commented, has led to a "confused hodge-podge of cases." Id. at 711. It also noted that "all gay,
+lesbian and bisexual persons fail to comply with the sine qua non of gender stereotypes--that all
+men should form intimate relationships only with women, and all women should form intimate
+relationships only with men." Id. Especially since the Supreme Court's recognition that the Due
+Process and Equal Protection Clauses of the Constitution protect the right of same-sex couples to
+marry, Obergefell v. Hodges, 135 S.Ct. 2584 (2015), bizarre results ensue from the current regime.
+As the panel noted, it creates "a paradoxical legal landscape in which a person can be married on
+Saturday and then fired on Monday for just that act." 830 F.3d at 714. Finally, the panel highlighted
+the sharp tension between a rule that fails to recognize that discrimination on the basis of the sex
+with whom a person associates is a form of sex discrimination, and the rule, recognized since
+Loving v. Virginia, 388 U.S. 1 (1967), that discrimination on the basis of the race with whom a
+person associates is a form of racial discrimination.
+
+...
+
+II
+
+A
+
+The question before us is not whether this court can, or should, "amend" Title VII to add a new
+protected category to the familiar list of "race, color, religion, sex, or national origin." 42 U.S.C.
+§ 2000e-2(a). Obviously that lies beyond our power. We must decide instead what it means to
+discriminate on the basis of sex, and in particular, whether actions taken on the basis of sexual
+orientation are a subset of actions taken on the basis of sex. This is a pure question of statutory
+interpretation and thus well within the judiciary's competence.
+
+...
+
+Ivy Tech sets great store on the fact that Congress has frequently considered amending Title VII
+to add the words "sexual orientation" to the list of prohibited characteristics, yet it has never done
+so. Many of our sister circuits have also noted this fact. In our view, however, it is simply too
+difficult to draw a reliable inference from these truncated legislative initiatives to rest our opinion
+
+                                                              35
+on them. The goalposts have been moving over the years, as the Supreme Court has shed more
+light on the scope of the language that already is in the statute: no sex discrimination.
+
+The dissent makes much of the fact that Congresses acting more than thirty years after the passage
+of Title VII made use of the term "sexual orientation" to prohibit discrimination or violence on
+that basis in statutes such as the Violence Against Women Act and the federal Hate Crimes Act.
+But this gets us no closer to answering the question at hand, for Congress may certainly choose to
+use both a belt and suspenders to achieve its objectives, and the fact that "sex" and "sexual
+orientation" discrimination may overlap in later statutes is of no help in determining whether
+sexual orientation discrimination is discrimination on the basis of sex for the purposes of Title VII.
+See, e.g., McEvoy v. IEI Barge Servs., Inc., 622 F.3d 671, 677 (7th Cir. 2010) ("Congress may
+choose a belt-and-suspenders approach to promote its policy objectives ... .").
+
+Moreover, the agency most closely associated with this law, the Equal Employment Opportunity
+Commission, in 2015 announced that it now takes the position that Title VII's prohibition against
+sex discrimination encompasses discrimination on the basis of sexual orientation. See Baldwin v.
+Foxx, EEOC Appeal No. 0120133080, 2015 WL 4397641 (July 15, 2015). Our point here is not
+that we have a duty to defer to the EEOC's position. We assume for present purposes that no such
+duty exists. But the Commission's position may have caused some in Congress to think that
+legislation is needed to carve sexual orientation out of the statute, not to put it in. In the end, we
+have no idea what inference to draw from congressional inaction or later enactments, because there
+is no way of knowing what explains each individual member's votes, much less what explains the
+failure of the body as a whole to change this 1964 statute.
+
+Our interpretive task is guided instead by the Supreme Court's approach in the closely related case
+of Oncale, where it had this to say as it addressed the question whether Title VII covers sexual
+harassment inflicted by a man on a male victim:
+
+  We see no justification in the statutory language or our precedents for a categorical rule
+  excluding same-sex harassment claims from the coverage of Title VII. As some courts have
+  observed, male-on-male sexual harassment in the workplace was assuredly not the principal evil
+  Congress was concerned with when it enacted Title VII. But statutory prohibitions often go
+  beyond the principal evil to cover reasonably comparable evils, and it is ultimately the provisions
+  of our laws rather than the principal concerns of our legislators by which we are governed. Title
+  VII prohibits "discriminat[ion] . . . because of . . . sex" in the "terms" or "conditions" of
+  employment. Our holding that this includes sexual harassment must extend to sexual harassment
+  of any kind that meets the statutory requirements.
+
+523 U.S. at 79-80. The Court could not have been clearer: the fact that the enacting Congress may
+not have anticipated a particular application of the law cannot stand in the way of the provisions
+of the law that are on the books.
+
+It is therefore neither here nor there that the Congress that enacted the Civil Rights Act in 1964
+and chose to include sex as a prohibited basis for employment discrimination (no matter why it
+did so) may not have realized or understood the full scope of the words it chose. [eds. note: The
+court set forth other instances in which the Supreme Court recognized Title VII's prohibition
+
+                                                              36
+against sex discrimination may be violated in ways that Congress in 1964 may not have
+anticipated--e.g., sexual harassment and same-sex harassment].
+
+B
+
+Hively offers two approaches in support of her contention that "sex discrimination" includes
+discrimination on the basis of sexual orientation. The first relies on the tried-and-true comparative
+method in which we attempt to isolate the significance of the plaintiff's sex to the employer's
+decision: has she described a situation in which, holding all other things constant and changing
+only her sex, she would have been treated the same way? The second relies on the Loving v.
+Virginia, 388 U.S. 1 (1967), line of cases, which she argues protect her right to associate intimately
+with a person of the same sex. Although the analysis differs somewhat, both avenues end up in the
+same place: sex discrimination.
+
+1
+
+It is critical, in applying the comparative method, to be sure that only the variable of the plaintiff's
+sex is allowed to change. The fundamental question is not whether a lesbian is being treated better
+or worse than gay men, bisexuals, or transsexuals, because such a comparison shifts too many
+pieces at once. Framing the question that way swaps the critical characteristic (here, sex) for both
+the complainant and the comparator and thus obscures the key point--whether the complainant's
+protected characteristic played a role in the adverse employment decision. The counterfactual we
+must use is a situation in which Hively is a man, but everything else stays the same: in particular,
+the sex or gender of the partner.
+
+Hively alleges that if she had been a man married to a woman (or living with a woman, or dating
+a woman) and everything else had stayed the same, Ivy Tech would not have refused to promote
+her and would not have fired her. . . . To use the phrase from Ulane, Ivy Tech is disadvantaging
+her because she is a woman. Nothing in the complaint hints that Ivy Tech has an anti-marriage
+policy that extends to heterosexual relationships, or for that matter even an anti-partnership policy
+that is gender-neutral.
+
+Viewed through the lens of the gender non-conformity line of cases, Hively represents the ultimate
+case of failure to conform to the female stereotype (at least as understood in a place such as modern
+America, which views heterosexuality as the norm and other forms of sexuality as exceptional):
+she is not heterosexual. Our panel described the line between a gender nonconformity claim and
+one based on sexual orientation as gossamer-thin; we conclude that it does not exist at all. Hively's
+claim is no different from the claims brought by women who were rejected for jobs in traditionally
+male workplaces, such as fire departments, construction, and policing. The employers in those
+cases were policing the boundaries of what jobs or behaviors they found acceptable for a woman
+(or in some cases, for a man).
+
+                                                              37
+This was the critical point that the Supreme Court was making in [Price Waterhouse v.] Hopkins.
+. . . And even before Hopkins, courts had found sex discrimination in situations where women
+were resisting stereotypical roles. As far back as 1971, the Supreme Court held that Title VII does
+not permit an employer to refuse to hire women with pre-school-age children, but not men. Phillips
+v. Martin Marietta Corp., 400 U.S. 542 (1971). Around the same time, this court held that Title
+VII "strike[s] at the entire spectrum of disparate treatment of men and women resulting from sex
+stereotypes," Sprogis v. United Air Lines, Inc., 444 F.2d 1194, 1198 (7th Cir. 1971), and struck
+down a rule requiring only the female employees to be unmarried. In both those instances, the
+employer's rule did not affect every woman in the workforce. Just so here: a policy that
+discriminates on the basis of sexual orientation does not affect every woman, or every man, but it
+is based on assumptions about the proper behavior for someone of a given sex. The discriminatory
+behavior does not exist without taking the victim's biological sex (either as observed at birth or as
+modified, in the case of transsexuals) into account. Any discomfort, disapproval, or job decision
+based on the fact that the complainant--woman or man--dresses differently, speaks differently,
+or dates or marries a same-sex partner, is a reaction purely and simply based on sex. That means
+that it falls within Title VII's prohibition against sex discrimination, if it affects employment in
+one of the specified ways.
+
+. . .
+
+2
+
+As we noted earlier, Hively also has argued that action based on sexual orientation is sex
+discrimination under the associational theory. It is now accepted that a person who is discriminated
+against because of the protected characteristic of one with whom she associates is actually being
+disadvantaged because of her own traits. This line of cases began with Loving, in which the
+Supreme Court held that "restricting the freedom to marry solely because of racial classifications
+violates the central meaning of the Equal Protection Clause." 388 U.S. at 12. The Court rejected
+the argument that miscegenation statutes do not violate equal protection because they "punish
+equally both the white and the Negro participants in an interracial marriage." Id. at 8. When dealing
+with a statute containing racial classifications, it wrote, "the fact of equal application does not
+immunize the statute from the very heavy burden of justification" required by the Fourteenth
+Amendment for lines drawn by race. Id. at 9.
+
+In effect, both parties to the interracial marriage were being denied important rights by the state
+solely on the basis of their race. This point by now has been recognized for many years. For
+example, in Parr v. Woodmen of the World Life Ins. Co., 791 F.2d 888 (11th Cir. 1986), the
+Eleventh Circuit considered a case in which a white man (Parr) married to an African-American
+woman was denied employment by an insurance company because of his interracial marriage. He
+sued under Title VII, but the district court dismissed the complaint on the ground that it failed to
+describe discrimination on the basis of race. The court of appeals reversed. It held that "[w]here a
+plaintiff claims discrimination based upon an interracial marriage or association, he alleges, by
+definition, that he has been discriminated against because of his race." Id. at 892. . . .
+
+                                                              38
+The fact that we now accept this analysis tells us nothing, however, about the world in 1967, when
+Loving reached the Supreme Court. The dissent implies that we are adopting an anachronistic view
+of Title VII, enacted just three years before Loving, but it is the dissent's understanding of Loving
+and the miscegenation laws that is an anachronism. Thanks to Loving and the later cases we
+mentioned, society understands now that such laws are (and always were) inherently racist. But as
+of 1967 (and thus as of 1964), Virginia and 15 other states had anti-miscegenation laws on the
+books. Loving, 388 U.S. at 6. These laws were long defended and understood as non-
+discriminatory because the legal obstacle affected both partners. The Court in Loving recognized
+that equal application of a law that prohibited conduct only between members of different races
+did not save it. Changing the race of one partner made a difference in determining the legality of
+the conduct, and so the law rested on "distinctions drawn according to race," which were
+unjustifiable and racially discriminatory. Loving, 388 U.S. at 11. So too, here. If we were to change
+the sex of one partner in a lesbian relationship, the outcome would be different. This reveals that
+the discrimination rests on distinctions drawn according to sex.
+
+The dissent would instead have us compare the treatment of men who are attracted to members of
+the male sex with the treatment of women who are attracted to members of the female sex, and ask
+whether an employer treats the men differently from the women. But even setting to one side the
+logical fallacy involved, Loving shows why this fails. In the context of interracial relationships,
+we could just as easily hold constant a variable such as "sexual or romantic attraction to persons
+of a different race" and ask whether an employer treated persons of different races who shared that
+propensity the same. That is precisely the rule that Loving rejected, and so too must we, in the
+context of sexual associations.
+
+The fact that Loving [and Title VII cases] deal with racial associations, as opposed to those based
+on color, national origin, religion, or sex, is of no moment. The text of the statute draws no
+distinction, for this purpose, among the different varieties of discrimination it addresses--a fact
+recognized by the Hopkins plurality. See 490 U.S. at 244 n.9. This means that to the extent that
+the statute prohibits discrimination on the basis of the race of someone with whom the plaintiff
+associates, it also prohibits discrimination on the basis of the national origin, or the color, or the
+religion, or (as relevant here) the sex of the associate. No matter which category is involved, the
+essence of the claim is that the plaintiff would not be suffering the adverse action had his or her
+sex, race, color, national origin, or religion been different.
+
+III
+
+Today's decision must be understood against the backdrop of the Supreme Court's decisions, not
+only in the field of employment discrimination, but also in the area of broader discrimination on
+the basis of sexual orientation. We already have discussed the employment cases, especially
+Hopkins and Oncale. The latter line of cases began with Romer v. Evans, 517 U.S. 620 (1996), in
+which the Court held that a provision of the Colorado Constitution forbidding any organ of
+government in the state from taking action designed to protect "homosexual, lesbian, or bisexual"
+persons, id. at 624, violated the federal Equal Protection Clause. Romer was followed by Lawrence
+
+                                                              39
+v. Texas, 539 U.S. 558 (2003), in which the Court found that a Texas statute criminalizing
+homosexual intimacy between consenting adults violated the liberty provision of the Due Process
+Clause. Next came United States v. Windsor, 133 S.Ct. 2675 (2013), which addressed the
+constitutionality of the part of the Defense of Marriage Act (DOMA) that excluded a same-sex
+partner from the definition of "spouse" in other federal statutes. The Court held that this part of
+DOMA "violate[d] basic due process and equal protection principles applicable to the Federal
+Government." Id. at 2693. Finally, the Court's decision in Obergefell, supra, held that the right to
+marry is a fundamental liberty right, protected by the Due Process and Equal Protection Clauses
+of the Fourteenth Amendment. 135 S.Ct. at 2604. The Court wrote that "[i]t is now clear that the
+challenged laws burden the liberty of same-sex couples, and it must be further acknowledged that
+they abridge central precepts of equality." Id.
+
+. . .
+
+We close by noting that we have decided only the issue put before us. Additional complications
+can be saved for another day, when they are actually involved in the case. Ivy Tech did not contend,
+for example, that it was a religious institution and the positions it denied to Hively related to a
+religious mission. See 42 U.S.C. § 2000e-1(a). Nor have we had any occasion to consider the
+meaning of discrimination in the context of the provision of social or public services. We hold
+only that a person who alleges that she experienced employment discrimination on the basis of her
+sexual orientation has put forth a case of sex discrimination for Title VII purposes. It was therefore
+wrong to dismiss Hively's complaint for failure to state a claim. The judgment of the district court
+is REVERSED and the case is REMANDED for further proceedings.
+
+[The concurring opinions by Judge Posner and Judge Flaum are omitted]
+
+SYKES, Circuit Judge, with whom BAUER and KANNE, Circuit Judges, join, dissenting.
+
+. . .
+
+Respect for the constraints imposed on the judiciary by a system of written law must begin with
+fidelity to the traditional first principle of statutory interpretation: When a statute supplies the rule
+of decision, our role is to give effect to the enacted text, interpreting the statutory language as a
+reasonable person would have understood it at the time of enactment. We are not authorized to
+infuse the text with a new or unconventional meaning or to update it to respond to changed social,
+economic, or political conditions.
+
+. . .
+
+                                                              40
+I
+
+. . .
+
+A
+
+[A]s a matter of interpretive method, I agree with my colleagues that the scope of Title VII is not
+limited by the subjective intentions of the enacting legislators. Or as Chief Judge Wood puts it in
+her elegant opinion for the en banc majority, the expectations of the enacting legislators "cannot
+stand in the way of the provisions of the law that are on the books."
+
+B
+
+That is where our agreement ends. The en banc majority rests its new interpretation of sex
+discrimination on a thought experiment drawn from the "tried-and-true" comparative method of
+proof often used by plaintiffs in discrimination cases. Id. at p. 11. The majority also invokes Loving
+v. Virginia, 388 U.S. 1 (1967), the Supreme Court's historic decision striking down Virginia's
+miscegenation laws under the Fourteenth Amendment's Equal Protection Clause, as well as cases
+involving sex stereotyping, most prominently Price Waterhouse v. Hopkins, 490 U.S. 228 (1989).
+
+But the analysis must begin with the statutory text; it largely ends there too. Is it even remotely
+plausible that in 1964, when Title VII was adopted, a reasonable person competent in the English
+language would have understood that a law banning employment discrimination "because of sex"
+also banned discrimination because of sexual orientation? The answer is no, of course not.
+
+"It is a fundamental canon of statutory construction that, unless otherwise defined, words will be
+interpreted as taking their ordinary, contemporary, common meaning." Sandifer v. U.S. Steel
+Corp., 134 S. Ct. 870, 876 (2014) (internal quotation marks omitted). The word "contemporary"
+as used here means contemporaneous with the statute's enactment, not "contemporary" as in
+"now." Id. at 876-77; see also Jackson v. Blitt & Gaines, P.C., 833 F.3d 860, 863 (7th Cir. 2016)
+(citing Sandifer and explaining that statutory interpretation "look[s] to the meaning of the word[s]
+at the time the statute was enacted"). The interpretive inquiry looks to the original public meaning
+of the statutory text.
+
+Title VII does not define discrimination "because of sex." In common, ordinary usage in 1964--
+and now, for that matter--the word "sex" means biologically male or female; it does not also refer
+to sexual orientation. See, e.g., Sex, THE AMERICAN HERITAGE DICTIONARY OF THE
+ENGLISH LANGUAGE (1st ed. 1969) (defining "sex" as "[t]he property or quality by which
+organisms are classified according to their reproductive functions[;] [e]ither of two divisions,
+designated male and female, of this classification"); Sex, NEW OXFORD AMERICAN
+DICTIONARY (3d ed. 2010) (defining "sex" as "either of the two main categories (male and
+female) into which humans and many other living things are divided on the basis of their
+
+                                                              41
+reproductive functions"); Sex, THE AMERICAN HERITAGE DESK DICTIONARY (5th ed.
+2013) (defining "sex" as "[e]ither of the two divisions, female and male, by which most organisms
+are classified on the basis of their reproductive organs and functions[;] [t]he condition or character
+of being female or male").
+
+To a fluent speaker of the English language--then and now--the ordinary meaning of the word
+"sex" does not fairly include the concept of "sexual orientation." The two terms are never used
+interchangeably, and the latter is not subsumed within the former; there is no overlap in meaning.
+Contrary to the majority's vivid rhetorical claim, it does not take "considerable calisthenics" to
+separate the two. The words plainly describe different traits, and the separate and distinct meaning
+of each term is easily grasped. More specifically to the point here, discrimination "because of sex"
+is not reasonably understood to include discrimination based on sexual orientation, a different
+immutable characteristic. Classifying people by sexual orientation is different than classifying
+them by sex. . . .
+
+...
+
+C
+
+This commonsense understanding is confirmed by the language Congress uses when it does
+legislate against sexual-orientation discrimination. For example, the Violence Against Women Act
+prohibits funded programs and activities from discriminating "on the basis of actual or perceived
+race, color, religion, national origin, sex, gender identity, . . . sexual orientation, or disability." 42
+U.S.C. § 13925(b)(13)(A) (emphases added). If sex discrimination is commonly understood to
+encompass sexual-orientation discrimination, then listing the two categories separately, as this
+statute does, is needless surplusage. The federal Hate Crimes Act is another example. It imposes a
+heightened punishment for causing or attempting to cause bodily injury "to any person, because
+of the actual or perceived religion, national origin, gender, sexual orientation, gender identity, or
+disability of any person." 18 U.S.C. § 249(a)(2)(A) (emphases added).
+
+. . .
+
+This uniformity of usage is powerful objective evidence that sexual-orientation discrimination is
+broadly recognized as an independent category of discrimination and is not synonymous with sex
+discrimination.
+
+II
+
+My colleagues in the majority superficially acknowledge Ulane's "truism" that sex discrimination
+is discrimination based on a person's biological sex. As they see it, however, even if sex
+discrimination is understood in the ordinary way, sexual-orientation discrimination is sex
+discrimination because "it is actually impossible to discriminate on the basis of sexual orientation
+
+                                                              42
+without discriminating on the basis of sex."
+
+Not true. An employer who refuses to hire homosexuals is not drawing a line based on the job
+applicant's sex. He is not excluding gay men because they are men and lesbians because they are
+women. His discriminatory motivation is independent of and unrelated to the applicant's sex.
+Sexism (misandry and misogyny) and homophobia are separate kinds of prejudice that classify
+people in distinct ways based on different immutable characteristics. Simply put, sexual-
+orientation discrimination doesn't classify people by sex; it doesn't draw male/female distinctions
+but instead targets homosexual men and women for harsher treatment than heterosexual men and
+women.
+
+. . .
+
+III
+
+A
+
+The majority also draws on Loving, the Supreme Court's iconic decision invalidating Virginia's
+miscegenation statutes on equal-protection grounds. This case is not a variant of Loving.
+Miscegenation laws plainly employ invidious racial classifications; they are inherently racially
+discriminatory. In contrast, sexual-orientation discrimination springs from a wholly different kind
+of bias than sex discrimination. The two forms of discrimination classify people based on different
+traits and thus are not the same.
+
+In Loving, Virginia tried to defend its antimiscegenation regime by insisting that miscegenation
+statutes do not actually discriminate based on race because both the black and white spouses in an
+interracial marriage are punished equally. 388 U.S. at 8 ("[T]he State contends that, because its
+miscegenation statutes punish equally both the white and the Negro participants in an interracial
+marriage, these statutes, despite their reliance on racial classifications[,] do not constitute an
+invidious discrimination based upon race."). The Supreme Court made short work of that specious
+argument: "[W]e deal [here] with statutes containing racial classifications, and the fact of equal
+application does not immunize the statute[s] from the very heavy burden of justification which the
+Fourteenth Amendment has traditionally required of state statutes drawn according to race." Id. at
+9.
+
+The Court went on to explain that the "clear and central purpose of the Fourteenth Amendment
+was to eliminate all official state sources of invidious racial discrimination in the States." Id. at 10.
+The Court continued with this: "There can be no question but that Virginia's miscegenation
+statutes rest solely upon distinctions drawn according to race. The statutes proscribe generally
+accepted conduct if engaged in by members of different races." Id. at 11. After explaining that the
+"[p]enalties for miscegenation arose as an incident to slavery," id. at 6, and are "designed to
+maintain White Supremacy," id. at 11, the Court announced its holding: "There can be no doubt
+that restricting the freedom to marry solely because of racial classifications violates the central
+meaning of the Equal Protection Clause," id. at 12.
+
+                                                              43
+As these passages from the Court's opinion make clear, Loving rests on the inescapable truth that
+miscegenation laws are inherently racist. They are premised on invidious ideas about white
+superiority and use racial classifications toward the end of racial purity and white supremacy.
+Sexual-orientation discrimination, on the other hand, is not inherently sexist. No one argues that
+sexual-orientation discrimination aims to promote or perpetuate the supremacy of one sex. In short,
+Loving neither compels nor supports the majority's decision to upend the long-settled
+understanding that sex discrimination and sexual-orientation discrimination are distinct.
+
+. . .
+
+B
+
+The majority also relies on cases involving sex stereotyping, most notably the Supreme Court's
+decision in Price Waterhouse v. Hopkins. More specifically, my colleagues conclude that a claim
+of sexual-orientation discrimination is indistinguishable from a claim involving sex stereotyping.
+I disagree. Nothing in Hopkins altered the traditional understanding that sexual-orientation
+discrimination is a distinct type of discrimination and is not synonymous with sex discrimination.
+
+To put the matter plainly, heterosexuality is not a female stereotype; it is not a male stereotype; it
+is not a sex-specific stereotype at all. An employer who hires only heterosexual employees is
+neither assuming nor insisting that his female and male employees match a stereotype specific to
+their sex. He is instead insisting that his employees match the dominant sexual orientation
+regardless of their sex. Sexual-orientation discrimination does not classify people according to
+invidious or idiosyncratic male or female stereotypes. It does not spring from a sex-specific bias
+at all.
+
+. . .
+
+C
+
+Neither does Oncale compel or support today's decision. Oncale held only that same-sex sexual
+harassment may, in an appropriate case, support a claim under Title VII provided that it "meets
+the statutory requirements." 523 U.S. at 79-80. The Court reiterated that in all sex-discrimination
+cases, including sexual-harassment cases, "[t]he critical issue, Title VII's text indicates, is whether
+members of one sex are exposed to disadvantageous terms or conditions of employment to which
+members of the other sex are not exposed." Id. at 80 (quotation marks omitted).
+
+[I]n authorizing claims of same-sex harassment as a theoretical matter, the Court carefully tethered
+all sexual-harassment claims to the statutory requirement that the plaintiff prove discrimination
+"because of sex." Nothing in Oncale eroded the distinction between sex discrimination and sexual-
+orientation discrimination or opened the door to a new interpretation of Title VII.
+
+                                                              44
+Oncale was not a revolutionary decision. In contrast, today's decision by the en banc court works
+a profound transformation of Title VII by any measure.
+
+D
+
+The majority also finds support for its decision in "the backdrop of the Supreme Court's decisions
+... in the area of broader discrimination on the basis of sexual orientation," citing Romer v. Evans,
+517 U.S. 620 (1996); Lawrence v. Texas, 539 U.S. 558 (2003); United States v. Windsor, 133 S.
+Ct. 2675 (2013); and Obergefell v. Hodges, 135 S. Ct. 2584 (2015).
+
+But the majority's position is actually irreconcilable with these cases. First, Lawrence was decided
+solely under the Due Process Clause; it was not an equal-protection case. 539 U.S. at 564. In the
+other cases, far from collapsing the well-understood distinction between sex discrimination and
+sexual-orientation discrimination, the Court actually preserved it. The Court assigned these two
+distinct forms of discrimination to different analytical categories for purposes of equal-protection
+scrutiny. If sex discrimination and sexual-orientation discrimination were really one and the same,
+then the Court would have applied the intermediate standard of scrutiny that governs judicial
+review of laws that classify people by sex. See United States v. Virginia, 518 U.S. 515, 531 (1996).
+It did not do so.
+
+E
+
+Finally, drawing especially on Obergefell, my colleagues worry that adhering to the long-settled
+interpretation of Title VII "creates `a paradoxical legal landscape in which a person can be married
+on Saturday and then fired on Monday for just that act.' " Majority Op. at p. 5 (quoting Hively v.
+Ivy Tech Cmty. Coll., 830 F.3d 698, 714 (7th Cir. 2016)). The concern is understandable, but my
+colleagues conflate the distinction between state action, which is subject to constitutional limits,
+and private action, which is regulated by statute. The Due Process and Equal Protection Clauses
+are constitutional restraints on government. Title VII is a statutory restraint on employers. The
+legal regimes differ accordingly. Any discrepancy is a matter for legislative, not judicial,
+correction.
+
+* * *
+
+If Kimberly Hively was denied a job because of her sexual orientation, she was treated unjustly.
+But Title VII does not provide a remedy for this kind of discrimination. The argument that it should
+must be addressed to Congress.
+
+IV
+                                                              45
+...
+
+. . .It's understandable that the court is impatient to protect lesbians and gay men from workplace
+discrimination without waiting for Congress to act. Legislative change is arduous and can be slow
+to come. But we're not authorized to amend Title VII by interpretation. The ordinary, reasonable,
+and fair meaning of sex discrimination as that term is used in Title VII does not include
+discrimination based on sexual orientation, a wholly different kind of discrimination. Because Title
+VII does not by its terms prohibit sexual-orientation discrimination, Hively's case was properly
+dismissed. I respectfully dissent.
+
+Notes and Questions
+
+1. Hively is the first and to date the only federal appeals court decision recognizing Title VII
+sexual orientation claims. The court notes that the EEOC reached the same conclusion in 2015
+after decades of stating that such claims fell outside the scope of Title VII. See Baldwin v. Foxx,
+EEOC Appeal No. 0120133080, 2015 WL 4397641 (July 15, 2015). As the Seventh Circuit
+explains, Baldwin is not binding on courts. However, some courts have found its reasoning
+persuasive and have adopted it. See e.g., Videckis v. Pepperdine University, 150 F. Supp.3d
+1151,1161 (C.D. Cal. 2015) (explaining that its holding recognizing sexual orientation
+discrimination under Title IX is consistent with Baldwin). But see Hinton v. Virginia Union Univ.,
+185 F. Supp.3d 807, 815017 (E.D. Va. 2016) (refusing to follow Baldwin). Although the Supreme
+Court has yet to speak on the issue, a plaintiff in 2017 filed a petition for certiorari with the Court
+after the Eleventh Circuit rejected her claim that Title VII prohibits employment discrimination on
+the basis of sexual orientation. See Evans v. Georgia Regional Hosp., 850 F.3d 1248, 1254 (11th
+Cir 2017), pet. for cert. filed, (No. 17-370), Sept. 7, 2017.
+
+         The EEOC maintains a list of judicial decisions addressing LGBT-related claims under
+Title VII, which you may find helpful to keep you apprised of the developing law in this area. See
+Examples of Court Decisions Supporting Coverage of LGBT-Related Discrimination Under Title
+VII, https://www.eeoc.gov/eeoc/newsroom/wysk/lgbt_examples_decisions.cfm, (last visited Sept.
+28, 2017).
+
+2. ("Lambda Legal") represented the plaintiff in Hively on appeal. In several instances, the
+dissent calls Lambda Legal's position that sexual orientation is a form of sex discrimination a
+"creative" and "new" interpretation of the statute. While as we know, courts at one time universally
+rejected the argument that discrimination because of sexual orientation is discrimination because
+of sex (recall DeSantis), plaintiffs have made these arguments for years. Thus, that interpretation
+of Title VII is not technically new or novel. Yet, doesn't Judge Sykes's broader point hold true?
+Until recently, courts have rejected the "sexual orientation is sex" argument. Moreover, Congress
+did not have sexual orientation in mind when it enacted Title VII, a point the majority does not
+contest. Why does the majority find these facts to be irrelevant to whether Title VII protects against
+
+                                                              46
+sexual orientation discrimination? In holding that sexual orientation discrimination is cognizable
+under Title VII, the majority cites Oncale for the proposition that Title VII is not limited to an
+interpretation anticipated by legislators in 1964 when the statute was enacted. How does Judge
+Sykes respond to the majority's reliance on Oncale for that proposition?
+
+3. Judge Sykes contends that sex and sexual orientation are distinct "immutable"
+characteristics, and that "powerful objective evidence" of that distinction is the fact that numerous
+federal and state statutes protect both characteristics, and thus treat them as "independent
+categor[ies] of discrimination." How does the majority opinion respond to this argument? Which
+position do you find more persuasive?
+
+4. Judge Sykes says that "sex discrimination is discrimination based on a person's biological
+sex." She chides the majority for its position that "it is impossible to discriminate on the basis of
+sexual orientation without discriminating on the basis of sex." Rather, according to Judge Sykes,
+an employer that discriminates against, say, gay men is not discriminating against them because
+they are men but because they are gay. The employer's target, she argues, is homosexual men, not
+men because they are men. Do you agree? Can sex and sexual orientation be so easily unpacked
+or are they inextricably linked?
+
+         According to the American Psychological Association ("APA"), "[s]exual acts or
+attractions are categorized as homosexual or heterosexual according to the biological sex of the
+individuals involved, relative to each other." See Obergefell v. Hodges, Brief of the American
+Psychological Association, et al., Nos. 14-556, 14-562, 14-571, 14-574, 2015 WL 1004713, at *10
+(2015). The APA also states that "[i]n the United States the most frequent labels [to define sexual
+orientation include] lesbians (women attracted to women), gay men (men attracted to men), and
+bisexual people (men or women attracted to both sexes)." See What is Sexual Orientation,
+American Psychological Association, http://www.apa.org/topics/lgbt/orientation.aspx, (last
+visited Sept. 28, 2017).
+
+         You may recall that Title VII is violated if discrimination is motivated, in part, by an
+individual's protected trait. See 42 U.S.C. § 2000e-2(m). Accordingly, the statute does not require
+that individuals prove that an employer discriminated against them solely because of their sex.
+Assuming if asked why he fired a lesbian employee, the employer responds that he did so "because
+of her sexual orientation," didn't the employee's sex, in part, motivate the employer's decision?
+See Hively, 853 F.3d at 358-59 (Flaum, J., concurring) (yes). Or does Judge Sykes have the more
+persuasive argument?
+
+5. The plaintiff in Hively invokes Loving v. Virginia to support her association claim based
+on sex. Why do the majority and dissenting opinions part ways on their understanding of whether
+Loving is relevant to the associational issues that arise in this case? Whose argument is more
+persuasive and why?
+
+                                                              47
+6. The court in Hively recognizes that in light of recent constitutional cases by the Supreme
+Court, particularly Obergefell v. Hodges, that "bizarre results would ensue under the current
+regime[;]. . . it creates a paradoxical legal landscape in which a person can be married on Saturday
+and then fired on Monday for just that act." While this is undoubtedly true, should those bizarre
+results have factored into the court's interpretation of Title VII? How does Judge Sykes respond
+to the majority's concern about the bizarre results that would ensue unless the court finds that
+sexual orientation claims fall within Title VII's protective scope?
+
+Problem 4
+
+Marcia Grady applies for a job as an analyst with Umbridge, Inc. Based on the job description she
+is well qualified for the position and indeed Umbridge invites her to interview with the company.
+Mr. Thomas Builders interviews Marcia. During the interview, he praises Marcia's qualifications
+and tells her that she seems "right for the job." Things turn sour after he asks her to tell him a little
+about herself. Marcia responds that she is happily married to a wonderful woman and that the
+couple have a two-year old daughter. Mr. Builders immediately responds "that won't do." He says
+that if she has a young child at home, her place is with her child "during its formative years." He
+explains that his own wife stayed home with each of their children until they were school age and
+he expects that any "decent mom would do the same." He then tells her that he also is not sure that
+her homosexual relationship would be a "good fit for Umbridge's image." He thanks her for
+coming in but tells her that he "just remembered that the position had already been filled."
+
+         Marcia suspects that the reason she didn't get the job is because of the details she shared
+about her personal life. She comes to you for advice. Assume that Builders has no problem hiring
+women and thus doesn't discriminate against women because they are women. Assume that courts
+in your jurisdiction (none of which you are bound to follow) have reached inconsistent results
+concerning the viability of Title VII sexual orientation claims. However, all courts in your
+jurisdiction recognize that employers may not engage in sex stereotyping. How would you advise
+Marcia? For purposes of Title VII, in what ways, if any, would a claim involving her parental
+status differ from your analysis of her sexual orientation claim?
+
+IV. Gender Identity and Expression
+
+         According to the American Psychological Association, "[t]ransgender is an umbrella term
+for persons whose gender identity [one's internal sense of being male, female or something else],
+gender expression or behavior does not conform to that typically associated with the sex to which
+they were assigned at birth." "What Does Gender Mean?" American Psychological Association,
+http://www.apa.org/topics/lgbt/transgender.aspx (last visited Sept. 28, 2017)); see also Jillian
+Todd Weiss, Transgender Identity, Textualism, and the Supreme Court: What Is the "Plain
+
+                                                              48
+Meaning" of "Sex" in Title VII of the Civil Rights Act of 1964, 18 TEMP. POL & CIV. RTS. L. REV.
+573, 589 (2009) (explaining that "transgender" may "denote transsexuals, transvestites,
+crossdressers, and anyone else whose gender identity or gender expression varies from the
+dimorphic norm").
+
+         Plaintiffs have long argued that Title VII prohibits discrimination on the basis of
+transgender status or gender identity. Similar to the approach taken by the court in DeSantis
+regarding sexual orientation, early courts rejected these claims as well. See e.g., Ulane v. Eastern
+Airlines, 742 F.2d 1081, 1085 (7th Cir. 1984) (holding that Title VII does not protect employees
+against discrimination because of homosexuality, transsexuality or transvestitism). As with sexual
+orientation, Price Waterhouse also has changed the legal landscape for employees alleging
+discrimination on the basis of gender identity or expression. As we shall see, however, some courts
+and the EEOC have held that employees going through gender transition have other means to show
+that discrimination is "because of sex" beyond evidence of gender stereotyping.
+
+         Several of the cases discussed in this section refer to the plaintiffs involved in those cases
+as being "transsexual," i.e., "people whose gender identity is different from their assigned sex [and
+who] [o]ften . . . alter or wish to alter their bodies . . . to make [them] as congruent as possible with
+their gender identities." "What Does Gender Mean?," American Psychological Association,
+http://www.apa.org/topics/lgbt/transgender.aspx. However, unless otherwise indicated, the Notes
+and explanatory materials use the more inclusive term "transgender" to refer to all individuals
+whose gender identity, expression or both and their birth sex are incongruent.
+
+                                                              49
+A. Gender Identity and Expression and Sex Stereotyping
+
+Smith v. City of Salem, Ohio
+378 F.3d 566 (6th Cir. 2004).
+
+Before COLE and GILMAN, Circuit Judges; SCHWARZER, Senior District Judge.
+
+Amended Opinion
+
+COLE, Circuit Judge.
+
+Plaintiff-Appellant Jimmie L. Smith appeals from a judgment of the United States District Court
+for the Northern District of Ohio dismissing his claims against his employer, Defendant-Appellant
+City of Salem, Ohio, and various City officials, and granting judgment on the pleadings to
+Defendants, pursuant to Federal Rule of Civil Procedure 12(c). Smith, who considers himself a
+transsexual and has been diagnosed with Gender Identity Disorder, alleged that Defendants
+discriminated against him in his employment on the basis of sex. He asserted claims pursuant to
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e et seq., and 42 U.S.C. § 1983. The
+district court dismissed those claims pursuant to Rule 12(c). Smith also asserted state law claims
+for invasion of privacy and civil conspiracy; the district court dismissed those claims as well,
+having declined to exercise pendent jurisdiction over them.
+
+For the following reasons, we reverse the judgment of the district court and remand the case for
+further proceedings consistent with this opinion.
+
+I. BACKGROUND
+
+Smith is--and has been, at all times relevant to this action--employed by the city of Salem, Ohio,
+as a lieutenant in the Salem Fire Department (the "Fire Department"). Prior to the events
+surrounding this action, Smith worked for the Fire Department for seven years without any
+negative incidents. Smith--biologically and by birth a male--is a transsexual and has been
+diagnosed with Gender Identity Disorder ("GID"), which the American Psychiatric Association
+characterizes as a disjunction between an individual's sexual organs and sexual identity. American
+Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders 576-582 (4th
+ed.2000). After being diagnosed with GID, Smith began "expressing a more feminine appearance
+on a full-time basis"--including at work--in accordance with international medical protocols for
+treating GID. Soon thereafter, Smith's co-workers began questioning him about his appearance
+and commenting that his appearance and mannerisms were not "masculine enough." As a result,
+Smith notified his immediate supervisor, Defendant Thomas Eastek, about his GID diagnosis and
+treatment. He also informed Eastek of the likelihood that his treatment would eventually include
+complete physical transformation from male to female. Smith had approached Eastek in order to
+answer any questions Eastek might have concerning his appearance and manner and so that Eastek
+
+                                                              50
+could address Smith's co-workers' comments and inquiries. Smith specifically asked Eastek, and
+Eastek promised, not to divulge the substance of their conversation to any of his superiors,
+particularly to Defendant Walter Greenamyer, Chief of the Fire Department. In short order,
+however, Eastek told Greenamyer about Smith's behavior and his GID.
+
+Greenamyer then met with Defendant C. Brooke Zellers, the Law Director for the City of Salem,
+with the intention of using Smith's transsexualism and its manifestations as a basis for terminating
+his employment. On April 18, 2001, Greenamyer and Zellers arranged a meeting of the City's
+executive body to discuss Smith and devise a plan for terminating his employment. The executive
+body included Defendants Larry D. DeJane, Salem's mayor; James A. Armeni, Salem's auditor;
+and Joseph S. Julian, Salem's service director. Also present was Salem Safety Director Henry L.
+Willard, now deceased, who was never a named defendant in this action.
+
+. . .
+
+During the meeting, Greenamyer, DeJane, and Zellers agreed to arrange for the Salem Civil
+Service Commission to require Smith to undergo three separate psychological evaluations with
+physicians of the City's choosing. They hoped that Smith would either resign or refuse to comply.
+If he refused to comply, Defendants reasoned, they could terminate Smith's employment on the
+ground of insubordination. Willard, who remained silent during the meeting, telephoned Smith
+afterwards to inform him of the plan, calling Defendants' scheme a "witch hunt."
+
+Two days after the meeting, on April 20, 2001, Smith's counsel telephoned DeJane to advise him
+of Smith's legal representation and the potential legal ramifications for the City if it followed
+through on the plan devised by Defendants during the April 18 meeting. On April 22, 2001, Smith
+received his "right to sue" letter from the U.S. Equal Employment Opportunity Commission
+("EEOC"). Four days after that, on April 26, 2001, Greenamyer suspended Smith for one twenty-
+four hour shift, based on his alleged infraction of a City and/or Fire Department policy.
+
+. . .
+
+II. ANALYSIS
+On appeal, Smith contends that the district court erred in holding that: (1) he failed to state a claim
+of sex stereotyping; [and] (2) Title VII protection is unavailable to transsexuals. . . .
+
+                                                              51
+1. Sex Stereotyping
+
+Title VII of the Civil Rights Act of 1964 provides, in relevant part, that "[i]t shall be an unlawful
+employment practice for an employer ... to discriminate against any individual with respect to his
+compensation, terms, conditions, or privileges of employment because of such individual's race,
+color, religion, sex, or national origin." 42 U.S.C. § 2000e-2(a).
+
+In his complaint, Smith asserts Title VII claims of retaliation and employment discrimination
+"because of ... sex." The district court dismissed Smith's Title VII claims on the ground that he
+failed to state a claim for sex stereotyping pursuant to Price Waterhouse v. Hopkins, 490 U.S. 228,
+109 S.Ct. 1775, 104 L.Ed.2d 268 (1989). The district court implied that Smith's claim was
+disingenuous, stating that he merely "invokes the term-of-art created by Price Waterhouse, that is,
+`sex-stereotyping,' " as an end run around his "real" claim, which, the district court stated, was
+"based upon his transsexuality." The district court then held that "Title VII does not prohibit
+discrimination based on an individual's transsexualism."
+
+Relying on Price Waterhouse--which held that Title VII's prohibition of discrimination "because
+of . . . sex" bars gender discrimination, including discrimination based on sex stereotypes--Smith
+contends on appeal that he was a victim of discrimination "because of ... sex" both because of his
+gender non-conforming conduct and, more generally, because of his identification as a transsexual.
+
+We first address whether Smith has stated a claim for relief, pursuant to Price Waterhouse's
+prohibition of sex stereotyping, based on his gender non-conforming behavior and appearance. In
+Price Waterhouse, the plaintiff, a female senior manager in an accounting firm, was denied
+partnership in the firm, in part, because she was considered "macho." 490 U.S. at 235, 109 S.Ct.
+1775. She was advised that she could improve her chances for partnership if she were to take "a
+course at charm school," "walk more femininely, talk more femininely, dress more femininely,
+wear make-up, have her hair styled, and wear jewelry." Id. (internal quotation marks omitted). Six
+members of the Court agreed that such comments bespoke gender discrimination, holding that
+Title VII barred not just discrimination because Hopkins was a woman, but also sex stereotyping--
+that is, discrimination because she failed to act like a woman. Id. at 250-51, 109 S.Ct. 1775
+(plurality opinion of four Justices); id. at 258-61, 109 S.Ct. 1775 (White, J., concurring); id. at
+272-73, 109 S.Ct. 1775 (O'Connor, J., concurring) (accepting plurality's sex stereotyping analysis
+and characterizing the "failure to conform to [gender] stereotypes" as a discriminatory criterion;
+concurring separately to clarify the separate issues of causation and allocation of the burden of
+proof). As Judge Posner has pointed out, the term "gender" is one "borrowed from grammar to
+designate the sexes as viewed as social rather than biological classes." Richard A. Posner, Sex and
+Reason, 24-25 (1992). The Supreme Court made clear that in the context of Title VII,
+discrimination because of "sex" includes gender discrimination: "In the context of sex
+stereotyping, an employer who acts on the basis of a belief that a woman cannot be aggressive, or
+that she must not be, has acted on the basis of gender." Price Waterhouse, 490 U.S. at 250, 109
+S.Ct. 1775. The Court emphasized that "we are beyond the day when an employer could evaluate
+employees by assuming or insisting that they matched the stereotype associated with their group."
+Id. at 251, 109 S.Ct. 1775.
+
+                                                              52
+Smith contends that the same theory of sex stereotyping applies here. His complaint sets forth the
+conduct and mannerisms which, he alleges, did not conform with his employers' and co-workers'
+sex stereotypes of how a man should look and behave. Smith's complaint states that, after being
+diagnosed with GID, he began to express a more feminine appearance and manner on a regular
+basis, including at work. The complaint states that his co-workers began commenting on his
+appearance and mannerisms as not being masculine enough; and that his supervisors at the Fire
+Department and other municipal agents knew about this allegedly unmasculine conduct and
+appearance. The complaint then describes a high-level meeting among Smith's supervisors and
+other municipal officials regarding his employment. Defendants allegedly schemed to compel
+Smith's resignation by forcing him to undergo multiple psychological evaluations of his gender
+non-conforming behavior. The complaint makes clear that these meetings took place soon after
+Smith assumed a more feminine appearance and manner and after his conversation about this with
+Eastek. In addition, the complaint alleges that Smith was suspended for twenty-four hours for
+allegedly violating an unenacted municipal policy, and that the suspension was ordered in
+retaliation for his pursuing legal remedies after he had been informed about Defendants' plan to
+intimidate him into resigning. In short, Smith claims that the discrimination he experienced was
+based on his failure to conform to sex stereotypes by expressing less masculine, and more feminine
+mannerisms and appearance.
+
+Having alleged that his failure to conform to sex stereotypes concerning how a man should look
+and behave was the driving force behind Defendants' actions, Smith has sufficiently pleaded
+claims of sex stereotyping and gender discrimination.
+
+In so holding, we find that the district court erred in relying on a series of pre-Price Waterhouse
+cases from other federal appellate courts holding that transsexuals, as a class, are not entitled to
+Title VII protection because "Congress had a narrow view of sex in mind" and "never considered
+nor intended that [Title VII] apply to anything other than the traditional concept of sex." Ulane v.
+Eastern Airlines, Inc., 742 F.2d 1081, 1085, 1086 (7th Cir.1984); see also Holloway v. Arthur
+Andersen & Co., 566 F.2d 659, 661-63 (9th Cir.1977) (refusing to extend protection of Title VII
+to transsexuals because discrimination against transsexuals is based on "gender" rather than "sex").
+It is true that, in the past, federal appellate courts regarded Title VII as barring discrimination based
+only on "sex" (referring to an individual's anatomical and biological characteristics), but not on
+"gender" (referring to socially-constructed norms associated with a person's sex). See, e.g., Ulane,
+742 F.2d at 1084 (construing "sex" in Title VII narrowly to mean only anatomical sex rather than
+gender); Sommers v. Budget Mktg., Inc., 667 F.2d 748, 750 (8th Cir.1982) (holding that
+transsexuals are not protected by Title VII because the "plain meaning" must be ascribed to the
+term "sex" in the absence of clear congressional intent to do otherwise); Holloway, 566 F.2d at
+661-63 (refusing to extend protection of Title VII to transsexuals because discrimination against
+transsexualism is based on "gender" rather than "sex;" and "sex" should be given its traditional
+definition based on the anatomical characteristics dividing "organisms" and "living beings" into
+male and female). In this earlier jurisprudence, male-to-female transsexuals (who were the
+plaintiffs in Ulane, Sommers, and Holloway )--as biological males whose outward behavior and
+emotional identity did not conform to socially-prescribed expectations of masculinity--were
+denied Title VII protection by courts because they were considered victims of "gender" rather than
+"sex" discrimination.
+
+                                                              53
+However, the approach in Holloway, Sommers, and Ulane--and by the district court in this case--
+has been eviscerated by Price Waterhouse. See Schwenk v. Hartford, 204 F.3d 1187, 1201 (9th
+Cir.2000) ("The initial judicial approach taken in cases such as Holloway [and Ulane] has been
+overruled by the logic and language of Price Waterhouse."). By holding that Title VII protected a
+woman who failed to conform to social expectations concerning how a woman should look and
+behave, the Supreme Court established that Title VII's reference to "sex" encompasses both the
+biological differences between men and women, and gender discrimination, that is, discrimination
+based on a failure to conform to stereotypical gender norms.
+
+After Price Waterhouse, an employer who discriminates against women because, for instance, they
+do not wear dresses or makeup, is engaging in sex discrimination because the discrimination would
+not occur but for the victim's sex. It follows that employers who discriminate against men because
+they do wear dresses and makeup, or otherwise act femininely, are also engaging in sex
+discrimination, because the discrimination would not occur but for the victim's sex. . . .
+
+Yet some courts have held that this latter form of discrimination is of a different and somehow
+more permissible kind. For instance, the man who acts in ways typically associated with women
+is not described as engaging in the same activity as a woman who acts in ways typically associated
+with women, but is instead described as engaging in the different activity of being a transsexual
+(or in some instances, a homosexual or transvestite). Discrimination against the transsexual is then
+found not to be discrimination "because of . . . sex," but rather, discrimination against the plaintiff's
+unprotected status or mode of self-identification. In other words, these courts superimpose
+classifications such as "transsexual" on a plaintiff, and then legitimize discrimination based on the
+plaintiff's gender non-conformity by formalizing the non-conformity into an ostensibly
+unprotected classification. See, e.g., Dillon v. Frank, No. 90-2290, 1992 WL 5436 (6th Cir. Jan.15,
+1992).
+
+Such was the case here: despite the fact that Smith alleges that Defendants' discrimination was
+motivated by his appearance and mannerisms, which Defendants felt were inappropriate for his
+perceived sex, the district court expressly declined to discuss the applicability of Price
+Waterhouse. The district court therefore gave insufficient consideration to Smith's well-pleaded
+claims concerning his contra-gender behavior, but rather accounted for that behavior only insofar
+as it confirmed for the court Smith's status as a transsexual, which the district court held precluded
+Smith from Title VII protection.
+
+Such analyses cannot be reconciled with Price Waterhouse, which does not make Title VII
+protection against sex stereotyping conditional or provide any reason to exclude Title VII coverage
+for non sex-stereotypical behavior simply because the person is a transsexual. As such,
+discrimination against a plaintiff who is a transsexual--and therefore fails to act and/or identify
+with his or her gender--is no different from the discrimination directed against Ann Hopkins in
+Price Waterhouse, who, in sex-stereotypical terms, did not act like a woman. Sex stereotyping
+based on a person's gender non-conforming behavior is impermissible discrimination, irrespective
+of the cause of that behavior; a label, such as "transsexual," is not fatal to a sex discrimination
+claim where the victim has suffered discrimination because of his or her gender non-conformity.
+
+                                                              54
+Accordingly, we hold that Smith has stated a claim for relief pursuant to Title VII's prohibition of
+sex discrimination.
+
+Finally, we note that, in its opinion, the district court repeatedly places the term "sex stereotyping"
+in quotation marks and refers to it as a "term of art" used by Smith to disingenuously plead
+discrimination because of transsexualism. Similarly, Defendants refer to sex stereotyping as "the
+Price Waterhouse loophole." (Appellees' Brief at 6.) These characterizations are almost identical
+to the treatment that Price Waterhouse itself gave sex stereotyping in its briefs to the U.S. Supreme
+Court. As we do now, the Supreme Court noted the practice with disfavor, stating:
+
+            In the specific context of sex stereotyping, an employer who acts on the basis
+            of a belief that a woman cannot be aggressive, or that she must not be, has acted
+            on the basis of gender. Although the parties do not overtly dispute this last
+            proposition, the placement by Price Waterhouse of "sex stereotyping" in
+            quotation marks throughout its brief seems to us an insinuation either that such
+            stereotyping was not present in this case or that it lacks legal relevance. We
+            reject both possibilities.
+
+Price Waterhouse, 490 U.S. at 250, 109 S.Ct. 1775.
+
+Notes and Questions
+
+1. Hively revisited: The court in Smith notes that the district court below and other courts had
+relied on such cases as Ulane v. Eastern Airlines, Inc., 742 F.2d 1081, 1085-1086 (7th Cir. 1984)
+for the proposition that "transsexuals, as a class, are not entitled to Title VII protection. . . ." See
+also Etsitty v. Utah Transit Authority, 502 F.3d 1215, 1221 (10th Cir. 2007) (agreeing with Ulane
+that "discrimination against a transsexual based on the person's status as a transsexual is not
+discrimination because of sex under Title VII"). However, agreeing with the Ninth Circuit, the
+Sixth Circuit opines that Price Waterhouse has eviscerated the logic of Ulane and similar
+decisions. Ulane was decided by the Seventh Circuit, the same court that decided Hively, which
+held that Title VII prohibits sexual orientation discrimination. Considering the reasoning of the
+majority opinion in Hively, do you think if it again addressed the issue of gender identity
+discrimination, that the court would overrule Ulane?
+
+2. Sex Stereotypes and Transgender Employees: The Sixth Circuit in Smith held that
+discrimination against Jimmie Smith because of gender nonconformity violated Title VII. He did
+not lose that protection because he was transsexual. Relying on Price Waterhouse, numerous
+courts have held similarly. See e.g. Glenn v. Brumby, 663 F.3d 1312, 1318 & n.5 (11th Cir. 2011)
+(collecting cases); Lopez v. River Oaks Imaging, 542 F. Supp.2d 653 (S.D. Tex. 2008) ("Title VII
+is violated when an employer discriminates against any employee, transsexual or not, because he
+or she has failed to act or appear sufficiently masculine or feminine enough for an employer;" and
+collecting cases reaching similar conclusions). But see Etsitty v. Utah Transit Authority, 502 F.3d
+1215, 1224-26 (10th Cir. 2007) (assuming without deciding that a pre-operative transgender
+
+                                                              55
+woman had "established a prima facie case under the Price Waterhouse theory of gender
+stereotyping" but rejecting her claim because she failed to show her termination actually stemmed
+from failing to conform to sex stereotypes).
+
+3. Transgender Status/Identity or Conduct: The Smith court explained that "discrimination
+against a plaintiff who is a transsexual--and therefore fails to act and/or identify with his or her
+gender--is no different from the discrimination directed against Ann Hopkins in Price
+Waterhouse. . . ." Did the court hold that Jimmie Smith was protected under Title VII because of
+his transsexual status/identity or because of his gender nonconforming conduct? Would the result
+in the case have been the same if Smith's supervisor heard rumors that Smith was transsexual and
+fired him because of it? The version of Smith as it appears in this Chapter is an "Amended
+Opinion." The court's initial opinion had been issued a few months earlier and was subsequently
+vacated. The initial opinion contained the following paragraph, which was excluded from the
+Amended Opinion:
+
+         Even if Smith had alleged discrimination based only on his self-identification as a
+         transsexual-s opposed to his specific appearance and behavior-this claim too is
+         actionable pursuant to Title VII. By definition, transsexuals are individuals who fail
+         to conform to stereotypes about how those assigned a particular sex at birth should
+         act, dress, and self-identify. Ergo, identification as a transsexual is the statement or
+         admission that one wishes to be the opposite sex or does not relate to one's birth
+         sex. Such an admission-for instance the admission by a man that he self-identifies
+         as a woman and/or that he wishes to be a woman-itself violates the prevalent sex
+         stereotype that a man should perceive himself as a man. Discrimination based on
+         transsexualism is rooted in the insistence that sex (organs) and gender (social
+         classification of a person as belonging to one sex or the other) coincide. This is the
+         very essence of sex stereotyping.
+
+Smith v. City of Salem, Ohio, 369 F.3d 912 (6th Cir. 2004), vacated and superseded by 378 F.3d
+566 (6th Cir. 2004). Isn't discrimination against a transgender person per se unlawful under Title
+VII because it is based on the sex stereotype that a person's gender identity and expression should
+match the sex he or she was assigned at birth? Under that reasoning, individuals designated male
+at birth should identity as male as well as express a masculine behavior and appearance. Similarly,
+individuals designated female at birth should identity as female and express feminine traits? Why
+do you believe the court deleted this paragraph from the amended opinion?
+
+         Although the weight of authority recognizes that Title VII protects transgender individuals,
+like everyone else, there is disagreement on whether transgender status is protected. Compare
+Etsitty v. Utah Transit Authority, 502 F.3d 1215, 1224-26 (10th Cir. 2007) (discrimination based
+on transsexual status not protected under Title VII but claim based on sex stereotyping regarding
+how a man or woman "should act or appear" is cognizable) and Creed v. Family Express Corp.,
+No. 3:06-CV-465RM, 2009 WL 35237, at *6 (Jan. 5, 2009) ("Although discrimination because
+one's behavior doesn't conform to stereotypical ideas of one's gender may amount to actionable
+discrimination based on sex, harassment based on sexual preference or transgender status does
+
+                                                              56
+not.") with Roberts v. Clark County School Dist., 312 F.R.D. 594, 605-06 (D. Nev. 2016) (agreeing
+with position taken by the EEOC that "claims of discrimination based on transgender status, also
+referred to as claims of discrimination based on gender identity, are cognizable under Title VII's
+sex discrimination prohibition").
+
+4. Americans with Disabilities Act: Jimmie Smith was diagnosed with Gender Identity
+Disorder ("GID"). The American Psychiatric Association replaced that term with the term "Gender
+Dysphoria" in the most recent Diagnostic and Statistical Manual of Mental Disorders ("DSM-5").
+See Kothmann v. Rosario, 558 Fed.Appx. 907, 907 & n.2 (11th Cir. 2014) (per curiam). The
+change, in part, was because disorder characterized all transgender people as mentally ill; yet,
+many transgender people do not suffer distress between their identity and their birth sex and
+therefore should not all be pathologized. See id.; see also Camille Beredjick, DSM-V to Rename
+Gender Identity Disorder `Gender Dysphoria', The Advocate (July 23, 2012),
+http://www.advocate.com/politics/transgender/2012/07/23/dsm-replaces-gender-identity-
+disorder-gender-dysphoria.
+
+Considering that Gender Dysphoria is included in the DSM-V, why didn't Smith allege
+discrimination on the basis of disability under the Americans with Disabilities Act? See 42 U.S.C.
+§ 12211(a)-(b).
+
+5. Dress Codes and Gender Expression: According to the court in Smith:
+
+         After Price Waterhouse, an employer who discriminates against women because,
+         for instance, they do not wear dresses or makeup, is engaging in sex discrimination
+         because the discrimination would not occur but for the victim's sex. It follows that
+         employers who discriminate against men because they do wear dresses and
+         makeup, or otherwise act femininely, are also engaging in sex discrimination,
+         because the discrimination would not occur but for the victim's sex.
+
+Smith, 378 F.3d at 574.
+
+         Does Smith hold that employers are prohibited from imposing different dress and grooming
+standards on men and women in the workplace? If an employer forbids its employees who are men
+from wearing, say earrings or long hair, while permitting its employees who are women to do so,
+has the employer violated Title VII? One district court has read Smith as holding just that. See
+EEOC v. R.G. & G.R. Harris Funeral Homes, Inc., 201 F. Supp.3d 837, 853 (E.D. Mich. 2016)
+("It appears unlikely that the Smith court would allow an employer . . . to avoid liability for a Title
+VII sex-stereotyping claim simply by virtue of having put its gender-based stereotypes into a
+formal policy.").
+
+         Would you agree that forbidding employers from imposing gendered dress and grooming
+standards would bode well for transgender employees? Employees would then be permitted to
+dress and appear in the workplace in ways that match their gender identity and the manner in which
+they choose to express their identity.
+
+                                                              57
+         You may already have covered the issue of employee dress codes and grooming standards
+earlier in your course. Although the rationales may differ, most courts have not read Price
+Waterhouse so broadly as to forbid employers from imposing dress and grooming standards
+although they may contain some gendered distinctions. Compare Jespersen v. Harrah's Operating
+Co., 444 F.3d 1104 (9th Cir. 2006) (en banc) (rejecting challenge to employer dress and grooming
+code that required female employee to wear make-up; code did not impose unequal burdens on
+either men or women and caused no objective harm to the plaintiff) with Wiseley v. Harrah's
+Entertainment, Inc., No. 2004 WL 1739724, at *5 (D. N.J. Aug. 4, 2004) (stating that "one's
+personal appearance and dress is sufficiently within one's control such that it is easily alterable
+while Title VII aims at policies that specifically discriminate on the basis of immutable
+characteristics that are a fundamental aspect of that person").
+
+         How do you reconcile Smith's reading of Price Waterhouse with cases that permit
+employers to adopt dress and grooming codes that contain gender distinctions? Can they be
+reconciled?
+
+B. An alternative route to protecting transgender employees
+
+         As the previous section explains, numerous courts have held that transgender employees
+may pursue sex discrimination claims based on their failure to conform to sex stereotypes. Recent
+authority has considered a more direct route to protecting transgender individuals under Title VII,
+finding that discrimination based on gender transition is literally discrimination because of sex.
+
+         The EEOC adopted this position in Macy v. Holder, 2012 WL 1435995 (E.E.O.C. 2012).
+In that case, Mia Holder applied for a position while still presenting as a man. She alleged that she
+had almost been assured the job was hers pending a background check. During the hiring process
+she informed her future employer that she was in the process of transitioning from male to female
+and shortly thereafter she was informed that someone else had been hired for the position. She
+filed a complaint alleging discrimination on the basis of "sex," "gender identity," and "sex
+stereotyping."
+
+         Addressing her claim, the EEOC explained that discrimination against transgender
+individuals violates Title VII's proscription against sex discrimination in a number of ways. First,
+the EEOC found support for its position in Price Waterhouse. See id. at *10. To that end, the
+EEOC explained that "Complainant could establish a case of sex discrimination under a theory of
+gender stereotyping by showing that she did not get the job . . . because the employer believed that
+biological men should consistently present as men and wear male clothing." Id.
+
+         In addition, the EEOC explained that a sex discrimination claim would lie where the
+Complainant proved that the employer would have hired her when it thought she was a man but
+would not do so after it found out that she was now a woman. Id. Such discrimination would not
+have occurred but for the sex of the individual and the action would violate Title VII without
+reference to sex stereotyping. See id. at 11. In this regard, the EEOC likened sex discrimination to
+religious discrimination.
+
+                                                              58
+         Assume that an employee considers herself Christian and identifies as such. But
+         assume that an employer finds out that the employee's parents are Muslim, believes
+         that the employee should therefore be Muslim, and terminates the employee on that
+         basis. No one would doubt that such an employer discriminated on the basis of
+         religion. There would be no need for the employee who experienced the adverse
+         employment action to demonstrate that the employer acted on the basis of some
+         religious stereotype--although, clearly, discomfort with the choice made by the
+         employee with regard to religion would presumably be at the root of the employer's
+         actions. But for purposes of establishing a prima facie case that Title VII has been
+         violated, the employee simply must demonstrate that the employer impermissibly
+         used religion in making its employment decision.
+
+Id.
+
+         Relying on the aforementioned hypothetical, the EEOC determined that if an employer
+would have hired an employee who is male but refuses to do so upon finding out the employee is
+a woman, the employer violates Title VII.
+
+         Consistent with an earlier judicial decision, Shroer v. Billington, 577 F. Supp. 2d 293 (D.
+D.C. 2008) adopting a similar approach to claims by transgender employees, the EEOC relied on
+yet another religious discrimination hypothetical to demonstrate why discrimination against
+transsexual employees violates Title VII. According to the Schroer court,
+
+            [i]magine that an employee is fired because she converts from Christianity to
+            Judaism. Imagine too that her employer testifies that he harbors no bias toward
+            either Christians or Jews but only `converts.' That would be a clear case of
+            discrimination `because of religion.' No court would take seriously the notion
+            that `converts' are not covered by the statute. Discrimination "because of
+            religion" easily encompasses discrimination because of a change of religion.
+
+Id. (citing Shroer, 577 F. Supp. 2d at 308).
+
+         In the context of sex, the employer is not absolved by showing that it would hire a man or
+a woman, but not a "convert." The employer has taken the employee's sex into account when
+making the employment decision. See id.; see also 42 U.S.C. § 2000e-2(m) (employer violates
+Title VII where the employer's action is motivated by the employee's "sex"). Do you find the sex-
+based conversion argument persuasive?
+
+Problem 5
+
+Sandy
+
+         Jerry Carmichael was hired to work for Hand-Me-Down Thrift Store as an inventory clerk
+by store manager Tim Hathaway. Jerry's job entailed keeping track of and ordering
+inventory. Jerry stands 6'2" and weighs 195 lbs., and when he was hired, he presented as a
+
+                                                              59
+man. Hand-Me-Down has a strict dress code and grooming policy for its employees. The policy
+requires both men and women to wear black jeans, white-collared shirts and black shoes. It,
+however, forbids men from wearing make-up and nail polish although women could wear
+both. Men are also required to keep their hair no longer than collar-length. Women are permitted
+to wear their hair longer. Throughout the year, Jerry adhered to the dress code and worked hard,
+and Tim gave him a favorable employment evaluation at the end of the year.
+
+         Prior to joining Hand-Me-Down Jerry was diagnosed with Gender Dysphoria. For some
+time, he also had been working with a licensed clinical social worker on a plan to transition from
+male to female and he was at the stage in the process where he wanted to begin wearing feminine
+attire, presenting as a woman on a full-time basis and going by the name Sandy.
+
+         A little more than a year after being hired to work as Jerry, Sandy explained her Gender
+Dysphoria diagnosis and her transition process to Tim, who responded that while he did not have
+a problem with any of it, he was not sure that others would understand. Sandy also told Tim that
+she would adhere to the store's dress and grooming standards for women because it was part of
+her transition process. Over the next several months, Sandy went to work dressing in women's
+clothing. She let her hair grow out and it eventually reached shoulder length. She began wearing
+make-up and polishing her nails red. She also asked that her coworkers call her Sandy and refer
+to her using female pronouns, which they did for the most part. Sandy also began using the
+women's bathroom. Hand-Me-Down had two multi-user bathrooms, one designated for women
+and the other for men. Employees and customers were permitted to use them. To alleviate any
+potential concerns, Sandy would try to use the bathroom when she was sure no one else was in
+there. However, that was not always possible. Several times she ran into other female employees
+or customers in the bathroom. More than once she was greeted with a confused look. Several
+customers began to complain to Tim that "a man wearing a dress was using the lady's
+bathroom." Some said that they worried about their safety and would no longer shop at Hand-Me-
+Down if the bathrooms were now unisex. Tim told Sandy about the complaints and asked her
+whether she "still had her man parts?" He said that if she hadn't yet had the operation, then she
+could no longer use the women's bathroom. Instead, she would either have to use the men's
+bathroom or to use the bathroom at a gas station that was a block away from the store. In addition,
+Tim also said that he had received complaints about the way Sandy dressed. He told her that she
+would have to cut her hair so that it was above the collar and also told her to try to look "more
+manly" or that she would be fired. Tim told her to think about what he had said overnight. When
+Sandy arrived at work the next day, her hair was still long, she still wore makeup and her nails
+were polished red. Tim fired her.
+
+         Sandy believes that she was discriminated against while working at Hand-Me-Down
+because she is transgender. She comes to you for advice. What do you tell her?
+
+                                                              60
+Appendix            Sexual       Gender    Statutory Provision2
+                    Orientation  Identity
+ State                                     Cal. Gov. Code §§12920, 12926, 12940
+                    Yes--P/P3    Yes--P/P  Colo. Rev. Stat. §§24-34-402
+ 1. California      Yes--P/P     Yes--P/P  Conn. Gen. Stat. §§46a-81c, 46a-60;
+ 2. Colorado        Yes--P/P     Yes--P/P  Public Act 91-58, §3
+ 3. Connecticut                            Del. Code. Title 19, §711
+                    Yes--P/P     Yes--P/P  D.C. Code Ann. § 2-1402.11
+ 4. Delaware        Yes--P/P     Yes--P/P
+ 5. District of                            Haw. Rev. Stat. §378-2
+ Columbia           Yes--P/P     Yes--P/P  775 Ill. Comp. Stat. 5/1-102, 1-103
+ 6. Hawaii          Yes--P/P     Yes--P/P  Iowa Code §216.6
+ 7. Illinois        Yes--P/P     Yes--P/P  Me. Rev. Stat. Ann. §4572
+ 8. Iowa            Yes--P/P     Yes--P/P  Md. Code §20-606
+ 9. Maine           Yes--P/P     Yes--P/P  Mass. Gen. Law 151B, §4
+ 10. Maryland       Yes--P/P     Yes--P/P  Minn. Stat. §363A.02, 363A.08
+ 11. Massachusetts  Yes--P/P     Yes--P/P  Nev. Rev. Stat. §613.330
+ 12. Minnesota      Yes--P/P     Yes--P/P  N.H. Rev. Stat. §354-A:7
+ 13. Nevada         Yes--P/P     No        N.J. Stat. §10:5-12
+ 14. New Hampshire  Yes--P/P     Yes--P/P  N.M. Stat. Ann. §28-1-7
+ 15. New Jersey     Yes--P/P     Yes--P/P  N.Y. Exec. Law § 296; N.Y. Exec. Law
+ 16. New Mexico     Yes--P/P     Yes--P/P  App. §466.13, Executive Order 33
+ 17. New York                              Or. Rev. Stat. §§659A.030, 174.100
+                    Yes--P/P     Yes--P/P  R.I. Gen. Law §28-5-7
+ 18. Oregon         Yes--P/P     Yes--P/P  Utah Code Ann. §34A-5-106, S.B. 296
+ 19. Rhode Island   Yes--P/P     Yes--P/P  Vt. Stat. Ann. Title 21, §495
+ 20. Utah           Yes--P/P     Yes--P/P  Rev. Code Wash. Ann. §§49.60.040,
+ 21. Vermont        Yes--P/P     Yes--P/P  49.60.180
+ 22. Washington                            Wis. Stat. §111.36
+                    Yes--P/P No
+ 23. Wisconsin
+
+2 There are several states that prohibit employment discrimination on the basis of sexual orientation and/or gender
+identity in both public and private employment by executive order: Alaska (Administrative Order 195 (2002));
+Arizona (Executive Order 2003-22 (2003)); Indiana (Indiana State Government Employment Policy Statement
+(2004); Kentucky (Executive Order 2008-473 (2008); Michigan (Executive Order 2003-24 (2003); Executive Order
+2007-24 (2004)); Missouri (Executive Order 10-24 (2010)); Montana (Executive Order 41-2008 (2008); Executive
+Order 04-2016 (2016)); New Hampshire (Executive Order 2016-04 (2016)); New York (Executive Order 33
+(2009)); North Carolina (Executive Order 93 (2016)); Ohio (Executive Order 2007-105 (2007)); Pennsylvania
+(Executive Order 75-5 (1975); Executive Order 2003-10 (2003)); Virginia (Executive Order 1 (2014)).
+
+3 P/P indicates statutory employment discrimination protections extend to both private and public employees.
+
+                                                              61
+

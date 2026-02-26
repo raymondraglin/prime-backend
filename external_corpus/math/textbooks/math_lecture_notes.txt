@@ -1,0 +1,1490 @@
+MTH 105                               Name:______________________________________
+          1.1: Logic in Everyday Language
+
+Watch the videos on Logic and take notes on these pages.
+
+A Proposition is a statement that makes a __________________. It must be a complete sentence.
+
+          Which of the following are propositions?
+              a. Anka is sitting on the table.
+
+          b. Where are you going after class?
+
+             A proposition has two possible truth values: ________________or __________________.
+
+A negation of a proposition makes the ___________________ claim.
+             Write a negation of the following statements:
+                  a. Anka is sitting on the table.
+
+          b. The dog is not in the back yard.
+
+A double negation is when a negated proposition is itself negated.
+             Turn each statement into a double negation:
+                  a. I will not wash my hands
+
+          b. It is unlikely that there is an association.
+
+Logical Connectors
+
+Using AND, OR, or IF...THEN to connect two or more separate propositions into a single
+statement.
+
+Examples:
+    · Ramesh has a cat AND Ramesh has a dog
+    · Ramesh has a cat OR a dog
+    · IF Ramesh has a cat, THEN Ramesh will get a dog
+
+Cara Lee                                                            Page 1
+MTH 105                          Name:______________________________________
+"AND" Statements - Conjunctions
+
+An "AND" statement is true only when _____________ of the statements connected by the "and"
+are _____________. If either or both are false, the "and" statement is false.
+
+             Determine whether each AND statement is true or false:
+                  a. Rabbits are fish and rattlesnakes have 4 legs
+                  b. Math 105 is a PCC class and Portland Community College is located in
+                      Oregon
+                  c. Oprah Winfrey and Bill Clinton were U.S. Presidents
+
+"OR" Statements - Disjunctions
+
+In everyday life, "or" statements can be interpreted as inclusive (meaning either or both) or
+exclusive (meaning either but not both).
+
+    Determine whether each OR statement is inclusive or exclusive:
+         a. Will you have the vegan or meat option at dinner?
+         b. We want to hire someone who knows spreadsheets or QuickBooks.
+
+In logic and mathematics, the "or" is always inclusive unless specified otherwise.
+
+An "OR" statement is true when _____________ or _____________ of the statements connected by
+the "or" are true. If both statements are false, the "or" statement is false.
+
+          Determine whether each OR statement is true or false:
+              a. Rabbits are fish or rattlesnakes have 4 legs.
+              b. Math 105 is a PCC class or Portland Community College is located in Oregon
+              c. Oprah Winfrey or Bill Clinton were U.S. Presidents
+
+IF...THEN Statements - Conditional Statements
+         Example: if the animal is a bird, then the animal has a beak.
+         The "if" proposition is called the ____________________.
+         The "then" proposition is called the ____________________________.
+
+          Determine the hypothesis and conclusion in the example below:
+
+          You'll be paid overtime if you work more than 10 hours today.
+              a. Hypothesis:
+
+              b. Conclusion:
+
+Cara Lee                                                                     Page 2
+MTH 105  Name:______________________________________
+
+When is an "IF...THEN" Statement True or False?
+
+An If...then is false when the hypothesis is ______________ and the conclusion is ________________.
+
+An If...then is true for all other situations, including when both the hypothesis and the
+conclusion are false.
+
+Example: You make this statement. "If I get elected, I will reduce college tuition."
+
+If the hypothesis is true - you get elected, there are two possibilities
+    · If you reduce college tuition, the statement is ________________.
+    · If you don't reduce college tuition, the statement is ________________.
+
+Say the hypothesis is false - You don't get elected
+    · The entire statement is not false because you didn't say anything about what
+         you would do if you weren't elected, so it's ________________.
+
+         Summarize If...Then rules
+
+             · If TRUE, then TRUE  TRUE
+             · If TRUE, then FALSE  FALSE
+             · If FALSE, then TRUE  TRUE
+             · If FALSE, then FALSE  TRUE
+
+Does it work to reverse an If...Then statement?
+
+Original Conditional Statement: If A, then B
+Converse: If B, then A
+Inverse: If not A, then not B
+Contrapositive: If not B, then not A
+
+             Which of these 4 statements are equivalent to each other?
+
+                  a. Original: If you are not late, then you get coffee.
+
+         b. Converse: If you get coffee, then you are not late.
+
+         c. Inverse: If you are late, then you don't get coffee.
+
+         d. Contrapositive: If you don't get coffee, then you are late.
+
+Logical Equivalence                                                       Page 3
+The original statement and its contrapositive are logically equivalent.
+The converse and inverse are logically equivalent.
+
+Cara Lee
+MTH 105                                        Name:______________________________________
+                      1.2: Sets and Venn Diagrams
+
+Watch the video on Venn Diagrams and take notes on this page.
+
+Types of Relationships
+Draw a Venn diagram for each situation and describe the relationships between the sets.
+
+a. Insects and flies  b. Insects and cats                      c. Athletes and Students
+
+Four Categorical Propositions S: Subject Set  P: Predicate Set
+
+a. All S are P        b. No S are P           c. Some S are P   d. Some S are not P
+All children are      No college              Some college      Some college
+people                students are cats       students are      students are not
+                                              athletes          athletes
+
+Cara Lee                                                        Page 4
+MTH 105   Name:______________________________________
+
+A Venn Diagram with Three Sets and Data
+130 people were surveyed about the news sources that they
+used on a regular basis.
+The results are given in the Venn diagram:
+
+  T represents television, I represents the Internet, and
+  N represents newspapers
+
+          a) Write a description for each of
+          the eight areas.
+
+          b) How many people used the
+          Internet?
+
+          c) How many people used at least
+          two of the three sources?
+
+          d) How many people didn't use
+          newspapers?
+
+Another Venn Diagram Example: How do you know when to subtract?
+
+A survey was given asking whether people like espresso and/or chocolate. People could
+check one or both boxes. Use the results to draw a Venn diagram and determine how many
+people did not like either chocolate or espresso.
+
+    · 150 people were surveyed
+    · 132 people liked chocolate
+    · 96 people liked espresso
+    · 78 people checked both boxes
+
+What is different in this problem than in the television, Internet and newspaper example? In
+other words, how will you know when to subtract?
+
+Cara Lee                                                   Page 5
+MTH 105                                            Name:______________________________________
+
+                                 1.3 Decimals and Percents
+
+Rounding - May be Review
+
+Step 1. Determine the place to which the number is to be rounded. Circle or underline it.
+
+Step 2. If the digit to the right of the number to be rounded is less than 5, replace it and all the digits
+to the right of it by zeros. If the digit to the right of the underlined number is 5 or higher, increase the
+underlined number by 1 and replace all numbers to the right by zeros. If the zeros are decimal digits,
+you may eliminate them.
+
+Place value chart
+
+                                                                                                          Hundred
+                                                                                                       Thousandths
+                                                                                               Ten
+                                                                                            Thousandths
+                                                                                   Thousandths
+
+                                                                         Hundredths
+
+                                                               Tenths
+                                                       Decimal
+                                                   Point
+                                           Ones
+
+                                 Tens
+
+                      Hundreds
+
+            Thousands
+
+   Ten
+thousands
+
+10,000 1,000 100 10                    1        .  .1 .01 .001 .0001 .00001
+
+1. Round each number to the place value given:
+    a. 126.745 inches to the nearest tenth
+
+b. 5.68932 feet to two decimal places
+
+c. 0.038594 to three decimal places
+
+d. $ 43.893 to the nearest cent
+
+e. 0.00125 to four decimal places
+
+f. 0.00199 to four decimal places
+
+                                                                                                                    Page 1
+MTH 105                                   Name:______________________________________
+
+                       Converting Percentages to Decimals - May be Review
+
+Percent means per 100, so depending on which way we are converting, we move the decimal 2 places
+to the left or to the right.
+
+Percent to decimal
+
+50% means 50/100. When we divide this we get 0.50 or 0.5. Notice how the decimal is now 2 places
+to the left.
+
+Decimal to percent
+
+0.25 is read as 25 hundredths, which can be written as 25/100. This is 25%. Notice how the decimal
+place is now 2 places to the right.
+
+Memory aid
+
+D                   P
+
+2. Convert each percentage to a decimal:                  Convert each decimal to a percentage:
+    a. 31%                                                g. 0.97
+    b. 130%                                               h. 0.09
+    c. 3%                                                 i. 0.009
+    d. 0.3%                                               j. 2.41
+    e. 1.3%                                               k. 0.3294
+    f. 1.23%                                              l. 0.0354
+
+Divide and round each proportion to four decimal places.
+
+m. 9                                                      o. 9
+
+      25                                                        11
+
+n. 5                                                      p. 
+
+      36                                                        
+
+                                                                           Page 2
+MTH 105                                         Name:______________________________________
+          Operations with Percentages - May be Review
+
+Finding the percentage of an amount
+
+"of" is a key word that means multiply. First change the percentage into decimal form and
+then multiply.
+
+3. A sweater that is normally priced at $59.99 is on sale for 20% off. What is the discount?
+    What is the new price of the sweater?
+
+Finding the percentage given a fraction
+4. A pollster surveyed 320 people and 136 of them said they are planning to vote for
+
+    candidate A in the next election. What percent of those surveyed are planning to vote for
+    this candidate?
+
+Absolute and Relative Change
+Absolute change is the difference in two quantities and has the same units as the original
+quantities.
+Relative change is the absolute change and is written as a percentage increase or decrease.
+
+                                      starting quantity
+
+The starting quantity is called the base of the percent change.
+5. You bought a desktop computer three years ago for $1250. Today, it is worth about $350.
+
+    Describe the absolute and relative change in the computer's value.
+
+Cara Lee                             Page 3
+MTH 105                                         Name:______________________________________
+                       1.4: Proportional Reasoning
+
+Class Prep Assignment  Due at the beginning of next class
+
+Watch the video on Proportional Reasoning and take notes on this page.
+
+    · Does a runner run a 5,000-meter race at the same rate they run a 100-meter race?
+    · Should the amount of taxes a person pays be related to their income?
+    · Should a state's representation in the U.S. government be related to the population of
+
+         the state?
+
+Proportional: When two quantities have the same relative size, or the same ratio or rate. In a
+proportional relationship, one quantity is always a constant multiple of the other.
+
+1. Tax example. Julia makes $40,000 a year and pays $6,800 in taxes. Fabiana makes
+    $400,000 a year and pays $50,000 in taxes. Are these ratios proportional?
+
+2. Shopping example. Cans of chickpeas are $1.25 each or 4 for $5.00. Are these rates
+    proportional?
+
+Ratio: A comparison of two like quantities without units                Page 4
+Rate: A fraction of two unlike quantities (has units with "per")
+Unit Rate: A rate where the denominator is one unit
+
+    3. Identify each as a ratio, rate, or unit rate
+             a. $19.99 per shirt
+
+             b. 60 
+                  5 
+
+             c. 3:4
+     Cara Lee
+MTH 105                Name:______________________________________
+
+Solving proportion problems visually (scaling)
+
+    4. A car speeding on the highway in cruise control travels 18 miles every 15 minutes.
+         How far will the car travel in 5 minutes? How far will it travel in one hour?
+
+0 miles    18 miles
+
+0 minutes  15 minutes
+
+Solving proportion problems using a unit rate (constant multiple)
+
+    5. Bars of soap are on sale at the price of 3 bars for $2. How much would you pay for 7
+         bars of soap if the sale applies to all quantities at the same rate?
+
+Solving proportion problems with an algebraic equation
+
+    6. A house valued at $480,000 has property taxes of $4,992 per year. In the same
+         neighborhood, assuming the tax rate is proportional, what would the property taxes be
+         for a house valued at $395,000?
+
+Cara Lee               Page 5
+MTH 105                                    Name:______________________________________
+                       1.5: Problem Solving
+
+Class Prep Assignment  Due at the beginning of next class
+
+Reflection: Give an example of a complex problem to solve in your life. How did you
+approach it?
+
+Watch the videos on Problem Solving and take notes on these pages.
+
+A Problem Solving Process
+    1. Identify the question(s) you're trying to answer. Do any research needed to understand
+         the context.
+    2. Identify the information you have and any information you may need. Look up or
+         estimate any missing information. Estimate the range of reasonable answers.
+    3. Brainstorm and try out different mathematical tools to see what might be helpful. Use
+         manipulatives, visuals or tables whenever possible. All ideas are useful, even if they
+         don't work out.
+    4. Choose one method to continue and get a potential solution.
+    5. Check whether your solution makes sense. Is it reasonable? Can you get there a
+         different way to confirm your answer? Return to Steps 1-5 as needed. When finished,
+         explain your conclusion.
+
+Operation Sense
+What would you use each operation for?
+
+         Addition -
+
+         Subtraction -
+
+         Multiplication -
+
+         Division -
+
+Cara Lee               Page 6
+MTH 105   Name:______________________________________
+
+Use the problem solving process to solve this problem. Try solving it yourself first,
+then watch the video.
+
+1. You have two similar job offers. Which one would you choose and why?
+    · Job A: $50K per year salary, 3 weeks of paid vacation per year, and a benefits
+         package valued at $9K. The company will match 6% of retirement contributions.
+    · Job B: $24 per hour, 40 hours per week, 2 weeks of paid vacation per year, and a
+         benefits package valued at $10K per year. The company will match 5% of
+         retirement contributions.
+
+For the problem above, reflect on how you used your operation sense and number sense.
+
+Cara Lee  Page 7
+MTH 105                                 Name:______________________________________
+Solving Problems with Unit Conversions
+
+2. A medicine package gives a dosage of 0.65 mg/kg/day of a medication given in 2
+    doses. If the child weighs 40 pounds, how many milligrams do they need? If the
+    chewable tablets come in either 3 or 5 mg, which ones should be purchased and how
+    many tablets should be given?
+
+Solving Problems with Geometry
+
+    3. You're pouring a concrete patio with the shape of two overlapping squares as shown
+         in the diagram. You want the concrete to be 6 inches thick. If each square is 12x12 feet
+         and the overlap is about 3x4 feet, how many cubic yards of concrete should you order?
+
+Cara Lee                                Page 8
+MTH 105                                  Name _____________________________________________
+                        5.1: Apportionment
+
+Apportionment is the problem of dividing up a fixed number of people or items among
+groups of different sizes. For example, we use apportionment to determine the number of
+representatives for each state in the US House of Representatives, or to divide school busses
+among districts.
+
+Rules of Apportionment
+
+1. The people/items can only be divided into                                                   .
+
+2. We must use the                            of people/items being divided.
+
+3. Each group must get                        of the people/items being divided up.
+
+4. The number of people/items assigned to each group should be                             to
+
+the size of the group. (Exact is rarely possible so get as close as possible).
+
+Apportionment Methods and Steps
+
+1. Divide the total population by the number of items to find the divisor: The number of
+people each person should represent (decimal).
+
+2. Divide the population of each group by the divisor to get the standard quota.
+
+Hamilton's Method (vetoed in 1792, used from 1850-1900): Cut off decimal to find
+the initial number. Then give any extra seats in order of the highest decimal remainders.
+
+Jefferson's Method (used from 1792-1830): Cut off the decimal to find the initial
+number. Lower the divisor if needed so that there are no leftover seats. Uses trial and
+error.
+
+Webster's Method (used in 1840): Instead of cutting off the decimal, round it to find the
+initial number. Then raise or lower the divisor if needed so there are no leftover seats.
+
+Hill-Huntington Method (used 1941-present): Instead of rounding using 0.5 or higher,
+
+use the geometric mean ( + 1) to round the initial number. Then raise or lower the
+divisor if needed so there are no leftover seats.
+
+It is important to acknowledge slavery in the U. S. when these methods were formed. In the
+textbook I encourage you to read about the 3/5 Compromise and Hamilton, Jefferson and
+Webster's relationship to slavery. In the 3/5 compromise, only 3/5 of the slave population was
+counted for representation. When the slaves were freed in 1863, they were counted as whole
+people. Black men were given the right to vote in 1869 and all women in 1920, however,
+there are still voter suppression measures for black people and other minoritized groups.
+
+It is important to acknowledge this history and the racism that continues today so those with
+privileges can use them to work toward removing systemic oppression.
+
+Cara Lee                                                        Page 1
+MTH 105                Name _____________________________________________
+
+Example 1. PCC has four campuses and 45 full-time math instructors. The number of
+students at each campus is given in terms of full-time equivalency (FTE). How can we divide
+up the math instructors fairly?
+
+2016-17 Academic Year Data: https://www.pcc.edu/ir/factsheet/Factbook/201617/swr5yrt2012-2016.pdf
+
+Use Hamilton's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota  Initial or Minimum  Final
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total
+
+Divisor:
+
+Use Jefferson's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Use Webster's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Cara Lee                                                   Page 2
+MTH 105                Name _____________________________________________
+
+Use Hill-Huntington's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Cara Lee                                                         Page 3
+MTH 105                                          Name _____________________________________________
+                                5.2: Voting Methods
+
+Personal Reflection:
+Do you think the U.S. presidential election system is fair? Explain why or why not.
+
+Voting Methods
+
+Ranked Choice Voting and the Preference Schedule
+
+Example 1. Students are voting for their class president and the candidates are Omar (O),
+Ann (A), and Helen (H). They have ranked the candidates according to their preference.
+
+            Vien Ann Marv Tasha Eve          Omar  Lupe  Dave  Helena                Jimmy
+                                             O     H     O     H                     A
+1st choice  A A O            H     A         H     A     H     A                     H
+2nd choice                                   A     O     A     O                     O
+3rd choice  O H H            A     H
+
+            H O A            O     O
+
+Make a Preference Schedule:
+
+1st choice
+2nd choice
+3rd choice
+
+Plurality Method (only first choice counts)
+
+            1   3  3            3
+
+1st choice A    A  O            H
+
+2nd choice O    H  H            A
+
+3rd choice H    O  A            O
+
+Cara Lee                                                       Page 4
+MTH 105                                   Name _____________________________________________
+
+Example 2. Five candidates are running for office and labeled A, B, C, D and E for simplicity.
+Which candidate wins under each method?
+
+ Plurality Method
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+How many people voted?
+How many votes are needed for a majority win?
+How many votes are needed for a plurality win (at a minimum)?
+
+ Instant Runoff Method (Sometimes Called Sequential Runoff or Single Transferrable Vote)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+ Point System (Borda Count)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+ Condorcet Method (Pairwise Comparisons)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+Cara Lee                                                       Page 5
+MTH 105                                       Name _____________________________________________
+
+        5.3: Representation, Electoral College and Popular Vote and Electoral Power
+Watch the Video: U.S Elections - How do they work? For an overview.
+
+Use your knowledge or look up this information on the internet.
+
+1. How many senators are in the U.S. Senate?
+
+Senators have a term of         years.
+
+2. How many representatives are in the U.S. House of Representatives?
+
+Representatives have a term of                      years.
+
+3. How many electors are in the Electoral College?
+
+How many electoral college votes are needed to win a U.S. presidential
+election?
+
+Using the map of electors per state below, what is the minimum number of electors
+
+that a state can have?          Which state has the most electors?
+
+          Number of Electors per State using the 2010 Census and Apportionment
+
+Cara Lee                                                               Page 1
+MTH 105                   Name _____________________________________________
+
+Watch the Video: Popular Vote vs. the Electoral College and take notes.
+
+Consider a small country with 3 states. The rules for the number of senators and electors are
+the same as the U.S. government. Each state gets 1 representative for every 25,000 residents.
+Determine the number of electors for each state and the total for the country.
+
+   State     Population      Number of                   Number of    Number of
+Small           75,000    Representatives                 Senators      Electors
+Medium         350,000
+Large          500,000
+
+The total number of electors in the Electoral College is _______________.
+
+How many electoral votes are needed to win the presidential election? _______________
+
+There are 2 candidates for the president, Candidate A and Candidate B. When a candidate
+wins in a state, they get all the electoral votes for that state. Determine who wins the
+popular vote and who wins the electoral college vote.
+
+   State       Votes for    Votes for                    Number of    Number of
+             Candidate A  Candidate B                     Electoral    Electoral
+Small
+Medium           52,000       23,000                     Votes for A  Votes for B
+Large           280,000       70,000
+Total Votes     236,000      264,000
+
+The winner of the popular vote is _______________.
+The winner of the electoral college is _______________.
+
+Which method do you think is more fair and why?
+
+Some states have passed a National Popular Vote bill which assigns a state's electoral
+votes based on the popular vote. https://www.nationalpopularvote.com/
+
+Cara Lee                                                                 Page 2
+MTH 105                                Name _____________________________________________
+Electoral Power
+Electoral Power is
+
+Let's calculate the electoral power of each state. Fill in the number of electors from the
+previous table. Then find the number of electoral votes per 25,000 people (you can ignore
+any remainder). Round to 2 decimal places.
+
+  State   Population     Number of     Number of  Number of Electoral Votes
+Small        75,000   Representatives   Senators    Electors per 25,000 people
+Medium      350,000
+Large       500,000
+
+Cara Lee                                          Page 3
+MTH 105                                Name _____________________________________________
+          5.4: Gerrymandering and Solutions
+
+Apportionment determines how many representatives are given to each state. Then each
+state draws the districts that elect one representative each.
+
+Watch the videos and look for the following information.
+
+1. How often does redistricting happen?
+
+2. What are the two rules for drawing district lines?
+       i.
+      ii.
+
+3. Who determines where the district lines are drawn?
+
+4. There are two types of gerrymandering.
+    What is cracking?
+
+    What is packing?
+
+5. What is gerrymandering?
+
+Cara Lee                                                  Page 4
+MTH 105                                       Name _____________________________________________
+Proportionality and Fairness
+
+There is nothing in our constitution or laws that says representation must be proportional,
+but that seems like a basic measure of fairness.
+
+a. If a state with 10 districts is 3 Democrats and 2 Republicans, how many seats would
+                               5              5
+each party get if the representation was proportional?
+
+b. If a state with 9 districts is 42.3% Democrats and 57.7% Republicans, how many seats
+    would each party get if the representation was proportional? It usually doesn't come
+    out exactly so you can say what is closest to fair.
+
+How to Measure Gerrymandering: The Efficiency Gap
+
+Example 1. The votes are shown for five districts in a hypothetical state. Determine the
+number of seats won and calculate the efficiency gap.
+
+Election Results:    District     D Votes     R Votes    D Wasted Votes  R Wasted Votes
+                         1                75         25
+Democrats win            2                60         40
+              seats      3                43         57
+                         4                48         52
+Republicans win          5                49         51
+              seats
+                      Total
+
+Efficiency Gap = Party A Wasted Votes - Party B Wasted Votes =
+                                               Total Votes
+
+A maximum efficiency gap of ____________________% is currently being proposed.
+
+Adapted from: https://www.brennancenter.org/sites/default/files/legal-
+work/How_the_Efficiency_Gap_Standard_Works.pdf
+
+Cara Lee                                                                 Page 5
+       MTH 105                                 Name ______________________________________
+
+                     2.1-2.2: Spreadsheets and Simple and Compound Interest
+
+Personal Reflections:
+1. Do you use a budget? Why or why not?
+
+2. List some places in your finances where you might be able to save a few dollars or more
+    per week or per month.
+
+                          2.2: Simple and Compound Interest
+
+Simple Interest                                Compound Interest
+Definition: Interest is only earned (or paid)  Definition: Interest is earned on the
+on the original amount.                        original amount and any interest added to
+                                               the account.
+
+Example: You invest $500 and you earn 6%       Example: You invest $500 at a rate of 6%
+interest every year for 5 years.               interest compounded yearly for 5 years.
+
+Year            Interest  Balance              Year   Interest               Balance
+Start                      $500                Start                          $500
+
+  1                                              1
+  2                                              2
+  3                                              3
+  4                                              4
+  5                                              5
+
+Formulas:                                                       Page 1
+Cara Lee
+MTH 105                             Name ______________________________________
+
+Using Spreadsheet Formulas for Compound Interest
+
+You will need to use Microsoft Excel or Google Sheets while you watch these videos. You can
+use a computer, tablet or smart phone with the Google Sheets App.
+
+Future Value Formula                Present Value Formula
+
+=FV(rate, nper, pmt, [pv], [type])  =PV(rate, nper, pmt, [fv], [type])
+
+Inputs:
+         rate =
+
+nper =
+
+pmt =
+
+pv =
+
+fv =
+
+[type] =
+
+Example 1. If you invest $500 at 6% interest, calculate the balance after 5 years for each
+compounding interval. Write the formula used and inputs in proper syntax.
+
+    o Simple Interest
+
+o Compounded Yearly
+
+o Compounded Quarterly
+
+o Compounded Monthly
+
+o Compounded Daily (365)
+
+o Compounded Continuously
+
+Cara Lee                                                   Page 2
+MTH 105                                        Name ______________________________________
+
+Compounding Continuously                       Effective Rate
+If we let the number of compounding            The corresponding rate if compounded
+periods go to infinity, we get a base of e in  yearly. Used to compare different
+our function.                                  compounding options.
+
+      =                                        =effect(nominal rate, periods
+                                               per year)
+=P*exp(rate*years)
+
+Example 2. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. How much would you need to deposit in an account that pays 5.25% compounded
+             monthly to have $20,000 in 20 years?
+
+b. You get an inheritance of $15,000 and you decide to put it in an account that pays
+    7.1% interest compounded continuously. How much would it be worth in 25 years?
+
+c. You decide to save your tax refund of $1000 in an account that pays 6.5%
+    compounded quarterly. How much would you have in 15 years?
+
+d. You are shopping for savings accounts and you find one with a rate of 3.25%
+    compounded monthly and one with a rate of 3.15% compounded daily. Find the
+    effective rates to determine which account has a better rate.
+
+Cara Lee                                       Page 3
+MTH 105                                    Name ______________________________________
+                                2.3: Savings Plans
+
+You will need to use Microsoft Excel or Google Sheets while you watch these videos. You can
+use a computer, tablet or smart phone with the Google Sheets App.
+
+          Future Value Formula      Present Value Formula
+
+=FV(rate, nper, pmt, [pv], [type])  =PV(rate, nper, pmt, [fv], [type])
+
+Saving with an initial deposit and/or monthly payments.
+
+Example 1. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. You want to save $100 per month at an annual rate of 8% interest. How much will
+             you have after 15 years?
+
+b. You want to save $1000 now and $50 per month for 10 years. How much will you
+    have if you find an account with 7% interest?
+
+Payment Formula
+
+=PMT(rate, nper, pv, [fv], [type])
+
+Example 2. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. You want to save $30,000 for the down payment on a house in 5 years at an annual
+             rate of 5% interest. How much do you need to set aside per month?
+
+b. Your company needs $2,000,000 for an expansion project in 5 years. How much
+    should be deposited quarterly in an account that earns 8% interest compounded
+    quarterly?
+
+Cara Lee                                                   Page 4
+MTH 105            Name ______________________________________
+
+                            2.4: Loan Payments, Credit Cards and Mortgages
+
+Example 1. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+1. You graduate with $25,000 in student loans and want to pay it off in 10 years. The interest
+
+    is 4.45%. What is your monthly payment?
+
+2. You have a credit card balance of $3,500 with 22% annual interest. If you want to pay it off
+    in 3 years, how much do you need to pay per month? (Assuming you do not charge any
+    more to the account.) How much interest would you have paid on this balance?
+
+Down Payments
+
+1. You are saving for your 3-year old child's college fund and you want to put in $2500 now
+    and make payments of $50 per month for 15 years at 5.2% interest. How much will you
+    have saved in 15 years? Show any calculations and Excel formulas used.
+
+2. You want to buy a car for $11,000 and you trade in your old car for $1500, which acts as a
+    down payment. The car loan interest rate is 2.74%. What will your monthly payments be if
+    you choose a 2-year, 3-year or 4-year loan? Show any calculations and Excel formulas
+    used.
+
+2-year:   3-year:  4-year:
+
+Cara Lee                    Page 1
+       MTH 105                          Name ______________________________________
+Credit Card Minimum Payments
+
+Azul's monthly minimum credit card payment is calculated by first applying a 16.99% APR
+which is compounded monthly to the outstanding credit card balance. Then they pay 2% of
+that figure or a minimum of $25. Currently, Azul has a balance of $2500.
+
+a. What will their monthly payment be?
+
+b. Assuming they only pay the minimum what will the new loan balance be?
+
+c. How much did their credit card balance decrease by?
+
+Cara Lee                                                Page 2
+MTH 105                                 Name ______________________________________
+                             2.5: Income Taxes
+
+1. Filing Status. Search online and read about each tax filing status below. Write a short
+description in your own words.
+
+Single -
+
+Married Filing Jointly -
+
+Married Filing Separately -
+
+Head of Household (with qualifying person) -
+
+Watch the videos and fill in the following information.  If your withholdings are less than
+2. Tax Calculation Formula (2018 and later):             your taxes due, you will
+
+         Gross Income                                    ____________________________________
+
+ - Adjustments                                           If your withholdings are more
+         (Above the Line Deductions)                     than your taxes due, you will
+
+ =                                                       ____________________________________
+
+ - The higher of the standard deduction or
+         itemized deductions
+
+ =
+
+         (Use tables to calculate taxes due)
+         Tax Amount from Tables
+
+ -
+
+ = Taxes Due
+
+Cara Lee                                                 Page 3
+MTH 105            Name ______________________________________
+
+3. Tax Calculation Example: (Using 2024 Tax Year Tables)
+
+                   Jamie and Jordan
+                         (1 child)
+
+Filing Status      Married Filing Jointly
+                          $106,000
+Adjusted Gross             $31,200
+Income (AGI)
+
+Itemized
+Deductions
+
+Standard
+Deduction
+
+Taxable Income
+
+Tax from Table
+
+ Tax Credits       $2000
+                   $7,120
+ Tax Amount after
+ Credits                                                  Page 4
+ Federal Taxes
+ Withheld from
+ Paychecks
+
+ Federal Tax Owed
+ or Refund
+
+Cara Lee
+MTH 105                              Name: _____________________________________
+
+                                        3.1: Fundamentals of Statistics
+
+Watch the videos and take notes on this sheet
+
+1. Researchers are interested in how many people have been evicted from their housing.
+    Draw a diagram to represent the population, sample, parameter and statistic.
+
+2. What is a representative sample?
+
+Common Sampling Methods
+
+Method        Description                        Picture   Example
+                                                          Page 1
+    Simple
+   Random
+Sample (SRS)
+
+Systematic
+  Sample
+
+Stratified
+ Sample
+
+  Convenience
+    Sampling
+
+3. What does it mean for a sample to be biased?
+
+Cara Lee
+       MTH 105                                 Name: _____________________________________
+Basic Types of Statistical Studies
+
+Observational Studies
+Example: Researchers examined health records of thousands of males to determine whether
+there was a relationship between family history and heart attack.
+
+Experiment
+Example: Researchers want to investigate whether taking aspirin regularly reduces the risk of
+heart attack. Four hundred people who identify as men are divided randomly into two
+groups: one group will take aspirin, and the other group will take a sugar pill. At the end of
+the study, researchers count the number of men in each group who have had a heart attack.
+
+Treatment group:                               Control group:
+
+Random Selection:
+
+Placebo:                                       Placebo effect:
+
+Single-blind:                                  Double-blind:
+
+Observational Case-Controlled
+Example: A group of disabled women aged 65 and older was tracked for several years, ending
+in 2010. Those who had a vitamin B12 deficiency were found to be twice as likely to suffer
+severe depression as those who did not.
+
+         Subjects were separated into two categories:
+
+Caution:
+
+Margin of Error and Confidence Intervals
+Example: According to a gallup.com poll in 2017, 29% of hourly workers and 41% of salaried
+workers are completely satisfied with the amount of money they earn. The survey had a
+margin of error of ±5%. Source: http://www.gallup.com/poll/216746/hourly-workers-unhappier-
+salaried-job-aspects.aspx?g_source=WWWV7HP&g_medium=topic&g_campaign=tiles
+
+Write the confidence interval for each group:
+
+Hourly Workers:                                Salaried Workers:
+
+Cara Lee                                                          Page 2
+       MTH 105                        Name: _____________________________________
+Types of Bias in Statistical Studies
+What is bias in general?
+
+What is bias in a statistical study?
+
+   Sources of bias
+   Sampling bias - when the sample is not representative of the population
+
+         Voluntary response bias - the sampling bias that often occurs when the sample is
+         volunteers
+   Self-interest study - bias that can occur when the researchers have an interest in the
+         outcome
+   Response bias - when the responder gives inaccurate responses for any reason
+         Perceived lack of anonymity - when the responder fears giving an honest answer
+         might negatively affect them
+         Loaded questions - when the question wording influences the responses
+   Non-response bias - when people refusing to participate in the study can influence the
+         validity of the outcome
+
+In each situation, identify a potential source of bias
+
+   a. A survey asks how many sexual partners a person has had in the last year
+
+b. A radio station asks readers to phone in their choice in a daily poll.
+
+c. A substitute teacher wants to know how students in the class did on their last test. The
+    teacher asks the 10 students sitting in the front row to state their latest test score.
+
+d. High school students are asked if they have consumed alcohol in the last two weeks.
+
+e. The Beef Council releases a study stating that consuming red meat poses little
+    cardiovascular risk.
+
+f. A poll asks, "Do you support a new transportation tax, or would you prefer to see our
+   public transportation system fall apart?"
+
+Cara Lee                                                                   Page 3
+MTH 105                                               Name: _____________________________________
+                 3.2: Describing Data - Upload Graphs with your notes
+
+Two Types of Data
+
+                   Quantitative (Numerical)  Qualitative (Categorical)
+
+Description
+
+Example
+
+Types of Graphs
+
+Graphing Qualitative Data
+Example 1. A movie review website lists eight 5-star films, nineteen 4-star films, twelve 3-star
+films, seven 2-star films, and four 1-star films.
+
+a. Make a frequency table for the data.
+
+Movie     Frequency  Relative Frequency      Cumulative Frequency
+Rating          8
+5-star         19
+4-star         12
+3-star          7
+2-star          4
+1-star
+ Total
+
+b. Create the table in a spreadsheet, and then make a frequency bar graph and relative
+    frequency bar graph. Label the axes and give the graph a meaningful title.
+
+c. Make a frequency and relative frequency pie chart using a spreadsheet. Label the axes and
+    give the graph a meaningful title.
+
+Please print your graphs from the spreadsheet as a pdf or insert them into word docs
+and upload them with your notes.
+
+Cara Lee                                     Page 4
+MTH 105   Name: _____________________________________
+
+Graphing One-Variable Quantitative Data
+Example 2. Here is a set of 15 exam scores for a fictional MTH 105 class at PCC.
+
+          31, 62, 65, 70, 76, 81, 82, 82, 87, 88, 89, 94, 95, 98, 100
+
+a. Make a Histogram using a bin-width of 10 points. Label the axes and give the graph a
+    meaningful title.
+
+Cara Lee  Page 5
+MTH 105                                                Name _____________________________________
+                  3.3: Summary Statistics: Measures of Center
+
+We Describe Four Characteristics of Data: Shape, Center and Spread, and Outliers
+
+Example. The grades on the third exam for a MTH 95 class were as follows:
+         82 74 67 81 49 84 52 91 66 75 96 73 71 78 49 86 85 62 58
+
+a. Make a histogram of the data to determine its
+    shape.
+
+Shape of the Histogram:      Bimodal                  Multimodal
+Unimodal
+
+Symmetric                    Skewed to the Left       Skewed to the Right
+                             (Mean less than median)  (Mean greater than
+                                                      median)
+
+Measures of Center or Average
+         Mean:
+
+         Median:
+                  odd number of values:
+                  even number of values:
+
+         Mode:
+
+b. Arrange the grades above in order:
+
+c. Find the mean                                  d. Find the median
+
+e. Find the mode(s), if any                                           Page 1
+
+Cara Lee
+MTH 105                                                    Name _____________________________________
+                    3.4: Summary Statistics: Measures of Variation
+
+Measures of Spread
+
+Range:
+
+Interquartile Range (IQR):
+
+Standard Deviation:
+
+Five-Number Summary and Boxplot: Minimum, Q1, Median, Q3, Maximum
+Continuing with the test scores in order, find the following:
+
+          49, 49, 52, 58, 62, 66, 67, 71, 73, 74, 75, 78, 81, 82, 84, 85, 86, 91, 96
+
+f. Five-number summary:
+g. Range:
+h. Interquartile Range (IQR):
+i. Draw and label the boxplot:
+
+Outliers                                                       Page 2
+
+j. Are there any outliers in this data?
+
+Which Measures to Use?
+If the data is symmetric, use the mean and standard deviation
+If the data is skewed, use the median and the IQR
+
+Cara Lee
+MTH 105                                             Name _____________________________________
+                                Standard Deviation
+
+Standard Deviation: The "average deviation from the mean." Can be approximated by the
+Range÷4 if the data is evenly spread without outliers.
+
+        = ( - mean)2
+                      - 1
+
+49, 49, 52, 58, 62, 66, 67, 71, 73, 74, 75, 78, 81, 82, 84, 85, 86, 91, 96
+
+Data      Deviation from Mean   Squared Deviation
+
+49
+
+49
+
+52
+
+58
+
+62
+
+66
+
+67
+
+71
+
+73
+
+74
+
+75
+
+78
+
+81
+
+82
+
+84
+
+85
+
+86
+
+91
+
+96
+
+Sum of the squared deviations:
+
+       = ( - mean)2
+                    - 1
+
+Standard Deviation Approximation: Range/4. How do they compare in this case?
+
+Cara Lee                                           Page 3
+MTH 105                          Name _____________________________________
+          4.1: Contingency Tables
+
+Relating Venn Diagrams to Contingency Tables:
+
+250 households were surveyed and 180 said they have a cat, 95 said they have a dog, and 52
+said they have a cat and a dog. Fill in the Venn diagram and the contingency table.
+
+Cat       Dog                                         Dog No Dog Total
+
+                                               Cat
+
+               No Cat
+
+                                               Total
+
+4 types of probabilities: Marginal, AND, OR, Conditional, using contingency tables
+MARGINAL
+
+         Find the probability that a randomly selected person from the study has a cat.
+
+         P(cat) =
+
+AND
+         Find the probability that a randomly chosen person from the study has a cat AND a
+         dog.
+
+         P(cat AND dog) =
+
+OR
+         Find the probability that a randomly chosen person from the study has a cat OR no
+         dog.
+
+         P(cat OR no dog) =
+
+CONDITIONAL
+         Given that a person from the study has a dog, what is the chance they have a cat?
+
+         P(cat given dog) =
+
+Cara Lee                                              Page 1
+MTH 105                                        Name _________________________________________________
+                                4.2: Fundamentals of Probability
+
+Three Types of Probabilities, Theoretical, Empirical, Subjective
+
+Theoretical Probability- Based on counting equally likely outcomes
+
+Example 1. You have a
+quarter, a dime, and a nickel.
+You toss them in the air, and
+record whether they land on
+heads or tails.
+
+a. Draw a tree to see the
+    possible outcomes.
+
+b. Can you think of a way to
+    multiply to find the
+    number of outcomes?
+    (Multiplication Principle)
+
+c. What is the probability of getting 3  d. exactly 1 head?
+    heads?
+
+Theoretical Probability Model: We are interested in the number of heads, so we will list the
+possible outcomes for the number of heads, along with the probability of getting each.
+Number
+of Heads
+
+Probability
+
+e. What is the probability of getting 1  f. What is the probability of getting
+    or2 heads?                               fewer than 2 heads?
+
+g. What is the probability of not        h. What is the probability of getting at
+    getting 2 heads (Complement)?            least one head? (Complement of
+                                             none)
+
+Empirical Probability (Relative Frequency) - Based on observations or an experiment
+15% of the parts sampled were found to be defective, so there is a 15% chance that a
+randomly selected part will be defective.
+
+Subjective Probability - Based on intuition, experience or feeling
+What's the chance you will go to the party on Friday?
+
+Cara Lee                                                            Page 2
+MTH 105                     Name _________________________________________________
+
+Relationship between Odds and Probability
+
+Example 2. A team is given odds of winning of 4:7. What is the chance they will win? Lose?
+
+Gambling Odds: "odds on" means "odds against"
+
+Example 3. At a horse race, the odds on My Little Pony are given as 8 to 1. What is the
+probability of My Little Pony winning and losing? The 8 to 1 odds mean that for every $1 you
+bet on My Little Pony, you get $8 if you win. If you bet $10 and My Little Pony wins, how
+much do you win?
+
+                            Combining Probabilities
+
+Example 4. You have 10 prizes in a bag and people are going to draw them at random. Two
+
+are yellow erasers, one is a yellow calculator, three are green calculators and four are red
+
+erasers. First, let's find the individual probabilities:
+
+P(YE)=          P(YC)=      P(GC)=                        P(RE)=
+
+P(Calculator)=  P(Eraser)=  P(Red)=                       P(Yellow)=  P(Green)=
+
+"Or" Events (Single Draw)                                 "And" Events (Multiple Draws)
+
+              Add          Add                   Multiply                    Multiply
+( or ) = () + ()   Be careful not to  ( and ) = ()  ()                     Change the
+                   double count the                                   probability for each
+
+                      intersection                                             draw
+
+"Or" Events
+a. What is the probability of drawing a yellow or green item?
+
+b. What is the probability of drawing a red item or an eraser?
+
+"And" Events
+c. If we put the items back in each time, (draw with replacement), what is the probability of
+
+    drawing three red erasers in a row?
+
+d. If we do not put the marbles back in each time, (draw without replacement), what is the
+    probability of drawing three red erasers in a row?
+
+Cara Lee                                                              Page 3
+MTH 105                                  Name _________________________________________________
+             4.3: The Law of Large Numbers and Expected Value
+
+The Law of Large Numbers:
+In an experiment with independent trials, as you increase the number of trials the relative
+frequency gets closer to the theoretical probability.
+
+Example 1. Theo rolled a standard 6-sided die 1,000 times and recorded that the number 2
+came up 100 times. He suspects that the die is not fair. Is he correct?
+
+Gambler's Fallacy:
+The mistaken belief that a streak or run of bad luck will make the opposite outcome more
+likely.
+
+Expected Value:
+The long run average or mean value for many repeated samples.
+
+The expected value is an        that is weighted by the                                      .
+
+Example 2. A lottery ticket has five possible prize amounts and the chances of winning each
+are shown in the probability model.
+
+Prize                     $1 $10 $50 $1000                            0
+
+Probability               1  1  1                            1  1539=0.7695
+
+                          5  50 100 2000                        2000
+
+a. Find the expected value for this lottery ticket.
+
+         b. If the cost of the ticket is $2, what are your expected winnings?
+
+Example 3. Primo Insurance sells an annual car insurance policy for $1,350. Based on past
+data collected, an average of 1 in 50 policyholders will file a $6,000 claim, an average of 1 in
+100 policyholders will file a $15,000 claim, and an average of 1 in 300 policyholders will file a
+$33,000 claim.
+
+         Insurance Payout
+         Probability
+
+         a. Find the expected value for the amount that Primo will pay per policy.
+
+         b. What is the expected profit or loss per policy?              Page 4
+Cara Lee
+

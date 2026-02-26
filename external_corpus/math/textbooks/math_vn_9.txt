@@ -1,0 +1,140 @@
+MTH 105                                       Name _____________________________________________
+
+        5.3: Representation, Electoral College and Popular Vote and Electoral Power
+Watch the Video: U.S Elections - How do they work? For an overview.
+
+Use your knowledge or look up this information on the internet.
+
+1. How many senators are in the U.S. Senate?
+
+Senators have a term of         years.
+
+2. How many representatives are in the U.S. House of Representatives?
+
+Representatives have a term of                      years.
+
+3. How many electors are in the Electoral College?
+
+How many electoral college votes are needed to win a U.S. presidential
+election?
+
+Using the map of electors per state below, what is the minimum number of electors
+
+that a state can have?          Which state has the most electors?
+
+          Number of Electors per State using the 2010 Census and Apportionment
+
+Cara Lee                                                               Page 1
+MTH 105                   Name _____________________________________________
+
+Watch the Video: Popular Vote vs. the Electoral College and take notes.
+
+Consider a small country with 3 states. The rules for the number of senators and electors are
+the same as the U.S. government. Each state gets 1 representative for every 25,000 residents.
+Determine the number of electors for each state and the total for the country.
+
+   State     Population      Number of                   Number of    Number of
+Small           75,000    Representatives                 Senators      Electors
+Medium         350,000
+Large          500,000
+
+The total number of electors in the Electoral College is _______________.
+
+How many electoral votes are needed to win the presidential election? _______________
+
+There are 2 candidates for the president, Candidate A and Candidate B. When a candidate
+wins in a state, they get all the electoral votes for that state. Determine who wins the
+popular vote and who wins the electoral college vote.
+
+   State       Votes for    Votes for                    Number of    Number of
+             Candidate A  Candidate B                     Electoral    Electoral
+Small
+Medium           52,000       23,000                     Votes for A  Votes for B
+Large           280,000       70,000
+Total Votes     236,000      264,000
+
+The winner of the popular vote is _______________.
+The winner of the electoral college is _______________.
+
+Which method do you think is more fair and why?
+
+Some states have passed a National Popular Vote bill which assigns a state's electoral
+votes based on the popular vote. https://www.nationalpopularvote.com/
+
+Cara Lee                                                                 Page 2
+MTH 105                                Name _____________________________________________
+Electoral Power
+Electoral Power is
+
+Let's calculate the electoral power of each state. Fill in the number of electors from the
+previous table. Then find the number of electoral votes per 25,000 people (you can ignore
+any remainder). Round to 2 decimal places.
+
+  State   Population     Number of     Number of  Number of Electoral Votes
+Small        75,000   Representatives   Senators    Electors per 25,000 people
+Medium      350,000
+Large       500,000
+
+Cara Lee                                          Page 3
+MTH 105                                Name _____________________________________________
+          5.4: Gerrymandering and Solutions
+
+Apportionment determines how many representatives are given to each state. Then each
+state draws the districts that elect one representative each.
+
+Watch the videos and look for the following information.
+
+1. How often does redistricting happen?
+
+2. What are the two rules for drawing district lines?
+       i.
+      ii.
+
+3. Who determines where the district lines are drawn?
+
+4. There are two types of gerrymandering.
+    What is cracking?
+
+    What is packing?
+
+5. What is gerrymandering?
+
+Cara Lee                                                  Page 4
+MTH 105                                       Name _____________________________________________
+Proportionality and Fairness
+
+There is nothing in our constitution or laws that says representation must be proportional,
+but that seems like a basic measure of fairness.
+
+a. If a state with 10 districts is 3 Democrats and 2 Republicans, how many seats would
+                               5              5
+each party get if the representation was proportional?
+
+b. If a state with 9 districts is 42.3% Democrats and 57.7% Republicans, how many seats
+    would each party get if the representation was proportional? It usually doesn't come
+    out exactly so you can say what is closest to fair.
+
+How to Measure Gerrymandering: The Efficiency Gap
+
+Example 1. The votes are shown for five districts in a hypothetical state. Determine the
+number of seats won and calculate the efficiency gap.
+
+Election Results:    District     D Votes     R Votes    D Wasted Votes  R Wasted Votes
+                         1                75         25
+Democrats win            2                60         40
+              seats      3                43         57
+                         4                48         52
+Republicans win          5                49         51
+              seats
+                      Total
+
+Efficiency Gap = Party A Wasted Votes - Party B Wasted Votes =
+                                               Total Votes
+
+A maximum efficiency gap of ____________________% is currently being proposed.
+
+Adapted from: https://www.brennancenter.org/sites/default/files/legal-
+work/How_the_Efficiency_Gap_Standard_Works.pdf
+
+Cara Lee                                                                 Page 5
+

@@ -1,0 +1,1334 @@
+Evidence:
+
+Best Evidence Rule
+
+Colin Miller
+
+CALI eLangdell® Press 2012
+Notices
+
+This is the first version of the first edition of this chapter. It was
+updated March 21, 2012. Check elangdell.cali.org for the latest
+edition/version and revision history.
+
+                    This work by Colin Miller is licensed and published
+                    by CALI eLangdell Press under a Creative
+Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License. CALI and CALI eLangdell Press reserve under copyright all
+rights not expressly granted by this Creative Commons license. CALI
+and CALI eLangdell Press do not assert copyright in US
+Government works or other public domain material included herein.
+Permissions beyond the scope of this license may be available
+through feedback@cali.org.
+
+In brief, the terms of that license are that you may copy, distribute,
+and display this work, or make derivative works, so long as
+
+     you give CALI eLangdell Press and the author credit;
+
+     you do not use this work for commercial purposes; and
+
+     you distribute any works derived from this one under the
+         same licensing terms as this.
+
+Suggested attribution format for original work:
+
+Colin Miller, Evidence: Best Evidence Rule, Published by CALI
+eLangdell Press. Available under a Creative Commons BY-NC-SA
+3.0 License.
+
+CALI® and eLangdell® are United States federally registered
+trademarks owned by the Center for Computer-Assisted Legal
+Instruction. The cover art design is a copyrighted work of CALI, all
+rights reserved. The CALI graphical logo is a trademark and may not
+be used without permission.
+
+Should you create derivative works based on the text of this book or
+other Creative Commons materials therein, you may not use this
+book's cover art and the aforementioned logos, or any derivative
+thereof, to imply endorsement or otherwise without written
+permission from CALI.
+This material does not contain nor is intended to be legal advice.
+Users seeking legal advice should consult with a licensed attorney in
+their jurisdiction. The editors have endeavored to provide complete
+and accurate information in this book. However, CALI does not
+warrant that the information provided is complete and accurate.
+CALI disclaims all liability to any person for any loss caused by errors
+or omissions in this collection of information.
+
+                                                iii
+About the Author
+
+Professor Miller teaches Evidence, Criminal Procedure, Criminal
+
+Law, and Civil Procedure. He is the creator and Blog Editor of
+
+EvidenceProf                                       Blog
+
+(http://lawprofessors.typepad.com/evidenceprof/), a member of the
+
+Law Professor Blogs Network. He is the Editor of Illinois Criminal
+
+Procedure and drafted a 100 page report comparing the Federal Rules
+
+of Evidence to Illinois evidentiary principles, which was used in the
+
+creation of the first Illinois Rules of Evidence.
+
+Professor Miller received his B.A. degree with distinction from the
+University of Virginia and his J.D. (Order of the Coif) from the
+William & Mary Law School.
+About CALI eLangdell Press
+
+The Center for Computer-Assisted Legal Instruction (CALI®) is: a
+nonprofit organization with over 200 member US law schools, an
+innovative force pushing legal education toward change for the
+better. There are benefits to CALI membership for your school, firm,
+or organization. eLangdell® is our electronic press with a mission to
+publish more open books for legal education.
+How do we define "open?"
+
+     Compatibility with devices like smartphones, tablets, and e-
+         readers; as well as print.
+
+     The right for educators to remix the materials through more
+         lenient copyright policies.
+
+     The ability for educators and students to adopt the materials
+         for free.
+
+Find available and upcoming eLangdell titles at elangdell.cali.org.
+Show support for CALI by following us on Facebook and Twitter,
+and by telling your friends and colleagues where you received your
+free book.
+
+                                                v
+Table of Contents
+
+Notices........................................................................................ ii
+About the Author ........................................................................iv
+About CALI eLangdell Press ......................................................v
+Table of Contents .......................................................................vi
+Preface ...................................................................................... vii
+Best Evidence Rule Chapter ....................................................... 1
+
+  Introductory Note......................................................................... 1
+  I. Historical Origins of the Best Evidence Rule .......................... 1
+  II. Article X: The Modern Best Evidence Rule............................3
+
+         A. Rule 1002: The Rule's Scope............................................................. 3
+         B. Rule 1001: Defining the Relevant Terms ........................................ 8
+         C. Rule 1003: The Duplicate Exception............................................. 13
+         D. Rule 1004: Excusing Nonproduction of Originals ..................... 16
+         E. Rule 1005: Public Records............................................................... 22
+         F. Rule 1006: Summaries ...................................................................... 24
+         G. Rule 1007: Admissions .................................................................... 26
+         H. Rule 1008: Functions of the Court and Jury ................................ 28
+         I. The Best Evidence Framework ....................................................... 30
+         J. Best Evidence Pleadings ................................................................... 31
+Preface
+
+The Best Evidence Rule, contained in Article X of the Federal Rules
+of Evidence (Rules 1001-1008) and state counterparts, is a Rule that
+requires a party seeking to prove the contents of a writing, recording,
+or photograph to produce the original (or a duplicate) or account for
+its nonproduction. Through a series of cases and hypotheticals
+drawn from actual cases, this chapter gives readers a roadmap for
+how to address any Best Evidence Rule issue in practice.
+
+                                               vii
+Best Evidence Rule Chapter
+
+Introductory Note
+
+In 2009, the Committee on Rules of Practice and Procedure of the
+Judicial Conference of the United States Courts decided to "restyle"
+the Federal Rules of Evidence. The goal in this project was to make
+the Rules more user friendly rather than to enact substantive changes.
+At the end of each section of this chapter, there is a side-by-side
+comparison between the prior language of each Rule in Article X and
+the language of each new "restyled" Rule. Because the changes were
+intended to be stylistic only, everything discussed in this chapter
+should continue to be good law after the "restyled" Rules take effect
+on December 1, 2011.
+
+I. Historical Origins of the Best Evidence Rule
+
+Pre-Roman inhabitants of England, who were mostly illiterate, placed
+great importance on ceremony and "viewed written documents
+affecting property or contractual rights not as mere indicia of those
+rights, but as the rights themselves." Cynthia A. DeSilva, California's
+Best Evidence Rule Repeal: Toward a Greater Appreciation for Secondary
+Evidence, 30 MCGEORGE L. REV. 646, 648 (1999). While this mindset,
+dubbed the "medieval mind" by John Henry Wigmore1 eventually
+dissipated before disappearing entirely in the early 1800s, it
+permeated evidence law, setting the stage for both the doctrine of
+profert in curia2 and the Best Evidence Rule. In courts of law, the
+ancient pleading doctrine of profert in curia required a party seeking
+relief based upon a written instrument to allege that he could produce
+the original. If a party could not produce the original document when
+its contents were at issue, he literally lost the rights it allegedly
+created.
+
+1 See John Henry Wigmore, WIKIPEDIA, http://en.wikipedia.org/wiki/
+John_Henry_Wigmore (last visited Jan. 13, 2012).
+
+2 See Definition of Profert in Curia L, BLACK'S LAW DICTIONARY,
+http://blackslawdictionary.org/profert-in-curia-l/ (last visited Jan 13, 2012).
+Closely related to the doctrine of profert in curia is the Best Evidence
+Rule, also known as the Original Document Rule. Under the Best
+Evidence Rule, first enunciated in Ford v. Hopkins, (1700) 91 Eng.
+Rep. 250, 250-51 (K.B.), the proponent of evidence concerning the
+contents of a written document had to produce the original
+document or account for its nonproduction. See Solomon Salako,
+Chapter 13: The Hearsay Rule, INSITE LAW MAGAZINE,
+http://www.insitelawmagazine.com/evidencech13.htm (last visited
+Jan. 13. 2012). If the proponent could neither produce the original
+document nor provide a satisfactory reason for its nonproduction, he
+could not prove the contents of the document through secondary
+evidence such as witness testimony or a handwritten copy. Courts
+applied this Best Evidence Rule with an understanding of the central
+position that the written word occupies in the law and the knowledge
+that "a slight variation of words may mean a great difference in
+rights." Johnson v. Sourignamath, 816 A.2d 631 (2003). The requirement
+that the proponent of a document produce an original or account for
+its nonproduction was thus an effort to ensure that a party's
+substantive rights were not affected by the possibility of fraud or
+errors of human transcription and memory attendant in handwritten
+copies and testimony.
+
+The twentieth century witnessed the invention of new technologies,
+such as the process of xerography3, invented by attorney Chester
+Carlson4 in 1937, which "revolutionize[d] the document reproduction
+industry" because originals could now be reproduced, ostensibly
+without the errors inherent in human transcription. SCM Corp. v.
+Xerox Corp., 645 F.2d 1195, 1197 (2d Cir. 1981). In response to these
+new technologies, states began enacting exceptions to the Best
+Evidence Rule that allowed for the admission of "duplicates" or
+"duplicate originals" created without manual transcription even when
+proponents could not account for the nonproduction of originals.
+
+3 See Xerography, WIKIPEDIA, http://en.wikipedia.org/wiki/Xerography (last visited
+Jan. 13, 2012).
+
+4 See Chester Carlson, WIKIPEDIA, http://en.wikipedia.org/wiki/Chester_Carlson
+(last visited Jan. 13, 2012).
+These changes paved the way for the eventual adoption of Article X,
+and specifically Rule 1003, of the Federal Rules of Evidence in 1975.
+
+II. Article X: The Modern Best Evidence Rule
+Article X of the Federal Rules of Evidence, consisting of Rules 1001-
+1008, contains the current Best Evidence Rule; most states have
+modified their Best Evidence Rules to conform to the Federal Rules.
+
+         A. Rule 1002: The Rule's Scope
+Federal Rule of Evidence 1002 contains the Best Evidence Rule: "An
+original writing, recording, or photograph is required in order to
+prove its contents unless these rules or a federal statute provides
+otherwise." An example of a writing triggering a Best Evidence Rule
+analysis can be found in United States v. Rivera-Carrizosa, 35 F.3d 573
+(9th Cir. 1994), in which the defendant was convicted of unlawful
+reentry or presence in the United States after deportation. At trial, an
+agent testified that he reviewed the defendant's birth certificate from
+his immigration file and that the certificate stated that the defendant
+was born in Mexico. Id. On the defendant's appeal, the Ninth Circuit
+reversed his conviction because the prosecution did not produce his
+birth certificate at trial, meaning that the agent's testimony violated
+the Best Evidence Rule. Id.
+
+For an example of how the Best Evidence Rule applies to
+photographs, see United States v. Shores, 93 F. App'x. 868 (6th Cir.
+2004), where the defendant was charged with being a felon in
+possession of a firearm and ammunition. Officers seized the firearm
+and ammunition during a search of the defendant's residence, during
+which they saw, but did not seize, a photograph of the defendant
+with a holstered revolver that appeared identical to the revolver that
+they recovered from the defendant's bedroom. See id. The officers
+testified regarding the photograph at trial, and the Sixth Circuit found
+that this testimony would have violated the Best Evidence Rule but
+for the fact that the defendant was placed on notice of the officers'
+testimony and had the photograph in his possession during trial,
+triggering Federal Rule of Evidence 1004(3), which will be discussed
+infra. See id.
+
+                                                3
+An example involving a recording can be found in Dyer v. State, 26 So.
+3d 700 (Fla. Dist. Ct. App. 2010), in which a defendant was convicted
+of stealing videos from an adult video store. The prosecution's main
+evidence against the defendant was the testimony of the store's
+manager who reviewed the surveillance video from the night of the
+robbery. See id. at 701. Because the prosecution did not produce the
+surveillance video at trial or satisfactorily account for its
+nonproduction, the appellate court reversed the defendant's
+conviction on appeal, concluding that the manager's testimony
+violated the Best Evidence Rule. See id. at 703.
+
+On the other hand, the Best Evidence Rule is inapplicable when a
+party seeks to admit evidence or testimony that relates to a writing,
+recording, or photograph, but does not seek to prove its contents.
+For example, in State v. Clark, 377 S.E.2d 54 (N.C. 1989), the
+defendant allegedly murdered his wife, and the trial court permitted a
+witness to testify that she discovered a life insurance policy on the
+wife's life in the defendant's personal belongings although the
+prosecution did not produce the original policy. On the defendant's
+appeal, the Supreme Court of North Carolina affirmed the trial
+court's decision, concluding that the witness' testimony "was offered
+not to prove contents or terms, but simply to show defendant's
+knowledge that the policy existed." Id. at 60.
+
+Furthermore, "[t]he best-evidence rule does not apply where a party
+seeks to prove a fact which has an existence independent of any
+writing, even though the fact might have been reduced to, or is
+evidenced by, a writing." JAG Consulting v. Eubanks, 72 S.W.3d 549,
+555 (Ark. Ct. App. 2002). For instance, in Eubanks, an Arkansas
+appellate court found in a shop owner's lawsuit for conversion of his
+tools and equipment that the trial court properly permitted his wife
+to testify about his lost income resulting from the conversion because
+she had personal knowledge of the lost income. The fact that the
+wife later used this knowledge to prepare his tax returns did not make
+her testimony inadmissible pursuant to the Best Evidence Rule even
+though the plaintiff did not produce the tax returns at trial. See id. at
+242.
+Finally, when evidence qualifies as a writing and as chattel5, an item
+of tangible movable or immovable property, a court has discretion to
+treat it as chattel and beyond the scope of the Best Evidence Rule.
+Thus, in United States v. Yamin, 868 F.2d 130 (5th Cir. 1989), a
+prosecution for conspiracy and trafficking in counterfeit watches, the
+Fifth Circuit found no error with the admission of testimony by a
+witness that she purchased watches with counterfeit trademarks from
+the defendant even though the prosecution did not produce those
+watches at trial. See id. at 134-35. The Fifth Circuit found that the
+watches constituted both chattel and writings and that the dangers of
+inaccuracy and fraud that the Best Evidence Rule are designed to
+protect against were not implicated by the admission of the testimony
+because "[t]he viewing of a simple and recognized trademark is not
+likely to be inaccurately remembered." Id. This was especially true
+because the prosecution did produce other counterfeit watches sold
+by the defendant and seized from the defendant's store. See id. In
+United States v. Buchanan, 605 F.3d 518 (8th Cir. 2010), the Eighth
+Circuit reached the same conclusion with regard to testimony
+concerning an inscription in a safe. See also Colin Miller, "Safety in
+Numbers: Eight Circuit Finds Best Evidence Rule Not Triggered by
+Inscription on Safe." EVIDENCEPROF BLOG, (May 6, 2010)
+http://lawprofessors.typepad.com/evidenceprof/2010/05/1002-
+chattel--us-v-buchanan----f3d------2010-wl-1753346ca8-
+iowa2010.html
+
+         Hypothetical 1
+    Chris Vagenos files an action pursuant to The Fair Debt
+    Collection Practices Act against LDG Financial Services,
+    LLC, alleging that the company engaged in deceptive
+    practices in connection with the collection of a consumer
+    debt. His claims are based upon a telephone message left on
+    his cell phone by LDG. Vagenos claims, however, that the
+    original message was destroyed when he switched his cellular
+    telephone provider. If Vagenos wants to testify about the
+
+5 For definition see Chattel, LEGAL INFORMATION INSTITUTE'S WEX,
+http://www.law.cornell.edu/wex/chattel (last visited Jan. 17, 2012).
+
+                                                5
+contents of the telephone message, does his testimony trigger
+a Best Evidence Rule analysis? Cf. Vagenos v. LDG Financial
+Services, LLC, 2009 WL 5219021 (E.D.N.Y. 2009); Colin
+Miller, "Adverse (Dis)Possession: Eastern District Of New
+York Order Adverse Inference Instruction In Best Evidence
+Ruling." EVIDENCEPROF BLOG, (Jan. 17, 2010),
+http://lawprofessors.typepad.com/evidenceprof/2010/01/1
+0041-adverse-inference-instructionvagenos-vldg-financial-
+services-llcslip-copy-2009-wl-5219021edny2009.html.
+
+    Hypothetical 2
+
+Dennis is on trial for robbing a bank in Virginia on August 2,
+2011 at 3:42 P.M. Dennis' defense is that it was impossible
+for him to be robbing a bank in Virginia at that time because
+he was at a post office in North Carolina mailing a letter on
+August 2, 2011 at 3:45 P.M. At trial, as Dennis begins to
+testify about mailing the letter, the prosecutor objects that
+Dennis' testimony will violate the Best Evidence Rule
+because he did not produce the letter at trial. Should the
+judge sustain the objection?
+
+    Hypothetical 3
+
+Joseph Churchill is charged with safecracking and related
+crimes after allegedly stealing money and checks from a lock-
+box type safe at Joseppi's Pizza at 2:25 A.M. Later that
+morning, Detective Sergeant Dale Parrish viewed a
+surveillance camera videotape of the parking lot adjacent to
+the pizza parlor, which showed a van in the lot at 2:24 A.M.
+that then left approximately 4 minutes later. Parrish later
+arrested Churchill that same day while he was driving a van.
+At trial, the prosecution did not introduce the videotape into
+evidence, but Parrish testified that the vehicle in the video
+was "a van like the one Churchill was driving." After he is
+convicted, Churchill appealed, claiming that this testimony
+violated the Best Evidence Rule. Is he right? See State v.
+Churchill, 2002 WL 598315 (Ohio Ct. App. 2002).
+    Hypothetical 4
+
+Officer Angela Timmerman pulls over a car believed to be
+involved in a road rage incident. Officer Timmerman asks the
+driver of the car for his name, and he responds, "Michael Lee
+Johns." Officer Timmerman then asks the driver for
+something to verify his identity, and he gives her a sales
+receipt for the vehicle, which contains the name "Carl
+Wiskow." Officer Timmerman then takes the receipt to her
+cruiser to run a records check. Before Timmerman can arrest
+the driver, he starts his car and drives away at a high rate of
+speed, but Officer Timmerman eventually catches and arrests
+the driver, who turns out to be Carl Wiskow. Wiskow is
+charged with fleeing a police officer and giving a false name
+to the police. At trial, when Officer Timmerman is asked
+what led her to run the records' check after she pulled over
+the driver, she starts to testify regarding the receipt. Defense
+counsel objects that the prosecution had not offered the
+receipt into evidence, meaning that the testimony violates the
+Best Evidence Rule. Should the judge sustain the objection?
+See State v. Wiskow, 2009 WL 3172156 (Minn. Ct. App. 2009);
+see also Colin Miller, "Can I Get a Receipt For That?: Court of
+Appeals of Minnesota Finds Best Evidence Rule Not
+Violated by Testimony Regarding Receipt Not Offered to
+Prove its Contents." EVIDENCEPROF BLOG, (Oct. 7, 2009),
+http://lawprofessors.typepad.com/evidenceprof/2009/10/b
+est-evidence-receiptstate-of-minnesota-respondent-v-cain-lee-
+wiskow-appellant----nw2d------2009-wl-
+3172156minnapp.html.
+
+    Hypothetical 5
+
+Store patrons who were arrested after an altercation with
+store employees at a Wal-Mart brought a Section 1983 claim
+against Wal-Mart, the city, the police department, and several
+individual police officers. In response, the defendants move
+for summary judgment. Wal-Mart has a surveillance video of
+the altercation, but it does not present it at the summary
+judgment hearing. Instead, it presents the affidavits of several
+
+                                           7
+individuals who were present at the altercation and described
+what they saw. The patrons claim that these affidavits are
+inadmissible pursuant to the Best Evidence Rule because the
+surveillance video is the original, and the defendants have not
+accounted for its nonproduction. Are they right? See Jackim v.
+Sam's East Inc., 2010 WL 2101962 (6th Cir. 2010).
+
+Prior Rules Language:                 Restyled Rules Language:
+
+Rule 1002. Requirement of             Rule 1002. Requirement of the
+Original                              Original
+
+To prove the content of a writing,    An original writing, recording, or
+recording, or photograph, the         photograph is required in order to
+original writing, recording, or       prove its content unless these rules
+photograph is required, except as     or a federal statute provides
+otherwise provided in these rules or  otherwise.
+by Act of Congress.
+
+         B. Rule 1001: Defining the Relevant Terms
+
+Federal Rule of Evidence 1001 defines the relevant terms contained
+in Rule 1002 and sets forth the definition of a "duplicate" as used in
+Rule 1003. According to Rule 1001(a)-(b), "[a] `writing' consists of
+letters, words, numbers, or their equivalent set down in any form,"
+and "[a] recording' consists of letters, words, numbers, or their
+equivalent recorded in any manner." Under this definition, the Best
+Evidence Rule covers a wide range of evidence, such as title records
+(See White Indus., Inc. v. Cessna Aircraft Co., 611 F. Supp. 1049 (W.D.
+Mo. 1985)), claim forms (See United States ex rel. El-Amin v. George
+Washington Univ., 522 F. Supp. 2d 135 (D.D.C. 2008)), bills (See Oliver
+v. Sioux City Community School Dist., 389 NW 2d 665 (Iowa 1986)),
+deeds (See Gleason v. Galvin, 374 Mass. 574, 373 NE.2d 357, (Mass.
+1978)), and sound recordings (See Hall v. Texas, 829 S.W.2d 407 (Tex.
+Ct. App. 1992)).
+
+Moreover, courts have given the phrase "their equivalent" an
+expansive reading, capturing an even broader range of items under
+the purview of the Best Evidence Rule. For instance, in Seiler v.
+Lucasfilm, Ltd., 808 F.2d 1316 (9th Cir. 1986), the plaintiff, graphic
+artist Lee Seiler, "claimed that creatures known as `Imperial Walkers6'
+which appeared in The Empire Strikes Back infringed Seiler's
+copyright on his own creatures called `Garthian Striders.'" Seiler,
+however, did not obtain his copyright until after the movie was
+released in 1980, but he alleged that he first published his "Garthian
+Striders" in 1976 and 1977. Id. at 1317-18. At trial, Seiler could not
+produce his original drawings and instead sought to prove his case
+through "reconstructions" he created for trial. Id. at 1318. Seiler
+alleged that the Best Evidence Rule did not apply to his drawings
+because they did not consist of letters, words, or numbers. Id. at
+1318-19. The Ninth Circuit disagreed, finding that his drawings
+"'consist[ed] not of letters, words, or numbers' but of `their
+equivalents.'" Id. at 1318-19. It found that the drawings were
+"equivalents" because "[j]ust as a contract objectively manifests the
+subjective intent of the makers, so Seiler's drawings are objective
+manifestations of the creative mind." Id. at 1320.
+
+Federal Rule of Evidence 1001(c) more clearly defines the term
+"photograph." According to the Rule, the term "`photograph' means
+a photographic image or its equivalent stored in any form." Federal
+Rule of Evidence 1001(d) indicates that "[a]n `original' of a
+photograph includes the negative or any print from it." Furthermore,
+before Rule 1001(d) was restylized, it stated that "if data are stored on
+a computer or similar device, any printout or other output readable
+by sight, shown to reflect the data accurately, is an original."
+Therefore, if the proponent of the evidence creates data, such as
+work logs, not on paper, but on a computer, any printout from the
+computer is admissible as an original and the proponent does not
+have to introduce the computer or hard drive at trial. The "output
+readable by sight" portion of the prior Rule covers evidence such as
+computer-generated displays.
+
+Rule 1001(d) also defines "[a]n `original' of a writing or recording [as]
+the writing or recording itself or any counterpart intended to have the
+same effect by a person who executed or issued it." Therefore, when
+
+6 For image see Walker (Star Wars), WIKIPEDIA, http://en.wikipedia.org/
+wiki/Walker_%28Star_Wars%29 (last visited Jan. 17, 2012).
+
+                                                9
+a person executes a document such as a contract, will, or deed, the
+writing that he executed is clearly an original. Moreover, under the
+Rule there can be multiple originals. To wit, "[i]f each party to a
+contract, lease, sale or other transaction receives or retains a copy of
+the instrument that embodies or evidences the transaction, each copy
+is considered an original, regardless of the mechanism or the
+chronology of their creation." Olin Guy Wellborn III, The "Best
+Evidence" Article of the Texas Rules of Evidence, 18 St. Mary's L.J. 99, 105
+(1986).
+
+Finally, Federal Rule of Evidence 1001(e) defines a "duplicate" as "a
+counterpart produced by a mechanical, photographic, chemical,
+electronic, or other equivalent process or technique that accurately
+reproduces the original." Rule 1001(e) thus refers to four kinds of
+duplicates: "same impression (such as carbon or so-called `carbonless'
+or `formpack' copies), same matrix (such as offset printing, often
+called `multilith'; stencil duplication or `mimeograph'; or hectograph
+or `ditto'), photography (such as micrography or microfiche), and
+chemical reproduction (such as electrostatic or xerographic
+`photocopies')." Courts have used the "other equivalent techniques"
+language of Rule 1001(e) to qualify, inter alia, facsimiles as duplicates.
+Essentially, then, "any mechanically created reproduction is a
+duplicate; a manually created production, because of the risk of
+human error, is not." Wellborn, supra at 107.
+
+         Hypothetical 6
+
+    James Kodadeck claims that he made numerous drawings of
+    two cartoon characters called "Beavis and Butthead" in 1991.
+    He alleges that he gave one of the drawings to a man who
+    identified himself as Mike Judge. In 1993, MTV aired a TV
+    show entitled "MTV's Beavis and Butthead," with creative
+    credit going to Mike Judge. Kodadeck brings a claim
+    sounding in copyright infringement and unfair competition
+    against Judge. Kodadeck does not produce his 1991 drawings
+    in response to the defendant's motion for summary
+    judgments, but he does produce illustrations that he drew
+    after the premiere of MTV's show that allegedly closely
+    approximate his 1991 drawings. Can the illustrations be
+admitted, or would their admission violate the Best Evidence
+Rule? Cf. Kodadeck v. MTV Networks, Inc., 152 F.3d 1209 (9th
+Cir. 1998).
+
+    Hypothetical 7
+Vincent Bennett is charged with possession with intent to
+distribute and importation of marijuana. At trial, the
+prosecution wants to have U.S. Customs Officer Malcolm
+Chandler testify that he discovered a global positioning
+system ("GPS") while searching Bennett's boat and that the
+GPS revealed that Bennett's boat had traveled from Mexican
+waters to the San Diego Bay. Is Chandler's testimony
+admissible in the absence of the GPS? See United States v.
+Bennett, 363 F.3d 947 (9th Cir. 2004).
+
+    Hypothetical 8
+The Canyon County Prosecuting Attorney files a Petition
+under the Child Protective Act requesting that the court take
+jurisdiction over the children of John and Jane Doe. At trial,
+the prosecution seeks to present several photographs of
+injuries to the children produced from data downloaded from
+a camera to a computer system and printed out at the police
+station. An expert witness testifies that the colors of the
+prints were not "neutrally balanced" and reflected color biases
+toward red and yellow hues. Are these prints originals for
+Best Evidence Rule purposes? See Idaho Dept. of Health and
+Welfare v. Doe, 2010 WL 4342147 (Idaho Ct. App. 2010);
+Colin Miller, "Color Me Surprised: Court of Appeals of Idaho
+Finds No Problem with Color Biased Photos Under Best
+Evidence Rule." EVIDENCEPROF BLOG, (Nov. 10, 2010)
+http://lawprofessors.typepad.com/evidenceprof/2010/11/b
+est-evidence-idaho-dept-of-health-and-welfare-v-doe-p3d-
+2010-wl-4342147idaho-app2010.html.
+
+                                          11
+Prior Rules Language:                       Restyled Rules Language:
+
+Rule 1001. Definitions                      Rule 1001. Definitions That
+                                            Apply to This Article
+For purposes of this article the
+following definitions are applicable:       In this article:
+
+(1) Writings and recordings.                (a) A "writing" consists of letters,
+``Writings'' and ``recordings'' consist of  words, numbers, or their equivalent
+letters, words, or numbers, or their        set down in any form.
+equivalent, set down by handwriting,
+typewriting, printing, photostating,        (b) A "recording" consists of
+photographing, magnetic impulse,            letters, words, numbers, or their
+mechanical or electronic recording, or      equivalent recorded in any manner.
+other form of data compilation.
+                                            (c) A "photograph" means a
+(2) Photographs. ``Photographs''            photographic image or its
+include still photographs, X-ray films,     equivalent stored in any form.
+video tapes, and motion pictures.
+                                            (d) An "original" of a writing or
+(3) Original. An ``original'' of a          recording means the writing or
+writing or recording is the writing or      recording itself or any counterpart
+recording itself or any counterpart         intended to have the same effect by
+intended to have the same effect by a       the person who executed or issued
+person executing or issuing it. An          it. For electronically stored
+``original'' of a photograph includes the   information, "original" means any
+negative or any print therefrom. If data    printout -- or other output
+are stored in a computer or similar         readable by sight -- if it accurately
+device, any printout or other output        reflects the information. An
+readable by sight, shown to reflect the     "original" of a photograph includes
+data accurately, is an ``original''.        the negative or a print from it.
+
+(4) Duplicate. A ``duplicate'' is a         (e) A "duplicate" means a
+counterpart produced by the same            counterpart produced by a
+impression as the original, or from the     mechanical, photographic,
+same matrix, or by means of                 chemical, electronic, or other
+photography, including enlargements         equivalent process or technique
+and miniatures, or by mechanical or         that accurately reproduces the
+electronic re-recording, or by chemical     original.
+reproduction, or by other equivalent
+techniques which accurately reproduces
+the original.
+         C. Rule 1003: The Duplicate Exception
+
+Federal Rule of Evidence 1003 is consistent with the emerging state
+trend finding mechanically produced duplicates admissible even when
+proponents could not account for the nonproduction of originals. It
+states that "[a] duplicate is admissible to the same extent as the
+original unless a genuine question is raised about the original's
+authenticity or the circumstances make it unfair to admit the
+duplicate." Under Rule 1003, duplicates are thus admissible as long as
+they can meet the liberal authentication test laid out in Rule 901(a),
+unless one of the exceptions applies. Every state has either adopted a
+counterpart to Rule 1003 or some version of the similar Uniform
+Photographic Copies of Business and Public Records as Evidence
+Act. 28 USC § 1732.
+
+The exception contained in Federal Rule of Evidence 1003 applies
+when there are questions about whether the original ever really
+existed, whether a signature on the original was actually the signature
+of a party or a forgery, or whether the original was altered before it
+was copied, such as through photoshopping or the use of white out.
+See, e.g., Opals on Ice Lingerie v. Bodylines, Inc., 320 F.3d 362, 371 (2nd
+Cir. 2003) ("Bodylines contends that Opals `whited out' the note
+below Sautter's signature...Accordingly, Bodylines has raised a
+genuine question as to the authenticity of the original.")
+
+For instance, in Boswell v. Jasperson, 266 F. Supp. 2d 1314 (D. Utah
+2003), in 1974, Marsden and Melva Larsen sold land, including a feed
+yard, to Garth Boswell. Garth later obtained loans on the property
+from the Zions First National Bank and the Farmers Home
+Administration. Id. at 1316. In 1983, Garth filed a bankruptcy
+petition, which listed the feed yard as part of his real estate property
+holdings, and his son, William P. Boswell, sought to establish that he
+had an ownership interest in the feed yard. Id. As support for his
+claim, William introduced an alleged copy of the original deed from
+the Larsens to his father, which he claimed was altered with the
+consent of all parties "to substitute his name, William P. Boswell and
+his d/b/a Rafter `B' Ranch, as grantees." Id. William admitted,
+however, that the loan holders were never notified of this alleged
+alteration. Id. Meanwhile, Garth contradicted himself, alternatively
+
+                                               13
+contending that the original deed was and was not altered. Id. at
+1316-17. Although the court failed to set forth a test for determining
+whether there was a genuine question raised as to the original's
+authenticity, it concluded that "there [wa]s a genuine question as to
+the authenticity of the proffered altered deed." Id. at 1321.
+
+That said, it is the rare case in which a court has found that an
+opposing party has successfully raised a genuine question concerning
+the authenticity of an original. See Wellborn, supra at 114. For
+example, in Alderson v. Bonner, 132 P.3d 1261, 1264-66, the Idaho
+Appellate Court found no problem with the prosecution's
+introduction of a 35-minute copy of a videotape despite the fact that
+the officer who made the copy previously reported that the original
+video was 45 minutes long. In Amin v. Flagston Hospitality Mgmt., 2005
+WL 3054599 (D. Minn. 2005), the court found no problem with the
+admission of a copy of a declaration that a witness denied signing
+despite the fact that the last page of the copy had printing across the
+top indicative of a fax while the rest of the document did not.
+
+The second exception contained in Rule 1003 applies where only part
+of an original document or recording is reproduced in a duplicate,
+and the remainder is needed for some purpose cross-examination.
+Courts have consistently found that the second exception contained
+in Rule 1003 applies when duplicates fail to fully reproduce important
+or critical parts of an original document or recording. Such was the
+case in Amoco Production Co. v. United States, 619 F.2d 1383 (10th Cir.
+1980), in which the Tenth Circuit found that the district court
+properly excluded the photocopy of a deed that did not reproduce
+the reservation clause.
+
+         Hypothetical 9
+
+    E.G. Lewis purchases a car and reaches an oral agreement
+    with Edward Smith, under which Smith and his wife will pay
+    Lewis $222 in exchange for use of the car. Lewis claims that
+    this oral agreement was later reduced to a written contract
+    under which the Smiths would continue paying him $222 a
+    month until his car loan was paid off. Smith claims that he
+    never signed such an agreement and that he only agreed to
+make the monthly payment as long as he needed the car.
+Lewis sues Smith for breach of contract and produces a
+photocopy of the alleged written contract at trial. His
+handwriting expert compared the signature on the photocopy
+with other documents signed by Smith and testified that the
+signature on the photocopy was "probably" by Smith but he
+could not be sure without examining the original. The expert
+testified that it is possible to scan a signature on to a
+document but that he found no evidence of tampering. But
+he also found that the signature on the photocopy was not an
+exact match with any of Smith's other signatures that he
+examined. Is the photocopy admissible? See Lewis v. Smith,
+2003 WL 578619 (Ohio Ct. App. 2003).
+
+    Hypothetical 10
+John Galvan, a USPS employee, is injured on February 11,
+2004, after a chair and table apparatus he was seated in
+collapsed. Galvin brings a negligence and strict liability action
+against Krueger International Inc., the manufacturer of the
+chair and table apparatus. Krueger brings a motion for
+summary judgment dismissing the complaint, claiming that
+Illinois product liability statute of repose, which prevents a
+plaintiff from bringing a strict product liability claim ten years
+after the date that the product was sold, expired on
+December 3, 2003. In support, Krueger presents photocopies
+of invoices and shipping manifests indicating that Krueger's
+chair table apparatus was scheduled to arrive at Galvan's
+USPS office in December 3, 1993. Galvan counters that these
+photocopies violate the Best Evidence Rule because they only
+reproduce the fronts of these invoices and shipping manifests
+and not the backs, which contain terms and conditions.
+Galvan claims that these backs could alter the court's
+decision. Is Galvan correct? See Galvan v. Krueger International
+Inc., 2011 WL 111576 (N.D. Ill. 2011).
+
+                                          15
+Prior Rules Language:                   Restyled Rules Language:
+
+Rule 1003. Admissibility of             Rule 1003. Admissibility of
+Duplicates                              Duplicates
+
+A duplicate is admissible to the        A duplicate is admissible to the
+same extent as an original unless (1)   same extent as the original unless a
+a genuine question is raised as to the  genuine question is raised about
+authenticity of the original or (2) in  the original's authenticity or the
+the circumstances it would be unfair    circumstances make it unfair to
+to admit the duplicate in lieu of the   admit the duplicate.
+original.
+
+         D. Rule 1004: Excusing Nonproduction of Originals
+
+         Federal Rule of Evidence 1004 states that there are four
+circumstances under which the proponent of evidence concerning
+the contents of a writing, recording, or photograph is not required to
+produce the original and instead can prove its contents through
+secondary evidence. Secondary evidence includes any type of
+evidence besides the original, "ranging from photographs and
+handwritten copies to oral testimony of a witness whose credibility is
+suspect." United States v. Gerhart. 538 F.2d 807 (8th Cir. 1976). Indeed,
+courts have even held that when the opponent of a duplicate has
+made a successful challenge to it under Rule 1003, the proponent can
+still introduce the "duplicate" if he establishes one of the Rule 1004
+circumstances. Furthermore, courts have relied upon the Advisory
+Committee's Note to Rule 1004 in concluding that there are no
+"degrees" of secondary evidence. Accordingly, once the proponent
+meets his burden of proof in establishing one of the Rule 1004
+circumstances, he is free to submit any type of secondary evidence;
+there is no requirement, for instance, that a "copy be introduced in
+preference to...oral testimony" on the ground that the former is
+`better' evidence. Unfortunately, while most courts have placed the
+burden of proof on proponents to establish one of the Rule 1004
+circumstances, they have consistently failed to flesh out the nature of
+that burden.
+         The first circumstance is triggered under Rule 1004(a) when
+"[a]ll originals are lost or have been destroyed, and not by the
+proponent acting in bad faith." An example of this circumstance can
+be found in United States v. McMahon, 938 F.2d 1501 (1st Cir. 1991),
+where the First Circuit found that the district court properly allowed
+testimony about the contents of a note allegedly written by the
+defendant. The court came to this conclusion under Rule 1004(a)
+because the defendant did "not suggest that the government lost or
+destroyed the document in bad faith." It is a difficult task for the
+opponent of secondary evidence to prove that the proponent of
+secondary evidence lost or destroyed the original in bad faith. Courts
+have determined that the proponents of secondary evidence satisfied
+Rule 1004(a) even when they acknowledged negligently destroying
+documents (See Estate of Gryder v. CIR, 705 F.2d 336 (8th Cir. 1983)),
+using a process to copy a tape which they knew would destroy the
+original (See United States v. Balzano, 687 F.2d 6 (1st Cir. 1982)), and
+erasing tapes in the ordinary course of business (See United States v.
+Workinger, 90 F.3d 1409 (9th Cir. 1996)).
+
+Furthermore, a couple of recent court decisions have heightened the
+hurdle the opponents of secondary evidence must leap in opposing
+the admission of secondary evidence pursuant to Rule 1004(a). As
+noted, courts typically require the proponent of secondary evidence
+to establish one of the Rule 1004 circumstances such as proving that
+the original was lost or destroyed without bad faith. In two 2007
+decisions, however, the District Court for the Eastern District of
+Michigan indicated that the opponent of secondary evidence "has the
+burden of establishing bad faith" under Rule 1004(a), shifting the
+burden from the proponent to the opponent. See United States v.
+Culberson, 2007 WL 1452902 (E.D. Mich. 2007); United States v.
+Culberson, 2007 WL 1266131 (E.D. Mich. 2007).
+
+         The second circumstance applies under Rule 1004(b) when
+"an original cannot be obtained by any available judicial process." For
+instance, in Allegra v. Bowen, 670 F. Supp. 465 (E.D.N.Y. 1987), the
+plaintiff applied for disability insurance because she allegedly suffered
+from muscular dystrophy since early childhood. The plaintiff claimed
+that her childhood physician in Italy diagnosed her with this
+
+                                               17
+condition and attempted to prove this diagnosis through a sworn
+physician's letter rather than the original clinical documents in which
+the diagnosis was made. Id. at 468. An Administrative Law Judge
+denied the plaintiff's application, finding that the letter was
+inadmissible under the Best Evidence Rule, but the District Court for
+the Eastern District of New York reversed, concluding that the
+original clinical documents were unobtainable "by available process
+or procedure" under Rule 1004(b) because they were Italy, allowing
+the plaintiff to prove their contents through secondary evidence such
+as the letter. Id. at 468-69. Courts have made clear that the
+proponents of secondary evidence need not take Herculean efforts to
+try to obtain the original for Rule 1004(b) to apply. When, however,
+proponents of duplicates fail to engage in "diligent" efforts to
+establish that originals are lost, destroyed, or unobtainable, courts will
+find that they cannot introduce secondary evidence pursuant to Rule
+1004(a) or 1004(b).
+
+The third circumstance applies under Rule 1004(c) when "the party
+against whom the original would be offered had control of the
+original; was at that time put on notice, by pleadings or otherwise,
+that the original would be a subject of proof at the trial or hearing;
+and fails to produce it at the trial or hearing." The District Court for
+the Eastern District of California found this portion of the Rule
+applied in United States v. Cuesta, 2997 WL 2729853 (E.D. Cal. 2007),
+where the defendant appealed his conviction for being a minor
+knowingly driving a vehicle containing alcohol. At the defendant's
+trial, the prosecution requested that the defendant produce his
+driver's license to prove his age, but he refused; thereafter, the
+magistrate judge allowed the prosecution to call the ranger who
+arrested the defendant to testify as to the defendant's date of birth on
+his driver's license. Id. at *20. The court rejected the defendant's
+argument that this testimony violated the Best Evidence Rule, finding
+pursuant to Rule 1004(c) that the driver's license was in the
+defendant's possession and that he failed to produce it at his trial. Id.
+
+Finally, under the "collateral matters" circumstance enunciated in
+Rule 1004(d), secondary evidence is admissible when "[t]he writing,
+recording, or photograph is not closely related to a controlling issue."
+In Jackson v. Crews, 873 F.2d 1105 (8th Cir. 1989), a movie theater
+patron who was arrested for public intoxication and resisting arrest
+brought a Section 1983 action against the municipality and his
+arresting officer for excessive force. On appeal, after the district court
+awarded damages to the plaintiff, the arresting officer alleged that the
+district court erred by allowing Jackson to question a witness about
+the contents of a flyer describing the arrest and "asking any witnesses
+to contact the person named on the flyer." Id. at 1109-10. The Eighth
+Circuit determined that the Best Evidence Rule did not preclude the
+testimony despite the nonproduction of the flyer because, inter alia,
+the contents of the flyer were "collateral to the principal issue in the
+trial." Id. at 1110.
+
+Hypothetical 11
+
+Keith Lanzon is charged with attempting to persuade, entice,
+
+or coerce a minor to engage in sexual activity after he
+
+allegedly sent instant messages to an undercover officer
+
+posing as a 14 year-old girl. The government produced
+
+transcripts of these messages before they were deleted after
+
+the agent logged out of the instant message program. At trial,
+
+when the prosecution seeks to admit the transcripts at trial,
+
+Lanzon objects that their admission would violate the Best
+
+Evidence Rule. Should his objection be sustained? See United
+
+States v. Lanzon, 639 F.3d 1293 (11th Cir. 2011); Colin Miller,
+
+"Word Perfect?: 11th Circuit Finds Prosecution Properly
+
+Authenticated IMs Cut-and-Pasted Into Word Document."
+
+EVIDENCEPROF     BLOG,         (May  7,                2011)
+
+http://lawprofessors.typepad.com/evidenceprof/2011/05/te
+
+xt-message-word-authenticate-us-v-lanzon-f3d-2011-wl-
+
+1662901ca11-fla2011.html.
+
+Hypothetical 12
+
+Kevin Murray met with Police Chief Vincent Carlone to
+arrange a controlled purchase of cocaine from John Grullon.
+The police supplied Murray with a $100 bill to purchase the
+cocaine. At a meeting at Grullon's condominium, Grullon
+agreed to sell Murray a small amount of cocaine for $60,
+
+                           19
+which Grullon retrieved from the hemline of a curtain
+
+covering a sliding glass door. Murray paid Grullon with the
+
+$100 bill and received $40 in change plus a bag of cocaine.
+
+Grullon is charged with possession with intent to distribute
+
+cocaine. At trial, the prosecution claims that by the time the
+
+police obtained a search warrant, Grullon had already used
+
+the $100 bill, so it was in general circulation and could not be
+
+recovered. The prosecution seeks to admit a photocopy of
+
+the front side of the $100 bill under Rule 1003, but the court
+
+deems it inadmissible under Rule 1003(2) because the
+
+photocopy fails to completely reproduce the original. Can the
+
+prosecution still get the photocopy admitted? See State v.
+
+Grullon, 984 A.2d 46 (R.I. 2009); Colin Miller, "Better
+
+Evidence or Best Evidence?: Supreme Court of Rhode Island
+
+Engages in Detailed Analysis of Best Evidence Rule."
+
+EVIDENCEPROF     BLOG,  (Jan.  10,                       2010)
+
+http://lawprofessors.typepad.com/evidenceprof/2010/01/ri
+
+state-v-grullon----a2d------2009-wl-4722264ri2009.html.
+
+Hypothetical 13
+
+Tim Cooper reached an agreement with Publishing Group,
+pursuant to which Publishing Group would print an
+advertisement for Cooper's financial planning business in one
+of its magazines. A Publishing Group employee mailed a
+copy of the agreement to Cooper, who signed it and faxed it
+back to Publishing Group. Cooper retained possession of the
+original agreement. Publishing Group printed the
+advertisement in the November/December issue of the
+magazine, and when Cooper failed to pay for the
+advertisement, Publishing Group sued Cooper for breach of
+contract. Cooper's defense was that the agreement he signed
+provided that if he did not pay for the advertisement by
+October 2nd, Publishing Group would not print it and both
+parties would be relieved from their obligation to perform
+under the agreement. Publishing Group does not produce the
+agreement at trial but does have several of its employees
+testify concerning the terms of the agreement. Cooper claims
+that this testimony violated the Best Evidence Rule. Is he
+right? See Publishing Group, Ltd. v. Cooper, 2011 Ohio 2872
+(Ohio Ct. App. 2011).
+
+    Hypothetical 14
+David Winn is charged with aggravated burglary and related
+crimes based upon a burglary at the house of Treva
+Hummons. Winn admits to committing the burglary but
+claims that he committed it under duress. At trial, several
+witnesses testify that Winn was friends with Hummons'
+grandson. The prosecution also introduces into evidence a
+crime scene photograph of Hummons' living room. In the
+photograph, there is a barely visible photograph on top of
+Hummons' television. The girlfriend of Hummons' grandson
+testifies that the photograph is a photograph of Winn and
+Hummons' grandson. Winn objects that this testimony
+violates the Best Evidence Rule because the prosecution did
+not produce this second photograph at trial. Should the court
+sustain his objection? See State v. Winn, 877 N.E.2d 1020
+(Ohio Ct. App. 2007).
+
+                                          21
+Prior Rules Language:                 Restyled Rules Language:
+
+Rule 1004. Admissibility of Other     Rule 1004. Admissibility of
+Evidence of Contents                  Other Evidence of Content
+
+The original is not required, and     An original is not required and
+other evidence of the contents of a   other evidence of the content of a
+writing, recording, or photograph is  writing, recording, or photograph is
+admissible if--                       admissible if:
+
+(1) Originals lost or destroyed. All     (a) all the originals are lost or
+originals are lost or have been          destroyed, and not by the
+destroyed, unless the proponent lost     proponent acting in bad faith;
+or destroyed them in bad faith; or
+                                         (b) an original cannot be
+(2) Original not obtainable. No          obtained by any available judicial
+original can be obtained by any          process;
+available judicial process or
+procedure; or                            (c) the party against whom the
+                                         original would be offered had
+(3) Original in possession of            control of the original; was at
+opponent. At a time when an              that time put on notice, by
+original was under the control of        pleadings or otherwise, that the
+the party against whom offered, that     original would be a subject of
+party was put on notice, by the          proof at the trial or hearing; and
+pleadings or otherwise, that the         fails to produce it at the trial or
+contents would be a subject of           hearing; or
+proof at the hearing, and that party
+does not produce the original at the     (d) the writing, recording, or
+hearing; or                              photograph is not closely related
+                                         to a controlling issue.
+(4) Collateral matters. The
+writing, recording, or photograph is
+not closely related to a controlling
+issue.
+
+         E. Rule 1005: Public Records
+
+Federal Rule of Evidence 1005 covers public records and indicates
+that "[t]he proponent may use a copy to prove the content of an
+official record - or of a document that was recorded or filed in a
+public office as authorized by law - if these conditions are met: the
+record or document is otherwise admissible; and the copy is certified
+as correct in accordance with Rule 902(4) or is testified to be correct
+by a witness who has compared it with the original." Rule 1005 also
+provides that "[i]f no such copy can be obtained by reasonable
+diligence, then the proponent may use other evidence to prove the
+content." In other words, the proponent can introduce a properly
+certified copy of a public record without accounting for the original,
+and, if a public record is lost or destroyed without bad faith or is not
+available through any judicial process, the proponent may prove its
+contents through secondary evidence, similar to the way that
+secondary evidence can be offered pursuant to Rule 1004(a) and (b).
+
+         Hypothetical 15
+    James Phillips, a partner at a law firm, is charged with
+    willingly making a false statement to a federal agent and
+    immigration fraud. According to the prosecution, Phillips
+    forged signatures on forms called "Applications for Alien
+    Employment Certifications" or "ETA-750s," the means by
+    which foreign workers initiate the process to obtain an
+    employment-based visa from the United States Department
+    of Labor. At trial, the prosecution seeks to introduce
+    handwritten copies of these ETA-750s, claiming that the
+    United States Citizenship and Immigration Office in
+    Nebraska had such a high backlog of ETA-750 applications
+    following the Legal Immigration Family Equity Act deadline
+    that it was forced to ship many ETA-750s, including those
+    coming from Phillips' firm, to the Dallas office. The
+    prosecution claims that these forms were not recoverable
+    from the Dallas office before trial. Are the handwritten
+    copies admissible? See United States v. Phillips, 543 F.3d 1197
+    (10th Cir. 2008).
+
+                                               23
+Prior Rules Language:                   Restyled Rules Language:
+
+Rule 1005. Public Records               Rule 1005. Copies of Public
+                                        Records to Prove Content
+The contents of an official record, or
+of a document authorized to be          The proponent may use a copy to
+recorded or filed and actually          prove the content of an official
+recorded or filed, including data       record -- or of a document that
+compilations in any form, if            was recorded or filed in a public
+otherwise admissible, may be proved     office as authorized by law -- if
+by copy, certified as correct in        these conditions are met: the
+accordance with rule 902 or testified   record or document is otherwise
+to be correct by a witness who has      admissible; and the copy is
+compared it with the original. If a     certified as correct in accordance
+copy which complies with the            with Rule 902(4) or is testified to
+foregoing cannot be obtained by the     be correct by a witness who has
+exercise of reasonable diligence, then  compared it with the original. If no
+other evidence of the contents may      such copy can be obtained by
+be given.                               reasonable diligence, then the
+                                        proponent may use other evidence
+                                        to prove the content.
+
+         F. Rule 1006: Summaries
+
+Federal Rule of Evidence 1006 states that "[t]he proponent may use a
+summary, chart, or calculation to prove the content of voluminous
+writings, recordings, or photographs that cannot be conveniently
+examined in court." For this rule to apply, however, the proponent
+must make the originals or duplicates "available for examination or
+copying, or both, by other parties at a reasonable time and place. And
+the court may order the proponent to produce them in court." Rule
+1006 is thus not an exception to the rule that proponents must
+produce originals or duplicates pursuant to Rules 1002 and 1003;
+instead, it merely states that proponents who have already made
+lengthy originals or duplicates available for examination, copying, or
+both can later prove their contents through charts, summaries, or
+calculations. Finally, it is important to note that courts have found
+that under Rule 1006, proponents merely must make the originals or
+duplicates available for examination and/or copying; no such
+obligation applies with regard to the charts, summaries, or
+calculations admitted under the Rule. See, e.g., Colon-Fontanez v.
+Municipality of San Juan, 2011 WL 4823189 at *8 (1st Cir. 2011)
+("Regarding Colón's first argument, Rule 1006 provides that only the
+underlying documents, not the summaries themselves, must be
+produced to the opposing party.")
+
+         Hypothetical 16
+    Mark Isaacs is charged with fraudulently using unauthorized
+    access devices. 15 months before trial, the prosecution
+    provides defense counsel with CDs containing underlying
+    data connecting Isaacs with the crime charged. Three days
+    before trial, the prosecution provides defense counsel with a
+    new set of CDs containing the same underlying data. The
+    prosecution produced this new set of CDs before trial
+    because the earlier set of CDs contained extraneous and
+    inadmissible information, and one set of data lists was
+    difficult to read. The new CDs contained 25,000 pages of
+    underlying data. At trial, the prosecution sought to introduce
+    summary exhibits created from the new sets of CD's.
+    Defense counsel objects that the prosecution failed to comply
+    with Rule 1006. Is he correct? See United States v. Isaacs, 2010
+    WL 252278 (7th Cir. 2010); Colin Miller, "Reasonable Doubt:
+    Seventh Circuit Finds That Data Disclosure Was Reasonable
+    for Rule 1006 Purposes." EVIDENCEPROF BLOG, (Feb. 2,
+    2010)
+    http://lawprofessors.typepad.com/evidenceprof/2010/02/1
+    006us-v-isaacs----f3d------2010-wl-252278ca7-ill2010.html.
+
+                                               25
+Prior Rules Language:                 Restyled Rules Language:
+
+Rule 1006. Summaries                  Rule 1006. Summaries to Prove
+                                      Content
+The contents of voluminous
+writings, recordings, or photographs  The proponent may use a summary,
+which cannot conveniently be          chart, or calculation to prove the
+examined in court may be presented    content of voluminous writings,
+in the form of a chart, summary, or   recordings, or photographs that
+calculation. The originals, or        cannot be conveniently examined in
+duplicates, shall be made available   court. The proponent must make
+for examination or copying, or both,  the originals or duplicates available
+by other parties at reasonable time   for examination or copying, or
+and place. The court may order that   both, by other parties at a
+they be produced in court.            reasonable time and place. And the
+                                      court may order the proponent to
+                                      produce them in court.
+
+         G. Rule 1007: Admissions
+
+Federal Rule of Evidence 1007 allows for proof of the contents of a
+writing, recording, or photograph "by the testimony, deposition, or
+written statement of the party against whom the evidence is offered."
+As an example, in Vigil v. Division of Child and Family Services, 107 P.3d
+716 (Utah Ct. App. 2005), an issue at the trial of David R. Vigil was
+whether he possessed material harmful to a child in his home. At
+trial, a detective gave testimony and introduced into evidence a report
+concerning the contents of pornographic magazines and photographs
+seized from Vigil's house pursuant to a search warrant. Id. at 719. On
+appeal, Vigil claimed that the testimony and report violated the Best
+Evidence Rule because the magazines and photographs were not
+produced. Id. The Court of Appeals of Utah rejected this argument,
+noting that Vigil "testified at trial that he had Playboy magazines and
+some videotapes that could be considered pornographic in [his]
+house." Id. Because Playboy magazine met the definition of material
+considered harmful to a child pursuant to the Division of Child and
+Family Services Manual, the court found that Virgil had admitted the
+contents of the seized items pursuant to Rule 1007, precluding any
+Best Evidence objection. Id.
+Hypothetical 17:
+
+Joseph Koncel is on trial for first-degree murder and first-
+
+degree kidnapping. After Koncel was arrested in connection
+
+with these crimes, officers interrogated Koncel, who made
+
+several incriminatory statements. The interrogation was
+
+recorded, but the prosecution only introduced a written
+
+transcription of the audiotape of the interrogation at trial,
+
+rather than the audiotape itself. After he was convicted,
+
+Koncel appealed, claiming that he received the ineffective
+
+assistance of counsel because the transcript was inadmissible
+
+under the Best Evidence Rule, yet his attorney failed to object
+
+to its admission. Koncel's attorney responds that, at the time
+
+that the transcript was admitted, Koncel planned to testify,
+
+and the attorney believed that the substance of the statements
+
+in the transcript would be admitted through Koncel's own
+
+testimony. Will Koncel be successful? See Koncel v. State, 2009
+
+WL 4842502 (Iowa Ct. App. 2009); Colin Miller, The Price of
+
+Admission: Court of Appeals of Iowa's Best Evidence Ruling
+
+Depends Upon Rule 1007 but Doesn't Cite it.
+
+EVIDENCEPROF      BLOG,      (Jan.  6,              2010)
+
+http://lawprofessors.typepad.com/evidenceprof/2010
+
+/01/best-evidencekoncel-v-stateslip-copy-2009-wl-4842502-
+
+tableiowa-app2009.html.
+
+                         27
+Prior Rules Language:                 Restyled Rules Language:
+
+Rule 1007. Testimony or Written       Rule 1007. Testimony or
+Admission of Party                    Statement of a Party to Prove
+                                      Content
+Contents of writings, recordings, or
+photographs may be proved by the      The proponent may prove the
+testimony or deposition of the party  content of a writing, recording, or
+against whom offered or by that       photograph by the testimony,
+party's written admission, without    deposition, or written statement of
+accounting for the nonproduction of   the party against whom the
+the original.                         evidence is offered. The
+                                      proponent need not account for
+                                      the original.
+
+         H. Rule 1008: Functions of the Court and Jury
+
+Federal Rule of Evidence 1008 sets forth the respective functions of
+the judge and the jury in applying the Best Evidence Rule. Rule 1008
+indicates that the judge must resolve preliminary issues of fact in
+accordance with Federal Rule of Evidence 104 while it is for the jury
+to determine whether "(a) an asserted writing, recording, or
+photograph ever existed, or (b) another one produced at the trial or
+hearing is the original; or (c) other evidence of content accurately
+reflects the content." The Advisory Committee specifically noted that
+"the question whether the loss of the originals has been established,
+or of the fulfillment of other conditions specified in Rule 1004, supra,
+is for the judge" to resolve as a preliminary issue of fact.
+Commentators and judges have determined that the issue of whether
+the party opposing the admission of a duplicate has raised a genuine
+question as to the authenticity of the original under 1003 is also a
+preliminary issue of fact to be resolved by the judge.
+
+         Hypothetical 18
+
+    A former tenant sues Andrew Klopman, his former landlord,
+    for personal injuries connected to exposure to lead paint at
+    the property the tenant rented from Klopman. Klopman
+    brings a declaratory judgment action against Zurich American
+    Insurance Company of Illinois, seeking a declaration that the
+    insurance company is obligated to defend and indemnify him
+in the lead paint lawsuit pursuant to his insurance policy. The
+insurance company claims that it never issued such an
+insurance policy to him, and Klopman claims that the
+insurance policy was destroyed in a basement flood, meaning
+that he can testify about the contents of the policy pursuant
+to Rule 1004(a). The action proceeds to a jury trial. Who
+decides whether the insurance company issued a policy to
+Klopman, the judge or the jury? Cf. Klopman v. Zurich American
+Ins. Co. of Illinois, 233 Fed. App'x. 256 (4th Cir. 2007).
+
+    Hypothetical 19
+Gary Hermsdorf is charged with Medicaid fraud based upon
+billing the New Hampshire Division of Health and Human
+Services as if brand-name drugs had been dispensed when he
+in fact dispensed generic drugs to customers. Undercover
+members of the New Hampshire Attorney General's
+Medicaid Fraud Control Unit bought drugs from Hermsdorf,
+and an investigator with the Unit took notes regarding
+whether the labels on those drugs classify the drugs as brand
+name or generic and compares those notes with the bills
+submitted by Hermsdorf. At Hermsdorf's jury trial, the
+prosecution seeks to admit the notes under Rule 1004(a),
+claiming that it lost the original labels in good faith.
+Hermsdorf counters that the labels were lost in bad faith.
+Who decides the question of whether the notes are
+admissible, the judge or the jury? See State v. Hermsdorf, 605
+A.2d 1045 (N.H. 1992).
+
+                                          29
+Prior Rules Language:                    Restyled Rules Language:
+
+Rule 1008. Functions of Court            Rule 1008. Functions of the
+and Jury                                 Court and Jury
+
+When the admissibility of other          Ordinarily, the court determines
+evidence of contents of writings,        whether the proponent has
+recordings, or photographs under         fulfilled the factual conditions for
+these rules depends upon the             admitting other evidence of the
+fulfillment of a condition of fact, the  content of a writing, recording, or
+question whether the condition has       photograph under Rule 1004 or
+been fulfilled is ordinarily for the     1005. But in a jury trial, the jury
+court to determine in accordance         determines -- in accordance with
+with the provisions of rule 104.         Rule 104(b) -- any issue about
+However, when an issue is raised (a)     whether:
+whether the asserted writing ever
+existed, or (b) whether another             (a) an asserted writing,
+writing, recording, or photograph           recording, or photograph ever
+produced at the trial is the original,      existed;
+or (c) whether other evidence of
+contents correctly reflects the             (b) another one produced at the
+contents, the issue is for the trier of     trial or hearing is the original; or
+fact to determine as in the case of
+other issues of fact.                       (c) other evidence of content
+                                            accurately reflects the content.
+
+         I. The Best Evidence Framework
+
+Article X, consisting of Rules 1001-1008, thus sets up the following
+framework for how a party can prove the contents of a writing,
+recording, or photograph. First, if the party produces the original at
+trial, it can introduce it consistent with Federal Rule of Evidence
+1002. Second, if the party does not have the original, it can introduce
+a "duplicate" that satisfies Federal Rule of Evidence 1003, even if it
+cannot account for its nonproduction of the original; alternatively, if
+the original is a public record, the party can introduce a certified copy
+in compliance with Rule 1005. Third, if the party cannot produce the
+original or a "duplicate," but it can account for the nonproduction of
+the original under Rule 1004(a), (b), or (c), it can prove its contents
+through any type of secondary evidence; moreover, if the party can
+prove that the original is not closely related to a controlling issue, it
+can do the same under Rule 1004(d). Furthermore, if the original is a
+public record, and the party cannot obtain a certified copy of it, the
+party can prove its contents through secondary evidence pursuant to
+Rule 1005. Fourth, if the party does not produce the original or a
+"duplicate" and cannot account for the original's nonproduction, it
+may still be able to prove its contents through admissions by the
+opposing party under Rule 1007.
+
+         J. Best Evidence Pleadings
+Some concise examples of motions connected to evidence sought to
+be admitted or excluded under the Best Evidence Rule can be found
+at:
+
+     Autochina Limited v. Huang, 2009 WL 5566956 (S.D. Fla. 2009)
+         (motion in limine);
+
+     Autochina Limited v. Huang, 2009 WL 5566960 (S.D. Fla. 2009)
+         (response to motion in limine); and
+
+     Autochina Limited v. Huang, 2009 WL 5566949 (S.D. Fla. 2009)
+         (reply to response to motion in limine).
+
+                                               31
+

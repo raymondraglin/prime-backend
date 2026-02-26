@@ -1,0 +1,2478 @@
+Leading Assessment for Inclusion
+LEADING ASSESSMENT FOR INCLUSION
+
+JOANNA TAI; JOHANNA FUNK; LOIS HARRIS; JOANNE
+DARGUSCH; AND ROSEANNA BOURKE
+
+Deakin University
+Geelong
+Leading Assessment for Inclusion Copyright © 2024 by Deakin University (Joanna Tai, Johanna Funk, Lois Harris, Joanne Dargusch,
+and Roseanna Bourke) is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, except where
+otherwise noted.
+
+This book was published by Deakin University via the Council of Australian University Librarians Open Educational
+Resources Collective. The online version is available at https://oercollective.caul.edu.au/leading-assessment-inclusion
+
+Disclaimer
+
+Note that corporate logos and branding are specifically excluded from the Creative Commons Attribution
+NonCommercial (CC BY-NC) 4.0 Licence of this work, and may not be reproduced under any circumstances without
+the express written permission of the copyright holders.
+
+Copyright
+
+Leading Assessment for Inclusion by Joanna Tai, Johanna Funk, Lois Harris, Joanne Dargusch, and Roseanna Bourke is
+licensed under a Creative Commons Attribution NonCommercial (CC BY-NC) 4.0 Licence by Deakin University.
+
+Additionally, permission has been sought for the following content, which is specifically excluded from the Creative
+Commons Attribution NonCommercial (CC BY-NC) 4.0 Licence of this work, and may not be reproduced under any
+circumstances without the express written permission of the copyright holders -
+
+  · Structural inequality in higher education: Creating institutional cultures that enable all students.
+      Naylor, R., & Mifsud, N. © Australian Centre for Student Equity and Success (Previously National
+      Centre for Student Equity in Higher Education), Curtin University.
+
+  · Assessment Design Decisions. Dawson, P., Bearman, M., Molloy, E., Boud, D., Joughin, G.,
+      Bennett, S., & Hall, M. https://www.assessmentdecisions.org/. © Australian Government
+      Department of Education, used with permission. Available for re-use under the original licensing
+      conditions, CC Attribution-Share Alike 4.0 licence.
+
+Recommended citation: Tai, J., Funk, J. Harris, L., Dargusch, J., & Bourke, R. (2024). Leading Assessment for
+Inclusion. Deakin University. https://oercollective.caul.edu.au/leading-assessment-inclusion
+
+Recommended attribution: Leading Assessment for Inclusion by Joanna Tai, Johanna Funk, Lois Harris, Joanne
+Dargusch, and Roseanna Bourke is licensed under a Creative Commons Attribution NonCommercial (CC BY-NC)
+4.0 Licence by Deakin University.
+
+Cover (photo) by Mitchell Luo is licensed under a Creative Commons Attribution (CC BY) 4.0 International Licence.
+CONTENTS
+
+Acknowledgement of Country                                   ix
+
+About the Authors                                            x
+
+Accessibility Information                                    xi
+
+Acknowledgements                                             xiii
+
+Introduction                                                 1
+
+Part I. Main Body
+
+1. Definitions of assessment for inclusion                   5
+
+2. Concepts to guide assessment for inclusion                15
+
+3. Assessment Design Principles                              25
+
+4. Assessment Design Cycles                                  34
+
+5. Assessment in Practice                                    41
+
+6. Opportunities and Challenges for Changing Assessment      49
+
+7. Promoting assessment for inclusion: everybody has a role  58
+
+8. Assessment for Inclusion Resources                        67
+
+How did you go? Seeking feedback on the OER                  71
+
+Versioning History                                           72
+                                                                                                       ACKNOWLEDGEMENT OF COUNTRY | IX
+
+ACKNOWLEDGEMENT OF COUNTRY
+
+    We acknowledge the Traditional Custodians of the
+    unceded lands, waterways, sea and sky across the
+
+          places where we developed this resource.
+
+      We pay our respects to Elders past and present.
+
+         We also recognise all First Nations Peoples'
+  contributions to learning communities and inclusion in
+
+                                 education.
+X | ABOUT THE AUTHORS
+
+ABOUT THE AUTHORS
+
+The authors of this resource are:
+
+   Dr Joanna Tai, Senior Research Fellow
+   Joanna has a background in higher and health professions education. Joanna's research interests include
+student perspectives on learning and assessment from university to the workplace, assessment for inclusion,
+peer-assisted learning, feedback and assessment literacy, developing capacity for evaluative judgement, and
+research synthesis.
+   Dr Johanna Funk, Research Fellow
+   Johanna has a background in intercultural education in compulsory, private, flexible, second language
+and higher education sectors. Her research interests include open educational practices that support learner
+confidence and participation.
+   Dr Lois Harris, Senior Research Fellow
+   Lois has a background in education, with research and teaching experience spanning primary, secondary,
+and tertiary education. Her current research into education focuses on inclusive assessment, alongside work
+on assessment more broadly.
+   Associate Professor Joanne Dargusch
+   Joanne researches and teaches in the area of assessment and pedagogy for both school and higher
+education contexts. Her research interests include a focus on equity and inclusion, particularly in relation
+to how students from equity groups experience assessment.
+   Professor Roseanna Bourke
+   Roseanna is a Professor of Learning and Assessment and a registered psychologist who focuses on
+inclusive understandings of learning and assessment across the educator sectors. She primarily researches in
+the area of child rights, assessment, and informal learning in schools and communities.
+
+   If you have queries or feedback about this resource, please contact Jo at joanna.tai@deakin.edu.au
+                                                                                                                 ACCESSIBILITY INFORMATION | XI
+
+ACCESSIBILITY INFORMATION
+
+We believe that education must be available to everyone, which means supporting the creation of free,
+open, and accessible educational resources. We are actively committed to increasing the accessibility and
+usability of the textbooks we produce.
+
+Accessibility features of the web version of this
+resource
+
+The web version of this resource has been designed with accessibility in mind by incorporating the
+following features:
+
+  · It has been optimized for people who use screen-reader technology.
+          all content can be navigated using a keyboard
+          links, headings, and tables are formatted to work with screen readers
+          images have alt tags
+
+  · Information is not conveyed by colour alone.
+
+Other file formats available
+
+In addition to the web version, this book is available in a number of file formats including PDF, EPUB (for
+eReaders), and various editable files. You can choose your preferred file format from the "Download this
+book" menu, which appears under the cover image on the landing page for the book.
+
+Third-Party Content
+
+This OER links and refers to third-party content, and thus we cannot ensure that all content linked to is
+also accessible.
+
+Accessibility Improvements
+
+While we strive to ensure that this resource is as accessible and usable as possible, we might not always get
+it right. We are always looking for ways to make our resources more accessible, and any known issues are
+XII | ACCESSIBILITY INFORMATION
+
+listed below. If you have problems accessing this resource, please contact joanna.tai@deakin.edu.au to let us
+know so we can attempt to address any problems encountered.
+
+   Please include the following information:
+
+  · The location of the problem by providing a web address or page description
+  · A description of the problem
+  · The computer, software, browser, and any assistive technology you are using that can help us
+
+      diagnose and solve your issue
+
+Copyright Note: This accessibility disclaimer is adapted from BCCampus's Accessibility Toolkit, licensed
+under a Creative Commons Attribution 4.0 International license
+                  ACKNOWLEDGEMENTS | XIII
+
+ACKNOWLEDGEMENTS
+
+This work was funded through:
+
+  · A 2023-2024 CAULLT Project grant. The views expressed in this publication do not necessarily
+      reflect the views of the Council of Australasian University Leaders in Learning and Teaching
+      (CAULLT).
+
+  · The Deakin University Open Educational Resources Grant Program 2024
+
+The following institutions and organisations (in alphabetical order) have also supported this work:
+
+  · The Centre for Research in Assessment and Digital Learning (CRADLE) at Deakin University,
+      Australia
+
+  · The Centre for Research in Equity and Advancement of Teaching and Education (CREATE) at
+      Central Queensland University, Australia
+
+  · The Council of Australasian University Librarians (CAUL)
+  · Massey University (Aotearoa New Zealand)
+  · Pressbooks
+
+The cover image is `white and red concrete building' by Mitchell Luo sourced from Unsplash used under
+the Unsplash Licence
+
+   Finally, we acknowledge the contributions of research participants who participated in the projects
+whose findings have been used in this resource:
+
+   Supporting leadership in inclusive assessment policy and practice, funded by the Council of
+Australasian University Leaders in Learning and Teaching (CAULLT)
+
+   Re-imagining exams: How do assessment adjustments impact on inclusion? funded by the National
+Centre for Student Equity in Higher Education (NCSEHE, now ACSES)
+XIV | ACKNOWLEDGEMENTS
+              INTRODUCTION | 1
+
+INTRODUCTION
+
+`Leading' Assessment for Inclusion
+
+Inclusive assessment benefits all students' learning and retention. However, current systems rely on
+accommodations rather than improving assessment design in ways that are socio- culturally and research
+informed.
+
+   This resource is an outcome of a project which explored sector-wide understandings of inclusive
+assessment policy and practice within Australia and New Zealand.
+
+   We hope that this focus on the distributed leadership of assessment for inclusion aligns with the idea that
+it's not just about what you do individually, it's about how you can lead, promote, inspire, and support
+others to also do the same. We want you to be able to take this resource and share it with colleagues, using it
+to talk about problems with assessment from an inclusion perspective, and to address them in ways which
+are appropriate to your context and situation.
+2 | INTRODUCTION
+
+                                    Female civil engineer assesses flood risk
+                                    management plans by ThisisEngineering on
+                                    Unsplash, used under the Unsplash Licence
+
+   We think most people are good human beings who want to do right by others. However, it's one thing to
+know that we need to do something differently, but it's another thing to actually do it. Within the context
+of higher education, assessment, and inclusion, we believe that leading by example and inspiring others to
+do better are really important factors to success. Change comes from within us all.
+
+How this Open Education Resource has been structured
+
+While we have sequenced the chapters in what we think is a logical order, each covers a different aspect of
+assessment for inclusion, and you might choose to jump around or move back and forth as it suits your
+interests and needs. Case study examples, assessment for inclusion concepts, and an inclusive assessment
+framework will be presented in the following chapters to expand on how leadership of assessment for
+inclusion can look at all levels of higher education.
+
+   Chapter 1 focuses on the definitions, data, and legislation basics of Assessment for Inclusion.
+   Chapter 2 supports the conceptualisation of assessment for inclusion; social justice, sustainable
+assessment, assessment for cultural inclusion, universal design for learning, and assessment validity.
+                                                                                                                                      INTRODUCTION | 3
+
+   Chapter 3 and 4 discuss two distinct but nuanced stages of assessment; principles for assessment design
+and the subsequent design cycles informed by them.
+
+   Chapter 5 shares practical examples of assessment for inclusion we've collected from our research.
+   Chapter 6 discusses opportunities and barriers for higher education, and the elements of different
+institutional groups within the academy.
+   Chapter 7 shares strategies for each of these elements within the academy to exercise agency in
+supporting assessment for inclusion from their own locus of power.
+   Chapter 8 shares a range of useful assessment for learning links and resources, as well as our Assessment
+for Inclusion framework resulting from this research project.
+   Throughout this book, you will also find questions for reflection at the beginning and end of each
+chapter. Here's an example to start:
+
+              Considering the philosophical purpose of education...
+
+                 How can higher education assessment support students' development in the
+                                                       following areas?
+
+            · capability,
+            · knowledge,
+            · understanding,
+            · concepts,
+            · application,
+            · professional skills and qualifications,
+            · employability,
+            · civic and economic participation,
+            · social goods
+4 | INTRODUCTION
+                                                                                        DEFINITIONS OF ASSESSMENT FOR INCLUSION | 5
+
+1.
+
+DEFINITIONS OF ASSESSMENT FOR
+INCLUSION
+
+      What do we mean by inclusive assessment, and assessment for
+                                           inclusion?
+
+       Who are we talking about when we refer to equity groups and
+                                 what are our obligations?
+
+Definitions
+
+The concept of inclusive assessment has existed for some time, defined as "the design and use of fair and
+effective assessment methods and practices that enable all students to demonstrate to their full potential
+what they know, understand and can do" (Hockings, 2010, p.34). While there has been a longstanding
+recognition that inclusion is important in higher education, as it is in broader society, this is still an
+aspirational ideal in the context of assessment. Inclusive assessment considers learners via culturally
+informed means (Lambert et al., 2023), moving away from Western-centric, ableist assessments of students'
+learning. This means thinking about new and multiple assessment approaches for learners to demonstrate
+what and how they have learned, so that assessment represents, and is inclusive of, all learners. Teachers'
+feedback is part of this process, as "Assessment for Inclusion seeks to create equitable assessment and
+feedback practices, enabling all students to effectively demonstrate their learning" (UCD, 2024).
+
+   Inclusive assessment is critical in higher education, as a `one size fits all' assessment is no longer perceived
+as inclusive or equitable. At the most basic level `equity' may mean providing different assessment activities
+and choices for students, but it also means curriculum and pedagogy need to be transformed.
+
+   Tai et al. (2023) argued that assessment for inclusion should take into account "any learner, no matter
+what their characteristics or background" (p. 384), including, but not limited to, socio-economic status,
+cultural background, and gender.
+6 | DEFINITIONS OF ASSESSMENT FOR INCLUSION
+
+               a close up of a book with a lot of words on it by Mick Haupt on Unsplash used
+               under the Unsplash License
+
+Equity Groups and Australian Higher Education
+Data
+
+Within Australia, there are many different student groups to consider in relation to teaching, learning, and
+assessment design. Since the 1990s, the Australian government have defined the following six equity groups
+as a central focus within higher education to collect statistical data (Willems, 2010):
+
+ 1. Aboriginal and Torres Strait Islander peoples
+ 2. people from low socio-economic status backgrounds
+ 3. people from remote, rural or isolated areas
+ 4. people with disabilities
+ 5. people from non-English speaking backgrounds, and
+ 6. women in non-traditional areas.
+Contemporary efforts to improve equity in higher education have focused on the initial four groups
+(ACSES. 2024). You can read the official definitions for these groups on the ACSES website.
+   While recent government efforts to improve equity have focused on the needs of these groups, there
+are many other groups who need to be taken into account when considering task content and design,
+for example, students who are the first in their family to attend a university or other higher educational
+                                                                                        DEFINITIONS OF ASSESSMENT FOR INCLUSION | 7
+
+institution, LGBTQIA+ students and culturally diverse students (Tai et al., 2021). Students may also
+simultaneously belong to multiple equity groups, which can impact how they engage with university
+systems and assessment (Harris et al., under review). There may also be equity-like characteristics which
+aren't formally defined or categorised (e.g., being a single parent) that act in similar ways. Equity group
+definition and membership only begins to define ways in which assessment for inclusion can be led within
+higher education. Some students may not be an `official' member of an equity group, yet still stand to
+benefit from inclusive practices. There is a need to think beyond categories of disadvantage, towards
+designing assessment so that it can be inclusive of any student. The research presentation below provides
+more nuances to this issue.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=5#oembed-1
+
+   Assessment for Inclusion: are we all heading in the same direction? by Dr Joanna Tai for the Higher
+Education Research and Development Society of Australasia Assessment Quality Special Interest Group .
+
+                                                Image attributions list
+
+       The focus of equity funding changes as government and social priorities shift. For example,
+       at the moment, major Australian funding for equity (i.e., Higher Education Participation and
+       Partnerships Program, HEPPP) funds projects to meet the needs of regional and remote
+       students, Aboriginal and Torres Strait Islander students, and those from low SES
+       backgrounds; students with disabilities and those from other equity groups (e.g., English
+       Language Learners) are not the focus of this work. As equity group definitions and priorities
+       do change over time, it is important to consider what inclusion means and who should be
+       included.
+       In their review of the higher education literature, Stentiford and Koutsouris (2021)
+       highlighted that inclusion was used both in the context of disability inclusion and social
+       inclusion. They found that some authors focused on a more traditional concept of `disability
+       inclusion' drawn from disability studies and special education, which focuses on the
+       integration of students with disability into mainstream classrooms. Others however had a
+       more expansive notion of inclusion, broadening considerations to groups marginalised on
+       the basis of social identities and characteristics, such as culture and ethnicity. Overall, the
+       concept of inclusion is related to recognising difference across the student population.
+8 | DEFINITIONS OF ASSESSMENT FOR INCLUSION
+
+       Consider why it might be important to distinguish between different kinds of inclusion:
+       would you change how you might be inclusive for these different groups? How many forms
+       of inclusion can you think of?
+
+Obligations under Australian anti-discrimination
+legislation
+
+In the Australian context, there are different anti-discrimination legislation acts that attend to disability
+inclusion and social inclusion. Federal legislation covers disability inclusion, particularly the Disability
+Discrimination Act, and the Disability Standards for Education. The Disability Discrimination Act (1992)
+makes it unlawful to discriminate against a person, in many areas of public life, including gaining
+employment, participating in education, getting or using services, renting or buying a house or unit,
+and accessing public places, because of their disability. The Disability Standards for Education (2005)
+specifically outlines the rights of students with disability in supporting access and participation, and
+particularly the obligations of education providers to offer equitable access to education opportunities. In
+2020, the Australian Government conducted the latest review of the Disability Standards for Education
+and suggested four directions for reform, which gives an indication of what still needs to be done in terms
+of disability inclusion:
+
+  · empowering and supporting students with disability and their families
+  · strengthening the knowledge and capability of educators and providers
+  · embedding accountability for the Standards throughout the education system
+  · building awareness and capability in the early childhood education and care sector
+
+Legal frameworks for social inclusion arise from state based Anti-Discrimination Acts (e.g., Equal
+Opportunity Acts discussed below), which cover personal characteristics such as age, gender, marital
+status, sexuality. Beyond the requirement not to discriminate against people with particular characteristics,
+there is also a positive duty under these acts to be inclusive through eliminating discrimination, including
+harassment and victimisation.
+
+          Victoria
+          NSW
+          ACT
+          Tasmania
+          Queensland
+          Western Australia
+                     DEFINITIONS OF ASSESSMENT FOR INCLUSION | 9
+
+ Northern Territory
+ South Australia
+
+Legislation tends to align with current societal values and, regardless of personal opinions or experiences,
+it is everyone's responsibility to abide by the law. Within the context of assessment in higher education, it
+is important to remember that these requirements exist and consider them when designing assessment and
+making sure tasks genuinely determine whose work meets relevant standards or criteria.
+
+   Beyond these more general legislative instruments which apply across education sectors, the Higher
+Education Standards Framework (Threshold standards) 2021 sets out universities' requirements as an Act
+of Parliament, and specifically articulates that university courses must account for diversity, and ensure all
+students have equivalent opportunities to achieve academic success. The framework covers all aspects of
+universities' operation, and TEQSA - the sector regulator - offer insightful guidance on how diversity and
+equity should be supported with respect to the framework.
+
+This section stipulates:
+
+1. Institutional policies, practices, and approaches to teaching and learning are designed to
+    accommodate student diversity, including the under-representation and/or disadvantage experienced
+    by identified groups, and create equivalent opportunities for academic success regardless of students'
+    backgrounds.
+
+2. Specific consideration is given to the recruitment, admission, participation and completion of
+    Aboriginal and Torres Strait Islander peoples.
+
+3. Participation, progress, and completion by identified student subgroups are monitored, and the
+    findings are used to inform admission policies and improvement of teaching, learning, and support
+    strategies for those subgroups.
+10 | DEFINITIONS OF ASSESSMENT FOR INCLUSION
+
+                  desk globe on table by Kyle Glenn on Unsplash used under the Unsplash
+                  License
+
+International Perspectives
+
+Each country will have different anti-discrimination legislation and other education-related legislation
+and policy which determines the obligations of higher education providers. Different countries may have
+different priorities with respect to promoting equity, diversity, and inclusion. For instance, Finn,
+Nadarajah, and Tai (2024) describe the differences between the United Kingdom, Australia, and Malaysia.
+In the United Kingdom, students leaving social care and first in family to attend university are also
+highlighted as important groups for inclusion. On the other hand, Malaysia has a focus on geographic
+location, race (including Indigenous groups), and socio-economic status. International terminology and
+the specific name of the legislation may also vary, for instance, there are "protected characteristics" in the
+United Kingdom as part of the Equality Act (2010), in Ireland there are the Equal Status Acts 2000-2008,
+the Disability Act 2005 and the Higher Education Authority Act 2022, and in Finland, there are the Non-
+discrimination Act (2014) and the Universities Act (2009). We share these examples to highlight that when
+moving between national contexts, though the specifics may differ, there is substantial commonality in
+values around inclusion.
+
+   Many of these countries have a range of policies and procedures to ensure inclusion and inclusive
+practices in higher education, that are underpinned by a range of international conventions. One of these
+is the United Nations Convention on the Rights of Persons with Disabilities. Article 24 (UNCRPD)
+identifies the importance of people accessing tertiary education, vocational training, adult education and
+lifelong learning "without discrimination and on an equal basis with others". Article 24 2(e) states that
+"Effective individualized support measures are provided in environments that maximize academic and
+social development, consistent with the goal of full inclusion".
+
+   The Tertiary Education Strategy in Aotearoa New Zealand (2020) comprises eight priorities for tertiary
+                                                                                        DEFINITIONS OF ASSESSMENT FOR INCLUSION | 11
+
+education organisations in New Zealand, all of which incorporate the inclusion of learners within a
+bicultural country and multicultural context.
+
+ 1. the achievement and wellbeing of all learners
+ 2. ensuring that places of learning are safe and inclusive and free from racism, discrimination, and
+
+      bullying
+ 3. reducing barriers to success and strengthening the quality of teaching to give learners the skills they
+
+      need to succeed in education, work and life
+ 4. taking account of learners' needs, identities, languages and cultures in their planning and practice
+ 5. incorporating te reo Mori and tikanga Mori into their everyday activities
+ 6. collaborating more with whnau, employers, industry and communities to support learners to
+
+      succeed in work.
+
+Putting legislation into practice: You can be a
+leader in inclusive assessment
+
+As you consider inclusive assessment in your own practice, it's important to remember that as different
+students have differing needs, there are many ways to make assessments more inclusive. You might have
+had a lot to do in this space previously, never thought about it before, or be somewhere in between. You
+might have experienced inclusive assessment as a student - or not. It is common for our own experiences
+of assessment, and the disciplinary traditions of assessment that we have been exposed to, to influence how
+we approach assessment design (Bearman et al., 2017).
+
+   We acknowledge that there are seldom "correct" or singular "best practice" approaches that will
+automatically improve inclusion. Proponents of inclusion have indeed argued that the binary of "inclusive"
+and "not inclusive" assessments is unhelpful when we seek to move everyone towards inclusion. Hence, the
+term "assessment for inclusion" has been suggested as a useful phrase to support conceptual and practical
+change (Tai et al., 2023, UCD, 2024).
+
+   It is vital for people like you to reflect on current assessment tasks and their contexts, designing solutions
+that work for the range of students engaging in the course. As a starting place for your planning around
+making assessment more inclusive, it may be helpful to consider your university and course level data.
+
+  · Are there groups of students who are not achieving at parity with university/course averages?
+  · Why might that be so?
+  · What barriers have you personally noticed or have students identified in relation to assessment tasks?
+  · What kinds of accommodation and extension requests are commonly lodged?
+
+These data can provide clues as to where current assessment tasks may not be meeting student needs.
+12 | DEFINITIONS OF ASSESSMENT FOR INCLUSION
+
+How do leaders and practitioners talk about inclusive
+assessment?
+
+Part of the CAULLT project sought to identify the different ways that inclusive assessment is discussed and
+conceptualised. Across the university leaders and practitioners we interviewed, we identified five distinct
+conceptualisations, with increasing complexity, described in the table below. While all might be considered
+inclusive assessment, you'll note they imply very different approaches to the intended function and design
+of assessment.
+
+Conception of inclusive assessment  Description - from least to most sophisticated or
+Adjusting assessment conditions     inclusive
+Creating choice and options
+Valuing different knowledges        Responding to individual student needs
+Partnering with students
+Expanding collaborations            Recognises individual capabilities and offers flexibility
+                                    for students across a cohort
+
+                                    Embeds multiple cultural and epistemological
+                                    perspectives in assessment tasks
+
+                                    Offers dialogic and co-design approaches to align with
+                                    learner goals for assessment
+
+                                    Uses assessment as a catalyst to achieve both learner and
+                                    community needs and goals
+
+                                                                                                    (Harris et al 2025)
+   In this resource, we're going to provide some examples of how others have approached inclusion within
+their own design practice. These examples and ideas will hopefully support you to generate solutions that
+are relevant for your own context and best meet your students' needs.
+
+Questions for reflection
+
+     · How have you been previously involved in assessment design and implementation,
+        and what parts were more, or less focused on inclusion?
+
+     · What are your / your institution's main priorities regarding inclusion and assessment?
+     · What considerations, beyond the legislation, exist in your context?
+     · What influences your concepts of disability? Accommodation? Social inclusion?
+     · Which student equity groups were you responding to when trying to make
+
+        assessment more inclusive? Who else might have been advantaged or disadvantaged
+        in the assessment design?
+                                                                                       DEFINITIONS OF ASSESSMENT FOR INCLUSION | 13
+
+            · Which students - who may not have an official diagnosis or membership of a specific
+                equity group - may still stand to benefit
+                from assessment for inclusion?
+
+References
+
+Australian Centre for Student Equity and Success. (2024). Defining Equity Groups.
+   https://www.acses.edu.au/publication/student-equity-data-guide-defining-equity-groups/
+
+Bearman, M., Dawson, P., Bennett, S., Hall, M., Molloy, E., Boud, D., & Joughin, G. (2017). How
+   university teachers design assessments: A cross-disciplinary study. Higher Education, 74(1), 49-64.
+   https://doi.org/10.1007/s10734-016-0027-7
+
+Finn, G. M., Tai, J., & Nadarajah, V. D. (2024). Inclusive assessment in health professions education:
+   Balancing global goals and local contexts. Medical Education, n/a(n/a). https://doi.org/10.1111/
+   medu.15535
+
+Harris, L.R., Dargusch, J., Tai, J., Funk, J., & Bourke, R. (2025). Supporting leadership in inclusive
+assessment policy and practice: Final report. CAULLT, Sydney, New South Wales.
+https://www.caullt.edu.au/project/supporting-leadership-in-inclusive-assessment-policy-and-practice/
+Hockings, C. (2010). Inclusive learning and teaching in higher education: A synthesis of research.
+
+   EvidenceNet, Higher Education Academy; Higher Education Academy. https://www.advance-
+   he.ac.uk/knowledge-hub/inclusive-learning-and-teaching-higher-education-synthesis-research
+
+Lambert, S., Funk, J., & Adam, T. (2022). What Can Decolonisation of Curriculum Tell Us About
+   Inclusive Assessment? In R. Ajjawi, J. Tai, T. Jorre De St Jorre, & D. Boud (Eds.), Assessment for
+   Inclusion in Higher Education. Routledge.
+
+Stentiford, L., & Koutsouris, G. (2021). What are inclusive pedagogies in higher education? A systematic
+   scoping review. Studies in Higher Education, 46(11), 2245-2261. https://doi.org/10.1080/
+   03075079.2020.1716322
+
+Tai, J., Ajjawi, R., Bearman, M., Boud, D., Dawson, P., & Jorre de St Jorre, T. (2023). Assessment
+   for inclusion: Rethinking contemporary strategies in assessment design. Higher Education Research &
+   Development, 42(2), 483-497. https://doi.org/10.1080/07294360.2022.2057451
+
+Tai, J., Ajjawi, R., & Umarova, A. (2021). How do students experience inclusive assessment? A critical
+   review of contemporary literature. International Journal of Inclusive Education, 1-18. https://doi.org/
+   10.1080/13603116.2021.2011441
+14 | DEFINITIONS OF ASSESSMENT FOR INCLUSION
+
+UCD. (2024). UCD Assessment for Inclusion Framework. University College Dublin. https://www.ucd.ie/
+   teaching/resources/inclusiveandinterculturallearning/ucdassessmentforinclusionframework/
+
+United Nations. (2006). United Nations Convention on the Rights of Persons with Disabilities.
+
+Willems, J. (2010). The equity raw-score matrix--A multi-dimensional indicator of potential disadvantage
+   in higher education. Higher Education Research and Development, 29(6), 603-621. https://doi.org/
+   10.1080/07294361003592058
+                                                                                CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION | 15
+
+2.
+
+CONCEPTS TO GUIDE ASSESSMENT FOR
+INCLUSION
+
+                     Why should we make assessment inclusive?
+         What purposes are important, and what impact do we want to
+
+                                            achieve?
+
+Concepts which have been developed with respect to assessment and learning are helpful in developing
+ideas around the purpose and intended impact of inclusive assessment. In this chapter, we introduce you
+to a select few which have been driving recent conversations and action. These are: social justice (which has
+strong philosophical roots), the distinctions between assessment design, adjustments or accommodations;
+the promotion of sustainable assessment, assessment for cultural inclusion, Universal Design for Learning,
+and assessment validity.
+
+Assessment for Social Justice
+
+McArthur (2016) uses two conceptualisations of social justice - the capabilities approach and critical
+theory - to consider the ways in which key assessment issues would look differently through these
+alternative lenses. McArthur's work on assessment for social justice also helpfully frames concepts of
+inclusion, introducing philosophical perspectives which can help to guide what actions might be taken to
+design assessment in inclusive ways.
+Professor Jan McArthur discusses the evolution of these considerations in the presentation linked below:
+16 | CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION
+
+        One or more interactive elements has been excluded from this version of the text. You can view them
+        online here: https://oercollective.caul.edu.au/leading-assessment-inclusion/?p=41#oembed-1
+
+CRADLE Symposium Keynote by Professor Jan McArthur for the Centre for Research and Assessment
+                             and Digital Learning (CRADLE) at Deakin University
+
+   McArthur also offers a written overview in this open-access book chapter: Reflections on Assessment
+for Social Justice and Assessment for Inclusion (2023) where she suggests that assessment for social justice
+is an umbrella concept under which `different possible practices, dispositions and beliefs can coalesce and
+find meaning' (p. 21). She started this work as a response to the procedural views of fairness and justice
+that were predominant in assessment, and added to this that the outcomes of assessment should also satisfy
+calls for social justice. This can be thought of both as how students (who are naturally a heterogenous or
+diverse group) experience assessment, but also how assessments have the power to change what happens in
+the world, through the validation of particular forms of knowledge, and the ways that people subsequently
+think and act: how assessment shapes future graduates and their values. This broader call for social justice
+through acts and experiences of assessment can help to inform the goals of what is intended by assessment
+for inclusion. It helps us to identify which groups might benefit most from an inclusive perspective, and
+also opens up opportunities for different perspectives on what might be the result of including particular
+student groups through assessment design.
+
+This work asks us therefore to consider: What capabilities are facilitated in students through assessment
+design? Can accommodations be useful if the assessment design inherently alienates the students'
+capabilities? Addressing the particular capabilities students use in assessment- or cannot use due to
+intersecting characteristics; (physical, social, cognitive, and otherwise) - can provide conditions for more
+socially just assessment procedures and practices.
+
+Assessment Design, Adjustments, or
+Accommodations?
+
+Commonly, for students with particular characteristics, circumstances, or identities (e.g. students with
+disabilities, students with an acute medical condition), some kind of special consideration is made, which
+leads to an adjustment or accommodation with respect to an assessment task. This could be extra time
+on a task, assistive technology (e.g. voice to text), or a different environment to take the assessment in.
+In many jurisdictions, this is required by anti-discrimination law (as we outlined in Chapter 1) as part
+of an education provider's obligations. Such adjustments or accommodations are usually perceived as
+helpful, yet in many cases they might not necessarily address a particular student's problem or concern
+(Waterfield & West, 2006). Furthermore, while accommodations might support students in the shorter
+                                                                                CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION | 17
+
+term by `removing' a barrier, it may be better to design tasks which instead scaffold their capability and
+improve their performance, in alignment with students' future imagined careers (Tai, 2023).
+
+Adjustments or accommodations can also be problematic, where the range of options readily available
+(i.e. satisfies the `reasonable' aspect of reasonable adjustments) do not actually mitigate the problems the
+student has with the task. In a research project focussing on high-stakes assessments (such as exams), Tai et
+al. (2022) highlighted the range of student experiences relating to assessment adjustments: while at times
+they help students feel included, at other times, they did not. The seminar below offers an overview of
+the project findings, including how pre-emptive and considered assessment design could be changed to
+improve inclusion and mitigate the need for adjustments.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=41#oembed-2
+
+  Re-imagining Exams: How do assessment adjustments impact on inclusion? by Dr Joanna Tai for the
+   Centre for Research and Assessment and Digital Learning (CRADLE) at Deakin University. Image
+
+                                                    attribution list
+   This work asks us to consider how necessary accommodations and adjustments are, if there might
+be other assessment designs that do not require adjustments for students with particular conditions or
+characteristics. Given the administrative burden (for both students in accessing and staff in implementing)
+of adjustments, it is also worth considering adjustments might have an impact across a whole system of
+assessment. Although there will always be a need for adjustments (Johnstone, Ketterlin, Geller, & Thurlow,
+2022) they also have limitations which Universal Design for Learning (see below) might be better able
+to address.
+
+Sustainable assessment
+
+Different stakeholders (e.g. academics, students, employers) have different priorities for the reasons that
+we do assessment within universities. For instance, university administrators and employers might both
+want to be sure that graduates can actually do the things that a university degree warrants they can. This
+is the assessment of learning purpose, which is about certification. Students, academics, and even broader
+society might also expect that assessment, as part of a broader curriculum, supports students to learn
+relevant knowledge, or develop particular skills, including through formative feedback opportunities. This
+is commonly called assessment for learning.
+18 | CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION
+
+   However, potentially even more important is sustainable assessment, which contributes `to learning
+beyond the timescale of a given course [...] that meets the needs of the present in terms of the demands of
+formative and summative assessment, but which also prepares students to meet their own future learning
+needs' (Boud & Soler, 2016, p.400). This perspective asks us to consider how students might benefit from
+what they do in the assessment task beyond the immediate university setting.
+
+   The key question to ask then, to understand if the assessment is sustainable, is what's in it for them? In
+the context of student diversity and supporting inclusion, this requires us to think with greater imagination
+and more broadly about what students might do outside of the university environment, and particularly
+to consider the multiplicity of goals they might have. While it might seem obvious in some areas - e.g. not
+all law students become solicitors or barristers - sustainable assessment has a central focus on ensuring that
+students are able to operate in the world without requiring teachers or assessors (other than themselves) to
+inform them of when they've done a good job, and when they need to pursue further development.
+
+   Discover more about these distinctions between the purposes of assessment in the video below.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=41#oembed-3
+
+ Some critical issues in enabling impactful assessment, by Professor David Boud and Professor Geraldine
+                                  O'Neill for Quality and Qualifications Ireland
+
+   The concept of sustainable assessment prompts questions such as the following:
+
+  · Aside from exams mandated by accreditation and professional bodies, what happens to assessment after
+      the unit or course is completed?
+
+  · What portion of it is transferrable beyond the course students are studying, and further, outside of the
+      higher education system?
+
+  · What elements of assessment are `disposable'?
+
+Therefore, when considering how to design and support more inclusive assessment practices, it is
+important to consider not only the purpose of the assessment for the university, or the degree, but also
+what students from diverse backgrounds and with diverse characteristics might choose to engage in
+beyond their time in a higher education institution.
+                                                                                CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION | 19
+
+                                           persons hand on white surface by
+                                           Matheus Viana on Unsplash used
+                                           under the Unsplash License
+
+Assessment for cultural inclusion
+
+We acknowledge that the term `inclusion' can be problematic in itself, implying an underlying power
+dynamic that allows for some to include `others', and thereby reinforces the structural inequalities that exist
+in education. Because admission to and participation in higher education and its culture embodies this
+dynamic, we see assessment for inclusion as a way to ameliorate and transform these problematic aspects of
+existing power relations.
+
+   Inclusive assessment includes a strong alignment to cultural considerations. This means that students
+need to `see themselves' in the assessment task if they are to demonstrate their learning. Cultural
+considerations mean incorporating diverse assessment methods that acknowledge students' cultural
+knowledge(s), and, importantly, that students with Indigenous heritage are able to stand strong in their
+Indigenous knowledge. Collaborating with students using familiar contexts in applying their leaning can
+create a more relational dynamic between institutional and student cultures. Alongside developing a
+better understanding of the cultural groups we are working with, gaining a better understanding of the
+epistemological assumptions and cultural biases inherent in our own practice is a positive move towards
+assessment for inclusion.
+
+   Critically disrupting dominant narratives in education that promote exclusion of any form of culture
+can help transform practices and show respect for the lived experiences of students, and culturally distinct
+ways of learning. Lambert, et.al. (2023) posit a Culturally Inclusive Assessment Model, mapping across the
+justice dimensions which Adam (2020) defined. The model suggests different ways cultural justice can be
+developed in assessment content, pedagogy, and processes.
+20 | CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION
+
+Dimension                                        Common themes
+
+Justice-as-content: decolonising what is         Removing deficit discourse from learning
+taught.                                          materials, texts, discussions, assessment
+                                                 examples and feedback. Correcting
+Justice-as-process: decolonising education       under-representation or misrepresentation.
+processes: a plurality of thought is
+designed into the course curriculum,             Two-way learning; relational processes;
+assessment, and content                          personal positioning and critical
+                                                 consciousness; student co-creation of
+Justice-as-pedagogy: students are                decolonised learning materials as an
+encouraged to critically engage, reflect on,     assessment task
+and even challenge what is being taught;
+assessments or whole subjects designed to        Modelling and scaffolding critical
+teach the ideas of socio-cultural justice,       thinking and reading skills to challenge
+decolonisation or cultural competence.           deficit discourses and power difference;
+                                                 learning how to apply socio-cultural
+                                                 justice, diversification and decolonisation
+                                                 to new experiences and contexts.
+
+The Culturally Informed Assessment Model, (Lambert, et al., 2023) CC-BY-ND-NC., adapted from Adam, 2020 CC-BY
+
+4.0
+
+   Developing a deeper systemic appreciation and dismantling of injustices can lead to more meaningful
+inclusive practice that acknowledge, if not ameliorate or eventually transform, cultural misrecognitions
+baked into conventional practices (Hodgkinson-Williams and Trotter, 2018).
+
+   An example from New Zealand is in the concept of `aromatawai'. In Te Reo Mori aromatawai
+(assessment) means `Aro' or to take notice of, and matawai (to examine closely). Assessments from a Mori
+perspective are underpined by six dynamic kaupapa that are inextricably linked. You can read about these
+in the resource Aromatawai and the Principles of Assessment (NZQA, 2022). The six principles are:
+Te reo (the value and importance of te reo and tikanga Mori is recognised); Manaakitanga (respectful
+relationships between teachers and students, and enhancing the wellbeing of students); Kaitiakitanga
+(quality teaching and learning); Whanaungatanga (student success is supported and encouraged by positive
+relationships that are mana enhancing, or lifting up the student); Rangatiratanga (students' world views
+are reflected and achievement supported); and Pkengatanga (tasks are authentic and contextualised). The
+resource attached can provide you with more detail on how these are used.
+                                                                                CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION | 21
+
+             colored pencil lined up on top of white surface by Jess Bailey on Unsplash used
+             under the Unsplash License
+
+Universal Design for Learning in assessment
+
+Universal Design for Learning (UDL) is one way to positively impact students' experience of assessment.
+How units and assessment tasks, along with related communication, are designed directly impacts on
+student and staff experience and outcomes of assessment, especially during asynchronous attendance.
+
+   Universal Design for Learning suggests that a multi-mode approach will support the majority of
+students in their learning and foster individual agency. There are three main domains to consider:
+engagement, representation, and action or expression. These can be enacted with respect to access,
+perceptions, and executive function. Assessment design usually encompasses aspects of all these domains,
+from the topics that are chosen in the assessment, to how instructions are communicated, and the ways in
+which students are invited to respond.
+
+   Therefore, efforts to make assessment more inclusive include offering students choice, programmatic
+approaches to assessment and co-design of assessment, and policies that promote inclusion. Universal
+Design for Assessment has yet not been widely implemented within the sector and may be insufficient
+alone since there may always be cases where legally, we are required to make accommodations (Johnstone,
+Ketterlin, Geller, & Thurlow, 2023).
+
+   Furthermore, limited theorisation and operationalisation of inclusive assessment and assessment design
+processes mean tradition and taken-for-granted assumptions about how assessment should be done
+continue to be the norm. Re-designing assessment and curriculum entirely can also be a daunting task for
+incoming staff, who may not have resources allocated to such endeavours.
+22 | CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION
+
+   One proponent of UDL, Thomas Tobin, instead suggests a pragmatic "plus one" approach:
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=41#oembed-4
+
+            Applying Universal Design for Learning by Thomas Tobin for Disability Awareness
+   The Australian Disability Clearinghouse for Education and Training has many resources that can help
+you better understand and implement UDL. These resources can be accessed on their website.
+
+Assessment validity
+
+Does the assessment actually measure what it purports to measure? This is assessment validity, and it has
+long been thought of as relating to psychometric properties of various standardised tests. However, this
+core idea of validity should apply across all forms of assessment and is important from the perspective
+of inclusion: if the assessment doesn't actually measure what it intends to and instead measures or tests
+other aspects of performance or capability, then this is a problem since decisions will be made to exclude
+individuals or prevent progression on the basis of irrelevant data.
+
+   Messick (1994) argued for six integral aspects of validity: content, substantive, structural,
+generalizability, external, and consequential. He argued that all aspects needed to be accounted for (rather
+than being substitutable) and highlighted the importance of the quality and relevance of the content,
+the substantive rationales for the underlying theoretical processes demonstrated, the scoring structure and
+relevant weighting, the generalizability across different groups, settings, and tasks, relationships to other
+external measures or patterns, and outcomes of the use of the test and how they might perpetuate problems
+of bias or injustice.
+
+   Modern perspectives on validity also emphasise the processes within assessment, the types of evidence
+considered, and also in terms of consequential validity - the impacts of the assessment on learning. Dawson
+(2022) offers the following example:
+
+      "when students sit a multiple-choice exam focused on lower-level knowledge they may choose to cram
+      right before the test rather than space their study out, choosing an effective short-term strategy, with
+      consequential validity effects in the form of poorer longer-term learning." (p 117).
+
+Therefore, validity is important to consider not just to ensure that assessments are appropriate with respect
+to the outcomes or capabilities they intend to assess, but also to support learners in their lifelong learning
+journeys.
+
+   This chapter has offered some different perspectives on approaching inclusion and assessment.
+                                                                               CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION | 23
+
+Depending on local context and practice, some of these concepts may be more useful than others in any
+given situation.
+
+     Questions for Reflection
+
+            · What values are important to you when you design, create, or implement
+                assessments?
+
+            · What disciplinary or professional values and principles inform the way that
+                assessment is conducted? How might these interface with equitable experiences and
+                outcomes for students?
+
+            · What adjustments or accommodations have you made to your assessment tasks?
+            · How might you avoid having to make adjustments through design changes to
+
+                assessment?
+            · What makes your assessment design sustainable beyond the course or unit?
+            · How could you design tasks so the main goal is supporting student learning rather
+
+                than assessing their achievement?
+            · What might a "plus-one" approach to accessibility look like in your assessment tasks
+
+                and the forms of assessment scaffolding you provide in your course?
+            · How do you ensure validity in your assessments?
+            · Who would you approach to learn more about inclusion and assessment? Are there
+
+                colleagues who are already working or leading in this space? What communities of
+                practice already exist?
+
+References
+
+Adam, T. (2020) `Between Social Justice and Decolonisation: Exploring South African MOOC Designers'
+   Conceptualisations and Approaches to Addressing Injustices', Journal of Interactive Media in
+   Education, 2020(1), p. 7. https://doi.org/10.5334/jime.557
+
+Boud, D., & Soler, R. (2016). Sustainable assessment revisited. Assessment & Evaluation
+   in Higher Education, 41(3), 400-413. https://doi.org/10.1080/02602938.2015.1018133
+
+CRADLE Deakin (2022, March 17). CRADLE Seminar Series 2022 #2: Re-imagining Exams: How
+   do assessment adjustments impact on inclusion. [Video] YouTube. https://youtu.be/
+   jUyU6UR1-yw?si=p2BB96DmC6egvvoa
+
+CRADLE Deakin (2021, October 25) CRADLE symposium Keynote: Jan McArthur [Video]. YouTube.
+   https://www.youtube.com/watch?v=fFE7qxqCVFY
+
+Dawson, P. (2022). Inclusion, Cheating, and Academic Integrity. In R. Ajjawi, J. Tai, D. Boud, & T. Jorre
+24 | CONCEPTS TO GUIDE ASSESSMENT FOR INCLUSION
+
+   De St Jorre (Eds.), Assessment for Inclusion in Higher Education (1st ed., pp. 110-119). Routledge.
+   https://doi.org/10.4324/9781003293101-13
+   Disability Awareness elearning (2021, November 8). UDL plus-one - Thomas Tobin. [Video] YouTube.
+https://youtu.be/FDt1r3FcCQU?si=xM8lolf7yA449k2X
+Hodgkinson-Williams, C.A., & Trotter, H. (2018). A Social Justice Framework for Understanding Open
+   Educational Resources and Practices in the Global South. Journal of Learning for Development.
+   https://doi.org/10.56059/jl4d.v5i3.312
+Johnstone, C., Ketterlin Geller, L. R., & Thurlow, M. (2022). Opportunities and Limitations of
+   Accommodations and Accessibility in Higher Education Assessment. In R. Ajjawi, J. Tai, T. Jorre De
+   St Jorre, & D. Boud (Eds.), Assessment for Inclusion in Higher Education. Routledge. https://doi.org/
+   10.4324/9781003293101
+Lambert, S., Funk, J., & Adam, T. (2022). What Can Decolonisation of Curriculum Tell Us About
+   Inclusive Assessment? In Assessment for Inclusion in Higher Education (pp. 52-62). Routledge.
+   https://doi.org/10.4324/9781003293101
+McArthur, J. (2016). Assessment for social justice: The role of assessment in achieving social justice.
+   Assessment and Evaluation in Higher Education, 41(7), 967-981. https://doi.org/10.1080/
+   02602938.2015.1053429
+McArthur, J. (2022). Reflections on Assessment for Social Justice and Assessment for Inclusion. In R.
+   Ajjawi, J. Tai, T. Jorre De St Jorre, & D. Boud (Eds.), Assessment for Inclusion in Higher Education.
+   Routledge. https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003293101-4/reflections-
+   assessment-social-justice-assessment-inclusion-jan-mcarthur
+Messick, S. (1994). Validity of Psychological Assessment: Validation of Inferences from Persons' Responses
+   and Performances as Scientific Inquiry into Score Meaning. ETS Research Report Series, 1994(2), i-28.
+   https://doi.org/10.1002/j.2333-8504.1994.tb01618.x
+New Zealand Qualifications Authority. (2022). Aromatawai and the Principles of
+   Assessment. https://www2.nzqa.govt.nz/assets/Tertiary/Resources-for-tertiary-providers/Aromatawai-and-
+   the-Principles-of-Assessment.pdf
+Quality and Qualifications Ireland (QQI). (2023, March 16). Some critical issues in enabling impactful
+   assessment. [Video]. YouTube. https://www.youtube.com/watch?v=dZ0D0kRGIaU
+Tai, J. (2023). Moving beyond reasonable adjustments: Supporting employability through inclusive
+   assessment design. Journal of Teaching and Learning for Graduate Employability, 14(2), 70-86.
+   https://doi.org/10.21153/jtlge2023vol14no2art1785
+
+Tai, J., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., Harris, L., & Mahoney, P. (2022). Re-imagining
+   exams: How do assessment adjustments impact on inclusion? National Centre for Student Equity in
+   Higher Education. https://www.acses.edu.au/research-policies/assessment-adjustments-impact-
+   inclusion-2/
+
+Waterfield, J., & West, B. (2006). Inclusive Assessment in Higher Education: A Resource for Change.
+   University of Plymouth. https://doi.org/10.4324/9781315045009
+                                                                                                         ASSESSMENT DESIGN PRINCIPLES | 25
+
+3.
+
+ASSESSMENT DESIGN PRINCIPLES
+
+           How can we turn assessment for inclusion concepts into
+                                    principles for action?
+
+          What aspects of assessment influence students the most?
+               What might inclusive assessment design look like?
+
+   Remember when Covid-19 caused a `pivot,' including changes such as shifting examinations online,
+using technology, increasing time limits, and moving to open-book examinations? This had a perhaps
+unexpected but incredibly useful impact of increased inclusion for many students, who were able to use
+familiar equipment in spaces they had adapted to their own needs (Tai et al., 2023). Staff implementation
+of access requirements and assessment flexibility also increased.
+
+   However, as the `return to campus' was orchestrated, previous flexible arrangements that had become
+the `new normal' were often rescinded. Though assessment changes have been the most likely of Covid-
+related changes to remain, there is still much that we can do to improve assessment design for inclusion,
+and the recent pandemic demonstrates just how possible some of these changes are (Broadbent et al
+2023). Universities and lecturers need to carefully consider how time, technology, equipment and materials
+contribute to inclusion or exclusion.
+26 | ASSESSMENT DESIGN PRINCIPLES
+
+              woman biting pencil while sitting on chair in front of computer during daytime
+              by JESHOOTS.COM on Unsplash used under the Unsplash License
+
+The multiple tensions in assessment
+
+From an institutional perspective, assessment is used to ascertain students have met the appropriate
+outcomes at the requisite level. This is important for certification and validation of qualifications. Due to
+the high-stakes nature of this process for each individual student, it is extremely important that students are
+not disadvantaged or excluded on the basis of characteristics or abilities that are unrelated to the outcomes
+being judged.
+
+   However, due to assessment task design and implementation, constructs unrelated to the learning
+outcomes often impact on success - even when accommodations are applied. For instance, in a project on
+students' experiences of inclusion in exams, Ellie, who was studying a health professional degree and had
+dyslexia, recounted one of her experiences:
+
+       "It was an exam that tested your knowledge on medical terminology, and the
+       pathophysiologies behind multiple conditions.
+       They did things like crossword puzzles and then you might have a sentence which has been
+       broken into four sections, and then jumbled up so you have to put the sentence in order.
+       You had to put your corresponding number to the order that should be matched with the
+       jumbled-up sentences. Okay, firstly, the sentences are jumbled up, it's in a box that's so
+                                                                                                         ASSESSMENT DESIGN PRINCIPLES | 27
+
+       small and then you have to put numbers with it. I don't think that's a true measure of
+       testing someone's intelligence in regard to content.
+       Then, they were asking us certain things like spelling, like you have to spell these really,
+       really long words correctly. It might be like, `What is the medical terminology for this?' The
+       word could be so ridiculously long, and my scribe might not know how to spell it, and then I
+       would be trying to phonetically spell things out, and if I couldn't get it right, my scribe
+       would get really flustered and I just missed out on marks."
+
+                                                                                             (data from Tai et al., 2022)
+
+In this example, there are multiple challenges which the task creates for the student due to her dyslexia,
+including aspects related to the layout (i.e., small boxes), structure (i.e., jumbled sentences), and foci (i.e.,
+spelling), none of which seem to align with the stated learning outcome, which was the knowledge of
+medical terminology. In instances like this, assessment should be revisited with a close focus on the learning
+outcomes. For example, the first two problems Eliza experienced are probably able to be eliminated by
+changing the task, since neither format is necessary to use. The final one, spelling, is a bit more complicated.
+Here, staff need to consider if correct spelling is or is not actually a learning outcome. If spelling is an
+important part of learning and communicating medical terminology, it needs to be stated so students
+understand it is a requirement and the reasons for this, with appropriate support offered.
+
+   Students also prefer assessments that help them connect to their future goals. For example, Eliza noted:
+
+       "The career path that I'm following, you can't do it at home, you have to go into the clinic,
+       you have to be scrutinised by the doctors checking your work. I feel it's something that you
+
+      need to get used to doing." (Tai, Mahoney, et al., 2023, p. 396)
+
+This example illustrates how students might see that more authentic forms of assessment are inclusive of
+their futures. In these situations, it can also be helpful to consider what types of authentic restrictions or
+affordances might be available within a workplace or other environment where they might apply their skills
+(Tai, Ajjawi, et al., 2023).
+
+   There is a moral obligation for universities not to act directly or indirectly to disadvantage those enrolled.
+Beyond this prevention of negative experiences, we might also have positive duties to ensure students are
+supported in their learning and assessment, in a similar way to how sex discrimination legislation now
+requires `proactive and meaningful action' from employers to prevent and eliminate sexual harassment,
+discrimination, and violence (Australian Human Rights Commission, 2024).
+28 | ASSESSMENT DESIGN PRINCIPLES
+
+   Previous justifications for inclusion and fairness of assessment focused on population level outcomes,
+with abstract ideas of what happens in assessment. Instead, we argue (in alignment with McArthur's 2018
+work on Assessment for Social Justice) that we also need to focus on how students actually experience
+assessment.
+
+               man in orange and white striped polo shirt beside woman in black and white
+               floral dress by ThisisEngineering on Unsplash used under the Unsplash License
+
+Principled Assessment for inclusion
+
+There are many ways to conceptualise assessment design. Frequently constructive alignment (Biggs, 1999)
+is invoked as the mainstay of assessment design: this requires learning objectives, learning activities, and
+assessment tasks to align with each other, and moreover, that students actively participate or engage in
+the activities in ways that allow them to construct their own learning. This approach suggests that for
+assessment to be inclusive, it's not just the end task that matters, but also all the processes and activities
+that lead up to the task. Students agree with this: in a project exploring diverse students' perspectives on
+assessment, Tai, Dollinger and colleagues (2023) found that aspects such as assessment timing, instructions,
+information, and interactions with staff, as well as broader access to learning resources, were all part of what
+made assessment inclusive.
+
+   Tai, Ajjawi, et al. (2023) offer three design principles which may help to ensure diverse students are not
+disadvantaged through assessment.
+Design principle            Why this approach is inclusive                 ASSESSMENT DESIGN PRINCIPLES | 29
+
+                                                                              How you might apply it
+
+Authenticity in assessment  Can support students in their diverse future    · Authenticity to self: integrate
+                            goals and help students to build capabilities      students' values, capabilities,
+                            which are useful beyond the university. Can        and future aspirations
+                            represent diverse values, contexts, and
+                            situations within tasks, and provide            · Authenticity of task: share
+                            real-world situations which students can see       expectations about acceptable
+                            apply to them. Students can `try out' tasks        support or restrictions in
+                            and roles to understand possible future            completing work
+                            opportunities.
+                                                                            · Authenticity in our values:
+                                                                               involve diverse students in
+                                                                               assessment design (Ajjawi et al.,
+                                                                               2023)
+
+Programmatic assessment     Offers multiple opportunities to be assessed    · Take a programme-level
+                            and receive information on performance to          perspective on required
+                            inform improvement and support student             outcomes
+                            development. When decisions about
+                            progress/certification are made on an           · Realise not everything has to
+                            accumulation of tasks, this allows for             be assessed at every occasion
+                            students with fluctuating conditions/
+                            unexpected circumstances to ensure their        · Consider how tasks are linked
+                            best performances are included. Requires           or related
+                            clarity and communication of learning
+                            outcomes.                                       · Scaffold students' capabilities
+                                                                               over time
+
+Assessment for              Highlights the importance of diversity and      · Open-ended tasks could
+distinctiveness             difference, and that students, across their        support students to develop
+                            assessments, can compile or curate their           their distinct capabilities
+                            distinctive set of capabilities to be prepared
+                            for their unique post-university destinations.  · Offering a variety of ways to
+                            Offers opportunities for capabilities to be        demonstrate learning aligns
+                            demonstrated in different ways.                    with Universal Design for
+                                                                               Learning
+
+Remember, designing assessment for inclusion doesn't mean you remove all challenge from the assessment.
+Rather, the task should be explicitly scaffolded within the course and assessment design, and proactively
+consider different potential outcomes and formats. To do this, we need to start from the learning objectives
+and consider the priorities and what is important. This might also involve reconsidering learning objectives
+to remove extraneous or irrelevant components. For example, if the learning objective is "to write an essay
+on schools of philosophy", is the writing of a comparative essay the important capability, or are you more
+interested in how the student understand the history of philosophy? If both are important, how can you
+make this clear through your unpacking of criteria?
+
+   Then, you might consider assessment design and its subsequent practice by all involved. It might be that
+there are different ways to think about meeting the objectives (e.g. might students prefer to discuss orally or
+record a video), some of which might be more appropriate than others in particular contexts. There might
+also be considerations about what level of pre-existing capability or understanding students have about
+30 | ASSESSMENT DESIGN PRINCIPLES
+
+assessment formats; if nobody knows what a video essay is, then you will need to teach them about this in
+addition to the content/topic.
+
+   Being inclusive is about offering everyone the opportunity to do their best rather than restricting
+possibilities for high performance to those who already happen to know how to effectively work in specific
+genres.
+
+Another approach to designing assessment for
+inclusion
+
+Colleagues at University College Dublin (UCD, 2024) also offer an alternative approach to designing
+assessment for inclusion. In September 2024, they launched an Assessment for Inclusion Framework
+designed to ensure equity, fairness and justice for all students. The Assessment for Inclusion Framework is
+based on 10 Design Principles to maximise the chance of success for all students, and in partnership with
+those students. These design principles are not intended for every individual assessment task, activity or
+method, but serve to create an assessment literacy for the development of inclusive assessment practices
+and policies. As a starting point, think about the diversity of student cohort, the context (discipline,
+programme, module, etc.) and the stakeholders.
+
+   Colleagues at the University College of Dublin, including Sheena Hyland and Geraldine O'Neill, have
+also developed a framework for assessment for inclusion.
+
+              "UCD Assessment for Inclusion Framework" by UCD is licensed under CC BY-NC
+              4.0
+
+This framework includes a series of ten principles as represented in the diagram above, with a contextual
+focus to promote outcomes of belonging, values development, and the maintenance of standards for all to
+succeed.
+
+   In their elaboration on the framework, they also highlight three phases of implementation actions:
+                                        ASSESSMENT DESIGN PRINCIPLES | 31
+
+1. cultivating self-awareness
+
+2. use the Assessment for Inclusion Design Principles: Considering where to start
+
+3. operationalise processes for change
+
+The framework drills deep down into assessment for inclusion design and practice at individual, team,
+and programmatic levels, and offers a scaffolded and well- linked pathway for developing practice. Below,
+Associate Professor Geraldine O'Neill introduces the University College Dublin Assessment for Inclusion
+framework.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=364#oembed-1
+
+  University College Dublin Assessment for Inclusion Framework: Principles and Practices by Professor
+                            Geraldine O'Neill for Quality and Qualifications Ireland
+
+   When introducing inclusive assessment, there is a greater likelihood this will ensure sustainable
+assessment in action (where students learn to self-assess their own learning long after the programme
+or course) in workplaces and community contexts. For inclusive assessment to be sustainable, we are
+reminded of Boud's seminal work on sustainable assessment where he argued that it enables "students
+to meet their own future learning needs" (Boud, 2000, p. 151). It is recognised also, that this means the
+power relationship between teachers and learners needs to change. Students trialling this approach in a
+student-staff partnership identified how this worked for them and ironically how it shifted their focus from
+assessment and on to their learning, and for teachers "partnership in the assessment process allows us to
+know our students and to provide them with a range of means to show what they understand" (Bourke,
+Rainier & de Vries, 2018, p. 10).
+
+Questions for reflection
+
+     · In your context, which purposes of assessment are most prominent?
+     · At your institution, what do you think the level of self-awareness is regarding
+
+        inclusive assessment practices?
+     · For the students you encounter, what might their main motivations to participate in
+32 | ASSESSMENT DESIGN PRINCIPLES
+
+                assessment be?
+            · How much do your assessments focus on the present, and how much do they
+
+                consider the future of students and society?
+
+References
+
+Ajjawi, R., Tai, J., Dollinger, M., Dawson, P., Boud, D., & Bearman, M. (2023). From authentic assessment
+   to authenticity in assessment: Broadening perspectives. Assessment and Evaluation in Higher Education,
+   1-12. https://doi.org/10.1080/02602938.2023.2271193
+
+Australian Human Rights Commission. (n.d.). The Positive Duty in the Sex Discrimination Act |
+   Australian Human Rights Commission. https://humanrights.gov.au/our-work/sex-discrimination/
+   positive-duty-sex-discrimination-act
+
+Boud, D. (2000). Sustainable assessment: Rethinking assessment for the learning society. Studies in
+   Continuing Education, 22(2), 511-167.
+
+Bourke, R., Rainier, C., & de Vries, V. (2018). Assessment and learning together in higher
+   education. Teaching and Learning Together in Higher Education, 25. https://repository.brynmawr.edu/
+   cgi/viewcontent.cgi?article=1194&context=tlthe
+
+Broadbent, J., Ajjawi, R., Bearman, M., Boud, D., & Dawson, P. (2023). Beyond emergency remote
+   teaching: Did the pandemic lead to lasting change in university courses? International Journal of
+   Educational Technology in Higher Education, 20(1), 58. https://doi.org/10.1186/s41239-023-00428-z
+
+McArthur, J. (2018). Assessment for Social Justice: Perspectives and Practices within Higher Education.
+   Bloomsbury Academic.
+
+Tai, J., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., Harris, L., & Mahoney, P. (2022). Re-imagining
+   exams: How do assessment adjustments impact on inclusion? National Centre for Student Equity in
+   Higher Education. https://www.acses.edu.au/research-policies/assessment-adjustments-impact-
+   inclusion-2/
+
+Tai, J., Ajjawi, R., Bearman, M., Boud, D., Dawson, P., & Jorre de St Jorre, T. (2023). Assessment
+   for inclusion: Rethinking contemporary strategies in assessment design. Higher Education Research &
+   Development, 42(2), 483-497. https://doi.org/10.1080/07294360.2022.2057451
+
+Tai, J., Dollinger, M., Ajjawi, R., Jorre de St Jorre, T., Krattli, S., McCarthy, D., & Prezioso, D. (2023).
+   Designing assessment for inclusion: An exploration of diverse students' assessment
+   experiences. Assessment & Evaluation in Higher Education, 48(3), 403-417. https://doi.org/10.1080/
+   02602938.2022.2082373
+                                                                                                         ASSESSMENT DESIGN PRINCIPLES | 33
+
+Tai, J., Mahoney, P., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., & Harris, L. (2023). How
+   are examinations inclusive for students with disabilities in higher education? A sociomaterial
+   analysis. Assessment & Evaluation in Higher Education, 48(3), 390-402. https://doi.org/10.1080/
+   02602938.2022.2077910
+
+Quality and Qualification Ireland (QQI). (29 Apr 2024). UCD Assessment for Inclusion Framework:
+   Principles and Practices. [Video]. YouTube. https://youtu.be/UG4Gvlt_vjA?si=vQBtXfDQqglYlVui
+
+UCD (2024). Assessment for Inclusion Framework. University College, Dublin. https://www.ucd.ie/
+   teaching/resources/inclusiveandinterculturallearning/ucdassessmentforinclusionframework/
+34 | ASSESSMENT DESIGN CYCLES
+
+4.
+
+ASSESSMENT DESIGN CYCLES
+
+                       What is your role in assessment design?
+             When do you start planning in relation to assessment?
+           What do you need to consider in designing assessment?
+           What types of evaluation processes occur with respect to
+
+                                         assessment?
+
+Assessment is more than just the task: the lifecycle
+of assessment design
+
+The concept of constructive alignment reminds us that to students, the assessment is more than just the
+task at the point when students submit it (Biggs 1996). Assessment facilitates learning, both as students
+build the skills needed to complete the task and also via the task itself, highlighting the importance of
+alignment between tasks and all desired learning outcomes. To assessment designers, this "more than just
+the task" also extends to the lifecycle of assessment design within an institution.
+
+   Bearman et al (2017) investigated the practises of university assessment designers in detail, leading
+to the development of an Assessment Design Decisions framework. Their findings identified a range
+of considerations that assessment designers need to take into account. The segmented doughnut
+representation of the six categories suggests that all are equally important and that there is no hierarchy of
+how these aspects need to be attended to. This in turn suggests that potentially focussing on any of these
+areas would be fruitful for improving assessment design. The full framework is presented in the box below,
+and aligns with the earlier principles around sustainable assessment outlined in Chapter 2.
+                                                                                                        ASSESSMENT DESIGN CYCLES | 35
+
+                              "Assessment Design Framework" by Margaret
+                              Bearman, Phillip Dawson, David Boud, Matt Hall,
+                              Sue Bennett, Elizabeth Molloy and Gordon
+                              Joughin, © Australian Government Department
+                              of Education, used with permission. Available for
+                              re-use under the original licensing conditions, CC
+                              Attribution-Share Alike 4.0 licence.
+
+The Assessment Design Framework
+
+Purposes of assessment
+
+How can assessment: (1) support student learning; (2) generate grades that will form part of
+subsequent certification; and (3) equip learners in making future judgements?
+
+Contexts of assessment
+
+Which of the following attributes needs to be considered in assessment design? What
+specifically about each can be taken into account? How can tensions between different needs
+be reconciled?
+
+     · characteristics of learners/students
+     · institutional assessment principles and policies
+     · professional, vocational or employment-related requirements
+36 | ASSESSMENT DESIGN CYCLES
+
+          · departmental, disciplinary and personal norms, expectations and ideas
+          · overall program and role of the unit/module
+          · learning environment, e.g. class size or mode (online/face-to-face/blended).
+
+    Learner outcomes
+
+     How does assessment align with, and promote, desired student outcomes, including: (1) unit/
+     module learning outcomes; (2) overall program learning outcomes; (3) professional
+     requirements; and (4) students' general professional or intellectual development.
+
+    Tasks
+
+     Students need to engage with a range of tasks to: (1) develop and (2) demonstrate their
+     learning.
+
+          · What is the rationale for each task?
+          · How do the tasks drive learning? What do the tasks specifically require learners to do?
+          · How will successful completion be judged?
+          · How are tasks best distributed across the semester?
+          · How will students contribute?
+          · Which tasks will be graded?
+
+    Feedback processes
+
+          · How are multiple feedback opportunities achieved through the distribution and
+             relationship of tasks across the unit/module/overall program?
+
+          · What types of feedback information will be provided and by whom?
+          · How will learner performance be used to influence the (re)design of later tasks?
+
+    Interactions
+
+          · How will resistance or engagement from learners or colleagues influence assessment
+             processes?
+
+          · How will learners understand what is required in the assessment task(s)?
+          · What information will be needed to improve this assessment for subsequent occasions?
+          · What associated changes in teaching and learning activities will be required?
+
+          "Assessment Design Framework" (PDF 972KB) by Margaret Bearman, Phillip Dawson, David
+                                          Boud, Matt Hall, Sue Bennett, Elizabeth Molloy and Gordon Joughin
+
+      © Australian Government Department of Education, used with permission. Available for re-use
+                              under the original licensing conditions, CC Attribution-Share Alike 4.0 licence.
+                                                                                                               ASSESSMENT DESIGN CYCLES | 37
+
+   Turning to the context of inclusion, it is then important to think about what happens over time, and the
+stages at which design for inclusion needs to be considered. This spans course planning, the development of
+the tasks, implementation, evaluation, and further planning for inclusive changes. The inclusive assessment
+design framework was developed by Tai et al. (2022) as an outcome of their NCSEHE funded project
+which explored how student experienced inclusion in high-stakes assessment settings, such as exams. The
+framework offers step-by-step considerations of assessment design decisions, which are fully elaborated in
+the box below.
+
+    "Inclusive Assessment Design Framework" by Joanna Tai, Rola Ajjawi, Margaret Bearman, Joanne
+             Dargusch, Mary Dracup, Lois Harris, Paige Mahoney is licensed under CC BY 4.0
+
+   The inclusive assessment design framework and lifecycle
+
+Plan for inclusive change
+
+Planning requires a focus on inclusive change within a unit or broader program. This may be a process
+of iterative articulation across several cycles of the framework. Useful first steps are:
+
+     · Consult students and accessibility staff: What are their experiences of enablers and barriers to
+        successful participation in assessment? What problems with assessment have been encountered
+        previously? What is the pattern of adjustments?
+
+     · Consider your student cohort: What is known about their characteristics and intersecting
+38 | ASSESSMENT DESIGN CYCLES
+
+        identities? How can you find out?
+     · Reflect on the overall pattern of assessment tasks: How do assessment tasks assess what is
+
+        necessary across the unit/program?
+     · Find exemplars of inclusive assessment: What other designs/approaches can inform you?
+
+Develop assessment tasks
+
+`Tasks' describe activities such as exams and assignments and form the fundamental building blocks of
+assessment design. Consider what you are asking students to do or know, over what time and in which
+space. Bear in mind inclusion is about accommodating diversity (e.g., disability, neurodiversity, social
+diversity and so on) and you may need to balance different tensions.
+
+     · Consider the Universal Design for Learning guidelines across tasks in a unit or program.
+
+              Engagement: How do the tasks align with students' diverse motivations/goals/interests
+                but at the same time allow them to demonstrate the learning outcomes? How might
+                authentic assessment help create this balance?
+
+              Representation: How can the assessment instructions, rubrics, or marking guides be
+                communicated to suit diverse audiences? How can people with diverse backgrounds and
+                characteristics be recognised within assessment representations?
+
+              Expression: How might you offer students variety or flexibility to demonstrate or express
+                their capabilities? To what extent does the mode of expression rely on students being able
+                to know or do things unrelated to the learning outcomes?
+
+     · Develop scaffolding for diverse students to meet the task requirements. Supports may be
+        practical (e.g., templates), technical (e.g., accessible software), cognitive (e.g., exemplars) or
+        relational (e.g., enable discussion about the task).
+
+     · Anticipate common assessment adjustments: How can flexibility in task mode, format or
+        submission timing potentially avoid the need for individual modifications? How might
+        requirements unintentionally advantage or disadvantage particular groups of students?
+
+     · Locate the task within a broader unit or program context: In what ways can all the tasks within a
+        program shift together to be more inclusive as a whole?
+
+Implement assessment
+
+As students are introduced to and then complete assessment tasks, flexibility and responsiveness to
+unanticipated issues are required to support inclusion. An explicit, low-fuss and supportive approach to
+adjustments can strengthen relationships and reduce stress. During the implementation phase, consider
+how to:
+
+     · Communicate with assessment stakeholders: How might you ensure that students and access
+        staff share an accurate understanding of processes and task requirements? How might you
+        proactively reach students whose circumstances may put them at risk of attrition, and in a timely
+        manner (e.g., before census date)?
+                                                                                                               ASSESSMENT DESIGN CYCLES | 39
+
+     · Expect some adjustments: In what ways can you streamline processes to reduce the effort
+        required to request and implement adjustments?
+
+     · Adapt to unanticipated circumstances: How do students' needs and capabilities match your
+        expectations? What types of assessment-related support might address any issues?
+
+     · Monitor for continuous improvement: What insights can you gain about the inclusiveness of your
+        assessment design and processes through tutor feedback, moderation meetings, and informal
+        student comments? What do you need to change on-the-fly? Who else is involved and should be
+        included in the discussion?
+
+Evaluate and reflect
+
+The evaluation phase allows for iterative improvement and overlaps strongly with the planning phase. A
+key challenge is noticing your own blind spots when considering others' perspectives. The following
+considerations can help educators articulate how inclusive the assessment was in practice:
+
+     · Think about assessment design in light of student submissions: How did student work match the
+        aspiration of an appropriate and fair way to demonstrate learning outcomes? How did the
+        assessment task enable diverse students to express/demonstrate their capabilities?
+
+     · Consider students' experiences: Were there many requests for particular adjustments? How did
+        the adjustments work in practice, including the unintended consequences? What patterns of
+        underperformance or failure might need further investigation?
+
+     · Revisit what you asked students to do or know, over what time and in which space: What data or
+        evidence, including formal evaluation, suggests that requirements unintentionally advantaged or
+        disadvantaged particular groups of students?
+
+     · Consider resourcing: In what ways might you reallocate energy/efforts to ensure inclusivity?
+     · Share success: Who else would benefit from this work? What opportunities do you have to share
+
+        with others?
+
+          "Inclusive Assessment Design Framework"by Joanna Tai, Rola Ajjawi, Margaret Bearman, Joanne
+                                Dargusch, Mary Dracup, Lois Harris, Paige Mahoney is licensed under CC BY 4.0
+
+   Taken together, the assessment design framework and the inclusive assessment lifecycle offer a wider
+range of possibilities for moving towards more inclusive practice in assessment. In the following chapter,
+we will move to practical considerations in assessment for inclusion.
+40 | ASSESSMENT DESIGN CYCLES
+
+     Questions for reflection
+
+            · Which aspects of the assessment design decisions framework stand out to you as
+                being important for inclusion?
+
+            · Where do you contribute to the lifecycle of inclusive assessment design?
+            · Where are possibilities for you to make inclusive changes?
+            · If hands-on assessment design isn't formally part of your role, how might you
+
+                influence others to design inclusive assessment?
+
+References
+
+Bearman, M., Dawson, P., Bennett, S., Hall, M., Molloy, E., Boud, D., & Joughin, G. (2017). How
+   university teachers design assessments: A cross-disciplinary study. Higher Education, 74(1), 49-64.
+   https://doi.org/10.1007/s10734-016-0027-7
+
+Biggs, J. (1996). Enhancing teaching through constructive alignment. Higher Education, 32, 347-364.
+   https://doi.org/10.1007/BF00138871
+
+Tai, J., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., Harris, L., & Mahoney, P. (2022). Re-imagining
+   exams: How do assessment adjustments impact on inclusion? National Centre for Student Equity in
+   Higher Education. https://www.acses.edu.au/research-policies/assessment-adjustments-impact-
+   inclusion-2/
+                        ASSESSMENT IN PRACTICE | 41
+
+5.
+
+ASSESSMENT IN PRACTICE
+
+What are the differences between current implementation of
+                 assessment and inclusive practice?
+
+What does implementing assessment for inclusion look like?
+
+While assessment might be designed with the best of intentions, how assessment is enacted in practice
+where the `rubber hits the road' (what we do - or don't do) is ultimately part of what students actually
+experience. This chapter begins by offering some practice principles, and then provides some examples of
+inclusive assessment design and practice, drawn from participants in our research projects.
+
+   Inclusive practice can offer opportunities for improving inclusion, without necessarily making huge
+changes to the way that assessment is designed. Nieminen (2022) offers five areas of action to promote the
+inclusion of marginalised students within academic communities through assessment.
+
+Principle            How does the principle contribute to disabled students' agency and inclusion?
+Rethinking the
+assessment           Widening the repertoire of accommodations enables many forms of participation and thus
+accommodation        agency.
+system
+                     Shifting the focus from assessment design into re-shaping the ableist contexts of
+Anti-ableist work    assessment. Anti-ableist work provides a fertile ground for inclusive assessment to flourish.
+
+Student partnership  Reminding that AfI is not done for students but with students. Co-designing assessment
+                     directly promotes accessibility and student agency.
+Celebrating human
+diversity in         Recognising marginalised forms of knowledge in assessment. The agency of students is
+assessment           promoted as they are enabled to grow as future professionals through assessment with their
+                     diverse strengths and needs.
+Interdependence
+                     Emphasising the communal aspect of AfI. Without interdependence, `inclusion' is likely to
+                     remain individualistic and performative, creating a false sense of inclusion.
+
+(Assessment for Inclusion: five principles for practice, © Nieminen, J.H. 2022. used under a Creative
+Commons BY-NC-ND 4.0 license)
+42 | ASSESSMENT IN PRACTICE
+
+   From these sets of practical principles, we can see that the student, their lived experience, and many
+diverse capabilities are a central focus rather than being peripheral considerations.
+
+           man wearing headphones while sitting on chair in front of MacBook by Wes Hicks on
+           Unsplash used under the Unsplash License
+
+Assessment for Inclusion in Practice
+
+To offer concrete examples of what Assessment for Inclusion might look like in practice, we provide
+four examples drawn from our research (Harris, et al. 2025). These are just some of the many examples
+participants shared, highlighting the many ways assessment can be made more inclusive. For each example,
+we share some context information, and the design considerations implementer teams made in order to
+enhance their assessment for inclusion practices.
+
+         1. Students choose their assessment due dates and final outputs for submission
+
+     Unit and Assessment Profile:
+          · First year class, 200 students, 12-week course with 11 weekly opportunities to turn in
+                                                                                                             ASSESSMENT IN PRACTICE | 43
+
+        short skills-based projects
+     · Students ultimately select 7 projects for final submission
+
+Design Considerations:
+
+     · Tasks include more conventional offerings (e.g., essays), while others present more novel
+        submission options (e.g., develop a podcast that has a full transcript)
+
+     · Choice of which tasks to engage with provides options around the timing of assessment
+        due dates in a way that is sensitive to students' privacy and allows them to have some
+        agency over that flexibility and choice in which assessments they will submit; for
+        example, the student could choose to skip a project whose date doesn't sit compatibly
+        with personal life circumstances (e.g., a busy time at work, family medical situations)
+        without needing to disclose
+
+     · This flexibility means students don't need to automatically apply for extensions when
+        problems arise, important because lot of students don't have the documentation in place
+        or know how to navigate assistance planning systems, and international students (for
+        example) aren't socialised, particularly in the first year, about how to access those sorts
+        of systems
+
+     · The skills that they learned from looking forward to assessments that were later down
+        the track revealed a lot to them about their skills and attributes, and they would make
+        choices about which weeks to turn in assessments based on that self-knowledge of
+        learning and assessment strengths or discipline interests
+
+Practice:
+
+     · Assessment options are listed from beginning of unit to allow students to choose their
+        preferred submission dates and modes, considering their discipline interests, assessment
+        strengths, and `personal life forecast'
+
+     · No single assessment option is a hurdle requirement
+     · Of the 11 submitted projects, students are marked on their top 7, allowing them to explore
+
+        subfields covered
+     · University policy offers a five-day extension; this unit generalised that for the entire class,
+
+        anybody who needs an extension can click a button and be automatically approved
+
+2. Inclusive and authentic representations of workflows and teamwork
+44 | ASSESSMENT IN PRACTICE
+
+     Unit and Assessment Profile:
+
+          · Undergraduate large enrolment unit; majority male school leavers and
+             international students
+
+          · Group projects
+
+     Design Considerations:
+
+          · Assessments are authentic in the sense that they reflect the workflow and
+             teamwork requirements in the profession, particularly around adopting a
+             strengths-based approach to team members
+
+          · The national professional association accredits the course and requires
+             teamwork to be encouraged
+
+     Practice:
+          · Most assessments are group project based; modes of assessment are varied (e.g.,
+             presentation, a report, technical skill development), allowing students the flexibility to
+             work to their different strengths
+          · Mock interview (given a scenario and then they have to write down how they would
+             approach that situation.) for the sector is also an assessment
+          · Groups are taught forming, storming, norming, performing dynamics (Tuckman, 1965)
+             supported by group contracts, so students understand their own obligations
+          · Group mentors create Microsoft Teams space for every group and implement several
+             checkpoints to look at the level of engagement of every team member and award
+             `member points' which influence their share of the group mark
+          · Students are required to work inclusively within their teams, knowing each member's
+             strengths in group presentation and reporting; empowering those students whose
+             strengths lie in presentations and allowing other team members to engage through other
+             task types
+          · Group work marks are moderated by peer evaluation marks
+
+     3. Culturally Informed Program and Assessment design
+
+        Unit and Assessment Profile:
+                                                         ASSESSMENT IN PRACTICE | 45
+
+· First Nations' program for professional qualification
+· 100- 200 students, mostly experienced students
+
+   Design Considerations:
+
+· principles-based design and practice, established collectively by the school
+· no grading; either pass, or progressing towards
+· program delivery scaffolded to a high achievement standard
+
+   Practice:
+
+· a number of days spent together on traditional Country and ceremonial time to build relationships
+· assessment modes are the student's choice; they need to be able to communicate how they
+
+   know the subject matter
+· critical reflection tied to literature
+· reflexive research projects on positionality with respect to professional practice
+· no hard deadlines to program completions, supported by relational communication between staff
+
+   and students
+· staff modelling trust so that graduates will embody this as professionals
+
+4. Formatting for neurodiversity
+
+Unit and assessment profile:
+     · Non-traditional students with prior professional experience, working mothers, First-in-
+        Family, and neurodiverse students.
+     · Nationally accredited course
+     · Escape room assessment where students play their way through the escape room to
+        access the content; an annotated bibliography, video essay, and MOOC (massive open
+        online course).
+
+Design Considerations:
+
+     · To avoid copyright issues, the lecturer made their own readings and videos
+     · In order to promote engagement and interest, the lecturer also made little
+
+        animations and sourced cartoons
+     · People think differently and work differently through the Coding MOOC as part
+46 | ASSESSMENT IN PRACTICE
+
+             of the escape room (e.g., neurodiverse people may go through fits and starts in
+             engagement - with the capacity to hyperfocus they can complete the whole
+             MOOC in a day or a weekend. Learners who do not work in this sustained way
+             can work in short bursts and still progress, find success and finish the MOOC).
+
+     Practice:
+          · The first assignment is an annotated bibliography; lecturer shows them how to use the
+             AI function in PDF Adobe and AI summarises the articles.
+          · Students then choose one of the key ideas identified by AI, locate that content in the
+             academic article, and then summarise that in their own words, on screen, in a video
+             essay.
+
+     5. Choose your own proficiency
+
+     Unit and Assessment Profile:
+          · First year unit, 700 students, multi-disciplinary cohort, taking the class for numerous
+             reasons
+
+     Design Considerations:
+     · Student cohort includes advanced students who are very enthusiastic, others who haven't done
+
+        the subject since year 10 and are taking it as a core, and those who are taking it as an elective,
+     · The unit is split into different skills: Core and advanced.
+     · Core skills are the skills that are absolutely necessary to know in order to pass a unit.
+     · Advanced students are given additional skills that will be needed into the future if the student
+
+        chooses to specialise in the subject.
+     · Student agency is foregrounded - individuals allocate different levels of energy to attaining
+
+        certain grades and capabilities according to their own priorities
+     Practice:
+     · Lecturer identifies the options for differentiation and choice in difficulty and establishes a `Choose
+
+        your level' approach with students selecting the mark range they would ideally like to get
+     · Students complete the core skills first - this includes a number of skills that must demonstrate
+                                                                                                                    ASSESSMENT IN PRACTICE | 47
+
+     · Scheduled tutorials include weekend mornings and other times during the week; students can
+        attend or watch as many as they want, synchronously or asynchronously
+
+Beyond these examples, there are many more available within the published research literature. For
+example, in their literature review, Tai, Ajjawi, and Umarova (2024) identify 13 studies on inclusive
+assessment. There are also a number of examples included within Ajjawi et al.'s (2022) book, Assessment for
+Inclusion in Higher Education (available open access). Assessment for inclusion isn't just an aspiration: it is
+achievable in practice.
+
+     Questions for reflection
+
+            · Which inclusive practices stood out to you as most achievable and why?
+            · Which principles of Assessment for Inclusion (from the previous chapter) did they
+
+                align with?
+            · Why might some practices be more, or less, achievable in your context?
+            · Are there any aspects to your assessment practice which you might now reconsider
+
+                through a lens of inclusion?
+            · What might be a place to start?
+
+References
+
+Ajjawi, R., Tai, J., Boud, D., & Jorre de St Jorre, T. (2022). Assessment for Inclusion in Higher Education
+   (R. Ajjawi, J. Tai, D. Boud, & T. Jorre de St Jorre, Eds.). Routledge. https://doi.org/10.4324/
+   9781003293101
+
+Harris, L.R., Dargusch, J., Tai, J., Funk, J., & Bourke, R. (2025). Supporting leadership in inclusive
+assessment policy and practice: Final report. CAULLT, Sydney, New South Wales.
+https://www.caullt.edu.au/project/supporting-leadership-in-inclusive-assessment-policy-and-practice/
+Nieminen, J. H. (2022). Assessment for Inclusion: rethinking inclusive assessment in higher
+
+   education. Teaching in Higher Education, 29(4), 841-859. https://doi.org/10.1080/
+   13562517.2021.2021395
+48 | ASSESSMENT IN PRACTICE
+
+Tai, J., Ajjawi, R., & Umarova, A. (2024). How do students experience inclusive assessment? A critical
+   review of contemporary literature. International Journal of Inclusive Education, 28(9), 1936-1953.
+   https://doi.org/10.1080/13603116.2021.2011441
+   Tuckman, B. W. (1965). Developmental Sequence in Small Groups. Psychological Bulletin, 63(6),
+
+384-399.
+                                                           OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT | 49
+
+6.
+
+OPPORTUNITIES AND CHALLENGES FOR
+CHANGING ASSESSMENT
+
+         What opportunities and challenges exist to implementing or
+                      changing different forms of assessment?
+
+         How have others tried to address these challenges and take
+                               advantage of opportunities?
+
+We have all experienced some of the recent big disruptors to higher education systems: COVID-19, the
+rise of Generative AI, mergers, restructures, policy changes, and funding changes. While many people
+don't feel comfortable with change and the disruption it brings, these broader forces can also represent an
+opportunity to grow more inclusive practices.
+
+   One way to think about opportunities and challenges is situating them not as an individual
+responsibility or problem, but as issues that exist within systems that shape the way that things unfold in
+higher education.
+
+   Naylor and Mifsud (2019) argued that the ways we view these institutional qualities and systems of
+practice are important for reducing structural inequality, and promoting success for all students. They
+identified "six dimensions of university activity that may act as potential loci for internal structural
+inequalities...these areas may be `pressure points' or areas where internal inequalities may arise or be
+reduced -- they are not aspects of university activity that necessarily promote structural inequality, and
+institutions may productively focus on different areas as necessitated by their individual cultures or the
+requirements of their student cohort" (Naylor & Mifsud, 2019, pp. 2-3).
+50 | OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT
+
+                 "Internal structural inequalities in higher education" , Naylor & Mifsud 2019, ©
+                 ACSES (formerly NCSEHE), Curtin University, used with permission
+
+   Taking these six dimensions into consideration, you might consider how the ways that institutional
+structures and systems expect or determine a particular way of doing things can help or hinder the
+way assessment is undertaken and experienced, and how each of these areas can influence outcomes to
+perpetuate or minimise inequalities. Here are some more granular sub-examples of Naylor and Mifsud's
+dimensions for you to consider that relate directly to inclusion in assessment
+
+      In your context, are these opportunities,
+             challenges, or some of both?
+
+     Staff
+          · Staff attitudes, capability, and motivation
+          · Pedagogies: general practices and discipline-specific instructional trends
+          · Socio-cultural factors in delivery: lecturer-specific `styles', institutional cultures,
+                                                           OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT | 51
+
+             disciplinary approaches
+     Students
+
+          · Students' expectations of assessment, stigma around identification of equity markers,
+             and staff-student relationships,
+
+          · Student cohort characteristics which influence curriculum delivery
+          · Student group expectations around hybrid learning developed in respond to COVID-19
+     Curriculum
+
+          · Curriculum design conventions in each discipline and academic traditions.
+          · Industry input into curricula, professional association literature, accreditation
+
+             requirements, and competences
+     Administration
+
+          · Teaching and learning strategy and policies and administration resources
+          · AQF levels and related learning outcome phrasings
+          · Promotion and teaching award criteria, innovation and quality incentives
+          · Assessment design and quality assurance procedures: review processes, templates,
+
+             options (e.g., word counts / equivalencies, approved assessment genres and descriptions)
+     Campus life (i.e. extra-curricular opportunities)
+
+          · Presence and role of an accessibility service
+          · Opportunities for students from diverse backgrounds to be included in conversations
+
+             about assessment and feedback
+          · Support services available to students
+     Physical Environment
+
+          · Accessibility support plug-in tools for learning management systems (e.g., Blackboard
+             Ally) different educational technology uses, innovation tagging on units to include
+             students' feedback
+
+          · Academic integrity technology and tools and the student experience of these
+          · Campus (spaces and technology), physical accessibility and design, online/hybrid modes
+
+While there is some crossover between categories, these categories can support identification of what
+different strategies might be useful to employ. For instance, a physical environment focus on assessment
+might identify that redesigning a laboratory environment could be an opportunity to improve inclusion
+for lab-based assessments. Alternatively, an administrative focus might suggest implementing a policy that
+52 | OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT
+
+students can take their lab-assessment in a different environment. Here's a small interactive activity for you
+to consider what might be an enabler or a barrier within your context.
+
+                   An interactive H5P element has been excluded from this version of the text. You can view it
+                   online here:
+        https://oercollective.caul.edu.au/leading-assessment-inclusion/?p=99#h5p-1
+
+desert under starry sky in this activity by Mohammad Alizade on Unsplash used under the Unsplash
+License
+
+How can we do our best within an imperfect and
+complex system?
+
+                             assorted-color textiles by Paul Hanaoka on Unsplash used
+                             under the Unsplash License
+                                                           OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT | 53
+
+You have likely realised that many aspects of the environment can operate both as an enabler and a barrier.
+In the examples from our research, both practitioners and senior leaders chose particular ways to work
+within their institutions' systems and processes. For example, senior leaders might take a ` hands off'
+approach, allowing implementers to innovate. Practitioners described being creative in their practices of
+centring students' needs within assessment design priorities. Across the interviews we conducted in the
+CAULLT project (Harris et al., 2025), there were three opportunities (or challenges) that stood out as
+particularly important. Next, we summarise some of the different ways strategies were adopted to take
+advantage of these opportunities.
+
+Introducing flexibility for the range of diverse students
+within a course
+
+Leaders suggested strategies that could assist at a whole of university, program and unit levels and within
+particular discipline areas:
+
+   Whole of university (mainly administrative)
+
+  · Policy implementation of using `or equivalent' for word counts, allows for more choice around the
+      format of the task (e.g., oral instead of written - essay of 3000 words equivalent to a 5-minute
+      video), offering equivalent assessments for supplementary tasks including allowing submission in a
+      different form to the original assessment (e.g., Viva).
+
+  · Using a checklist to prompt assessment designers to include the following tools that diverse students
+      can access: downloadable versions of tasks, non-written content labelled to allow screen readers to
+      read these for students, videos with transcripts, assessment guides with voice-overs, and illustrated
+      PDFs of tasks.
+
+  · Considering how the requirement to purchase textbooks for assessment tasks could disadvantage
+      low SES students and providing an alternative way for students to engage with content.
+
+  · Offering short automatic assessment extensions without evidence (assisting students with complex
+      circumstances, removing the role of the course coordinator/convenor as `judge', and allowing
+      students who may need to apply for special consideration the time to gain appropriate
+      documentation).
+
+Program or discipline area (administrative)
+
+  · Completing an overall assessment audit across a school/program enables staff to consider the design
+      of assessment and assessment schedules to better support diverse students (e.g., not putting all of the
+      assessment in one week, ensuring a range of assessment types are employed across a program).
+
+Unit or module level (mainly student and curriculum focussed)
+
+  · Allowing students to create their own assessment schedules by allowing students to select their task
+54 | OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT
+
+      deadlines from a range of options.
+  · Providing flexibility of scheduling for timed assessment tasks to support students with complex life
+
+      circumstances (e.g., examinations are open for 24-48 hours vs at a specified start time).
+  · Providing the option of a `negotiated' assessment, allowing students choice in what type of
+
+      assessment they use to demonstrate the learning outcomes.
+  · Allowing for student choice in assessment topic or the focus of an assessment piece (e.g., a business
+
+      of their choice becomes the topic of a marketing plan) and/or in the grade they wish to target
+      (students can choose to complete particular parts of a task to achieve a designated grade).
+  · Allowing for student choice in the number of assessment topics to complete across a unit (e.g.,
+      students complete between 5-10 possible small assessments with the best 5 marks counted towards
+      an overall level of achievement).
+                                                           OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT | 55
+
+              a group of people holding hands on top of a tree by Shane Rounce on Unsplash
+              used under the Unsplash License
+
+Workload management to afford implementation of
+inclusive assessment
+
+Especially in larger courses, workload was identified as a challenge for staff trying to implement inclusive
+56 | OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT
+
+assessment, and something to be addressed. Colleagues explored different approaches that could be
+considered as acting upon different structural aspects:
+
+  · Staff: Including workload recognition/time for developing and implementing inclusive assessment
+  · Administration: Automating 5-day extensions to reduce staff administrative workload
+  · Student: Building in peer assessment as part of group work assessments to reduce lecturer feedback
+
+      in large courses
+  · Physical environment: Using technology/software that provides customised formative feedback
+
+      prompts for each individual student.
+
+Concerns about Generative AI use and assessment
+authorship
+
+Across higher education, universities are adopting strategies to manage the now widespread access to
+generative artificial intelligence (Gen AI). For some courses, programs, and universities, there has been a
+move back towards invigilated exams, whereas in others, this disruptor has encouraged the development
+and implementation of assessment genres which are harder to get Gen AI to write (e.g., reflection-based
+assessments). In these decisions, consideration of both the student and curriculum are necessary.
+
+  · Curriculum: Considering other ways to design assessments that are at a lower risk of AI plagiarism
+      but which also may simultaneously promote inclusion (e.g., tasks which promote reflection or
+      discuss students' process, including a viva where students explain their work, creation of an artifact),
+
+  · Student: Allowing students to use AI, which can be very helpful for students with particular types of
+      disabilities, but expect students to report their use of AI and the purpose of that use.
+
+We recognise that readers of this resource might be operating at different levels within the institution, and
+so not all strategies are available to all who are interested in promoting more inclusive assessment. For
+instance, a sessional lecturer would not be able to automate extensions across a program of study. Similarly,
+an Associate Dean Learning and Teaching would not be the one offering to negotiate assignment due dates
+with individual students. Whilst a structural approach might be useful for identifying the types of strategies
+and a locus of action, we also need some way of considering how people with different roles within the
+university environment can all contribute to improving assessment for inclusion.
+
+     Questions for reflection
+
+            · What opportunities do you see within your university for promoting more inclusive
+                                                           OPPORTUNITIES AND CHALLENGES FOR CHANGING ASSESSMENT | 57
+
+                approaches to assessment?
+            · What challenges to inclusive assessment are particularly salient to you and your
+
+                team? What can you proactively do to mitigate these challenges?
+            · How can you best facilitate collaboration between people from differing areas and
+
+                levels of responsibility within your university?? What might be some productive ways
+                to work together to promote assessment inclusion?
+
+References
+
+Harris, L.R., Dargusch, J., Tai, J., Funk, J., & Bourke, R. (2025). Supporting leadership in inclusive
+assessment policy and practice: Final report. CAULLT, Sydney, New South Wales.
+https://www.caullt.edu.au/project/supporting-leadership-in-inclusive-assessment-policy-and-practice/
+Naylor, R., & Mifsud, N. (2019). Structural inequality in higher education: Creating institutional cultures
+
+   that enable all students. ACSES (Formerly NCSEHE), Curtin University. https://www.acses.edu.au/
+   research-policies/structural-inequality-in-higher-education-creating-institutional-cultures-that-enable-
+   all-students-2/
+58 | PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE
+
+7.
+
+PROMOTING ASSESSMENT FOR
+INCLUSION: EVERYBODY HAS A ROLE
+
+          Who can contribute to assessment for inclusion, and how?
+            What might be the roles of different individuals in higher
+                                    education systems?
+              What needs to be addressed at a system-wide level?
+
+Opportunities for Leading Assessment for
+Inclusion: choosing a focus
+
+In the CAULLT funded research (Harris et al 2025), we talked to both senior leaders with responsibilities
+for determining how policy is designed around assessment and leaders in implementation of assessment
+design within their contexts. This group of people privileged the direct relationships they have with
+students and the ongoing influence this allows. Whilst many institutional policies, strategic plans, and
+senior leadership priorities can affect how assessment is systematically operationalised - formal concepts
+of leadership - equally, implementers of assessment for inclusion had a major impact on how students
+experienced assessment. This could be considered a form of shared leadership, or `leading with license.'
+
+   Widening participation is a major goal of inclusive practice, which includes thinking of all that we do
+as an open and collaborative learning exercise. Hence, it is useful to reflect on what we do in our practice,
+rather than just focusing on student outcomes. Enabling access, ensuring inclusivity, and promoting
+`practices encouraging peer learning, collaborative knowledge creation, sharing, and empowerment of
+learners' (Cronin, et al., 2023, p.147) can widen our spheres of influence over learning quality. This drive
+toward openness highlights the importance of sharing practice within groups and across organisational
+hierarchies, valuing the equitable participation of all who are involved. Inclusion is everybody's business.
+                                                       PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE | 59
+
+However, we also know there are potential dangers of wholly shared responsibility, since it is then nobody's
+job in particular. Leadership - and recognising leaders - is therefore important at all levels of organisational
+hierarchies.
+
+             background pattern by and machines on Unsplash used under the Unsplash
+             License
+
+Under the umbrella of assessment for inclusion, there are many opportunities available for leadership across
+all levels. Here we introduce some key themes which might resonate with personal or institutional values
+and which could be a focus of leadership:
+
+  · Student voice and lived realities
+          Creating reasonable timeframes and effective staff workload feedback loops
+          Gaining appropriate community engagement around how to best embed Indigenous
+            Knowledges and learning outcomes
+          Recognising the often imperfect nature of individual accommodations / adjustments /
+            solutions, and creating mechanisms so there's scope for additional customisation and support
+            to address other arising needs
+          Minimising the bureaucracy encountered, decreasing students' needing to self-advocate
+
+  · Students as partners in collaboration
+          Creating opportunities for student collaboration in assessment design and practice
+          Providing open and transparent communication on marking criteria / rubrics
+          Giving students agency, allowing them to aim for specific levels of achievement, select particular
+            genres or modes, and select assessments which best align with their schedules
+60 | PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE
+
+  · Digital Accessibility
+          Providing screen readers and make sure all file formats are compatible with these
+          Creating alt - text on images
+          Generating captions and subtitles for video
+          Creating consistency in formatting, font style and size, and blank space in learning and
+            assessment materials
+
+  · Consistency of communication
+          Ensuring that language used isn't overly abstract or theoretical / performatively academic;
+            `plain language' communication in, and about assessment.
+          Checking terminology is consistently used across all forms of feedback, delivery, written
+            content online, and assessment
+          Verifying terminology is respectful and current in the context of the assessment and subject,
+            including regular community feedback and review around this
+
+  · Authenticity
+          `License and authority to lead' in accordance with own values
+          Checking assessments are meaningful, purposeful, and sustainable
+          Using `real world' representations and scenarios within assessment
+          Linking assessments to professional skills and employability
+          Embedding realistic and diverse representations of society within assessments
+          Being culturally responsible and respectful of students' lives and backgrounds
+
+  · Flexibility
+          Time - allowing students to `set their own deadlines', get extra time easily when life does not go
+            to plan, dip in/out based on work schedules, psychological state, etc.
+          Mode - allowing student some say in the manner in which they share knowledge (e.g., to opt
+            for spoken instead of written, pre-recorded video (supports those with social anxiety) vs on the
+            day spoken (may help those with tech issues who find video creation difficult)
+          Topic - allowing students to work with areas where they have interest, prior knowledge/
+            experience, etc.
+                                                       PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE | 61
+
+Different roles, different responsibilities
+
+   a group of rubber ducks with a crown on their head Photo by Igor Omilaev on Unsplash used under
+   the Unsplash License
+
+The scale of the higher education system means that there are increasingly distinctive roles required to enact
+quality teaching and learning. The focus in this OER on assessment has naturally centred the majority
+of discussion on what lecturers might do, but it is also important to acknowledge the roles of casual and
+sessional academics, course/program leaders, academic developers, learning designers, and more broadly,
+school, faculty, and senior leaders, in promoting inclusive assessment.
+
+Casual and sessional staff
+
+It is estimated that 50 to 80% of undergraduate teaching in universities is delivered by sessional staff
+(O'Kane, 2023), having significant implications for the practice of assessment for inclusion. Job insecurity
+and academic precarity is likely to mean a reduced risk appetite with respect to innovation (especially
+since poor student evaluations may mean no additional contracts). Additionally, as casual staff often sit
+outside the identified power structures within the university and may lack avenues for innovation (i.e.,
+62 | PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE
+
+are `assigned' to a course shortly before the start of the teaching period, meaning that even if assessment
+changes are identified, they cannot be actioned given assessment change timelines). The drive to secure
+further work may also mean less willingness to bend policy, since there are many reasons to want to be
+perceived as `doing the right thing'.
+
+   Furthermore, sessional staff are subject (as are many others) to strict rationing and allocation of time
+towards students - both in interactions and in marking of assessments. Some of the innovative designs we
+identified did require staff to go `above and beyond', with time in workload not considering things like a)
+the time cost of negotiating tasks with students, b) extra marking time needed when products may be quite
+different, c) time to develop materials to support students to create different assessment products. Casual
+staff do not have the flexibility to `borrow time' from other tasks (e.g., administrative, research, service time)
+to devote into teaching. We cannot ask casual staff to volunteer, which is what is occurring when they are
+expected to do things that take more time than what they are being paid for, so budget allocations need to
+take any additional time costs relating to inclusive design into account.
+
+   Within these constraints, how can casual or sessional staff contribute to inclusion in assessment, being
+`at the coalface'? If you are a sessional staff member or supporting these staff, remember that without
+adding additional time costs, such staff can still have agency over their attitudes, language, and practices and
+be ready to point students in the right direction when students do need additional support at university.
+This means bespoke induction materials, resources, and professional development opportunities should
+be available to casual staff, including programs focused specifically around developing inclusive values and
+practices and generating awareness of student services available and how to access them. Students value
+interactions with staff, which could make or break their experience (Tai et al 2023), as a casual or permanent
+staff member, being supportive, empathetic, normalising difficulties with assessment, and encouraging
+students to reach out for help are all extremely important.
+
+`Third space' professionals: academic developers,
+learning designers, disability liaison officers
+
+Third space professionals have a powerful role to play as they operate across multiple units and programs
+and could act as substantial co-ordinators of inclusive assessment practice. Selecting a focus (from the
+many possibilities in the lists above) which aligns with university priorities can support broad impact. They
+might also support school, faculty and senior leaders in particular policy or institution-driven missions for
+educational uplift or change which could be harnessed for the purpose of improving inclusion.
+
+   The role of the diversity and inclusion team is also important, and usually encompasses an accessibility
+centre. Such staff might have a role in advocating for inclusive assessment, as well as offering the mechanism
+for ensuring students can access the accommodations they are entitled to these. These staff can also
+actively work to reduce barriers to accommodation access (e.g., simplify paperwork, streamline processes
+so outcomes are quickly achieved) and improve awareness (e.g., improve centre/lecturer communication,
+make sure staff are aware of what particular accommodations entail and how to set these up).
+
+   Tai et al. (2022) found that involving disability liaison officers in conversations around assessment
+                                                       PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE | 63
+
+design was illuminating for educators, who valued the deep experience from which liaison officers could
+draw upon to highlight how particular assessment design decisions might impact different groups of
+students. Importantly, these staff can help bring to light problems with particular tasks or types of tasks
+(e.g., identifying trends around tasks with high levels of accommodation requests) and suggest alternative
+designs based on knowledge of students and their needs.
+
+Course/program directors and unit/module chairs
+
+Inclusive assessment design and practice cannot sit with individuals such as unit coordinators: a
+programmatic approach to inclusive assessment design becomes essential so students have a consistent
+experience in relation to assessment. Keeping inclusion on the agenda is important, and at this level, it
+may be helpful to consider patterns of student characteristics and backgrounds within particular cohorts,
+to target approaches to inclusion, and offer a narrative "why" which resonates with the discipline or
+profession. Many leaders and educators in our research saw inclusion as being about meeting the needs
+of `all students' versus having a narrower focus on a particular characteristic (e.g., disability, cultural
+background). While this broad lens is valuable, it does mean that specific student needs can get overlooked
+as nothing can be well suited to `all students' (e.g., a spoken task may suit students with dyslexia or from
+cultural backgrounds which privilege oral traditions but may disadvantage students with particular forms
+of anxiety).
+
+   Hence, individual tasks will always prioritise some needs over others (perhaps the most visible, or those
+whose needs are more `manageable' or easy to adjust for). Focussing on needs for specific equity groups is
+also important (e.g., What might First Nations students need in assessment?) but this should not lead to
+generalisations or homogenisations of the needs of a particular equity group.
+
+School, faculty and senior leaders
+
+In the CAULLT project, we identified many simple and strategic actions which senior leader took to
+support assessment for inclusion. These included:
+
+  · creating policy which included specific practice examples,
+  · monitoring digital infrastructure, making sure systems remained compatible with inclusion goals
+  · providing innovation incentives and awards
+  · considering good practice around inclusion in academic promotion criteria
+  · allocating additional staff time or creating workload adjustments when tasks had greater
+
+      administration or marking timeframes
+  · promoting scholarship of teaching and learning on inclusive practice
+  · providing mechanisms that allow timely changes to be made to existing assessments
+  · adopting a more `hands off' management style, empowering staff with the agency needed to innovate
+
+      on assessment practices
+64 | PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE
+
+  · encouraging innovation (i.e. a flag celebrating experimental assessment design)
+  · volunteering to be on committees and advisory boards where decisions will be made about university
+
+      policies that may impact on inclusion
+  · developing communities of practice and professional development opportunities
+There were many examples encountered of good practice in the research. For example, one university
+gave staff the option to activate an `assessment innovation flag' via the assessment change process when
+they designed something new. This `flag' meant that while student evaluations were still gathered after
+implementation, they were considered with the knowledge that this was a new task and the expectation
+that there might be a level of initial dissatisfaction as students adjusted to a new way of working and/or staff
+experienced unforeseen challenges in the teaching of and execution of the task.
+   Another university had carefully considered the time costs involved in marking of tasks which required
+expertise in Indigenous knowledges and/or dealt with potentially sensitive content (e.g., student reflections
+about impacts of colonisation, racism). Here, staff were provided with some additional marking time to
+enable them to respond appropriately to student work. These are just a couple of examples of practical
+ways leaders can encourage staff to innovate and recognise the work involved in inclusion.
+
+Developing a university-wide approach to
+inclusive assessment
+
+                 blue and white academic hat by Joshua Hoehne on Unsplash used under
+                 the Unsplash License
+
+Within the universities involved in our research, it was also important to tackle inclusion with a whole of
+                                                      PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE | 65
+
+university approach through policy, as well as building the capability of educators across the university.
+Here are some of the university-wide approaches taken:
+
+  · Developing university principles that support inclusion, including a focus on Universal Design for
+      Learning (UDL) and including all staff in the conversation about how assessment can be more
+      inclusive,
+
+  · Providing opportunities for sharing inclusive assessment design and implementation practice
+      examples in workshops/communities of practice led by learning designers and inclusive assessment
+      champions (at the school/faculty/whole of university levels),
+
+  · Providing tools that staff can use to design inclusive assessment (e.g., digital accessibility tools,
+      assessment toolboxes that include examples from a range of disciplines/other universities, checklists
+      based on frameworks such as the UDL guidelines and ASCILITE TELT Standards to guide the
+      design process),
+
+  · Providing policy guidance on assessment program plan designs, including a focus on the need to use
+      a variety of assessment tasks, with limits on examinations (e.g., no more than 50 percent exams/
+      multiple choice) except where timed assessments require students to demonstrate the learning
+      outcomes in ways that are relevant and authentic to a profession/context,
+
+  · Supporting assessment designers to consider the types of changes at the unit level by examining what
+      is merely historical (traditional) and what can be changed,
+
+  · Recognising inclusive practice through awards (e.g., inclusive Vice Chancellor's award),
+  · Ensuring that students have access to clear and comprehensible policies that make transparent the
+
+      processes involved in accessing support. This includes ensuring consistent naming of documents and
+      webpages to facilitate easy access,
+  · Prioritising students as partners programs. Allowing students to have a voice in assessment design
+      and an opportunity to provide feedback to academics on assessment design decisions.
+
+     Questions for reflection
+
+            · In your institution, what are your current foci for inclusion? Are there any additional
+                foci that you believe are important? How could those be brought forwards to
+                leadership for consideration?
+
+            · Who drives the conversation about inclusion (at whole of university, school/faculty,
+                discipline, program levels)? How can you become involved in these discussions?
+
+            · Considering your own university's staff, context, and student body, how might
+                leadership at your university incentivise and reward assessment design innovation
+66 | PROMOTING ASSESSMENT FOR INCLUSION: EVERYBODY HAS A ROLE
+
+                (through promotional criteria, or `innovation flags' on units, for example)?
+            · Are assessment adjustment and accommodation processes centralised? How are such
+
+                systems evaluated? What mechanisms exist to allow lecturers' experience and
+                knowledge of the students to be taken into account in relation to key decisions (i.e.,
+                extension approvals, academic integrity, progression, unit and assessment design
+                approvals)?
+            · Is policy on inclusion and assessment consistent with practice? What are the gaps?
+       As we draw to the end of this OER, what are the biggest concerns for you? What are your
+       enablers and barriers? Where do you hope to make a difference? How might you become a
+       leader in assessment for inclusion?
+
+References
+
+Cronin, C. Havemann, L., Karunanayaka, S., and McAvinia, C. (2023). Open Educational Practices.
+   In: Bali, Maha; Bozkurt, Aras; Dickson-Deane, Camille; Kimmons, Royce; Stefaniak, Jill E. and Warr,
+   Melissa eds. EdTechnica: The Open Encyclopedia of Educational Technology. EdTechBooks, pp.
+   147-153. https://oro.open.ac.uk/91847
+   Harris, L.R., Dargusch, J., Tai, J., Funk, J., & Bourke, R. (2025). Supporting leadership in inclusive
+
+assessment policy and practice: Final report. CAULLT, Sydney, New South Wales.
+https://www.caullt.edu.au/project/supporting-leadership-in-inclusive-assessment-policy-and-practice/
+O'Kane, M. (2023). Australian Universities Accord--Discussion Paper. Department of Education.
+
+   https://www.education.gov.au/australian-universities-accord/resources/australian-universities-accord-
+   panel-discussion-paper
+Tai, J., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., Harris, L., & Mahoney, P. (2022). Re-imagining
+   exams: How do assessment adjustments impact on inclusion? National Centre for Student Equity in
+   Higher Education. https://www.acses.edu.au/research-policies/assessment-adjustments-impact-
+   inclusion-2/
+   Tai, J., Mahoney, P., Ajjawi, R., Bearman, M., Dargusch, J., Dracup, M., & Harris, L. (2023). How
+are examinations inclusive for students with disabilities in higher education? A sociomaterial analysis.
+Assessment & Evaluation in Higher Education, 48(3), 390-402. https://doi.org/10.1080/
+02602938.2022.2077910
+                                                                                            ASSESSMENT FOR INCLUSION RESOURCES | 67
+
+8.
+
+ASSESSMENT FOR INCLUSION
+RESOURCES
+
+            What more do you need to know about assessment for
+                                           inclusion?
+
+This OER was intended as an introduction to assessment for inclusion in higher education. We haven't
+covered absolutely everything that exists in the world about assessment design, nor inclusive education.
+It's up to you as to where you go next: this might be a sufficient foundation, or you may have particular
+interests that you'd like to pursue further. Here we have compiled a small selection of curated resources
+which offer different perspectives and foci as a complement to the OER. You can also access the full
+CAULLT project report (Harris, et al. 2025).
+
+   We recognise also that there are many problems related to inclusive assessment that still require research
+to address gaps in our collective knowledge and understanding. Hopefully this work has also spurred your
+interest in this area. Indeed, one of the advantages of open education resources is their ability to be built
+upon, and we hope that future researchers and practitioners will choose to expand on this OER.
+
+   Please share this OER and these resources widely within and beyond your institution!
+
+Digital inclusion - accessibility basics
+
+This guide focusses on the accessibility of content in digital learning environments. This is likely to be
+relevant to developing assessment documentation and how you communicate about assessment.
+
+Student Views on Inclusive Assessment Practices
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+        inclusion/?p=105#oembed-3
+68 | ASSESSMENT FOR INCLUSION RESOURCES
+
+Student views on inclusive assessment. Irish tertiary education students give their views on equity and
+assessment. AHEAD. YouTube.
+
+Design suggestions for assessment for inclusion
+
+The Centre for Research in Assessment and Digital Learning (CRADLE) also offers some suggestions for
+designing inclusive assessment, drawn from previous research conducted by the team.
+
+  Cultural responsiveness and First Nations Student Engagement
+
+This guidebook shares important information about cultural responsiveness in higher education, a focus
+on First Nations' Australians, lecturer best practice, supportive strategies and services.
+
+    Lecturer Guidebook: Cultural responsiveness and First Nations student engagement. Northern
+    Institute and Faculty of Arts and Society, Charles Darwin University (2024), CC BY-NC-ND 4.0
+
+Direct link to Universal Design for Learning guidelines
+
+This link takes you to a set of guidelines for implementing UDL in your setting, regardless of your role.
+                                                                                            ASSESSMENT FOR INCLUSION RESOURCES | 69
+
+Link to Australian Disability Clearinghouse on Education and Training
+(ADCET)
+
+Australia's leading resource on disability in tertiary education for disability practitioners, educators, and
+students.
+
+Interactive Oral Assessment; an authentic and integral alternative to
+examination.
+
+Griffith University's guide to using interactive oral assessments as an alternative.
+
+Perspectives on inclusive assessment - study support
+
+In the following video, hear from Dr Juanita Custance about her work with study skills advisors, and the
+common patterns she sees with respect to assessment and inclusion.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+                   inclusion/?p=105#oembed-1
+
+Perspectives on inclusive assessment - implementation in a large
+undergraduate unit
+
+In the following video, hear from Dr Alexander Mussap about what he's implemented in his undergraduate
+psychology unit.
+
+                   One or more interactive elements has been excluded from this version of the text. You can
+                   view them online here: https://oercollective.caul.edu.au/leading-assessment-
+                   inclusion/?p=105#oembed-2
+
+References
+
+Australian Disability Clearinghouse on Education and Training Homepage. (ADCET) (n.d.)
+   https://www.adcet.edu.au/
+70 | ASSESSMENT FOR INCLUSION RESOURCES
+
+Association for Higher Education Access and Diversity (AHEAD). (2024, April 24). Student views on
+   inclusive assessment. [Video]. YouTube. https://youtu.be/I5XgapOkxrM
+
+Ajjawi, R., Bearman, M., Boud, D. & Tai, J. (2023). CRADLE Suggests...
+   assessment for inclusion. Centre for Research in Assessment and Digital Learning,
+   Deakin University, Melbourne, Australia. https://doi:10.6084/m9.figshare.22494472
+
+Center for Applied Special Technology (CAST) (2024). Universal Design for Learning Guidelines version
+   3.0. https://udlguidelines.cast.org
+
+CRADLE Deakin (2023, August 16). CRADLE Seminar Series 2023 #8. MasterClass in Inclusive
+   Assessment - a CRADLE/DLF Collaboration. [Video]. YouTube. https://youtu.be/
+   6sNCgYU6McI?si=kGfKtJBH5cgF9HSY
+
+Deakin University. (2024) Inclusive Education; Everyday Accessibility Basics (EAB).
+   https://blogs.deakin.edu.au/iccb/toolkit/how/create-accessible-content/
+   Harris, L.R., Dargusch, J., Tai, J., Funk, J., & Bourke, R. (2025). Supporting leadership in inclusive
+
+assessment policy and practice: Final report. CAULLT, Sydney, New South Wales.
+https://www.caullt.edu.au/project/supporting-leadership-in-inclusive-assessment-policy-and-practice/
+Logan-Fleming, D., & Sotiriadou, P. (2020). Interactive Oral Assessment; an authentic and integral
+
+   alternative to examination. Griffith University. https://tinyurl.com/IO-assessments
+Northern Institute and Faculty of Arts and Society (2024). Lecturer guidebook: Cultural responsiveness
+
+   and First Nations student engagement, [Lecturer Guidebook] Charles Darwin University, Darwin.
+   https://doi.org/10.25913/qq6s-rs22
+                                                                               HOW DID YOU GO? SEEKING FEEDBACK ON THE OER | 71
+
+HOW DID YOU GO? SEEKING FEEDBACK
+ON THE OER
+
+Thanks to CAULLT and Deakin University for supporting the development of this resource.
+   This first edition of the Leading Assessment for Inclusion Open Education Resource is intended to have
+
+a `soft launch'.
+   As such, we are inviting feedback from all readers.
+   If you'd like to share your thoughts on the resource, how you think it's helpful, and what could be
+
+improved, please click here to head to the survey.
+   If you have any more general questions or queries, please contact Jo at joanna.tai@deakin.edu.au
+72 | VERSIONING HISTORY
+
+VERSIONING HISTORY
+
+This page provides a record of changes made to this textbook. Each set of edits is acknowledged with a 0.01
+increase in the version number. The exported files reflect the most recent version.
+
+   If you find an error, please contact joanna.tai@deakin.edu.au
+
+Version  Date        Change                     Details
+1.00     April 2025
+                     Initial set of 8 chapters
+                     published
+

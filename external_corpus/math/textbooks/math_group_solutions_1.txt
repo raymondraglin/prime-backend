@@ -1,0 +1,294 @@
+MTH 105                     Chapter 1: Logical Reasoning and Problem Solving
+
+1.3-1.5: Percents, Rates and Proportions and Problem Solving - SOLUTIONS
+
+Group Activity
+
+1. Would you rather...
+
+a. Write down any assumptions you make.
+
+Note: Yours will be different and that's great!
+
+How many hours do you work a week? Say 40
+
+How many meals are served per hour? How much to you make in tips per hour?
+
+b. Write down any additional information you use.
+
+I compared using one week.
+
+c. Write down your mathematical analysis.
+
+Restaurant A: $18 * 40 hours = $720 per week
+
+Restaurant B: $10.50 * 40 hours = 420 per week,
+
+$720 - $420 = $300 so they would need to make over 300 in tips.
+
+$300/40 hours = $7.50 an hour. It seems like the tips would be higher than that
+so I choose Restaurant B.
+
+Did anyone find a scenario where Restaurant A is better?
+
+Cara Lee                                                         Page 1
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+Your group may have had better information about how many tips to expect and
+calculated it that way.
+
+Now I realize I could have done $18-10.50 = $7.50 per hour
+
+Cara Lee                                                    Page 2
+MTH 105                                     Chapter 1: Logical Reasoning and Problem Solving
+
+Absolute and Relative Change
+
+Absolute change is the difference in two quantities and has the same units as the original
+quantities.
+Relative change is the absolute change and is written as a percentage increase or decrease.
+
+                                       starting quantity
+
+The starting quantity is called the base of the percent change.
+
+5. A laptop that usually sells for $1599.99 is on sale for $1349.99. What is the relative change
+    in the cost? This sale is in Oregon so there is no sales tax.
+
+    Absolute change = $1599.99 - 1349.99 = $250 or -$250.
+
+    Relative change = $ = 0.156 or 15.6%. (Negative answers are fine, too)
+
+                                     $.
+
+    The laptop price decreased by 15.6% or about 16%.
+
+6. The U.S. federal debt at the end of 2021 was $28.39 trillion, and grew to $30.84 trillion by
+    the end of 2022. At the end of 2005 it was $7.91 trillion, and grew to $8.45 trillion by the
+    end of 20061. Calculate the absolute and relative changes for 2005-2006 and 2021-2022.
+    Which year saw a larger absolute change and relative change in the federal debt?
+
+    2005-06: Absolute change = $8.45 - 7.91 trillion = $0.54 trillion
+
+    2021-22: Absolute change = $30.84 - 28.39 trillion = $2.45 trillion
+
+    2005-06: Relative change = $. trillion = 0.068 or 6.8%.
+
+                                                     $. trillion
+
+    2021-22: Relative change = $. trillion = 0.086 or 8.6%.
+
+                                                     $. trillion
+
+    The US federal debt increased by 6.8% from 2005-06 and it increased by 8.6% from
+    2021-22.
+
+1 https://fred.stlouisfed.org/series/FYGFD  Page 3
+
+     Cara Lee
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+                                           1.4: Rates and Proportions
+
+7. List 3 things in life that are generally proportional and 3 things that are not generally
+    proportional.
+
+Unit Rates
+
+8. Would you rather buy a box of aluminum foil with 50 square feet for $2.99 or 75 square
+    feet for $3.99? Find the unit price of each and explain your reasoning.
+
+    Small box unit price: $. = $0.0598 per square foot or 5.98 ¢ per square foot.
+
+                                           sq. ft.
+
+    Large box unit price: $. = $0.0532 per square foot or 5.32 ¢ per square foot.
+
+                                           sq. ft.
+
+    I would choose the larger box because I know I will use it eventually. Some people
+    may choose the smaller box because they are close and they prefer to save the
+    dollar for something else.
+
+Cara Lee  Page 4
+MTH 105                      Chapter 1: Logical Reasoning and Problem Solving
+
+Solving Proportion Problems
+
+Use any method to solve these problems. Show your steps so we can follow your thinking.
+
+9. Thai made $87,000 in gross income last year and paid $15,051 in taxes. If tax rates are
+    proportional, how much should someone who makes $1,000,000 pay? Do you think tax
+    rates are proportional?
+
+Unit rate method: 15051/87000 = .173 or 17.3% tax rate
+
+1000000(.173) = $173,000.
+
+Equation method:
+
+ = 
+ 
+15051(1000000) = x(87000)
+
+x = 15051(1000000)/87000
+
+x = $173,000.
+
+10. A crepe recipe calls for 2 eggs, 3/4 cup of flour and 1 cup of milk. How much flour would
+    you need if you use 5 eggs?
+
+Visual method
+
+1 egg          1 egg
+
+¾ cups of flour
+
+1 egg          1 egg 1 egg   1 egg 1 egg
+
+¾ cups of flour            ¾ cups of flour ½ of ¾ cups of flour
+
+¾ + ¾ + half of 3/4 c. or
+
+1 and 7/8 cups or
+
+1 cup + ½ cup + ¼ cup + ½ of a ¼ cup or 2T,
+
+1 cup + ¾ cup + 2T
+
+1.875 cups but this is not as useful for cooking
+
+Cara Lee                                                         Page 5
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+Unit rate method: ¾ /2 = ¾ * ½ = 3/8 cup per egg.
+3/8 * 5/1 = 15/8.
+
+8/8 is 1 cup, 6/8 is ¾ cup and 1/8 or 2 T.
+
+Equation method:
+/ = 
+
+  
+¾(5) = x(2)
+x = 15/4 ÷ 2 or 15/4 * ½ = 15/8 cups
+
+Cara Lee                                           Page 6
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+                                                1.5 Problem Solving
+
+Problems with unit conversions
+
+You can use the internet to look up any conversions you need. Please write down the
+conversions you use.
+
+11. Would you Rather 500 pounds of pennies or 40 pounds of quarters?
+
+a. Write down any assumptions you make.
+
+b. Write down any additional information you use. This site can help: Coin Specifications.
+
+    Penny weight is 2.5 g from the website.
+    Quarter weight is 5.670 g from the website.
+    How many grams in a pound? 453.592 grams in 1 pound from Google.
+
+c. Write down your mathematical analysis.
+
+    There are many ways to do this. It's great if your way is different!
+    Pennies: 500 pounds = 500(453.592) = 226796 grams of pennies
+    226796 g ÷ 2.5 g = 90718.4 pennies, round to 90718 pennies. Pennies are 1 cent.
+    90718(.01) = $907.18 approximately.
+
+Quarters: 40 pounds = 40(453.592) = 18146.68 grams of quarters
+18146.68 g ÷ 5.67 g = 3199.94 quarters, round to 3200. Quarters are 25 cents.
+3200(.25) = $800 approximately.
+
+Cara Lee                                                              Page 7
+MTH 105             Chapter 1: Logical Reasoning and Problem Solving
+
+d. Write out your conclusion with reasoning.
+
+    I would rather have 500 pounds of pennies because the pennies are worth more
+    than 40 pounds of quarters.
+
+Note: This is based on a true story. Did you get the same answer for the pennies as listed in the
+article? If not, why do you think they are different?
+
+The article says 500 pounds of pennies were worth $816 and he had 81,600. Why is
+this different?
+
+Note: The material that pennies are made from changed in 1983. Pennies minted in
+1982 or before weigh 3.11 grams. They decreased the amount of copper to make them
+cheaper.
+
+If they were all heavier pennies, how much would they be worth?
+
+226796 g ÷ 3.11 g = 72924.8 pennies, round to 72925 pennies. Pennies are 1
+cent.
+72925(.01) = $729.25 approximately.
+
+Knowing that there is a mixture of pennies out there, which would you choose?
+
+Problems with unit conversions and/or geometry
+It may be helpful to recall some formulas for areas and volumes of a few basic shapes.
+
+Areas               Circle, radius r
+Rectangle
+Area: L W           Area: r2
+Perimeter: 2L + 2W  Circumference = 2r
+
+                                                                   radius
+W
+
+          L
+
+Cara Lee                                                                   Page 8
+MTH 105                          Chapter 1: Logical Reasoning and Problem Solving
+
+12. Painting a wall rates - scaling a ratio. Sally can paint a 10x10 foot wall in 2 hours. At the
+    same rate, how long would it take her to paint a 30x8 foot wall? Do you think the rates
+    would be the same? What are some factors that would affect this?
+
+Find the rate in square foot per hour: 10x10 = 100 square feet
+
+100 sq. ft. ÷ 2 hours = 50 sq. ft. per hour.
+
+Area of the larger wall: 30x8 = 240 sq. ft.
+
+240 sq. ft. ÷ 50 sq. ft. per hour = 4.8 hours
+
+If you want to answer in hours and minutes:
+
+.8 hours (60 min/hour) = 48 minutes
+
+It would take 4.8 hours or 4 hours and 48 minutes to paint at the same rate.
+
+I don't think the rates would be exactly the same because it depends on how much
+trim, doors and windows. It takes longer to do the edging than the middle.
+
+13. A very veggie pizza at Pizzicato is available in 3 sizes with the prices shown in the table
+    below. Are these prices proportional to the amount of pizza? If not, which is the best deal?
+    Which is the worst deal?
+
+Size             Price
+Small, 10-inch   $16.00
+Medium, 12-inch  $21.25
+Large, 16-inch   $30.50
+
+Find the price per square inch:
+
+Area of 10-inch: () = 78.54 sq. inches
+$16 ÷ 78.54 = $0.2037 per square inch
+
+Area of 12-inch: () = 113.10 sq. inches
+$21.25 ÷ 113.10 = $0.1879 per square inch
+
+Area of 16-inch: () = 201.06 sq. inches
+$30.50 ÷ 201.06 = $0.1517 per square inch
+
+The largest size is the better deal per square inch if you need that much pizza.
+The prices are not proportional because they do not have the same unit price.
+
+Cara Lee                                                        Page 9
+

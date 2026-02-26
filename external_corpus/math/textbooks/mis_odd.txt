@@ -1,0 +1,2826 @@
+Edition 2: Appendix A
+
+Odd Answers
+
+1 · Logical Reasoning and Problem Solving
+1.1 · Logic in Everyday Life
+1.1.11 · Exercises
+
+1.1.11.1.
+   a. Proposition
+   b. Not a proposition
+    c. Proposition
+   d. Proposition
+
+1.1.11.3.
+   a. I do not ride my bike to campus.
+   b. Portland is in Oregon.
+
+1.1.11.5.
+   a. Some people ride their bike to campus, or There are people who ride their bike to campus.
+   b. There are cities named Portland that are not in Oregon (in Maine and Michigan), or Some Portlands
+       are not in Oregon.
+
+1.1.11.7. Answers will vary. Example: You can't not do your homework.
+1.1.11.9.
+
+   a. Exclusive
+   b. Inclusive
+1.1.11.11.
+   a. Inclusive
+   b. Exclusive
+1.1.11.13.
+   a. If it is sunny, then I will go swimming.
+   b. If it is Friday, then I will go see a movie.
+
+                                                                     313
+314             APPENDIX A. ODD ANSWERS
+
+1.1.11.15.
+
+    a. True
+
+    b. False
+
+    c. False
+
+    d. True
+1.1.11.17.
+
+    a. True
+
+    b. True
+
+    c. False
+
+    d. True
+1.1.11.19.
+
+ disc Converse: If you have food for dinner then you did go to the store.
+
+diisc Inverse: If you do not go to the store then you will not have food for dinner.
+
+diiisc Contrapositive: If you do not have food for dinner then you did not go to the store.
+1.1.11.21. Statements i and iii are logically equivalent to each other. Statements ii and iv are logically
+equivalent to each other.
+
+1.2 · Sets and Venn Diagrams
+1.2.12 · Exercises
+
+1.2.12.1. {m, i, s, p}
+1.2.12.3. The set containing multiples of 3 from 3 to 9
+1.2.12.5. Yes, {1, 3, 5} a subset of the set of odd numbers.
+
+     1.2.12.7.
+
+     1.2.12.9.
+                                                                                                                                    315
+
+   a. Twenty-four students have seen exactly one of these movies.
+   b. Nineteen students have only seen Star Wars Episode IX.
+1.2.12.11.
+   a. Terriers and dogs
+   b. Subsets
+
+   c.
+
+1.2.12.13.
+   a. Pigs and things that can fly
+   b. Disjoint
+   c.
+
+1.2.12.15.
+   a. There are at least two ways this can be interpreted. Friends and people that remember your
+       birthday OR friends and friends that remember my birthday.
+   b. Overlapping or subset (depending on how this is interpreted)
+316          APPENDIX A. ODD ANSWERS
+         c.
+
+1.2.12.17.
+   · Region A: Unemployed non-honor-students who identify as boys
+   · Region B: Unemployed honor-students who identify as boys
+   · Region C: Unemployed honor-students who identify as girls or nonbinary
+   · Region D: Employed non-honor-students who identify as boys
+   · Region E: Employed honor-students who identify as boys
+   · Region F: Employed honor-students who identify as girls or nonbinary
+   · Region G: Employed non-honor-students who identify as girls or nonbinary
+   · Region H: Unemployed non-honor-students who identify as girls or nonbinary
+
+1.2.12.19.
+   · Students enrolled for keyboard class: 24
+   · Students enrolled for keyboard class only: 8
+   · Students didn't enroll at all: 6
+   · Students took all three classes: 4
+   · Students enrolled for guitar and drum: 6
+   · Students enrolled for guitar and drum only: 2
+
+1.2.12.21.
+                                                                                                                                          317
+
+   a.
+
+   b. Nineteen said "It's more filling!" but didn't say "It tastes great!"
+    c. Forty-two said neither of those things.
+   d. 108 said "It's more filling!" or said "It tastes great!"
+
+1.3 · Percents
+1.3.8 · Exercises
+
+1.3.8.1.
+   a. 0.156
+   b. 0.091
+    c. 0.0007
+   d. 1.356
+
+1.3.8.3.
+   a. 89%
+   b. 4.3%
+    c. 75%
+   d. 105%
+     1.3.8.5. Approximately 92.2% of the participants completed the race.
+     1.3.8.7. The tip is 18%.
+     1.3.8.9. Miguel will owe $2700 for the Portland Metro Tax.
+     1.3.8.11. About 280%.
+     1.3.8.13. About $81,850.
+
+     1.3.8.15. The tax is $10.44 and the total cost is $130.44.
+     1.3.8.17. Their energy use would need to be $1870 or less to have a decrease of 15%.
+
+     1.3.8.19.
+         · There was an absolute increase of 441 undergraduate students.
+         · There was a relative increase of about 2.7%.
+
+     1.3.8.21.
+         · There was an absolute decrease of 90 students.
+         · There was a relative decrease of about 2.7%.
+318                                                         APPENDIX A. ODD ANSWERS
+
+     1.3.8.23. A 100% increase.
+     1.3.8.25. A 20% decrease.
+
+     1.3.8.27. $2, 000, 000(1 - 0.095)(1 + .10) = $1, 991, 000. for a relative decrease of 0.0045 or 0.45%.
+     1.3.8.29. (1 - 0.60)(1 - .30) = 0.28 or 28% of the original price.
+
+1.4 · Rates and Proportions
+1.4.7 · Exercises
+
+1.4.7.1.
+
+   a. rate
+
+   b. ratio
+
+    c. unit rate
+
+   d. 1.356
+1.4.7.3. $0.50 per pound
+1.4.7.5. The 9.6-ounce container is $0.565 per ounce and the 40.3-ounce canister is $0.369 per ounce. The
+larger container is a better value.
+1.4.7.7. The population density of the US is about 83.4 people per square mile. The population density of
+India is about 93.4 people per square mile.
+
+     1.4.7.9. No, the second printer prints more pages per minute.
+     1.4.7.11. Yes, these rates are the same.
+
+     1.4.7.13. You would need 2 and a half cups of flour.
+     1.4.7.15. 40 feet of crown molding would cost $70.
+     1.4.7.17. You would need at least 73.3 or 74 3-megawatt wind turbines.
+     1.4.7.19. You would need 9.6 or 10 packets of seeds.
+     1.4.7.21. You would get about $186.81.
+
+     1.4.7.23. For 5 scoops of mix you need 2.5 cups of milk. If there is no room in the cup pour it into a
+     larger bowl and mix.
+
+1.5 · Problem Solving
+1.5.6 · Exercises
+
+1.5.6.1.
+
+   a. Division.
+
+   b. Addition and/or multiplication.
+1.5.6.3.
+
+   a. Answers may vary. We estimate 300 to 500 steps.
+
+   b. Answers may vary. We estimate 100 to 200 cans.
+     1.5.6.5. You will earn $760 this week.
+     1.5.6.7. Your profit is $750.
+     1.5.6.9. Your profit is $373.
+     1.5.6.11. You would need about 3.85 pounds of pecans.
+                                                                                                                                          319
+
+     1.5.6.13. The hourly job would pay $58,740 per year. The salary of $60,000 is higher unless there is a
+     lot of overtime pay in the hourly job.
+     1.5.6.15. It would take 30 hours of overtime in a year for the hourly pay to equal the salaried job pay.
+     1.5.6.17. It depends on the size of the party. The per person venue is less expensive up to 52 people.
+     The per table venue is cheaper for 53 or more guests.
+
+     1.5.6.19. You have 48+24=72 cups. You still need 28 cups.
+     1.5.6.21. The child should get approximately 7.5 mg per day. This would be 3 of the 2.5 mg tablets.
+     1.5.6.23. Parvina needs 27 bags of soil.
+
+     1.5.6.25. Answers will vary.
+     1.5.6.27. Answers will vary.
+     1.5.6.29. Answers will vary.
+
+     1.5.6.31. Answers will vary.
+     1.5.6.33. Answers will vary.
+     1.5.6.35. Answers will vary.
+
+1.6 · Chapter 1 Review
+
+1.6.1.
+   a. Yes
+   b. Yes
+    c. No
+   d. No
+    e. Yes
+    f. Yes
+
+1.6.3.
+   a. Inclusive
+   b. Inclusive
+    c. Exclusive
+   d. Exclusive
+    e. Exclusive
+
+1.6.5.
+   a. True
+   b. True
+    c. False
+   d. False
+    e. False
+
+1.6.7.
+   a. 27 people only like cream in their coffee.
+320                                                   APPENDIX A. ODD ANSWERS
+
+   b. 13 + 20 = 33
+       33 people put sugar in their coffee
+
+   c. 27 + 13 + 20 = 60
+       60 people put sugar or cream in their coffee.
+
+   d. 20 + 10 = 30
+       30 people don't like cream in their coffee.
+
+1.6.9.
+
+1.6.11. There are 4.5 mg of iron in one serving of the cereal.
+1.6.13. $70(2.5)(1-.30)=$122.50. The combined relative change is a markup of 175%
+
+     1.6.15. You would need 7.5 ounces of coffee.
+
+     1.6.17. We calculated 17 boxes of tile for a total cost of about $2158.
+     1.6.19. The child should get approximately 300 mg per day which is 10 ml per dose or 2 teaspoons.
+
+1.7 · Truth Tables
+1.7.5 · Exercises
+
+1.7.5.1.
+   a. Elvis is not alive
+   b. Elvis is alive or Elvis is the King
+    c. Elvis is not alive and Elvis is the King
+   d. If Elvis is the King, then Elvis is not alive
+
+1.7.5.3.
+   a. B and A
+   b. If B, then A
+    c. If B, then A
+   d. If not B, then not A
+     1.7.5.5.
+                                                                 321
+
+           AB             A and B
+
+           TT      T - I live in Oregon and I go to PCC
+
+           TF   F - I live in Oregon and I don't go to PCC
+
+           FT   F - I don't live in Oregon and I go to PCC
+
+           F F F - I don't live in Oregon and I don't go to PCC
+
+1.7.5.7.        A B Not B A and not B
+1.7.5.9.
+                TT     F     F
+
+                TF     T     T
+
+                FT     F     F
+
+                FF     T     F
+
+           A B C A and B and C Not (A and B and C)
+
+           TTT      T                 F
+
+           TTF      F                 T
+
+           TFT      F                 T
+
+           TFF      F                 T
+
+           FTT      F                 T
+
+           FTF      F                 T
+
+           FFT      F                 T
+
+           FFF      F                 T
+
+1.7.5.11.  A B C A and B Not (A and B) Not (A and B) or C
+1.7.5.13.
+1.7.5.15.  TTT  T         F              T
+
+           TTF  T         F              F
+
+           TFT  F         T              T
+
+           TFF  F         T              T
+
+           FTT  F         T              T
+
+           FTF  F         T              T
+
+           FFT  F         T              T
+
+           FFF  F         T              T
+
+           A B C A and B If (A and B), then C
+
+           TTT      T              T
+
+           TTF      T              F
+
+           TFT      F              T
+
+           TFF      F              T
+
+           FTT      F              T
+
+           FTF      F              T
+
+           FFT      F              T
+
+           FFF      F              T
+322               APPENDIX A. ODD ANSWERS
+
+     A C A and C Not A If (A and C), then not A
+
+     TT  T  F  F
+
+     TF  F  F  T
+
+     FT  F  T  T
+
+     FF  F  T  T
+
+1.8 · Describing and Critiquing Arguments
+1.8.5 · Exercises
+
+1.8.5.1.
+
+   a. The argument is inductive.
+
+   b. The argument is deductive.
+     1.8.5.3. Premise: All cats are scared of vacuum cleaners.
+     Premise: Max is a cat.
+     Conclusion: Max must be scared of vacuum cleaners.
+     This is a deductive argument. It is valid. However, it is not sound because the premise all cats are afraid
+     of vacuum cleaners is false. While many cats are afraid of vacuum cleaners not ALL cats are afraid.
+     There are many videos of cats riding electronic vacuum cleaners.
+
+     1.8.5.5. Premise: Kiran's female and nonbinary friends made less than Kiran's male friends.
+     Conclusion: Women and nonbinary people make less than men.
+     This is an inductive argument. Kiran did not gather a large diverse sample because they only asked their
+     friends. Therefore, their data has sampling bias. This makes their argument weak.
+
+     1.8.5.7. Premise: All bicycles have two wheels.
+     Premise: My friend's Harley-Davidson motorcycle has two wheels.
+     Conclusion: It must be a bicycle.
+     This is a deductive argument. The argument is not valid. Based on the premises, we know that the
+     friend's Harley-Davidson motorcycle has two wheels, but we do not know whethere or not it is a bicycle.
+     Because it is not valid, it is also not sound.
+                                                                                                                                    323
+
+1.8.5.9. Premise: All students drink a lot of caffeine.
+Premise: Brayer drinks a lot of caffeine.
+Conclusion: He must be a student.
+This is a deductive argument. The argument is not valid. We can not determine if Brayer is a student
+or not. Because it is not valid it is also not sound.
+
+1.8.5.11. Premise: People on this reality show are self-absorbed.
+Premise: Laura is not self-absorbed.
+Conclusion: Laura cannot be on this reality show.
+This argument is deductive. The argument is valid because Laura is outside of the set of self-absorbed
+people, so she must also be outside of this set of people on this reality show. Determining if this conclusion
+is sound is more difficult because determining if someone is self-absorbed is subjective.
+324  APPENDIX A. ODD ANSWERS
+
+     1.8.5.13. The argument is valid and sound.
+     1.8.5.15. The argument is not valid, and it is not sound.
+
+     1.8.5.17. This argument is valid, and it is sound. Because Ethan is in the set of folks who missed 25%
+     of the classes he also falls into the set of failing.
+
+     1.8.5.19. This argument is not valid, and is not sound. We cannot determine if Juan took the test.
+                                                                                                                                          325
+
+1.9 · Logical Fallacies
+1.9.9 · Exercises
+
+     1.9.9.1. Personal attack
+     1.9.9.3. Personal Dilemma
+     1.9.9.5. Post Hoc
+     1.9.9.7. Personal Attack
+     1.9.9.9. Appeal to ignorance
+     1.9.9.11. False dilemma
+     1.9.9.13. Personal attack
+     1.9.9.15. Appeal to ignorance
+     1.9.9.17. Post Hoc
+     1.9.9.19. Personal Attack
+
+2 · Financial Math
+2.1 · Introduction to Spreadsheets
+2.1.6 · Exercises
+
+2.1.6.1. =4/7 which gives approximately 0.571429
+2.1.6.3. =8+19 which gives 27
+2.1.6.5. =12*9 which gives 108
+2.1.6.7. =8^3 which gives 512
+2.1.6.9. =7.50/44.50 which gives approximately 0.1685, or approximately 16.85%
+2.1.6.11.
+
+   a. =5780.23-5250 which gives $530.23
+   b. =530.23/5250 which gives approximately 0.100996, or approximately 10.1%
+    c. Exactly 200%
+   d. =5250*115.5% which gives exactly $6063.75
+2.1.6.13.
+   a. =1000*103%*103% which gives $1060.90
+   b. =1000*(103%)^2 gives the same result of $1060.90, because raising 103% to the second power means
+
+       the same as multiplying 103% by itself two times.
+    c. =1000*(103%)^15 which gives $1557.97 rounded to the nearest cent
+   d. Refer to the table at the bottom for part d and part e.
+326                                                                           APPENDIX A. ODD ANSWERS
+
+   Note the entry in cell B3 here is = B2*103% and the remaining cells are computed using the fill down
+   feature.
+
+   You will have to wait a minimum of 24 full years, in each case, in order for the balance to finally exceed
+   twice the opening deposit amount.
+
+e. Since (103%)23 < 2 < (103%)24, the minimum number of full years until the opening deposit doubles
+   must be the same here, for any positive opening balance that we may choose for this account.
+
+2.2 · Simple and Compound Interest
+2.2.11 · Exercises
+
+2.2.11.1.
+
+                                                         A = 200 + 200(0.05)
+                                                             = $210
+
+You will have to repay $210.
+                                                                               327
+
+2.2.11.3.                       A = 200 + 200(0.06)(1.25)
+                                   = $215
+$215 was repaid.
+2.2.11.5.                        A = 20000 + 20000(0.05)(10)
+                                     = $30,000
+   a.
+
+b.
+
+                                                        A = 20000(1 + 0.05)10
+                                                           = $32,577.89
+
+The simple interest account would be worth $30,000 and the account that was compounding would be worth
+$32,577.89 in ten years.
+2.2.11.7.
+
+                                                                  ( 0.07 )5220
+                                                     A = 1000 1 + 52
+
+                                                         $4,051.38
+
+The account balance is $4,051.38 in 20 years.
+Or,
+
+     =FV(0.07/52,52*20,0,1000)
+2.2.11.9.
+
+   a.
+
+                                           ( 0.05 )110
+                                A = 300 1 + 1
+
+                                    $488.67
+
+   There will be $488.67 in the account in 10 years.
+    Or,
+
+         =FV(0.05/1,1*10,0,300)
+b.
+
+                                                            I = 488.67 - 300
+                                                              = $188.67
+
+   $188.67 of the balance will be interest.
+c.
+
+                                                     188.67  0.3861 or 38.61%
+                                                     488.67
+   The interest makes up 38.61% of the balance.
+328                                                                          APPENDIX A. ODD ANSWERS
+
+2.2.11.11.
+   a.
+
+                                                   ( 0.04 )5225
+                                     A = 10000 1 + 52
+
+                                         $27,172.37
+
+   The balance is $27,172.37.
+    Or,
+
+         =FV(0.04/52,52*25,0,10000)
+b.
+
+                                     I = 27,172.37 - 10,000
+                                       = $17,172.37
+
+   The interest is $17,172.37.
+c.
+
+                                     17,172.37  0.632  63.2%
+                                     27,172.37
+
+   The percent that is interest is 63.2%.
+d.
+
+                                                       10,000  0.368  36.8%
+                                                     27,172.37
+
+       The percentage that is the principal is 36.2%.
+2.2.11.13.
+
+                                     P= (              20000
+                                                        0.05 )44
+                                           1+ 4
+
+                                      $16,394.79
+
+The principal required would be $16,394.79
+Or,
+
+     =PV(0.05/4,4*4,0,20000)
+2.2.11.15.
+
+   a. Bill =EFFECT(0.0375,12) = 3.82% and Ted =EFFECT(0.038,1) =3.8%. Bill has an effective rate of
+       3.82% and Ted has a rate of 3.8%.
+
+   b.
+                                                                     ( 0.0375 )125
+
+                                                        A = 6700 1 + 12
+                                                            $8,079.38
+
+     Or, =FV(0.0375/12,5*12,0,6700)
+                                                                                        329
+
+                                                       ( 0.038 )15
+                                           A = 6500 1 + 1
+
+                                               $7,832.49
+
+       Or, =FV(0.038,5,0,6500)
+       The account balances are $8,079.38 and $7,832.49. So, Bill's balance is higher.
+2.2.11.17.
+
+   a.
+
+                                                               A = 2500e0.0410
+                                                                   $3,729.56
+
+    Or, 2500*EXP(0.04*10)
+   The account balance is $3,729.56.
+
+b.
+
+                                           I = 3,729.56 - 2,500
+                                             = $1,229.56
+
+       The interest earned is $1,229.56.   1,229.56  0.3297  32.97%
+   c.                                      3,729.56
+
+       32.97% of the balance is interest.         A = 5000e0.0455
+2.2.11.19.                                            $6,261.61
+
+   a.
+
+    Or, =5000*EXP(0.045*5)
+   The account balance is $6,261.61.
+
+b.
+
+                                           I = 6,261.61 - 5,000
+                                             = $1,261.61
+
+   The interest earned is $1,261.61
+c.
+
+                                           1,261.61  0.2015  20.15%
+                                           6,261.61
+
+The interest is 20.15% of the balance.
+330                                                                     APPENDIX A. ODD ANSWERS
+
+2.3 · Savings Plans
+2.3.5 · Exercises
+
+2.3.5.1.
+
+a.   250[(1+ 0.065 12 )1235-1]
+
+           0.065
+           ( 12 )
+
+     Or, FV(0.065/12,12*35,250)
+
+     In 35 years you will have $400,079.05 in your retirement plan.
+
+b. 400,079.05-12  35  250. You will have earned $295,079.05 in interest.
+
+   c. 29,5079.05/400,079.05. The final balance will be about 73.8% interest.
+2.3.5.3.
+
+a.   750(1+ 0.0775 4 )430-1)
+
+           (frac0.07754)
+
+     Or, =FV(0.0775/4,4*30,750)
+
+     In 30 years you will have $348,456.10 in your retirement plan.
+
+b. 348,456.1-4  30  750. You will have earned $258,456.10 in interest.
+
+c. 258,456.1/348,456.1. The final balance will be about 74.2% interest.
+
+2.3.5.5.
+
+a. In 5 years:        ( 0.09 125 )
+
+                 130 (1+ 12 ) -1
+
+                                 0.09
+                                ( 12 )
+
+     Or, =FV(0.09/12,12*5,130)
+
+     In 25 more years: 9805.14(1 + 12 0.09 )1225
+     =FV(0.09/12,12*25,0,9805.14)
+
+     Your final balance will be $92,250.82.
+
+b. 92,250.82-130  5  12. You will earn $84,450.82 in interest.
+
+c. 84,450.82/92,250.82. The final balance will be about 91.5% interest.
+
+2.3.5.7.   3500( 0.038 12 )
+
+                0.038 30
+           (1+ 12 ) -1
+=PMT(0.038/12,30,0,3500)
+
+You should deposit $111.40 each month.
+
+2.3.5.9.   4500  00(  0.06   )
+                       12
+
+           0.06 1230
+           (1+ 12 )          -1
+
+Or, =PMT(0.06/12,12*30,0,450000)
+
+Jamie needs to deposit $447.98 each month.
+
+2.3.5.11.
+
+a. Jose: 55000 (1 + 12 0.056 )1225
+
+     Or, =FV(0.056/12,12*25,0,55000)
+                      ( 375 (1+ 0.056 )1225 ) -1
+     Jose's partner:                    12
+                                       0.056
+                                 ( 12 )
+
+     Or, =FV(0.056/12,12*25,375)
+
+     Jose will have $222,310.85 and his partner will have $244,447.68.
+
+b. Jose: 222,310.85-55,000
+   Jose's partner: 24,4447.68-375  12  25
+   Jose will earn $167,310.85 and his partner will earn $131,947.68 in interest.
+                                                                                         331
+
+c. Jose: 167,310.85/222,310.85
+
+    Jose's partner: 13,1947.68/244,447.68
+
+    Jose's final balance will be about 75.3% interest and Jose's partner's final balance will be about 54.0%
+
+    interest.
+
+2.3.5.13.
+
+                                        (          )
+           (            )1210 100 (1+ 0.045 )1210-1
+                0.045                      12
+a. 1000 1 + 12                       +
+                                           0.045
+
+                                           12
+
+    Or, =FV(0.045/12,12*10,100,1000)
+
+    Sylvin will have a final balance of $16,686.80.
+
+b. 16,686.8-(1000 + 100  12  10). Sylvin will earn $3,686.80 in interest.
+
+c. 3,686.8/16,686.8. The final balance will be about 22.1% interest.
+
+2.3.5.15.
+
+          ( 0.04 1225 )
+    100 (1+ 12 )            -1
+a.
+               0.04
+
+                12
+
+    Or, =FV(0.04/12,12*25,100)
+
+    Vanessa will have $51,412.95 when she turns 65.
+
+          ( 0.04 1240 )
+    100 (1+ 12 )            -1
+b.
+               0.04
+
+                12
+
+    =FV(0.04/12,12*40,100
+
+    Vanessa would have $118,196.13 if she had started saving when she was 25.
+
+2.3.5.17.
+
+    ( 0.035 5218 )
+    50 (1+ 52 )             -1
+a.
+               0.035
+
+                52
+
+    Or, =FV(0.035/52,52*18,50)
+
+    They will have saved $65,164.37 after 18 years.
+
+b. (1+ 0.035 )5218 65164.37
+
+                     52
+
+    Or, =PV(0.035/52,52*18,0,65164.37)
+
+   They would have needed an deposit of $34,713.37.
+
+2.4 · Loan Payments
+2.4.9 · Exercises
+
+2.4.9.1.
+
+a. P =          ( 5.5% -12×30)          , which gives P  $123,285.23
+
+           700 1-(1+ 12 )
+
+                      5.5%
+
+                        12
+
+    or =PV(0.055/12,12*30,-700) [Note 700 is entered as negative, to signify a payment]
+
+b. 700  12  30 dollars, or $252,000.00 in total payments to the loan company
+
+c. Interest will be the difference between the total payments, and the amount borrowed. So the interest
+   on this loan is $252,000.00 - $123,285.23 = $128,714.77.
+
+2.4.9.3. d = (      25  000(  2%  )
+                              12
+                        2% -12×4) , which gives d  $542.38
+                1-(1+ 12 )
+
+or =PMT(0.02/12,48,25000)
+
+2.4.9.5.
+332                                                                                APPENDIX A. ODD ANSWERS
+
+   a. The loan amount will be 90% of $200,000.00
+                                                             = (0.9  $200,000.00)
+                                                                 = $180,000.00
+
+               180  000(    5%  )
+                            12
+b. d = (            5% -12×30) , which gives d  $966.28
+          1-(1+ 12 )
+
+    or =PMT(0.05/12,12*30,180000)
+
+c. d = (       180  000(    6%  )
+                            12
+                    6% -12×30) , which gives d  $1,079.19
+          1-(1+ 12 )
+
+    or =PMT(0.06/12,12*30,180000)
+
+2.4.9.7. First, we need to find out the amount of the monthly payments for this loan.
+
+        24000(  3%  )
+                12
+d= (      3% -12×5) , which gives d  $431.25
+        1-(1+ 12 )
+
+or =PMT(0.03/12,12*5,24000)
+
+The amount still owed three years later, is the present value of the two years of remaining payments on the
+
+loan.(  1-(1+ 12 3% )-12×2  )
+
+P=        3%                   , which gives P  $10,033.45
+
+                                12
+
+or =PV(0.03/12,12*2,-431.25)
+
+    2.4.9.9. =PV(0.04/12,12*30,950) which gives $198,988.18.
+    Now add $20,000 to this balance, which gives $218,988.18.
+
+    2.4.9.11.
+
+        a. =PMT(0.05,10,100000,0) which gives $12,950.46.
+
+       b. The total payments will be $129,504.60.
+
+           The interest is the amount over the $100,000 initial investment, or $29,504.60.
+
+           The percentage of the total payment sum representing interest will be 100(29, 504.60/129, 504.60)%,
+           or approximately 22.7827%.
+    2.4.9.13.
+
+        a. =PMT(0.045/12,12*30,250000) which gives $1,266.71.
+
+        b. This will be the present value of the remaining 240 loan payments:
+            =PV(0.045/12,12*20,1266.71) which gives $200,223.07.
+
+        c. This will be the present value of the remaining 120 loan payments:
+           =PV(0.045/12,12*10,1266.71) which gives $122,223.99.
+
+        d. At the beginning of the repayment period, most of each payment goes to interest (thus the loan
+            balance reduces very slowly at first). Over time, more of each payment shifts to principal, and less
+            to interest. At the end of the loan repayment period, nearly all the payment is going to principal.
+
+    2.4.9.15. =FV(0.035/12,3*12,200,0) = $7,579.95. Paul will have $7,579.95 in 3 years.
+
+    2.4.9.17. =PV(0.028/12,4*12,100,0) = $4,535.96. Miao can finance $4,535.96 in equipment to have a
+    monthly loan payment of $100 for 4 years.
+
+    2.4.9.19. =PMT(0.043/12,30*12,364500,0) = $1,803.81. Their mortgage payment would be $1,803.81.
+
+    2.4.9.21. For the first plan: =FV(0.048/12,20*12,150,0) = $60,251.26. Zahid would have $60,251.26
+    if he puts in $150 per month for 20 years.
+    For the second plan: =FV(0.048/12,10*12,300,0) = $46,089.59. Zahid would only have $46,089.59 if he
+    waited and put in $300 per month for 10 years.
+                                                                                                                                         333
+
+2.5 · Income Taxes
+2.5.14 · Exercises
+
+2.5.14.1. A credit decreases your bill more. It decreases your bill by the full amount of the credit. A
+deduction only decreases your tax bill by a percentage.
+2.5.14.3. The amount of taxes owed is decreased by $60 because 12% of $500 is $60.
+2.5.14.5. Yes, you can make adjustments and take a deduction. Adjustments to your income happen before
+deductions.
+2.5.14.7. Shaysiah should itemize because itemizing reduces her taxable income by $15,400. The standard
+deduction would have reduced her taxable income by $14,600.
+2.5.14.9. No, Fredrick should not be concerned. Only the $1000 will be taxed at 22%. The rest of his
+income will be taxed at a lower level.
+2.5.14.11. There is a total of $35,550 between $11,600 and $47,150. 12% of $35,550 is $4,266.
+2.5.14.13. $16,589 in taxes minus $13,456 for withholdings, and they can claim and $2,500 in credits. This
+leaves them owing $633.
+2.5.14.15.
+
+   a. Take the income minus the adjustments 135000 - 5600 = $129,400. Their adjusted gross income is
+       $129,400.
+
+   b. They should take the standard deduction because itemizing saves them less.
+
+   c. Taxable income: 129400 - 29200 = 100200
+       Taxes owed: 10852 + 0.22  (100200 - 94300) = $12,150
+       They owe $12,150 in taxes.
+
+   d. 12150 - 15000 = -$2,850 Take the taxes owed minus credits and withholdings. They will receive a
+       refund for $2,850.
+
+2.5.14.17.
+
+   a. Gross Income: 96000 + 850 = $96,850
+
+   b. Adjusted Gross Income: 96850 - 26000 = $70,850
+
+   c. She should take itemized deductions since they are greater than the standard deduction for head of
+       household.
+
+   d. Taxable Income: 70850 - 22600 = $48,250
+
+   e. Tax from Table: 1665 + 0.12  (48250 - 16650) = $5,457. Owed/Refund: 5457-4000-5300 = -$3,843
+       Janice will receive a refund for $3,843.
+
+2.6 · Chapter 2 Review
+
+2.6.1.
+
+   a. I = 1525(0.056)(14)
+       A = 1525 + 1525(0.056)(14)
+       The interest is $1,195.6 and balance is $2,720.6.
+
+   b. A = 1525(1 + 0.056 4 )4·14
+       Or, =FV(0.056/4, 4*14, 0, 1525)
+       The interest is $1,796.97 and the balance is $3,321.97.
+
+   c. A = 1525(1 + 0.056 52 )52·14
+       Or, =FV(0.056/52, 52*14, 0, 1525)
+334  APPENDIX A. ODD ANSWERS
+
+       The interest is $1,813.67 and the balance is $3,338.67.
+
+   d. A = 1525e0.056·14
+       Or, =1525*EXP(0.056*14)
+       The interest is $1,815.08 and the balance is $3,340.08.
+
+2.6.3. A = 25000(1 + 0.065 4 )4·15
+I = 65761.77 - 25000 = 40761.77
+Or, =FV(0.065/4, 4*15, 0, 25000)
+The interest is $40,761.77 and the amount paid is $65,761.77.
+2.6.5. P = 3500 - 350 = $3150
+I = 3150(0.13)(2.33)  $955.50
+You would pay $4,105.50 in 28 months with $146.63 as your monthly payments.
+2.6.7.
+
+   a. A = 0 350((1+ 1.2065 0.065 )12·25-1)
+
+                                                    12
+
+       Or, =FV(0.065/12, 12*25, 350, 0)
+       The future value is $262,092.78 and the interest earned is $157,092.78.
+
+   b. A = 0. 500((1+ 4065 0.065 )4·15-1)
+
+                                                    4
+
+       Or, =FV(0.065/4, 4*15, 500, 0)
+       The future value is $50,168.34 and the interest earned is $20,168.34.
+
+   c. A = 0 75((1+ 5.2045 0.045 )52·30-1)
+
+                                                   52
+
+       Or, =FV(0.045/52, 52*30, 75, 0)
+       The future value is $247,448.43 and the interest earned is $130,448.43.
+2.6.9. The net monthly cash flow is $428.
+2.6.11. 1000(0.12) = 120. Your tax bill will be decreased by $120.
+2.6.13.
+
+   a. 43, 000 + 1, 000 = 44, 000. Amir's gross income is $44,000.
+
+   b. 44, 000 - 3, 000 = 41000. Amir's adjusted gross income is $41,000.
+2.6.15. 2936 - 1200 - 2500 = -764. Amir will be refunded $764.
+
+3 · Statistics
+3.1 · Overview of the Statistical Process
+3.1.22 · Exercises
+
+3.1.22.1. A sample is a sub group of the population. A population is the entire group of subjects.
+3.1.22.3. The intended population is all PCC students.
+
+   a. All PCC Students
+
+   b. 200 students from PCC Cascade campus
+
+   c. The collected data is not representative of all PCC students since it only includes responses from
+       students at Cascade campus. This is an example of sampling bias.
+
+3.1.22.5.
+
+   a. The representatives in a state's congress.
+
+   b. The population size is n = 106
+                                                                                           335
+
+c. The sample size is in n = 28
+
+d.  The  statistic  is  14  = 0.5  or  50%
+                        28
+
+e. The confidence interval is (45%, 55%) and tells us that the true percentage of the state congress repre-
+   sentatives in support of the new education (the parameter) likely lies between 45% and 55%.
+
+3.1.22.7. The population is all trout in the lake. The sample is the 20 that were caught.
+
+3.1.22.9. Parameter
+3.1.22.11. Statistic
+3.1.22.13.
+
+a. Stratified
+
+b. Volunteer
+
+   c. Simple Random Sample
+3.1.22.15.
+
+a. Loaded Question
+
+b. Volunteer Bias
+
+c. Response Bias
+
+d. Volunteer
+
+e. Response Bias
+
+    f. Response Vias or Non-response Bias
+3.1.22.17.
+
+a. Observational study
+
+b. Experiment
+
+   c. Observational study
+3.1.22.19.
+
+a. Cancer patients
+
+b. No because sampling has variability
+
+c. Stratified
+
+   d. Convenient Sample. It does not represent the population.
+3.1.22.21.
+
+a. All students
+
+b. Experiment
+
+   c. It is only looking at one class and not all groups that are in the population so Subjects are not randomly
+       sampled from a specified population.
+
+3.1.22.23.
+
+a. 0.05 or 5%
+
+b. (25%, 35%)
+
+c. I am confident that the percentage of college freshmen who prefer morning classes is between 25% to
+   35%.
+336  APPENDIX A. ODD ANSWERS
+
+3.1.22.25.
+
+   a. (24 + 36)/2 = 30. The statistic is 30%.
+
+   b. 30 - 24 = 6. The margin of error is 6%.
+3.1.22.27. Play Barry Manilow to half the crop and don't play any music to the other half of the crop.
+3.1.22.29. Answers will vary depending on the article.
+
+3.2 · Describing Data
+3.2.24 · Exercises
+
+3.2.24.1. True
+3.2.24.3.
+
+   a. Quantitative
+
+   b. Categorical
+
+   c. Categorical
+
+   d. Quantitative
+
+   e. Quantitative
+3.2.24.5. Bar graphs and pie charts are used for categorical data.
+3.2.24.7.
+
+   a. 2 had 3 children.
+
+   b. 15 adults were questioned.
+
+   c. 33.33% of the adults questioned had 0 children.
+3.2.24.9. 5 students earned and A on their paper.
+3.2.24.11. Cory spent $676 on rent this month.
+3.2.24.13.
+
+   a. These data are categorical.
+
+b.
+
+   c. No, we cannot make a pie chart out of these data. The total of the relative frequencies is 1932, but
+       only 1012 adults were asked. So some adults selected multiple options.
+
+3.2.24.15.
+
+   a. 40 households heat their home with firewood.
+
+   b. 50% of the households heat their home with natural gas.
+3.2.24.17.
+
+   a. These data are qualitative.
+                                  337
+
+        Number of cars Frequency
+          in household
+
+    b.  0-1  7
+
+        2-3  14
+
+        4-5  3
+
+c.
+
+   d. These data are unimodal and skewed right, with no outliers.
+3.2.24.19. The graph would be more effective at displaying the true differences between the categories if
+the vertical scale started at 0. The vertical axis is missing a label and units, so we can't tell if those are
+frequencies or relative frequencies. A flat bar graph (instead of the 3d graph) would be easier to read.
+3.2.24.21. This is a poor graph because the vertical axis does not have a numerical scale, so we cannot know
+how many have each drink as a favorite drink. We also don't know if the bottom vertical line represents 0,
+which is potentially misleading.
+3.2.24.23.
+
+   a. Normal distribution - The number of heads in 24 sets of 100 coin flips.
+   b. Positive or right skewed - Distribution of scores on a psychology test.
+   c. Negative or left skewed - Scores on a 20-point statistics quiz.
+   d. Bimodal - The frequency of times between eruptions of the Old Faithful geyser.
+3.2.24.25.
+
+   a.
+338  APPENDIX A. ODD ANSWERS
+
+   b. The data for patients of both researchers are symmetric. Researcher's 1 patients' data appears to be
+       unimodal, but Researcher 2's patients' data may be bimodal or multimodal. The data for Researcher
+       1's patients does not have any outliers, but the data for Researcher's 2 may have outliers between 0
+       and 5 months or 40 and 45 months.
+
+3.3 · Summary Statistics: Measures of Center
+3.3.7 · Exercises
+
+3.3.7.1.
+
+   a. In Excel:
+       =average(7.50,25,10,10,7.50,8.25,9,5,15,8,7.25,7.50,8,7,12)
+       = $9.80
+       There are 15 amounts shown, so n = 15. The mean is:
+
+                    x¯ = (7.50 + 25 + 10 + 10 + 7.50 + 8.25 + 9 + 5 + 15 + 8 + 7.25 + 7.50 + 8 + 7 + 12)
+                                                                            15
+
+                      = $9.80
+
+   b. In Excel:
+       =median(7.50,25,10,10,7.50,8.25,9,5,15,8,7.25,7.50,8,7,12)
+       = $8.00
+       There are 15 times shown, so n = 15. We start by listing the data in order:
+       $5, $7, $7.25, $7.50, $7.50, $7.50, $8, $8, $8.25, $9, $10, $10, $12, $15, $25
+       Median = $8.00
+
+   c. Since the mean is greater than the median, we would expect the distribution will be skewed right.
+3.3.7.3.
+
+   a. In Excel:
+       =average(15.2,18.8,19.3,19.7,20.2,21.8,22.1,29.4)
+       = 20.81 seconds
+       There are 8 times shown, so n = 8.
+
+                                    x¯ = (15.2 + 18.8 + 19.3 + 19.7 + 20.2 + 21.8 + 22.1 + 29.4)
+                                                                            15
+
+                                      = 20.81 seconds
+                                                                                                                                         339
+
+   b. In Excel:
+       =median(15.2,18.8,19.3,19.7,20.2,21.8,22.1,29.4)
+       = 19.95 seconds
+       There are 8 times shown, so n = 8. The times are given already in order:
+       15.2, 18.8, 19.3, 19.7, 20.2, 21.8, 22.1, 29.4
+
+                                                          Median = 19.7 + 20.2
+                                                                                2
+
+                                                                      = 19.95 seconds
+
+   c. Since the mean and median are approximately equal, we would expect that the distribution is symmet-
+       ric.
+
+3.3.7.5.
+   a. In GeoGebra Classic, enter the costs into the column A and frequencies into column B of the spreadsheet
+       and use the "One Variable Analysis" function. Then use the "Show Statistics" option.
+
+                                                   Mean = 33.8 thousand dollars
+
+   The sum of the frequencies is 75, so n = 75
+
+                         x¯ = 15 · 3 + 20 · 7 + 25 · 10 + 30 · 15 + 35 · 13 + 40 · 11 + 45 · 9 + 50 · 7
+                                                                        75
+
+                            = 33.8 thousand dollars
+
+b. In GeoGebra Classic, enter the costs into the column A and frequencies into column B of the spreadsheet
+    and use the "One Variable Analysis" function. Then use the "Show Statistics" option.
+
+                                  Median = 35 thousand dollars
+
+Since there are 75 values (an odd number), we know that the median will be the single middle data
+
+value.  Because  75  = 37.5,  we  know  it  will  be  the  38th  value  in  the  list.  The  38th  value  is  35,  so  the
+                 2
+median is 35 thousand dollars.
+
+   c. Since the mean is less than the median, we would expect the distribution to be skewed left.
+3.3.7.7.
+
+a. For Researcher 1:
+   In Excel:
+   =average(A1:A40)
+   = 23.6 months.
+   =median(A1:A40)
+   = 24 months
+   The mean for Researcher 1's patients is 23.6 months, and the median for Researcher's 1 patients is 24
+   months.
+   For Researcher 2:
+340  APPENDIX A. ODD ANSWERS
+
+       In Excel:
+
+       =average(A1:A40)
+
+       = 22.8 months
+       =median(A1:A40)
+
+       = 22 months
+       The mean for Researcher 2's patients is 22.8 months, and the median is 22 months
+
+   b. Both the mean and median for Researcher 1's patients are greater than the mean and median for
+       Researcher 2's patients. So, on average, Researcher 1's patients have a longer life time after starting
+       the cancer treatment than Researcher 2's patients.
+
+3.3.7.9. GeoGebra was used to create the histograms. You should check with your instructor to see if
+histograms are to be hand-drawn or computer generated. Answers will vary depending on the size of the
+margins and the programs you are using.
+
+a. Figure A.0.1 Histogram for Average Number of Pieces Correctly Remembered by Non-players
+   Figure A.0.2 Histogram for Average Number of Pieces Correctly Remembered by Beginners
+                                                                                            341
+
+       Figure A.0.3 Histogram for Average Number of Pieces Correctly Remembered by Tournament Players
+
+   b. The mean number of pieces correctly remembered for non-players was 33.65 pieces.
+       The mean number of pieces correctly remembered for beginners was 47.6 pieces.
+       The mean number of pieces correctly remembered for tournament players was 64.98 pieces.
+
+   c. The median number of pieces correctly remembered for non-players was 33.5 pieces.
+       The median number of pieces correctly remembered for beginners was 51.3 pieces.
+       The median number of pieces correctly remembered for tournament players was 71.1 pieces.
+
+   d. The distribution for non-players appears to be uniform. The distribution for beginners looks unimodal
+       and left-skewed. The distribution for tournament players appears bimodal and symmetric.
+       The mean and median number of pieces correctly remembered were both greatest for tournament
+       players, with non-players having the smallest mean and median of pieces correctly remembered.
+
+3.3.7.11.
+
+   a. There are many possible answers for this problem. Three data sets with 5 values each that have the
+       same mean but different medians are:
+
+                               0, 0, 0, 0, 10
+                               0, 0, 2, 4, 4
+                               0, 1, 1, 1, 7
+
+b. There are many possible answers for this problem. Three data sets with 5 values that have the same
+    median but different means are:
+
+                               10, 10, 10, 10, 10
+                               0, 0, 10, 15, 20
+                               1, 5, 10, 10, 10
+
+3.3.7.13.
+
+a. This graph is skewed left.
+
+   b. I expect that the mean is less than the median because the graph is skewed left.
+3.3.7.15.
+
+a. Incomes are skewed to the right so the mean would be greater than the median.
+
+b. Weights are approximately symmetric so the mean would be about the same as the median.
+
+c. Number of children is skewed to the right so the mean would be greater than the median.
+342                                     APPENDIX A. ODD ANSWERS
+
+   d. Medical costs for all adults are most likely skewed to the right so the mean would be greater than the
+       median.
+
+   e. Medical costs for adults 65+ may be symmetric or skewed to the right. Answer according to the shape
+       you chose.
+
+3.4 · Summary Statistics: Measures of Variation
+3.4.10 · Exercises
+
+3.4.10.1.
+
+   a. In Excel:
+       Entering the data values into cells A1 through A15.
+
+                 s = stdev.s(A1 : A15)
+                   = $4.82
+
+     From Exercise 3.3.7.1, the mean is $9.80. There are 15 data values, so n = 15.
+     We will make a table of data values, their deviations from the mean, and the squared deviations:
+
+     Data Value  Deviation           Deviation Squared
+     7.5         7.5 - 9.8 = -2.3    (-2.3)2 = 5.29
+     25          25 - 9.8 = 15.2     (15.2)2 = 231.04
+     10          10 - 9.8 = 0.2      (0.2)2 = 0.04
+     10          10 - 9.8 = 0.2      (0.2)2 = 0.04
+     7.5         7.5 - 9.8 = -2.3    (-2.3)2 = 5.29
+     8.25        8.25 - 9.8 = -1.55  (-1.55)2 = 2.4
+     9           9 - 9.8 = -0.8      (-0.8)2 = 0.64
+     5           5 - 9.8 = -4.8      (-4.8)2 = 23.04
+     15          15 - 9.8 = 5.2      (5.2)2 = 27.04
+     8           8 - 9.8 = -1.8      (-1.8)2 = 3.24
+     7.25        7.25 - 9.8 = -2.55  (-2.55)2 = 6.5
+     7.5         7.5 - 9.8 = -2.3    (-2.3)2 = 5.29
+     8           8 - 9.8 = -1.8      (-1.8)2 = 3.24
+     7           7 - 9.8 = -2.8      (-2.8)2 = 7.84
+     12          12 - 9.8 = 2.2      (2.2)2 = 4.84
+
+     Next, we add the squared deviations and get 5.29 + 231.04 + 0.04 + 0.04 + 5.29 + 2.4 + 0.64 + 23.04 +
+     27.04 + 3.24 + 6.5 + 5.29 + 3.24 + 7.84 + 4.84 = 325.78 dollars-squared.
+
+     The sample standard deviation is:
+
+                      
+                 s = 325.78
+
+                            14
+                   = $4.82
+
+b. In GeoGebra:
+
+    In GeoGebra Classic, enter the data values into the column A of the spreadsheet and use the "One
+   Variable Analysis" function. Then use the "Show Statistics" option to find the five-number summary.
+
+     Min Q1 Median Q3 Max
+
+     $5 $7.50    $8                  $10 $25
+                                                                     343
+
+From Exercise 3.3.7.1, the data listed in order is:
+$5.00, $7.00, $7.25, $7.50, $7.50, $7.50, $8.00, $8.00, $8.25, $9.00, $10.00, $10.00, $12.00, $15.00, $25.00
+Also from Exercise 3.3.7.1, there are 15 data values (n = 15), and the median is $8.00. The lower half
+of the data is:
+$5.00, $7.00, $7.25, $7.50, $7.50, $7.50, $8.00
+The median of the lower half is $7.50, so the lower quartile Q1 is $7.50.
+The upper half of the data is:
+$8.25, $9.00, $10.00, $10.00, $12.00, $15.00, $25.00
+The median of the upper half is $10.00, so the upper quartile Q3 is $10.00.
+The smallest and largest data values are $5.00 and 25.00, respectively, so the min and max are $5.00
+and $25.00. The five-number summary is:
+
+                  Min Q1 Median Q3 Max
+
+                  $5 $7.50         $8                       $10 $25
+
+c. The range is:
+
+                                   Range = Max - Min
+                                            = 25 - 5
+                                            = $20
+
+The interquartile range (IQR) is:
+
+                                   IQR = Q3 - Q1
+                                         = 10 - 7.5
+                                         = $2.50
+
+   d.
+
+3.4.10.3.
+   a. In Excel:
+       I entered the data values into cells A1 through A9.
+       The standard deviation is:
+344                                                                  APPENDIX A. ODD ANSWERS
+
+                                            s = stdev.s(A1 : A9)
+                                              = 4.068 seconds
+
+b. In GeoGebra:
+
+    In GeoGebra Classic, enter the data values into the column A of the spreadsheet and use the "One
+   Variable Analysis" function. Then use the "Show Statistics" option to find the five-number summary.
+
+                  Min                   Q1  Median                   Q3  Max
+
+     15.2 seconds 19.05 seconds 19.95 seconds 21.95 seconds 29.4 seconds
+
+c. The range is:
+
+                                            Range = Max - Min
+                                                     = 29.4 - 15.2
+                                                     = 14.2 seconds
+
+     The interquartile range (IQR) is:
+
+                                            IQR = Q3 - Q1
+                                                  = 21.95 - 19.05
+                                                  = 2.9 seconds
+
+   d.
+
+3.4.10.5.
+   a. In GeoGebra:
+       In GeoGebra Classic, enter the costs into column A and frequencies into column B of the spreadsheet
+       and use the "One Variable Analysis" function. Then use the "Show Statistics" option. The standard
+       deviation is:
+
+                                                          s = 9.58 thousand dollars
+       From Exercise 3.3.7.5, the mean is 33.8 thousand dollars.
+       The mean and the standaed deviation together tell us that, on average, the cars at the local dealership
+       are $9,580 from the mean price of $33,800.
+                                                                                             345
+
+b. In GeoGebra:
+
+    In GeoGebra Classic, enter the data values into the column A of the spreadsheet and use the "One
+   Variable Analysis" function. Then use the "Show Statistics" option to find the five-number summary.
+
+                      Min           Q1        Median          Q3                    Max
+                  15 thousand  25 thousand  35 thousand  40 thousand            50 thousand
+
+                     dollars      dollars      dollars      dollars                dollars
+
+c. The range is:
+
+                                                Range = Max - Min
+                                                         = 50 - 15
+                                                         = 35 thousand dollars
+
+The interquartile range (IQR) is:
+
+                               IQR = Q3 - Q1
+                                     = 40 - 15
+                                     = 25 thousand dollars
+
+   d.
+
+3.4.10.7.
+   a. In GeoGebra:
+       In GeoGebra Classic, enter the data values for Researcher 1 into column A of the spreadsheet, and enter
+       the data values for Researcher 2 into column B of the spreadsheet. Then use the "Multiple Variable
+       Analysis" function. Then use the "Show Statistics" function to display the sample standard deviation
+       for each set of data values.
+       The sample standard deviation for Researcher 1 is 11.25 months. The sample standard deviation for
+       Research 2 is 11.38 months.
+   b. In GeoGebra:
+       In GeoGebra Classic, enter the data values for Researcher 1 into column A of the spreadsheet, and enter
+       the data values for Researcher 2 into column B of the spreadsheet. Then use the "Multiple Variable
+       Analysis" function. Then use the "Show Statistics" function to display the sample standard deviation
+       for each set of data values.
+       The 5-number summary for Researcher 1 is:
+346                                                                             APPENDIX A. ODD ANSWERS
+
+     Min                             Q1         Median        Q3                Max
+
+     3 months 15 months 24 months 32.5 months 47 months
+
+     The 5-number summary for Researcher 2 is:
+
+     Min                             Q1         Median        Q3                Max
+
+     2 months 16 months 22 months 30 months 44 months
+
+c. The range for Researcher 1 is:
+
+                                                         Range = Max - Min
+                                                                   = 47 - 3
+                                                                   = 44 months
+
+     The interquartile range (IQR) for researcher 1 is:
+
+                                         IQR = Q3 - Q1
+                                               = 32.5 - 15
+                                               = 17.5 months
+
+     The range for Researcher 2 is:
+
+                                                         Range = Max - Min
+                                                                   = 44 - 2
+                                                                   = 42 months
+
+     The interquartile range (IQR) for Researcher 2 is:
+
+                                                           IQR = Q3 - Q1
+                                                                  = 30 - 16
+                                                                  = 14 months
+
+d. In GeoGebra Classic, enter the data values for Researcher 1 into column A of the spreadsheet, and
+    enter the data values for Research 2 into column B of the spreadsheet. Then use the "Multiple Variable
+   Analysis" function. Then select "Stacked BoxPlots" from the drop-down menu.
+                                                                                            347
+
+       Researcher 1 has a larger minimum, median, 3rd quartile, and maximum than Researcher 2. For
+       Researcher 1, 50% of the patients live longer than 24 months after treatment, compared to 50% of
+       patients living longer than 22 months after treatment for Researcher 1.
+
+       Researcher 2 has less variation in the life times than Researcher 1, with an IQR of 14 months for
+       Researcher 2, compared to an IQR 16.5 months for Researcher 1.
+3.4.10.9.
+
+   a. In GeoGebra:
+
+       In GeoGebra Classic, enter the data values for non-players into column A of the spreadsheet, enter the
+       data values for beginners into column B of the spreadsheet, and enter the data value for tournament
+       players into column C of the spreadsheet. Then use the "Multiple Variable Analysis" function. Then
+       use the "Show Statistics" function to display the sample standard deviation for each set of data values.
+
+       The sample standard deviation for non-players is 8.033 chess pieces. The sample standard deviation
+       for beginners is 9.031 chess pieces. The sample standard deviation for tournament players is 15.622
+       chess pieces.
+
+   b. In GeoGebra:
+
+       In GeoGebra Classic, enter the data values for non-players into column A of the spreadsheet, enter the
+       data values for beginners into column B of the spreadsheet, and enter the data value for tournament
+       players into column C of the spreadsheet. Then use the "Multiple Variable Analysis" function. Then
+       use the "Show Statistics" function to display the sample standard deviation for each set of data values.
+
+       The 5-number summary for non-players is:
+
+   Min                                Q1      Median          Q3                   Max
+22.1 chess                        26.2 chess  32.6 chess  39.7 chess            43.2 chess
+
+  pieces                            pieces      pieces      pieces                pieces
+
+The 5-number summary for beginners is:
+
+   Min                                Q1      Median          Q3                   Max
+32.5 chess                        39.1 chess  48.4 chess  55.7 chess            57.7 chess
+
+  pieces                            pieces      pieces      pieces                pieces
+
+The 5-number summary for tournament palyers is:
+
+   Min                                Q1      Median          Q3                   Max
+40.1 chess                        51.2 chess  64.6 chess  75.9 chess            85.3 chess
+
+  pieces                            pieces      pieces      pieces                pieces
+
+c. The range for non-players is:
+
+                                                  Range = Max - Min
+                                                           = 43.2 - 22.1
+                                                           = 21.2 chess pieces
+
+The interquartile range (IQR) for non-players is:
+
+                                  IQR = Q3 - Q1
+                                        = 39.7 - 26.2
+348                                                                             APPENDIX A. ODD ANSWERS
+       The range for beginners is:
+                                    = 13.5 chess pieces
+
+                                                  Range = Max - Min
+                                                           = 57.7 - 32.5
+                                                           = 25.2 chess pieces
+
+The interquartile range (IQR) for beginners is:
+
+                                                   IQR = Q3 - Q1
+                                                          = 55.7 - 39.1
+                                                          = 16.6 chess pieces
+
+The range tournament players for is:
+
+                                                  Range = Max - Min
+                                                           = 85.3 - 40.1
+                                                           = 45.2 chess pieces
+
+The interquartile range (IQR) for tournament players is:
+
+                                    IQR = Q3 - Q1
+                                          = 75.9 - 51.2
+                                          = 24.7 chess pieces
+
+   d.
+
+       Tournament players did the best at remembering positions (as shown by all of the numbers of their
+       5-number summary being larger than the corresponding numbers for the other two groups). However,
+       tournaments players were not completely superior to the other two groups; the best non-players re-
+       membered more chess pieces than the worst tournament players. Also tournament players had more
+       variation in how much they.
+3.4.10.11.
+                                                                                                                                         349
+
+   a. There are many possible answers for this question. For example, the data sets {10, 10, 10, 10, 10}
+       and {9, 9, 10, 11, 11} have the same mean of 10 units, but different standard deviations (0 and 1,
+       respectively).
+
+   b. There are many possible answers for this question. For example, the data sets {2, 2, 2, 2, 2} and {9,
+       9, 9, 9, 9} have the same standard deviation of 0, but different means (2 and 9, respectively).
+
+3.4.10.13.
+
+   a. The 25th, 50th, and 75th percentiles are, respectively, the 1st quartile, median, and 3rd quartile for
+       the data sets. Reading the boxplot for CPAs, the 25th, 50th, and 75th percentiles for CPAs' salaries
+       are, respectively, $40,000, $75,000, and $90,000. Reading the boxplot for actuaries, the 25th, 50th, and
+       75th percentiles for actuaries' salaries are, respectively, $75,000, $90,000, and $94,000
+
+   b. Deshawn's salary (the median salary for an actuary) is $90,000; Kelsey's salary (the first quartile salary)
+       is also $75,000. So Deshawn makes more than Kelsey, by $15,000.
+
+   c. 75% of actuaries make more than the median salary of a CPA ($75,000).
+
+   d. 25% of all CPAs earn less than all actuaries.
+3.4.10.15.
+
+   a.
+
+                                                             data value - mean
+                                                      Z = standard deviation
+
+                                                         = 21.4 - 25
+                                                                1.15
+
+                                                         = -3.13 standard deviations
+
+   b. The Z-score for the gas mileage of the car is -3.13 standard deviations.
+3.4.10.17.
+
+   a. In GeoGebra:
+       In GeoGebra Classic, enter the data values into the column A of the spreadsheet and use the "One
+       Variable Analysis" function. Then use the "Show Statistics" option to find the mean and standard
+       deviation.
+       The mean is 46.2 hours per year, and the standard deviation is 6.16 hours per year.
+
+   b.
+
+                                                             data value - mean
+                                                      Z = standard deviation
+
+                                                         = 42 - 46.2
+                                                                6.16
+
+                                                         = -0.68 standard deviations
+
+       The Z-score for a city with an average delay time of 42 hours per year is -0.68 standard deviations.
+3.4.10.19.
+
+                                                                data value - mean
+                                                  ZMath = standard deviation
+
+                                                            = 89 - 75
+                                                                   7
+
+                                                            = 2 standard deviations
+350  APPENDIX A. ODD ANSWERS
+
+                                                                 data value - mean
+                                                 ZEnglish = standard deviation
+
+                                                             = 65 - 53
+                                                                     4
+
+                                                             = 3 standard deviations
+
+Because the Z-score of my English test is greater than the Z-score of my math test, I did better on the
+English test than I did on the math test.
+3.4.10.21.
+
+                                                              data value - mean
+                                                   ZPoe = standard deviation
+
+                                                           = 20.2 - 16.5
+                                                                   1.85
+
+                                                           = 2 standard deviations
+
+                                                                 data value - mean
+                                                 ZGibson = standard deviation
+
+                                                             = 107 - 81
+                                                                    13
+
+                                                             = 2 standard deviations
+
+Because the Z-scores for the heights of Poe (the Clydesdale horse) and Gibson (the Great Dane) are the
+same, neither animal is taller than the other when compared to their respective breeds.
+
+3.5 · Chapter 3 Review
+
+3.5.1.
+
+   a. The population is PCC students and 73,000 is the sample size.
+
+   b. The sample is 250 students from the 4 main campuses.
+
+   c. Stratified Sample
+
+   d. Categorical or Qualitative
+
+   e. 435/1000 = 0.435 = 43.5%
+3.5.3.
+
+   a. The population being studied is PCC Students.
+
+   b. Categorical or Qualitative
+
+   c. 23% is a statistic because it is from a sample.
+
+   d. The margin of error is 4%.
+
+   e. 23% - 4% = 19% and 23% + 4% = 27%. The confidence interval is (19%, 27%).
+    f. We are confident that the true proportion of all PCC students who prefer to study at the library is
+
+       between 19% and 27%
+3.5.5.
+
+   a. Voluntary Response Bias
+
+   b. Sampling Bias
+                                                                                                                                         351
+   c. Sampling Bias
+   d. Response bias
+   e. Perceived lack of anonymity
+3.5.7.
+   a. The treatment group is the group receiving the test medicine for migraines.
+   b. The control group is the group receiving the inert pill.
+   c. This is a blind study.
+   d. This is a placebo-controlled experiment.
+3.5.9.
+   a. The implied population is United States teenagers.
+   b. There were 2007 teens surveyed.
+   c. Qualitative or Categorical
+
+   d.
+
+   e.
+
+    f. Answers will vary
+   g. About 14.3% of teens chose horror as their favorite movie genre.
+3.5.11.
+   a. The mean is $4.78 per gallon. The median is $4.75 per gallon.
+   b. The mean and median is about the same value therefore the data is symmetric.
+   c. The standard deviation is $1.34 per gallon.
+   d. z$3.25 = $1.34 $3.25-$4.78 = $1.34 -$1.53 = -1.14
+
+       z$8.95 = $1.34 $8.95-$4.78 = $1.34 $4.17 = 3.11
+352                                                                      APPENDIX A. ODD ANSWERS
+
+                                      e. Min       Q1    Median    Q3    Max
+                                           $3.25  $3.75    $4.75  $5.00  $8.95
+
+f. Range = $8.95 - $3.25 = $5.70
+   IQR = $5 - $3.75 = $1.25
+
+g.
+
+3.5.13.
+
+a. The mean is about $26,200 and the standard deviation is about $10,000.
+
+b. The majority of cars sell for between $16,200 and $36,200.
+
+         c. Min                   Q1                     Median          Q3          Max
+                                                                                $45 thousand
+               $12 thousand $18 thousand $26 thousand $32 thousand
+
+d. Range = 45 - 12 = 33
+    IQR = 32 - 18 = 14
+
+e.
+
+3.5.15.
+
+a. z = (30.4 - 35) = -4.6  -3.41
+         1.35  1.35
+
+b. 30.4 mpg is 3.41 standard deviations below the mean so the car is getting unusually low gas mileage.
+
+3.6 · The Normal Distribution
+3.6.8 · Exercises
+
+3.6.8.1. The shape of a Normal distribution is unimodal, symmetric and bell-shaped.
+                                                                                                                                         353
+3.6.8.3. The median tree diameter is approximately 35 inches.
+
+     3.6.8.5. Approximately 68% of the values fall within one standard deviation of the mean.
+     3.6.8.7. Approximately 99.7% of the values fall within three standard deviations of the mean.
+     3.6.8.9. Approximately 27% of the values fall between the first and second standard deviations from
+     the mean.
+     3.6.8.11. Approximately 4.7% of the values fall between the second and third standard deviations from
+     the mean.
+     3.6.8.13. Approximately 34% of the values fall between the mean and one standard deviation below
+     the mean.
+     3.6.8.15.
+
+        a. Here is the graph:
+
+        b. Data values from 4.5 to 6.5 inches fall within one standard deviation of the mean.
+         c. The percentage of data that fall between 3 and 10.5 inches is 13.5% + 34% + 34% + 13.5% + 2.35% =
+
+            97.35%.
+        d. The percentage of data that fall below 1.5 inches is 0.15%.
+     3.6.8.17.
+        a. Here is the graph:
+
+        b. The range of data values that fall within three standard deviations of the mean is $4 to $16.
+         c. The percentage of data that lie between $6 and $14 is 95%.
+        d. The percentage of data that lie above $14 is 2.35% + 0.15% = 2.5%.
+     3.6.8.19.
+        a. Here is the graph:
+354                                                    APPENDIX A. ODD ANSWERS
+
+        b. The percentage of the data values that lie above 18.6 ounces is 0.2302 or 23.028%.
+        c. The percentage of the data values that lie between 9 and 20.2 ounces is 0.8076 or 80.76%.
+        d. The percentage of the data values that lie below 13.7 ounces is 0.3341 or 33.41%.
+     3.6.8.21.
+        a. Here is the graph:
+
+     b. P(X  82) = 0.3341.
+
+     c. P(76  X  90) = 0.6632.
+
+     d. P(X  100) = 0.0161.
+
+3.6.8.23. A z-score measures how many standard deviations from the mean a data value is.
+
+3.6.8.25.  Z=  6.2-6  = 0.13  standard  deviations.
+                 1.5
+
+3.6.8.27.  Z=  5-10   = -2.5  standard  deviations.
+                  2
+
+3.6.8.29. The confidence interval is ($2.20, $2.50). This means that we are 95% confident that the true
+average amount of change for all those who carry a purse is between $2.20 and $2.50.
+
+3.6.8.31. The margin of error is 0.2156 cm. The confidence interval is approximately (82.28, 84.72). This
+means that we are 95% confident that the true population parameter is between approximately 82.28 and
+84.72 cm.
+
+4 · Probability
+4.1 · Contingency Tables
+4.1.10 · Exercises
+
+4.1.10.1.
+
+                  Housing Insecure      Food Insecure  Not Food Insecure  Total
+               Not Housing Insecure            380                 60      440
+                                               300                460      760
+                           Total                680               520     1200
+
+4.1.10.3.
+                                                                                                       355
+
+             Floss   Breakfast  No Breakfast                                           Total
+           No Floss       12            49                                               61
+                           3             8                                               11
+             Total        15            57                                               72
+
+4.1.10.5.            A Not A Total
+
+4.1.10.7.            B 10 20      30
+   a.
+           Not B 20 25            45
+
+                     Total 30 45  75
+
+                     P(In morning class) = 39
+                                                   65
+
+                                                = 0.60 or 60%
+
+b.
+
+                                                 P(Earned a C) = 25
+                                                                         65
+
+                                                                       0.385 or 38.5%
+
+c.
+
+                                 P(Earned an A and in afternoon class) = 10
+                                                                                         65
+
+                                                                                       0.154 or 15.4%
+
+d.
+
+                                 P(Earned an A given in morning class) = 8
+                                                                                          39
+
+                                                                                       0.205 or 20.5%
+
+   e.      P(In morning class or earned B) = 43
+                                                          65
+4.1.10.9.
+   a.                                                  0.662 or 66.2%
+
+                    P(no credit cards) = 27
+                                                81
+
+                                              0.333 or 33.3%
+
+b.
+
+                                               P(one credit card) = 15
+                                                                            81
+
+                                                                         0.185 or 18.5%
+356                                                                               APPENDIX A. ODD ANSWERS
+
+c.
+
+                                    P(no credit cards and over age 35) = 18
+                                                                                      81
+
+                                                                                    0.222 or 22.2%
+
+d.
+
+                       P(between ages of 18 and 35,or have zero credit cards) = 51
+                                                                                                    81
+
+                                                                                                 0.630 or 63.0%
+
+e.
+
+                         P(no credit cards given between ages of 18 and 35) = 9
+                                                                                                 33
+
+                                                                                               0.273 or 27.3%
+
+f.
+
+                                   P(no credit cards given over age 35) = 18
+                                                                                       48
+
+                                                                                   = 0.375 or 37.5%
+
+   g. Yes, it appears that having no credit cards depends on age. The probability of having no credit cards for
+       people over age 35 is significantly greater than the probability of having no credits for people between
+       the ages of 18 and 35.
+
+4.1.10.11.
+
+   a.
+
+                                                     P(not survive) = 1490
+                                                                             2201
+
+                                                                          0.677 or 67.7%
+
+b.
+
+                                                      P(crew) = 885
+                                                                     2201
+
+                                                                  0.402 or 40.2%
+
+c.
+
+                                        P(first class and not survive) = 122
+                                                                                   2201
+
+                                                                                 0.055 or 5.5%
+
+d.
+
+                                            P(not survive or crew) = 1702
+                                                                               2201
+
+                                                                            0.773 or 77.3%
+
+e.
+
+                                         P(survived given first class) = 203
+                                                                                  325
+
+                                                                               0.625 or 62.5%
+                                                                                                           357
+
+f.
+
+                                      P(survived given second class) = 118
+                                                                                   285
+
+                                                                                0.414 or 41.4%
+
+g.
+
+                                        P(survived given third class) = 178
+                                                                                  706
+
+                                                                                0.252 or 25.2%
+
+   h. Yes, it does appear that survival depended on the passenger's class. The probability of survival for
+       first class passengers is significantly greater than the probability of survival for second class passengers
+       and is more than double the probability of survival for third class passengers.
+
+4.1.10.13.
+
+                 Game/Software No Game/Software Total
+
+    a. Computer 10%        5%                                                                        15%
+
+    No Computer   15%      70%                                                                       85%
+
+    Total         25%      75%                                                                       100%
+
+b.
+
+    P(no computer and no game/software) = 70%
+                                                           100%
+
+                                                        = 0.7 or 70%
+
+c.
+
+                                         P(computer or game/software) = 30%
+                                                                                      100%
+
+                                                                                   = 0.3 or 30%
+
+d.
+
+                                     P(game/software given computer) = 10%
+                                                                                      15%
+
+                                                                                    0.667 or 66.7%
+
+e.
+
+                                  P(game/software given no computer) = 15%
+                                                                                        85%
+
+                                                                                     0.176 or 17.6%
+
+    f. Purchasing a game/software and purchasing a computer appear to be depended. The probability
+       of purchasing a game/software for computer buyers was almost 50% greater than the probability of
+       purchasing a game/software among customers who did not purchase a computer.
+
+4.1.10.15.
+
+                  Hardcover Paperback Total
+
+    a. Fiction 13      59       72
+
+    Nonfiction    15   8        23
+
+           Total  28   67       95
+358  APPENDIX A. ODD ANSWERS
+
+b.
+
+                                        P(non-fiction and paperback) = 8
+                                                                                    95
+
+                                                                                 0.084 or 8.4%
+
+   c.
+                                              P(fiction given hardcover) = 13
+                                                                                    28
+                                                                                  0.464 or 46.4%
+
+4.2 · Theoretical Probability
+4.2.15 · Exercises
+
+4.2.15.1.
+   a. 2/13
+   b. 6/13
+   c. 0
+   d. 25/169
+   e. 1/13
+
+4.2.15.3.
+   a. 11/12
+   b. 1/6
+
+4.2.15.5. 6241/10000
+4.2.15.7.
+
+   a. 1/8
+   b. 1/8
+4.2.15.9.
+   a. 1/4
+   b. 1/6
+   c. 1/9
+4.2.15.11.
+   a. 4/52 = 1/13
+   b. 13/52 = 1/4
+   c. 26/52 = 1/2
+   d. 16/52 = 4/13
+4.2.15.13. 60/1320 = 1/22  0.045 or 4.5%
+4.2.15.15. 1 - P(no blue marbles) = 1110/1320 = 37/44  0.841 or 84.1%
+
+4.3 · Expected Value
+4.3.2 · Exercises
+                                                                                           359
+
+4.3.2.1.
+
+                                 Die roll Gold Silver Black
+
+                          a. Outcome          $3             $2  -$1>
+
+                          Probability 3/37 6/37 28/37
+
+   b. 3(3/37) + 2(6/37) - 1(28/37) = -0.19
+
+       The expected value is approximately -$0.19. That is, you would lose about $0.19 on average each time
+       you pick a marble.
+4.3.2.3.
+
+                          Die roll outcome 1, 2, 3, or 4 5 6
+
+                      a.         Outcome                 $5      $0 -$2
+
+                          Probability                    1/6     1/6 4/6
+
+b. 5(1/6) + 0(1/6) - 2(4/6) = -0.50
+
+   The expected value is about -$0.50 which means you would lose 50 cents on average each time you roll
+    the die.
+
+   c. No, you should not play this game (unless you want to give your friend your money.
+4.3.2.5. The company's expected profit is $45.55 per warranty sold.
+4.3.2.7. The company's expected value on each policy is $22 which means they will make $22, on average,
+per policy sold.
+4.3.2.9. The expected value for this raffle is -$3.
+4.3.2.11. The expected value for this game is approximately -$6.
+4.3.2.13. Answers will vary since you are making up your own problem.
+
+4.4 · Chapter 4 Review
+
+4.4.1.
+
+a. P(in the afternoon class)  28/60 = 0.4667
+
+b. P(earned an A) 25/60  0.4167
+
+c. P(earned a B and was in the afternoon class) = 13/60  0.2167
+
+d. P(earned a C given the student was in the morning class) = 7/32  0.2188
+
+   e. P(is in the morning class given that the student earned a B) = 11/24  0.4583
+4.4.3.
+
+               Type   Channel 2  Channel 6        Channel 8      Channel 12         Total
+             Drama          5          2                4               4             15
+             Sitcom         6          9                7               3             25
+          Game Show         4          4                3               4             15
+              News          3          2                2               3             10
+               Total       18         17               16              14             65
+
+a. P(Sitcom or Game Show) = 40/65  0.6154
+
+b. P(Drama and Channel 8) = 4/65  0.0615
+
+c. P(Channel 8 or Channel 2) = 34/65  0.5231
+
+d. P(Drama given that it is on Channel 6) = 2/17  0.1176
+
+e. P(Channel 12 given that it's a sitcom) = 3/25 = 0.12
+360                                                                    APPENDIX A. ODD ANSWERS
+
+    f. P(Game show given that it is on Channel 2) = 4/18  0.2222
+4.4.5.
+
+a. P(red) = 12/25 = 0.48
+
+b. P(not white) = 17/25 = 0.68
+
+c. P(Yellow or Red) = 17/25 = 0.68
+
+d. P(Blue) = 0/25 = 0
+
+e. P(Two reds) = 144/625 = 0.2304
+
+    f. P(Red then yellow) = 60/600 = 0.10
+4.4.7.
+
+a. P(Four heads) = 0.0625
+
+   b. P(No heads) = 0.0625
+4.4.9.
+
+a. P(Both too little)  0.4624
+
+   b. P(Neither too little)  0.1024
+4.4.11.
+
+                                     Color Black Orange Yellow
+
+                               a. x        $3  $2                 -$1
+
+                                     P(x) 2/26 4/26 20/26
+
+b. The expected value is -$0.23.
+
+   c. No, you should not play this game because it has a negative expected value.
+4.4.13.
+
+                            Outcome        Product Failed  Didn't Fail
+                                 x                -$450          $0
+                                                  0.015
+                               P(x)                            0.985
+
+The expected loss per warranty is $48.25. (Note that if you include the $55.00 a person pays for a warranty,
+the expected profit will be $6.75 per warranty)
+
+5 · Democracy
+5.1 · Apportionment
+5.1.11 · Exercises
+
+     5.1.11.1.
+
+     a. Math: 6 tutors, English: 5 tutors, Chemistry: 3 tutors, Biology: 1 tutor
+
+     b. Math: 7 tutors, English: 5 tutors, Chemistry: 2 tutors, Biology: 1 tutor, Modified divisor 47
+
+     c. Math: 6 tutors, English: 5 tutors, Chemistry: 3 tutors, Biology: 1 tutor, Modified divisor 52
+
+        d. Math: 6 tutors, English: 5 tutors, Chemistry: 3 tutors, Biology: 1 tutor, Divisor 53
+     5.1.11.3.
+
+        a. Morning: 1 salesperson, Midday: 5 salespeople, Afternoon: 6 salespeople, Evening: 8 salespeople
+
+     b. Morning: 1 salesperson, Midday: 4 salespeople, Afternoon: 7 salespeople, Evening: 8 salespeople,
+         Modified divisor 62
+                                                                                                                                         361
+
+         c. Morning: 1 salesperson, Midday: 5 salespeople, Afternoon: 6 salespeople, Evening: 8 salespeople,
+            Divisor 67.5
+
+        d. Morning: 1 salesperson, Midday: 5 salespeople, Afternoon: 6 salespeople, Evening: 8 salespeople,
+            Divisor 67.5
+
+     5.1.11.5.
+        a. Aisha: 18 coins, Basir: 14 coins, Carlos: 4 coins
+        b. Aisha: 19 coins, Basir: 14 coins, Carlos: 3 coins, Modified divisor 400
+         c. Aisha: 19 coins, Basir: 14 coins, Carlos: 3 coins, Modified divisor 410
+        d. Aisha: 19 coins, Basir: 14 coins, Carlos: 3 coins, Modified divisor 410
+
+     5.1.11.7.
+        a. A: 5 seats, B: 79 seats, C: 20 seats, D: 12 seats
+        b. A: 4 seats, B: 80 seats, C: 20 seats, D: 12 seats, Modified divisor 6950
+         c. A: 5 seats, B: 78 seats, C: 20 seats, D: 13 seats, Modified divisor 7128
+        d. A: 5 seats, B: 78 seats, C: 20 seats, D: 13 seats, Modified divisor 6950
+
+     5.1.11.9.
+        a. A: 40 seats, B: 24 seats, C: 15 seats, D: 30 seats, E: 10 seats
+        b. A: 41 seats, B: 24 seats, C: 14 seats, D: 30 seats, E: 10 seats, Modified divisor 19,700
+         c. A: 40 seats, B: 24 seats, C: 15 seats, D: 30 seats, E: 10 seats, Modified divisor 20,100
+        d. A: 40 seats, B: 24 seats, C: 15 seats, D: 30 seats, E: 10 seats, Modified divisor 20,125
+
+     5.1.11.11.
+        a. A: 23 seats, B: 16 seats, C: 77 seats, D: 30 seats, E: 21 seats, F: 33 seats
+        b. A: 22 seats, B: 16 seats, C: 78 seats, D: 30 seats, E: 21 seats, F: 33 seats, Modified divisor 148.5
+         c. A: 23 seats, B: 16 seats, C: 77 seats, D: 30 seats, E: 21 seats, F: 33 seats, Divisor 150
+        d. A: 23 seats, B: 16 seats, C: 77 seats, D: 30 seats, E: 21 seats, F: 33 seats, Divisor 150
+
+     5.1.11.13.
+        a. . A: 19 seats, B: 19 seats, C: 22 seats, D: 22 seats, E: 81 seats, F: 87 seats
+        b. A: 28 seats, B: 19 seats, C: 22 seats, D: 22 seats, E: 82 seats, F: 87 seats, Modified divisor 4347
+         c. A: 19 seats, B: 19 seats, C: 22 seats, D: 22 seats, E: 81 seats, F: 87 seats, Divisor 4400.4
+        d. A: 19 seats, B: 19 seats, C: 22 seats, D: 22 seats, E: 81 seats, F: 87 seats, Divisor 4400.4
+
+5.1.11.15.
+   a. A: 4 seats, B: 4 seats, C: 2 seats
+   b. It is not possible to assign 11 seats with Hamilton's method in this case.
+   c. States A and C are the same size, so they have the same decimal value. They would both get an
+       additional seat at the same time but there is only one seat to give. Answers will vary on fair solutions.
+   d. Yes, with a modified divisor of 1200 we get A: 5 seats, B: 5 seats and C: 1 seat.
+362                                                                    APPENDIX A. ODD ANSWERS
+
+5.1.11.17. 2010: Douglass: 8, Parks: 4, King: 10, Du Bois: 11, Lewis: 17                  This doesn't
+2020: Douglass: 8, Parks: 5, King: 10, Du Bois: 11, Lewis: 16
+The populations in King and Lewis counties grew, but Parks got an extra seat from Lewis.
+seem fair.
+5.1.11.19.
+
+a. Clatsop: 2 counselors, Siletz: 11 counselors
+
+b. The divisor was 698.38, so 4 new guidance counselors should be hired for Cayuse.
+
+c. Clatsop: 3 counselors, Siletz: 10 counselors, Cayuse: 4 counselors
+
+d. Cayuse did get 4 counselors, but one of the counselors from Siletz went to Clatsop. That doesn't seem
+    fair because their populations didn't change.
+
+5.2 · Voting Methods
+5.2.12 · Exercises
+
+5.2.12.1.
+
+                                Number of voters 3 3 1 3 2
+
+                                 1st choice         AABBC
+
+                                 2nd choice         BCACA
+
+                                 3rd choice         CBCAB
+
+     5.2.12.3.
+
+     a. There are 47 voters.
+
+     b. A majority is 24 votes.
+
+     c. Atlanta wins the plurality method with 19 votes.
+
+     d. Buffalo wins the Instant Runoff Method with 28 votes.
+
+     e. The points are: Atlanta 94, Buffalo 111 and Chicago 77. Buffalo wins the Borda Count Method.
+
+         f. The points are: Buffalo 2, Atlanta 1. Buffalo wins with Copeland's method.
+     5.2.12.5.
+
+     a. There are 12 voters.
+
+     b. A majority is 7 votes.
+
+     c. Biology wins the plurality method with 5 votes.
+
+     d. Biology wins the Instant Runoff Method with 7 votes.
+
+     e. The points are: Art 22, Biology 26 and Calculus 24. Biology wins the Borda Count Method.
+
+         f. The points are: Biology 2, Calculus 1. Biology wins with Copeland's method.
+     5.2.12.7.
+
+        a. There are 31 votes.
+
+     b. A majority is 16 votes.
+
+     c. F wins the plurality method with 12 votes.
+
+     d. E wins the Instant Runoff Method with 16 votes.
+
+     e. The points are: D 66, E 59 and F 61. D wins the Borda Count Method.
+
+     f. The points are: D 2, E 1. D wins with Copeland's method.
+                                                                                                                                    363
+
+5.2.12.9.
+   a. There are 460 voters.
+   b. A majority is 231 votes.
+   c. A wins the plurality method with 150 votes.
+   d. A wins the Instant Runoff Method with 290 votes.
+   e. The points are: A 1140, B 1060, C 1160 and D 1240. D wins the Borda Count method.
+    f. The points are: A 1, B 1, C 2, D 2. C and D tie with Copeland's method.
+
+5.2.12.11.
+   a. There are 92 voters.
+   b. A majority is 47 votes.
+   c. K wins the plurality method with 38 votes.
+   d. K wins the Instant Runoff Method with 54 votes.
+   e. The points are: I 273, J 152, K 267 and L 228. I wins the Borda Count Method.
+    f. The points are: I 2, K 3, L2. K wins with Copeland's method.
+
+5.2.12.13.
+   a. There are 90 voters.
+   b. A majority is 46 votes.
+   c. Q wins the plurality method with 26 votes.
+   d. S wins the Instant Runoff Method with 50 votes.
+   e. The points are: Q 250, R 201, S 243 and T 206. Q wins the Borda Count Method.
+    f. The points are: Q 2, R 1 and S 3. S wins with Copeland's method.
+
+5.2.12.15.
+   a. There are 107 voters.
+   b. A majority is 54 votes.
+   c. E wins the plurality method with 39 votes.
+   d. B wins the Instant Runoff Method with 54 votes.
+   e. The points are: A 357, B 398, C 305, D 219, E 326. B wins the Borda Count Method.
+    f. The points are: A 2, B 4, C 2, D 1, E 1. B wins with Copeland's method.
+
+5.2.12.17.
+   a. There are 127 voters.
+   b. A majority is 64 votes.
+   c. K wins the plurality method with 35 votes.
+   d. M wins the Instant Runoff Method with 79 votes.
+   e. The points are: K 430, L 402, M 376, N 375, O 322. K wins the Borda Count Method.
+364                                                                 APPENDIX A. ODD ANSWERS
+
+     f. The points are: K 4, L 2, M 2, N 2. K wins with Copeland's method.
+
+5.3 · The Popular Vote, Electoral College and Electoral Power
+5.3.4 · Exercises
+
+5.3.4.1. The president is elected through a process called The Electoral College. States send a certain
+number of electors, based on their populations, and whichever candidate gets the most votes from these
+electors becomes president.
+
+5.3.4.3. Two senators represent each state.
+
+5.3.4.5. There are 435 Representatives in the U.S. House of Representatives.
+
+     5.3.4.7.
+
+                State Population                 Number of          Number of    Number of
+                                              Representatives        Senators      Electors
+                a. Gandhi          450,000                                 2           11
+                     Mandela       150,000               9                 2            5
+                      Gbowee       600,000               3                 2           14
+                        Total     1,200,000             12                 6           30
+                                                        24
+
+     This state has 30 electors.
+
+        b. A majority of electoral votes would be 16 votes.
+     5.3.4.9.
+
+                State             Population     Number of          Number of    Number of
+                                              Representatives        Senators      Electors
+                         Tamez     280,000                                 2            9
+                a. Teters          200,000               7                 2            7
+                                   400,000               5                 2           12
+                     Herrington    360,000              10                 2           11
+                         Osawa    1,240,000              9                 8           39
+                          Total                         31
+
+     This state has 39 electors.
+
+     b. A majority of electoral votes would be 20 electoral votes.
+
+     5.3.4.11.
+
+                State             Votes for   Votes for             Number of    Number of
+                                                                      Electoral   Electoral
+                                  Candidate A Candidate B           Votes for A  Votes for B
+
+                a. Gandhi         216,000     234,000                       0           11
+                       Mandela    37,500      112,500                       0           5
+                        Gbowee    489,450     110,550                      14           0
+                                  742,950     457,050                      14           16
+                     Total Votes
+
+     A wins the popular vote with 61.9% of the votes.
+
+        b. B wins the electoral college and becomes the president with 53.5% of the electoral votes.
+     5.3.4.13.
+                                                                                               365
+
+                  State           Votes for        Votes for  Number of         Number of
+                                                                Electoral        Electoral
+                             Candidate A Candidate B          Votes for A       Votes for B
+
+           a. Tamez               95,480           184,250            0                9
+                    Teters        104,200          95,800             7                0
+                                  203,600          196,400           12                0
+                 Herrington       46,080           313,920            0                11
+                    Osawa         449,360          790,640           19                20
+
+                Total Votes
+
+B wins the popular vote with 63.6% of the vote.
+
+b. B wins the electoral college and becomes the president with 51% of the electoral votes.
+
+5.3.4.15.
+
+                                           Number         Number      Number       Electoral
+                                                               of         of       Votes per
+           State Population                  of                                 50,000 people
+                                                          Senators    Electors
+a. Gandhi                450,000  Representatives              2          11           1.22
+                                             9                 2           5           1.67
+                                                               2          14           1.17
+           Mandela 150,000                   3
+
+           Gbowee        600,000             12
+
+The state of Mandela has the most electoral power.
+
+   b. The state of Gbowee has the least electoral power.
+5.3.4.17.
+
+                                             Number         Number    Number       Electoral
+                                                                 of       of       Votes per
+           State   Population                of                                 50,000 people
+                                                            Senators  Electors
+                                  Representatives                2         9           1.29
+                                                                 2         7           1.40
+a. Tamez                 280,000                7                2        12           1.20
+                                                                 2        11           1.22
+           Teters        200,000                5
+
+Herrington 400,000                           10
+
+           Osawa         360,000                9
+
+The state of Teters has the most electoral power.
+
+b. The state of Herrington has the least electoral power.
+
+5.3.4.19. Possible combinations are Gandhi/Mandela/Gbowee, Gandhi/Mandela, Mandela/Gbowee, or
+Gandhi/Gbowee. The minimum number of votes needed is 300,002.
+
+5.3.4.21. Possible combinations are Tamez/Teters/Herrington/Osawa, Tamez/Teters/Herrington, Tamez/
+Teters/Osawa, Tamez/Herrington/Osawa, Teters/Herrington/Osawa, Tamez/Herrington, Tamez/Osawa, or
+Herrington/Osawa. The minimum number of votes needed is 320,002.
+
+5.4 · Gerrymandering and How to Measure It
+5.4.5 · Exercises
+
+5.4.5.1. Redistricting happens every 10 years after the census is completed. A state might not change its
+districts unless the number of seats in the U.S. House of Representatives has changed.
+
+5.4.5.3. The rules are districts must be contiguous and you can't gerrymander by race.
+
+5.4.5.5. The most proportional representation would be 4 Republican seats and 3 Democratic seats.
+
+5.4.5.7. The most proportional representation would be 2 Republican seats and 1 Democratic seat.
+
+5.4.5.9. The most proportional representation would be 6 Republican seats, 4 Democratic seats and 1 Green
+Party seat.
+366                                                                    APPENDIX A. ODD ANSWERS
+
+     5.4.5.11.
+        a. A majority is 4 votes.
+        b. The Democrats won 2 seats and the Republicans won 2 seats.
+        c. The efficiency gap is 6/28 = 21.43%
+
+     District  D Votes  R Votes  D Surplus Votes                       R Surplus Vote
+         1          1        6              1
+         2          3        4              3                               6-4=2
+         3          6        1                                              4-4=0
+         4          7        0         6-4=2
+                   17       11         7-4=3                                     1
+      Total                                                                      0
+                                            9                                    3
+
+        d. Each seat is worth 25% of the voters.
+
+        e. The efficiency gap is worth less than one seat (0.86 seats).
+
+         f. This map is ok because the efficiency gap is less than one seat. It should either be D3, R1 or D2,
+            R2.
+
+     5.4.5.13.
+
+        a. A majority is 3 votes.
+
+        b. The Democrats won 1 seat and the Republicans won 4 seats.
+
+        c. The efficiency gap is 8/25 = 32%
+
+     District  D Votes  R Votes  D Surplus Votes                       R Surplus Vote
+         1          2        3              2                               3-3=0
+         2          2        3              2                               3-3=0
+         3          2        3              2                               3-3=0
+         4          4        1                                                   1
+         5          2        3         4-3=1                                3-3=0
+                   12       13              2                                    1
+      Total                                 9
+
+        d. Each seat is worth 20% of the voters.
+        e. The efficiency gap is worth 1.6 seats.
+         f. This map is not fair because the efficiency gap is more than one seat. A fairer map would be D3,
+
+            R2 or D2, R3.
+     5.4.5.15.
+
+        a. A majority is 5 votes.
+        b. The Democrats won 2 seats and the Republicans won 3 seats.
+        c. The efficiency gap is 4/45 = 8.89%
+                                                                              367
+
+District  D Votes  R Votes                   D Surplus Votes  R Surplus Vote
+    1          2        7                               2          7-5=2
+    2          5        4                                               4
+    3          2        7                          5-5=0           7-5=2
+    4          5        4                               2               4
+    5          4        5                                          5-5=0
+              18       27                          5-5=0                12
+ Total                                                  4
+                                                        8
+
+   d. Each seat is worth 20% of the voters.
+   e. The efficiency gap is worth less than one seat (0.44).
+    f. This map is fair because the efficiency gap is around 8% and the representation is exactly propor-
+
+       tional to the population.
+5.4.5.17.
+
+   a. A majority is 3 votes.
+   b. The Democrats won 5 seats and the Republicans won 1 seat.
+   c. The efficiency gap is 12/30 = 40%
+
+District  D Votes  R Votes                   D Surplus Votes  R Surplus Vote
+    1          3        2                          3-3=0                2
+    2          3        2                          3-3=0                2
+    3          3        2                          3-3=0                2
+    4          3        2                          3-3=0                2
+    5          3        2                          3-3=0                2
+    6          0        5                               0
+              15       15                               0          5-3=2
+ Total                                                                  12
+
+   d. Each seat is worth 16.67% of the voters.
+
+   e. The efficiency gap is worth 2.4 seats.
+
+    f. This map is not fair because the efficiency gap is more than one seat. A more fair map would be
+       D3, R3 because the population is evenly split.
+
+5.4.5.19.
+   a. A majority is 5 votes.
+   b. The Democrats won 1 seat and the Republicans won 5 seats.
+   c. The efficiency gap is 6/54 = 11.11%
+
+District  D Votes  R Votes                   D Surplus Votes  R Surplus Vote
+    1          2        7                               2          7-5=2
+    2          2        7                               2          7-5=2
+    3          9        0                                               0
+    4          2        7                          9-5=4           7-5=2
+    5          1        8                               2          8-5=3
+    6          4        5                               1          5-5=0
+              20       34                               4               9
+ Total                                                 15
+
+d. Each seat is worth 16.67% of the voters.
+368                                                                       APPENDIX A. ODD ANSWERS
+
+     e. The efficiency gap is worth less than 1 seat. (0.67)
+
+     f. This map is not fair because even though the efficiency gap is less than one seat, The Democrats
+        should have at least 2 seats. A more fair map would be D2, R4.
+
+     5.4.5.21.
+        a. The most seats that can be won by the Democrats is 4 seats.
+        b. The most seats that can be won by the Republicans is 4 seats.
+
+     5.4.5.23.
+        a. The most seats that can be won by the Democrats is 4 seats.
+        b. The most seats that can be won by the Republicans is 5 seats.
+
+5.5 · Chapter 5 Review
+
+     5.5.1.
+        a. A: 10 seats, B: 17 seats, C: 12 seats, D: 39 seats
+        b. A: 10 seats, B: 16 seats, C: 12 seats, D: 40 seats, Modified divisor 9,600
+         c. A: 10 seats, B: 17 seats, C: 12 seats, D: 39 seats, Divisor 9,793.6
+        d. A: 10 seats, B: 17 seats, C: 12 seats, D: 39 seats, Divisor 9,793.6
+
+     5.5.3.
+        a. A: 46 seats, B: 18 seats, C: 7 seats, D: 21 seats, E: 8 seats
+        b. A: 47 seats, B: 18 seats, C: 7 seats, D: 20 seats, E: 8 seats, Modified divisor 12,400
+         c. A: 47 seats, B: 18 seats, C: 7 seats, D: 20 seats, E: 8 seats, Modified divisor 12,555
+        d. A: 47 seats, B: 18 seats, C: 7 seats, D: 20 seats, E: 8 seats, Modified divisor 12,555
+
+     5.5.5.
+        a. There are 134 voters.
+        b. A majority is 68 votes.
+         c. H wins the plurality method with 35 votes.
+        d. F wins the Instant Runoff Method with 71 votes.
+         e. The points are: E 275, F 364, G 372 and H 329. G wins in the Borda count method.
+         f. The points are: F 3, G 2, H 1. F wins with Copeland's method.
+
+     5.5.7.
+        a. There are 166 voters.
+        b. A majority is 84 votes.
+         c. N wins the plurality method with 37 votes.
+        d. P wins the Instant Runoff Method with 101 votes.
+         e. The points are: M 486, N 482, O 508, P 590, Q 424. P wins the Borda count method.
+         f. The points are: M 1, N 2, O 3, P 4. P wins with Copeland's method.
+                                                                                              369
+
+5.5.9.
+
+         State Population                    Number of     Number of    Number of
+                                          Representatives   Senators      Electors
+         a. Fonville        825,000                               2           17
+               Gurley       550,000                 15            2           12
+              Nevarez       275,000                 10            2            7
+                Total      1,650,000                 5            6           36
+                                                    30
+
+This state has 36 electors.
+
+b. A majority of electoral votes would be 19 votes.
+
+5.5.11.
+
+         State               Votes for         Votes for   Number of         Number of
+                                                             Electoral        Electoral
+                           Candidate A Candidate B         Votes for A       Votes for B
+
+         a. Fonville          684,750          140,250            17                0
+                  Gurley      257,400          292,600             0                12
+                 Nevarez      132,275          142,725             0                7
+                             1,074,425         575,575            17                19
+              Total Votes
+
+A wins the popular vote with 65.1% of the votes.
+
+b. B wins the electoral college and becomes the president with 52.8% of the electoral votes.
+
+5.5.13.
+
+                                      Number             Number    Number       Electoral
+                                                              of       of       Votes per
+         State Population                 of                                 55,000 people
+                                                         Senators  Electors
+a. Fonville      825,000     Representatives                  2        17           1.13
+                                       15                     2        12           1.20
+                                                              2         7           1.40
+         Gurley  550,000                  10
+
+         Nevarez 275,000                  5
+
+The state of Nevarez has the most electoral power.
+
+b. The state of Fonville has the least electoral power.
+
+5.5.15.
+   a. A majority is 5 votes.
+   b. The Democrats won 1 seat and the Republicans won 4 seats.
+   c. The efficiency gap is 20/45 = 44.4%
+
+         District          D Votes    R Votes  D Surplus Votes     R Surplus Vote
+             1                  4          5              4             5-5=0
+             2                  4          5              4             5-5=0
+             3                  9          0                                 0
+             4                  4          5         9-5=4              5-5=0
+             5                  4          5              4             5-5=0
+                               25         20              4                  0
+          Total                                          20
+
+d. Each seat is worth 20% of the voters.
+370  APPENDIX A. ODD ANSWERS
+
+     e. The efficiency gap is worth 2.2 seats.
+
+     f. This map is not fair because the efficiency gap is more than two seats. A more fair map would be
+        D3, R2.
+
+5.6 · Federal Budget, Deficit and National Debt
+5.6.8 · Exercises
+
+5.6.8.1. Federal income comes from individual income taxes and business income taxes.
+5.6.8.3. Twelve appropriations bills must be passed to approve the new federal budget.
+5.6.8.5. A deficit is a shortfall in a single year and debt is the total of all the money owed.
+5.6.8.7.
+
+    a 4.3 billion
+    b 12.567 trillion
+    c 500 million or 0.5 billion
+    d 6.04 million
+5.6.8.9.
+    a 5,700,000
+    b 9,220,000,000,000
+    c 100,200,000,000
+    d 250,000,000,000
+     5.6.8.11.
+
+         a The debt to GDP ratio for Columbia is approximately 55.13%.
+         b The amount of debt owed per person in Columbia is approximately C$ 5.541 million.
+         c The amount of interest paid per year per person in Columbia is approximately C$ 0.34 million or
+
+            C$ 340,040.
+     5.6.8.13.
+
+         a The debt to GDP ratio for Poland is approximately 61.74%.
+         b The amount of debt owed per person in Poland is approximately 31,773 zl.
+         c The amount of interest paid per year per person in Pakistan is approximately 1.36 zl.
+     5.6.8.15.
+         a The debt to GDP ratio for South Africa is approximately 60.39%.
+         b The amount of debt owed per person in South Africa is approximately R. 68,550.
+         c The amount of interest paid per year per person in South Africa is approximately R. 3,612.
+
+5.6.8.17.
+    a Approximately $7.668 billion is budgeted for transportation.
+    b Approximately $2,255 is budgeted for health and human resources per person.
+    c Approximately $3.834 billion is budgeted for public safety in total.
+

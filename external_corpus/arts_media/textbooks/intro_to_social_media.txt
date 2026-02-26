@@ -1,0 +1,3437 @@
+Intro to Social Media
+Intro to Social Media
+
+        CHERYL LAWSON
+
+   OKLAHOMA STATE UNIVERSITY LIBRARIES
+                       STILLWATER, OK
+Intro to Social Media Copyright © 2021 by Cheryl Lawson is licensed under a Creative Commons Attribution 4.0
+International License, except where otherwise noted.
+Contents
+
+Preface                                                                    1
+
+Open Education at Oklahoma State University                                3
+
+Accessibility Statement                                                    1
+
+Reviews                                                                    4
+
+OpenOKState Student Privacy Guidelines                                     v
+
+Part 1: Marketing Principles
+
+Marketing in the Age of COVID-19 - When the World Went Digital and Toilet  13
+
+Paper Became Gold
+
+Cheryl Lawson
+
+How Many P's are in Marketing Now?                                         18
+
+Cheryl Lawson
+
+Applying Basic Marketing Principles to Social Media Marketing              20
+
+Cheryl Lawson
+
+What's it All For?                                                         23
+
+Cheryl Lawson
+
+Social Media Marketing. A Brief History                                    27
+
+Cheryl Lawson
+
+Do You Even Google?                                                        29
+
+Cheryl Lawson
+
+Part 2: Crafting a Social Media Strategy for Your Business
+
+What Business Are You Even In?                                             35
+
+Cheryl Lawson
+Case Study: Amazon in 2023 By Sunil Gupta and Margaret L. Rodriguez       37
+
+Cheryl Lawson
+
+Who Is Your Customer?                                                     41
+
+Cheryl Lawson
+
+Customer Personas and D.I.S.C                                             45
+
+Cheryl Lawson
+
+Competition Check                                                         49
+
+Cheryl Lawson
+
+Winning Combo: Content, Marketing, and Measurement: The "See, Think, Do,  55
+
+Care" Framework
+
+Cheryl Lawson
+
+Part 3: Social Media 101
+
+Every Network is an Island                                                61
+
+Cheryl Lawson
+
+Analyzing Twitter's Evolution: BM to AM                                   69
+
+Cheryl Lawson
+
+Facebook a Metaverse                                                      76
+
+Cheryl Lawson
+
+Facebook a Metaverse: Instagram                                           83
+
+Cheryl Lawson
+
+Youtube: The World's Second Largest Search Engine                         87
+
+Cheryl Lawson
+
+The Meteoric Rise of TikTok and its Business Implications                 90
+
+Cheryl Lawson
+
+LinkedIn: Building Professional Bridges in the Digital Age                93
+
+Cheryl Lawson
+
+Trending Social Networks: A Dive into the Digital Age                     95
+
+Cheryl Lawson
+
+Analytics - The Backbone of Your Social Media Strategy                    98
+
+Cheryl Lawson
+Keep Calm and Be Platform Agnostic: A Content-First Approach                 101
+
+Cheryl Lawson
+
+Time Management and Social Media: Let AI Be Your Sidekick                    105
+
+Cheryl Lawson
+
+Nurturing Engagement for Business Growth                                     107
+
+Cheryl Lawson
+
+The Social Media Job Guide: Tips for Aspiring Professionals                  110
+
+Cheryl Lawson
+
+Mastering Social Media Strategy: Drawing Insights from "How Benjamin Button  112
+
+Got His Face"
+
+Cheryl Lawson
+
+Part 4: Course Project
+
+Course Project: Create a Social Media Strategy                               117
+
+Cheryl Lawson
+
+Bibliography                                                                 119
+Preface
+
+   This book is aimed at managers, business owners, marketing managers, and aspiring
+social media marketing interns and managers. I will assume that however accomplished in
+your own field - baker, developer, teacher and that even as successful business owners,
+you approach the topic of social media marketing as a beginner. Even if you are a digital
+native, or an avid personal user of social networks, we will treat this book as a guided tour
+of social media for marketing purposes.
+
+   While this is a textbook, it is not meant to read like a traditional textbook, especially on
+a topic that is rooted in digital to an audience who, let's be honest, doesn't really like to
+read. No shade. I too would rather watch a YouTube video on how to fix a problem with
+my laptop than read the manual.
+
+   Like many of my Generation X peers, I began using forums and chat rooms in the
+early 1990's and have watched social networks come and go (AOL and Yahoo chat rooms,
+Friendster, Myspace) - To those not inclined to spend countless hours online over the past
+couple of decades, it may seem as if things change too often.
+
+   For others, particularly those born into the technology, aka digital natives, social
+networks as with most technology, are second nature to you, but not having work
+experience may leave you perplexed as to what your boss/ client / customers really want
+from you as a social media manager.
+
+   If you fall within either one of these audiences, this book is for you. I will do my best
+to help you sort out a basic understanding of the why of social media as a marketing tool
+for business, for personal brand building, and perhaps more importantly, where to find
+supporting information and research to help you design, monitor, test, and re-define a
+social media marketing strategy.
+
+   If you are utilizing this book as an instructor or are considering using this book as an
+instructor, first of all, Thank you very much! Here, you will find the instruction plan and
+a practical way of teaching students how the principles of marketing work. We will also
+explore the principles for each prominent social website. Also, the exercises with every
+chapter will give students a better chance at understanding these concepts as well.
+
+   To sum it up, the target audience for the book is a person who is interested in social
+media marketing for brand building.
+
+   PLAN OF THE BOOK
+   PART 1 -- we'll discuss the origins of marketing principles. A definition of marketing and
+
+                                                                                                                                                                             Preface | 1
+how many of the concepts that have been around for ages are the same as what we do
+today in social media marketing. Part 1 answers the question, "what is marketing?" and
+we'll begin to explore marketing strategies for the modern age. We'll touch on the basics
+principles of marketing and a bit of the psychology of as a way to introduce concepts that
+hopefully won't be so foreign to you as we dive deeper into the nature of social networks.
+
+   PART 2 -- we'll get into more of what social media marketers know and how it fits
+within a marketing strategy. We'll talk about social networks in a way that no matter what
+networks are present and popular when you read this book, you'll have an understanding
+of how you can create content, engage with your customers, and grow your brand.
+
+2 | Preface
+Open Education at Oklahoma State
+
+University
+
+   Introduction to Social Media is an Open Educational Resource (OER). This means the
+book is free (It was a good joke, right?). When Dr. Joshua Daniel became Director of First
+Year Composition in June of 2020, one of the first things he did was survey instructors and
+students to learn what they thought of the program. At that time, the program had two
+commercial textbooks students were required to purchase, and they were in negotiations
+with another textbook company to add a third. Many things became clear when he talked
+to students and instructors, but two points are relevant here: 1) instructors hated using
+the textbooks; 2) students hated the textbooks and generally did not do the reading. Dr.
+Daniel didn't think that is because instructors or students are lazy; he thought it was
+because commercial textbooks generally aren't very good. The reason for this is they, as
+products that need to be marketed and sold for profit, need to be as applicable as possible
+in as many contexts as possible. In other words, the textbooks the program was using
+stood the best chance of being profitable if they were equally as useful at OSU as they
+would be at OU, or UC Davis, or NYU. See the problem? Even though many commercial
+textbooks are quite good, by being applicable in so many contexts, they are never as good
+as they could be in any specific context. This book was built by and for the instructor of
+this course, an entrepreneur and practicing professional in her field. Moreover, when we
+find problems, we get to update it as you go (none of that, "Do I have to purchase the third
+edition, or can I get by with the second edition?").
+
+   So that's a reason to embrace Open Education: the textbooks are better. Here is another.
+Education is both a right for every human being and a responsibility for every democratic
+nation. Speaking as a 90's child now staggered by student loan debt, Joshua Daniel
+comments with certainty you are already paying more than enough for your education,
+and textbooks for your courses, when possible, should not add to that burden. All told, if
+you calculate the three textbooks previously in use for the first year composition program,
+students were spending just under half a million dollars per academic year on commercial
+textbooks. This for textbooks that instructors hated and students did not read. Not the
+best investment, at least not for us. Dr. Daniel believes all of you have a right to pursue
+education as far as you wish, and a small way we can help enable that is to remove as many
+barriers to entry as possible. Dr. Daniel was a first-generation college student. He grew
+
+                                                                                                                      Open Education at Oklahoma State University | 3
+up on a farm in Mississippi. Both of his parents had to drop out of high school for work,
+and none of his siblings were able to pursue higher education. When he arrived at my first
+undergraduate institution (he bounced around quite a few before he managed to graduate)
+he was lost and straight up broke. He dropped more than one course simply because he
+could not afford the textbooks. Many of your instructors have similar stories to this. For
+this reason as well as others, the instructor of this course is committed to removing the
+cost of commercial textbooks as a barrier to your education.
+
+   "Open Education at Oklahoma State University" licensed CC-BY is adapted from
+"Introduction to Who Teaches Writing" by Joshua Daniels, licensed CC-BY. It has been
+modified for voice and customized for non-textbook specific use.
+
+4 | Open Education at Oklahoma State University
+Accessibility Statement
+
+   OSU Libraries and Oklahoma State University believe that education must be available
+to everyone; this means supporting the creation of free, open, and accessible educational
+resources. We are actively committed to increasing the accessibility and usability of the
+textbooks we produce.
+
+Accessibility features of the web version of this resource
+
+The web version of Who Teaches Writing has been designed with accessibility in mind. It
+is our goal to optimize the resource for people using screen-reader technology. Content
+should be navigable using a keyboard, and links, headings, and tables should be formatted
+to work with screen readers. All images considered essential include alt-tags. Information
+is not conveyed by color alone, and there is an option to increase font size. (See tab on top
+right of screen titled, "Increase Font Size.")
+
+  · It has been optimized for people who use screen-reader technology.
+          all content can be navigated using a keyboard.
+          links, headings, and tables are formatted to work with screen readers.
+
+  · All images in this guide are screenshots that are considered non-essential as they are
+      described fully in the text. As such, they do not include alt tags.
+
+  · Information is not conveyed by color alone.
+  · There is an option to increase font size. (See tab on top right of screen titled,
+
+      "Increase Font Size.")
+
+Other file formats available
+
+In addition to the web version, this book is available in a number of file formats including
+print PDF, EPUB (for eReaders), digital PDF and various editable files. Here is a link to
+
+                                                                                                                                                      Accessibility Statement | 1
+where you can download this book in another file format. Look for the Download this book
+drop-down menu to select the file type you want.
+
+Known accessibility issues and areas for improvement
+
+While we strive to ensure that this resource is as accessible and usable as possible,
+we might not always get it right. Any issues we identify will be listed below. There are
+currently no known issues.
+
+                   List of Known Accessibility Issues
+
+Location of Issue  Need for     Timeline               Work Around
+                   Improvement
+
+Accessibility standards
+
+The web version of this resource has been designed to meet Web Content Accessibility
+Guidelines 2.0, level AA. In addition, it attempts to follow all guidelines in Appendix A:
+Checklist for Accessibility of the Accessibility Toolkit - 2nd Edition.
+
+Let us know if you are having problems accessing this
+guide
+
+We are always looking for ways to make our resources more accessible. If you have
+problems accessing this resource, please contact us to let us know, so we can fix the issue.
+
+   Please include the following information:
+  · The location of the problem by providing a web address or page description
+
+2 | Accessibility Statement
+  · A description of the problem
+  · The computer, software, browser, and any assistive technology you are using that
+
+      can help us diagnose and solve your issue
+          e.g., Windows 10, Google Chrome (Version 65.0.3325.181), NVDA screen reader
+
+You can contact us by completing this web form or by sending an email to
+kathy.essmiller@okstate.edu.
+
+   This statement was last updated on June 23, 2022, by Kathy Essmiller.
+   "Accessibility Statement" by Kathy Essmiller is licensed CC-BY and is adapted from
+"Accessibility Statement" in the BCCampus Pressbooks Guide by Lauri M. Aesoph licensed
+CC-BY. Language has been customized for local use.
+
+                                                                                                                                                      Accessibility Statement | 3
+Reviews
+
+This resource can also be found in MERLOT, and OERCommons. It has been endorsed by
+Open Illinois and selected to be included in the Open Illinois Collection. This resource
+was also selected for review by the MERLOT Business Editorial Board, who gave it an
+overall rating of 4.5 stars out of 5.
+
+   "As a business instructor, this is one of the best social media books I have seen to date."
+   "Overall strong resource for marketers and/or social media folks."
+   "Easy to include in the right course/topic."
+   "The material is written in such a way that it does not read like a textbook. The material
+is relevant as it discusses marketing after COVID. The content is interesting and easy to
+read. [This] could be used as part of a marketing course or a social media course." Content
+Quality, MERLOT Business Editorial Board
+   "The book can be used as the primary course resource or as a supplement to a broader
+topic course. The book and topics promote conceptual understanding by starting with
+the concepts of marketing and moving into this particular type of marketing. The book
+could be used as supplemental reading or as the primary source. The book includes
+concept information as well as additional readings and activities." Potential Effectiveness
+as a Teaching Tool, MERLOT Business Editorial Board
+   "The material is clearly defined for use and student. Site was in working order [and] is
+easy to navigate. Activities were included in appropriate sections and were relevant and
+easy to use. Generally meets accessibility requirements." Ease of Use for Students and
+Faculty, MERLOT Business Editorial Board
+
+4 | Reviews
+OpenOKState Student Privacy
+
+Guidelines
+
+OpenOKState and the OSU Libraries Library Teaching and Learning (T&L) Team* strive to
+enable engaging learning experiences for students using a variety of digital resources**.
+When you--the student--use these resources, you're likely to produce some data, such
+as data about how you used the resources (e.g., what you clicked on) or the content you
+produced while using the resources (e.g., answering a question).
+
+   In line with our values and our beliefs about student data privacy, our T&L team has
+created and closely follows a set of guidelines, made up of 5 core principles, for any type
+of student data we might come in contact with.
+
+   We aim to be exceedingly transparent with you about your data. On this page, you can
+learn about our team's values and beliefs regarding student data privacy as well as explore
+the 5 core principles of our Student Data Privacy Guidelines.
+
+   If you have any questions about these guidelines or about your data privacy, please
+don't hesitate to contact the Director of Library Teaching and Learning, Holly Reiter, at
+holly.reiter@okstate.edu.
+
+   *The data and Guidelines referenced on this page are unique to Library Teaching &
+Learning, and do not indicate guidelines for the Library or the University as a whole.
+
+   **For our purposes, digital learning objects include interactive tutorials, OStateTV or
+YouTube videos, the mobile Library Scavenger Hunt, visits to web pages that host these
+items, Pressbooks, and graduate student workshop registration.
+
+Values and Beliefs
+
+Values
+
+Our Library Teaching and Learning team values:
+
+                                                OpenOKState Student Privacy Guidelines | 5
+  · Prioritizing student needs and welfare
+  · Restoring and protecting equity and assisting students in doing the same
+  · Incorporating student voice and experiences and using it to shape our practice
+  · Providing "digital sanctuaries," or digital environments that prioritize and promote
+
+      student safety
+
+Student Data Privacy Beliefs
+
+As a Teaching and Learning team, we have foundational, ethical, scholarship-shaped
+beliefs about student data that have shaped our student data practice and guidelines.
+
+   We believe in prioritizing student data privacy to...
+
+  · Protect students
+  · Respect student autonomy
+  · Return power to students and establish equity
+  · Protect students' intellectual freedom
+  · Build trust between students and Library Teaching and Learning
+  · Enable student data privacy literacy
+
+Core Principles of Student Data Privacy
+
+Responsibility
+
+The Teaching and Learning team believes it's our ethical responsibility to protect your
+data privacy. Specifically, we uphold the responsibility to:
+
+  · Ensure any collected data is handled carefully, used effectively, and used only for the
+      stated purpose.
+
+  · Prevent unauthorized disclosure, use, or collection of your data
+  · Follow specific steps in data collection, use, storage, and destruction.
+
+6 | OpenOKState Student Privacy Guidelines
+  · Carry a shared understanding of our role in your data privacy.
+
+Transparency
+
+T&L believes you shouldn't have to wonder what's happening with your data, so we strive
+to be as open and transparent with you as possible. For each digital learning object we use,
+we'll share the following:
+
+  · What we are and are not collecting
+  · Why we're collecting it
+  · How it's being collected
+  · How it's being used
+  · Who has access to the data
+
+To keep you safe, we strive to store and process all data according to best practices. We'll
+only collect the minimum amount of data necessary to achieve our stated objectives.
+
+Privacy and Consent
+
+T&L believes that privacy is your right. We strive to honor your privacy by never releasing
+any personally identifiable information unless it is to your instructor of record who is
+using the digital learning object within their class.
+
+   Occasionally, we may share aggregates of de-identified or anonymized data internally
+(e.g., with Library administrators) or externally (e.g., at Library or industry conferences).
+We do this to continuously improve effectiveness, evaluate the effectiveness of our
+teaching and learning program, or to help evolve and shape the practices of our
+profession. Aggregating the data means that the data is in summary form and no individual
+student can be identified.
+
+   Finally, we will never sell or otherwise commodify your data, and will always prioritize
+the use of vendors and resources that do the same.
+
+                                                                                                                             OpenOKState Student Privacy Guidelines | 7
+Confidentiality and Security
+
+T&L takes great strides to ensure that any and all data we collect is kept confidential and
+secure.
+
+   We use several vendors to help us create and host digital learning objects and collect
+analytics. Sometimes, these vendors have access to your personally identifiable
+information for operational purposes, so we intentionally investigate and select vendors
+that also prioritize confidentiality and security.
+
+Access
+
+Sometimes we do collect and store personally identifiable information so we can do things
+like retain records for your instructor of record or keep track of event registrations. In
+these cases, T&L believes you have the right to know what that data is, request corrections
+if you think it's incorrect, and request that it be deleted. Please note, we'll always make
+every effort to honor deletion requests, but sometimes we're required to retain records
+for various reasons. If that's the case, we'll be open about why we can't delete it now, and
+if and when it can be deleted.
+
+Acknowledgements
+
+Library Teaching and Learning would like to acknowledge several projects that helped
+inform our Guidelines. We extend our sincerest gratitude for the effort and dedication
+that individuals invested in these works.
+
+  · The Open University's Student Policies and Regulations: Ethical Use of Student Data
+      for Learning Analytics
+
+  · The JISC Code of Practice for Learning Analytics
+  · National Information Standards Organization's (NISO) Consensus Principles on
+
+      User's Digital Privacy in Library, Publisher, and Software-Provider Systems
+  · Stanford CAROL & Ithaka S+R Project of Responsible Use of Student Data in Higher
+
+8 | OpenOKState Student Privacy Guidelines
+      Education
+  · UC Berkeley Research, Teaching, and Learning's Learning Data Principles
+  · University of Hawai`i at Mnoa's Resolution Supporting Learning Data Privacy
+
+      Principles and Practices
+Last updated 8/10/2021 by Kathy Essmiller.
+
+                                                                                                                             OpenOKState Student Privacy Guidelines | 9
+10 | OpenOKState Student Privacy Guidelines
+PART 1: MARKETING PRINCIPLES
+
+                                                                                                                                                Part 1: Marketing Principles | 11
+12 | Part 1: Marketing Principles
+Marketing in the Age of COVID-19 -
+When the World Went Digital and
+Toilet Paper Became Gold
+
+CHERYL LAWSON
+
+So, remember when COVID-19 hit and the world turned upside down? Yeah, me too. We
+had to change the way we lived and worked in the blink of an eye. And boy, did we realize
+how vital social media and digital platforms were for our professional and personal lives.
+Just think about companies like Zoom, Instacart, TikTok, and YouTube - they were the real
+MVPs during the pandemic. Let's dive into how the global crisis shook up marketing and
+made social media the star of the show.
+
+1.1 Embracing the Digital Life (and Hoarding Toilet Paper)
+
+When the pandemic struck, we quickly learned that working from home was the new
+norm. We didn't need to be at the office to get stuff done - all we needed was a laptop and
+a decent internet connection (and maybe some pants, but who's checking?).
+
+   Oh, and speaking of the pandemic, can we talk about how we all suddenly became
+obsessed with toilet paper? It turns out, people were using 40% more of it while stuck at
+home (source). That's a lot of TP, folks. But let's get back to the topic at hand...
+
+                                              Marketing in the Age of COVID-19 - When the World Went Digital and Toilet Paper Became Gold | 13
+                                      Illustration 201534357 / Business © Regina
+                                      Tolgyesi | Dreamstime.com
+
+1.2 Social Media: Our Lifeline in Lockdown
+
+As we hunkered down in our homes, social media became more crucial than ever. It was
+our connection to the outside world, our source of news, and a way to keep in touch with
+friends and family. Businesses caught on, and those who hadn't already embraced social
+media marketing were suddenly scrambling to get on board.
+
+   Let me give you a personal example. I've been producing an annual social media
+conference since 2011, and we were all set to celebrate our 10th anniversary in March
+2020. Talk about bad timing, right? With just a few weeks to spare, I had to make the tough
+call to postpone the conference until September (because, you know, maybe the pandemic
+would be over by then... oh, how naive we were).
+
+   But here's the silver lining: between March and September, the mobile app we'd been
+using as a bonus feature for our conference - Whova - became our saving grace. It created
+a community for event organizers like myself, where we could swap best practices for
+transitioning our events from in-person to virtual. And you know what? Even though we
+couldn't all meet up in Tulsa like we'd planned, our virtual conference went off without a
+hitch, thanks to Zoom, Vimeo, and Whova.
+
+   So there you have it - a firsthand example of how social media and digital platforms
+
+14 | Marketing in the Age of COVID-19 - When the World Went Digital and Toilet Paper Became Gold
+swooped in to save the day during the chaos of COVID-19. And if that's not a testament to
+their power, I don't know what is.
+
+1.3 What Is Marketing?
+
+Alright, let's get down to the nitty-gritty: what the heck is marketing, anyway? I know what
+you're thinking - isn't it just selling and advertising? Well, hold on to your hats, because
+there's a lot more to it than that.
+
+   The American Marketing Association gives us this definition:
+   "The activity, set of institutions, and processes for creating, communicating, delivering,
+and exchanging offerings that have value for customers, clients, partners, and society at
+large."
+   In plain English, marketing pros help businesses win over new customers by offering
+them something they can't resist - and then keeping them happy so they'll stick around
+and spread the word. It's all about creating a value proposition that's simply too good to
+pass up.
+
+1.4 What is Marketing Today? With Seth Godin
+
+In Seth Godin's video "What is Marketing Today?", he emphasizes that marketing has
+shifted from being a side effect to the core of what businesses do. In the past, companies
+would simply produce average products and rely on marketing teams to sell them.
+However, today's marketing landscape is centered around telling a story, connecting with
+customers, and focusing on how products can make a difference in people's lives.
+
+   Godin argues that old-school marketing, which involved buying mass media ads to reach
+average consumers, is fading away. The internet has turned into a medium of micro-
+segments, where companies can no longer buy attention in the same way they did with
+TV advertising. Instead, businesses need to pick their niche, measure when necessary, and
+focus on building connections, trust, and attention.
+
+   Godin emphasizes the importance of understanding your "why" but also recognizing
+that it's often a general concept. The key is to identify who you seek to serve and
+make things better for them. By continuously improving, earning trust, and transforming
+
+                                              Marketing in the Age of COVID-19 - When the World Went Digital and Toilet Paper Became Gold | 15
+attention into a promise and a brand, you can achieve success regardless of your
+profession.
+
+   Lastly, Godin stresses the responsibility that comes with marketing, as every action
+has an effect. Marketers must own the consequences of their campaigns and strive to
+create products and messages they're proud of. By focusing on making things better
+and inventing products that positively impact the world, marketers can contribute to
+meaningful change.
+
+   Exercise: Watch the video in class
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=231#oembed-1
+
+What is Marketing Today? With Seth Godin
+
+1.2 What Is Digital Marketing?
+
+At a high level, digital marketing refers to advertising delivered through digital channels
+such as search engines, websites, social media, email, and mobile apps. Using these online
+media channels, digital marketing is the method by which companies endorse goods,
+services, and brands. Consumers heavily rely on digital means to research products.
+For example, Think with Google marketing insights found that 48% of consumers start
+their inquiries on search engines, whereas 33% prefer to consult brand websites and the
+remaining 26% consumers search within mobile applications.
+
+   While modern day digital marketing is an enormous system of channels to which
+marketers simply must onboard their brands, advertising online is much more complex
+than the channels alone. In order to achieve the true potential of digital marketing,
+marketers have to dig deep into today's vast and intricate cross-channel world to discover
+strategies that make an impact through engagement marketing. Engagement marketing
+is the method of forming meaningful interactions with potential and returning customers
+based on the data you collect over time. By engaging customers in a digital landscape, you
+build brand awareness, set yourself as an industry thought leader, and place your business
+at the forefront when the customer is ready to buy.
+
+16 | Marketing in the Age of COVID-19 - When the World Went Digital and Toilet Paper Became Gold
+   By implementing an omnichannel digital marketing strategy, marketers can collect
+valuable insights into target audience behaviors while opening the door to new methods of
+customer engagement. Additionally, companies can expect to see an increase in retention.
+According to a report by Invesp, companies with strong omnichannel customer
+engagement strategies can retain around 89% of their customers as compared to
+companies with weaker omnichannel programs that have a retention rate of just 33%.
+
+   As for the future of digital marketing, we can expect to see a continued increase in the
+variety of wearable devices available to consumers. Forbes also forecasts that social media
+will become increasingly conversational in the B2B space, video content will be refined for
+search engine optimization (SEO) purposes, and email marketing will become even more
+personalized.
+
+   "Digital is at the core of everything in marketing today--it has gone from `one of the things
+marketing does' to `THE thing that marketing does.'"
+
+   - Sanjay Dholakia, Former Chief Marketing Officer, Marketo
+
+     QUIZ
+
+                    An interactive H5P element has been excluded from this version of the text. You can view it online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=231#h5p-1
+
+                                              Marketing in the Age of COVID-19 - When the World Went Digital and Toilet Paper Became Gold | 17
+How Many P's are in Marketing Now?
+
+CHERYL LAWSON
+
+While we're learning Marketing concepts, let's talk about the Marketing Mix. Even though
+the marketing world has gone digital, this "old-school" concept is very relevant today .
+We're talking about the 4 P's of Marketing. First, who do we have to thank for this? Neil
+Borden first came up with the term Marketing Mix, but it was Jerome McCarthy from
+Notre Dame University who really made it famous. He called it "the Four P's of Marketing"
+in his guide, "Basic Marketing: A Managerial Approach".
+
+   The legendary marketing guru, Philip Kotler, said it best: "Marketing Mix is the set of
+controllable variables that a firm can use to influence the buyer's response." What's cool
+about this is that digital and social media marketing still use these age-old concepts. We're
+just adapting them to new tools and methods, making them work in the digital world. So,
+the 4 P's are still alive and kicking, even in the age of Instagram and TikTok!
+
+                                                                  Illustration
+                                                                  20431582 /
+                                                                  Business ©
+                                                                  Dmytro121287 |
+                                                                  Dreamstime.com
+
+Let's dive into the 4 P's of marketing, keeping it short and sweet:
+
+Product: This is the good or service you're offering to your customers. It includes
+everything from the design, features, packaging, and even the product life cycle. The goal
+is to create something that solves a problem or fulfills a need.
+
+   Price: This is how much you charge for your product. It's about finding the sweet spot
+
+18 | How Many P's are in Marketing Now?
+between making a profit and offering value to your customers. Factors like production
+costs, competition, and perceived value all come into play when setting the right price.
+
+   Place: This is where and how you distribute your product to reach your target audience.
+It includes choosing the right channels, such as online stores, brick-and-mortar shops, or
+both. The goal is to make your product accessible and convenient for your customers to
+buy.
+
+   Promotion: This is how you communicate your product's value to your target audience.
+It involves a mix of marketing strategies like advertising, public relations, social media,
+and content marketing. The goal is to create awareness, generate interest, and ultimately,
+persuade people to buy your product.
+
+     EXERCISE - ESSAY
+                         An interactive H5P element has been excluded from this version of the text. You can view it online here:
+                         https://open.library.okstate.edu/introtosocialmedia/?p=84#h5p-2
+
+                                                                                                                                 How Many P's are in Marketing Now? | 19
+Applying Basic Marketing Principles to
+Social Media Marketing
+
+CHERYL LAWSON
+
+   Some people are confused about social media, but it's essential to understand that social
+marketing has been around for a long time. Digital and social media marketing are not new
+philosophies; they are traditional practices adapted to new tools.
+
+   Historically, business was conducted in social settings like door-to-door sales or
+marketplaces. These gatherings allowed people to share ideas and communicate across
+networks. Similarly, event marketing created connections between buyers and sellers
+
+20 | Applying Basic Marketing Principles to Social Media Marketing
+through dealer conferences or even extravagant parties attended by influential
+individuals.
+
+   Nowadays, many of these connections happen online through platforms like LinkedIn
+or Facebook. However, some businesspeople shy away from using these modern
+technologies as they appear daunting compared to traditional methods such as television,
+radio, newspaper advertising or direct mail campaigns.
+
+   The ease of digital marketing allows businesses to quickly share their stories by taking
+pictures or conducting interviews with just a smartphone. Despite the low cost of entry
+into this form of promotion, many entrepreneurs still find it challenging due to lack of
+education in marketing principles and strategy creation.
+
+   Social media is simply another way to market a product or service using traditional
+theories adapted for new mediums. Each platform has its own language and style which
+requires tailored communication strategies for success.
+
+   The main difference between traditional and modern-day digital/social media
+marketing lies in the technology available today rather than any significant change in
+underlying principles.
+
+   Before we move forward, let's go back to some of our earlier definitions of marketing by
+Seth Godin;
+
+   "Marketing is at the core of what we do. It is the story you tell, who you're telling it to,
+and why people are going to buy your product or service."
+
+   He also said,"Marketing is no longer about the stuff that you make, but about the stories
+you tell".
+
+The 4Ps Reimagined: Translating Marketing Mix to Social Media
+
+While social media marketing is relatively recent in the grand scheme of things, marketing
+itself isn't new at all. Applying foundational marketing concepts to social media is not just
+essential, but also incredibly effective. By grounding your social media strategy in these
+tried-and-true marketing principles, you'll be better equipped to leverage these platforms
+and communicate your brand message powerfully and persuasively.
+
+   Product is where we begin. (When I use `product' here, I mean product or service) It's
+critical to understand what sets your product apart and how it enriches your customer's
+life. These unique insights allow you to effectively utilize platforms like LinkedIn,
+Instagram, or YouTube to tell your product story. Keep in mind that savvy customers today
+
+                                                                                              Applying Basic Marketing Principles to Social Media Marketing | 21
+are not just buying a product; they're investing in your brand's narrative, which can include
+your connection to community, your social and environmental responsibility, and or your
+family connection to the product.
+
+   Then, let's discuss Price. This isn't just about the dollar value; it's about the perceived
+value your product delivers. Striking the right balance in pricing is paramount. You don't
+want to scare off customers by being too expensive, nor do you want to sell yourself
+short. E-commerce and social media have changed the pricing landscape, allowing you
+to operate with leaner margins and potentially pass the savings onto your customers.
+Techniques such as Dropshipping and Just-In-Time manufacturing can be powerful tools
+in your arsenal to manage costs.
+
+   Now, we move on to Place. This term encapsulates all the platforms where customers
+can find or access your offerings. Social media has revolutionized this aspect, making
+it possible for customers to shop from their living room while allowing you to engage,
+respond, and improve the customer experience in real-time.
+
+   Last, but definitely not least, Promotion. Traditional marketing techniques still have
+their place, but the digital landscape, especially social media, has opened up new
+possibilities. You can foster lasting relationships with your customers, earn their trust,
+and transform them into advocates for your brand. Promoting your brand on social media,
+optimizing your website for search engines, and leveraging email marketing can be cost-
+effective ways to enhance your visibility and reach.
+
+   As you craft your social media strategy, keep these principles at the forefront. Each one
+provides a lens to view your product, your customers, and the market. They aren't mere
+steps, but ongoing considerations that can help your brand connect, engage, and grow in
+the dynamic world of social media.
+
+22 | Applying Basic Marketing Principles to Social Media Marketing
+What's it All For?
+
+CHERYL LAWSON
+
+In the complex world of marketing, social media has emerged as a powerful tool, greatly
+influencing tactics and strategies. Businesses are constantly urged to invest in social
+media marketing, leaving many to question why it garners such emphasis amidst a
+plethora of alternatives. Unveiling the benefits of social media for businesses, we shall
+explore the tangible returns one can expect from a robust social media strategy.
+
+   Social media allows you to convey the narrative behind your product, appealing to
+your audience's emotions and values, thereby spreading your brand message. Crafting
+compelling visuals or stories around the genesis of your business, your team, or products
+can foster a strong brand reputation.
+
+   A significant advantage of social media marketing lies in its cost-effectiveness compared
+to traditional marketing approaches. It provides a level playing field for small and medium-
+sized businesses to compete with established brands without exorbitant expenses,
+thereby offering excellent return on investment.
+
+   Engaging your followers with captivating content not only retains them as loyal
+customers but can also turn them into brand ambassadors, extending your reach to their
+network. This organic promotion can reap rich dividends for your brand.
+
+   Social media's targeted advertising capability ensures that your investment is put to
+optimal use by reaching your desired audience. Moreover, retargeting options help keep
+your brand at the forefront of potential customers' minds, gently nudging them towards
+conversion.As we delve deeper into the purpose and significance of an impactful social
+media presence for businesses, it's important to highlight six key benefits that underscore
+why so many businesses prioritize this form of digital marketing.
+
+   These advantages are integral to a thriving online presence, influencing various aspects
+of a business's growth and success. They include SEO and Search Engine Optimization,
+Increasing Website Traffic, Decreasing Customer Acquisition Cost, Direct-to-Consumer
+engagement, PR and Brand Awareness, and Lead Generation. Each of these elements plays
+a crucial role in leveraging the power of social media to advance your brand and drive
+results.
+
+                                                                                                                                                             What's it All For? | 23
+SEO (Search Engine Optimization)
+
+Search Engine Optimization (SEO) is a powerful digital marketing tool that focuses on
+increasing your brand's visibility on search engines. With the right SEO strategies in place,
+your social media platforms and website can rank higher in search engine results. This
+is crucial as studies show that the top results on search engine pages get the majority of
+clicks. By optimizing your social media profiles and creating SEO-friendly content, you
+can enhance your brand's online presence and reach.
+
+Increase Website Traffic
+
+Social media marketing can significantly drive traffic to your website. By sharing engaging
+content, promotional offers, blogs, product launches, and more on your social media
+platforms, you can entice your followers to click through to your website. This increased
+traffic not only brings in potential customers but also contributes to improving your site's
+SEO rankings. Over time, a robust social media strategy can help create a cycle of higher
+search rankings and increased website traffic.
+
+Decrease Customer Acquisition Cost
+
+Social media is a cost-effective platform for reaching potential customers and nurturing
+relationships with existing ones. The cost of acquiring customers through social media
+is often lower than traditional marketing channels due to its organic reach and precise
+targeting. Moreover, through retargeting capabilities, you can re-engage users who have
+shown interest in your brand or product, further reducing the cost of customer
+acquisition.
+
+24 | What's it All For?
+Direct to Consumer (Avoid Traditional Wholesale and
+Third-Party Sellers)
+
+In traditional business models, products often go through several intermediaries such as
+wholesalers and retailers before reaching the end consumer. This can inflate the final
+price of the product and dilute the brand's control over the customer experience.
+
+   By using social media as a direct-to-consumer channel, you can sidestep these
+intermediaries, lowering costs and retaining more control over the customer journey.
+This model allows you to understand your customers' preferences, needs, and behaviors
+in real-time, enabling you to tailor your products and services accordingly. In addition,
+direct interaction with consumers can foster a stronger sense of community and loyalty
+around your brand.
+
+PR Brand Awareness
+
+Public Relations (PR) and brand awareness go hand in hand. Social media provides a
+platform where businesses can not only promote their products or services but also
+shape public perception by sharing their company's mission, values, and stories. It is an
+opportunity to humanize your brand and build a reputation that resonates with your
+audience.
+Social media platforms are ideal for conducting PR campaigns. They allow you to reach
+a wider audience and give you the opportunity to engage directly with them. This could
+involve answering customer queries, addressing concerns, or simply thanking them for
+their support. Such interaction fosters a positive image of your brand and enhances your
+reputation.
+
+   Moreover, social media enables real-time communication during crisis situations,
+allowing you to manage your reputation effectively. By proactively responding to issues
+and demonstrating your commitment to customer satisfaction, you can maintain and even
+improve your brand image.
+
+                                                                                                                                                             What's it All For? | 25
+Lead Generation
+
+   Lead generation is another key benefit
+of social media marketing. Social media
+platforms offer various tools and features
+that can assist in collecting potential leads.
+This includes call-to-action buttons,
+direct messaging, and ad campaigns
+specifically designed to capture user
+information.
+
+   By sharing engaging content and
+building relationships with your audience
+on social media, you can attract potential
+customers who may be interested in your
+products or services. Once these potential
+leads are identified, they can be nurtured
+through targeted content and
+personalized engagement, ultimately
+guiding them through the sales funnel.
+
+   Moreover, social media platforms offer
+advanced targeting options, allowing you
+to reach out to the right audience who are
+more likely to become quality leads. In this
+way, social media can efficiently and effectively enhance your lead generation efforts.
+
+26 | What's it All For?
+Social Media Marketing. A Brief
+History
+
+CHERYL LAWSON
+
+Social media is a broad term that encompasses a wide range of online platforms and tools
+that allow users to connect and share content with each other. The history of social media
+is long and complex, but it can be traced back to the early days of the internet.
+
+   One of the earliest examples of social media was Usenet, which was created in 1982.
+Usenet was a system of discussion forums where users could post messages and reply to
+each other. Another early example of social media was Six Degrees, which was launched in
+1997. Six Degrees was a social networking site that allowed users to connect with friends
+and family members.
+
+   In the early 2000s, social media began to take off. In 2004, Facebook was launched, and
+it quickly became one of the most popular social media platforms in the world. In 2005,
+YouTube was launched, and it revolutionized the way people watch and share videos. In
+2006, Twitter was launched, and it became the go-to platform for sharing short updates
+and news.
+
+   In the years since, social media has continued to evolve. New platforms have been
+launched, and existing platforms have been updated with new features. Social media has
+also become increasingly important in our lives. We use it to stay connected with friends
+and family, to learn about current events, and to share our thoughts and ideas with the
+world.
+
+   Social media has had a profound impact on our society. It has changed the way we
+communicate, the way we consume news, and the way we interact with the world around
+us. It is still too early to say what the future holds for social media, but it is clear that it
+will continue to play an important role in our lives and our businesses.
+
+                                                                                                                              Social Media Marketing. A Brief History | 27
+     Storytime
+
+        Let me tell you about December 2005. I saw a Business Week cover headline, "The Myspace Generation," and
+     it just clicked. I was only a year into starting my own event planning biz, and my new client was a dance
+     conference who's audience was 18-25-year-old women. Myspace was their jam - seriously, it was the new mall
+     hangout.
+
+        So, what did I do? I hopped on the Myspace train and used it for the dance conference to dish out resources
+     like tryout dates, dance makeup, and clothing recommendations. We became the ultimate one-stop-shop for all
+     things dance and our efforts resulted in the conference being in the black for the first time.
+
+        A bunch of us Gen Xers credit Myspace for teaching us HTML back in the day. It's crazy to think about it now
+     with TikTok ruling the roost, but Myspace was our first taste of being social online.
+
+28 | Social Media Marketing. A Brief History
+Do You Even Google?
+
+CHERYL LAWSON
+
+Get ready for this chapter, "Do You Even Google?", where we dive into the significance of
+search engine optimization (SEO) and how it impacts everything we do online. Our main
+goal? Make sure our social media posts and website content are super easy to find.
+
+   Let's not forget platforms like Facebook, Twitter, Instagram, TikTok, and YouTube,
+which have their own search engines for users to discover content. Fun fact: YouTube is
+the world's second-largest search engine, giving birth to the term "YouTube University."
+
+   Oh, and can we talk about "near me" searches on mobile devices? It's a game-changer
+when people are hunting for products or services.
+
+   Big brain business name  pic.twitter.com/iY1lhi4gAJ
+
+          -- Alicia Tatone (@AliciaTatone) March 28, 2023
+
+As savvy business owners and marketers, we need to know how folks find us online. Sure,
+ROI and engagement metrics matter, but creating searchable content should be top of
+mind.
+
+   That means getting found on big-time search engines like Google and Bing, as well
+as individual social networks. And hey, let's not forget about Google Business profiles.
+Though not technically social media, they can be part of our social media strategies. Pop
+those eye-catching social campaign creatives on your Google Business pages too! Bottom
+line: Optimize everything from image titles to alt text descriptions, so search engines can't
+resist indexing your content.
+
+     In Class Exercise: Google yourself!
+     Google your name and take note of the results that show up. This activity can help you understand the importance of your
+     online presence and how search engines present information about you. It can also encourage discussions about personal
+     branding, digital footprints, and strategies to improve visibility in search results.
+
+                                                                                                                                                       Do You Even Google? | 29
+Creating SEO with Your Photos Using Flickr
+
+Taking advantage of every SEO opportunity is crucial for your online visibility, and this
+includes optimizing your images. Using platforms like Flickr to host your photos allows
+you to enhance your photo SEO, as it provides fields for adding titles and descriptions
+to individual and bulk images. These additional details not only make your photos more
+accessible to people browsing the web but also to search engine algorithms. When
+uploading photos to your website, take the time to rename them using relevant keywords
+and phrases. This simple step ensures your images contribute positively to your website's
+SEO. Remember, every bit of "search engine juice" matters, and properly optimizing your
+photos can give you an edge in the increasingly visual digital landscape.
+
+                    An interactive H5P element has been excluded from this version of the text. You can view it online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=90#h5p-7
+
+Wrapping up this section, let's discuss an invaluable tool that can help you stay informed
+and monitor your brand or personal brand online: Google Alerts.
+
+   Google Alerts is a free service provided by Google that allows you to set up alerts for
+specific keywords or phrases. When new content containing those keywords or phrases
+is published on the web, you'll receive an email notification. This tool is especially useful
+for discovering content to share on social media platforms, as well as keeping track of
+mentions about your brand or personal brand.
+
+   By setting up Google Alerts for your business name, industry keywords, or even your
+own name, you can keep a pulse on what's being said about you, your business, or
+your industry. This information can not only help you curate content to share with your
+audience, but it can also provide valuable insights into public perception and enable you
+to address any potential issues or concerns.
+
+30 | Do You Even Google?
+                                                                  "Google alerts.jpg"
+                                                                  by Wikimedia
+                                                                  Commons is
+                                                                  licensed under CC
+                                                                  BY-NC-SA 4.0
+
+Furthermore, Google Alerts can be a helpful tool for competitor analysis. By monitoring
+your competitors' online presence and content, you can gain insights into their marketing
+strategies, identify gaps or opportunities, and stay ahead of the game.
+
+   In summary, utilizing Google Alerts can be an essential part of your overall digital
+marketing and social media strategy. It allows you to stay informed, monitor your brand,
+find shareable content, and keep an eye on the competition. With just a few simple steps,
+you can set up alerts tailored to your needs and ensure you never miss out on vital
+information in the digital world.
+
+                                                                                                                                                        Do You Even Google? | 31
+32 | Do You Even Google?
+PART 2: CRAFTING A SOCIAL MEDIA
+STRATEGY FOR YOUR BUSINESS
+
+                                                                                                     Part 2: Crafting a Social Media Strategy for Your Business | 33
+34 | Part 2: Crafting a Social Media Strategy for Your Business
+What Business Are You Even In?
+
+CHERYL LAWSON
+
+In this section, we'll dive into the art of crafting a rock-solid social media strategy that's
+custom-made for your business. But first things first: let's nail down what type of business
+you're running. Are you in the apparel game, living that lifestyle brand life, flexing your
+creative muscles, schooling folks in education, or hustling in the service or B2B/B2C
+support industry? Pinpointing your business type is crucial, but remember, you're not
+boxed in - think of how Amazon evolved from a mere online bookstore to an everything
+store.
+
+   Now, before we go all-in on marketing strategies (be it traditional or social media), we
+need to make sure we can explain our business in a way that's snappy and easy to grasp.
+No, you don't have to cram it all into a 30-second elevator pitch, but you should be able to
+convey your message clearly and efficiently across different organizations and industries.
+Your message should scream, "This is who we are, and this is why we do what we do!" Easy
+peasy.
+
+   So, what's next? Let's dig deeper into the components of a killer social media strategy.
+We'll talk about how to align your social media goals with your overall business objectives,
+define your target audience, and create content that speaks their language. We'll also
+explore the importance of analyzing your competition and staying on top of trends that
+are relevant to your industry.
+
+   And, of course, we'll dive into the nitty-gritty of choosing the right social media
+platforms and tools that suit your unique business needs. With the right blend of
+creativity, analytics, and good ol' fashioned hustle, you'll be well on your way to crafting a
+social media strategy that gets your message out there, engages your audience, and drives
+results for your business.
+
+   It's time to make your social media game unstoppable with a strategy that's tailored to
+your one-of-a-kind business. Let's do this!
+
+     Additional Reading
+
+                                                                                                                                        What Business Are You Even In? | 35
+        Understanding the Business You Are In | by B. L. Teague | The Startup | Medium
+        New insights for new growth: What it takes to understand your customers today (mckinsey.com)
+
+36 | What Business Are You Even In?
+Case Study: Amazon in 2023 By Sunil
+Gupta and Margaret L. Rodriguez
+
+CHERYL LAWSON
+
+I like to bring in the Harvard Business Publishing case "Amazon in 2023" by Sunil Gupta
+and Margaret Rodriguez to give students a solid, real-world example.
+
+       Abstract: Amazon kicked off its journey in July 1995, selling books online. Fast
+       forward to 2020, and it's a digital behemoth raking in over $280 billion in yearly
+       sales. A significant chunk of its growth comes from branching out into various
+       businesses that some might consider unrelated. So, is Amazon spreading itself too
+       thin, or is it strategically positioning itself for future success?
+
+Now, your students might not have access to the actual case, but let me break down some
+core concepts from the authors, so everyone can grasp the essentials without the case.
+Plus, this'll help anyone teaching with the textbook to integrate the case more effectively.
+
+   In today's market landscape, broad differentiation - being cheaper or better - is no
+longer enough to succeed. The digital era requires businesses to connect consumers and
+products through network effects and complementary offerings. This "winner-take-all"
+strategy creates connections between different industries, as seen with Amazon Studios
+videos offered for free with Prime memberships, leading to increased spending on their
+e-commerce platform.
+
+   Sunil Gupta, a professor at Harvard Business School, has spent over 12 years researching
+how technologies are changing consumer behavior and business strategies. His case study
+"Amazon in 2023" examines Amazon's expansion into seemingly unrelated businesses and
+raises questions about whether this lack of focus is detrimental or if it's positioning the
+company for future success.
+
+   Gupta emphasizes that differentiation alone is not enough in the digital era. Instead,
+businesses need to connect consumers and products through network effects and
+complementary offerings. This approach allows companies to be a "razor" in one industry
+and a "blade" in another, such as Amazon offering free videos through Prime to increase
+spending on their e-commerce platform.
+
+   When teaching this case, Gupta encourages pushing students to think more deeply
+
+                                                                                  Case Study: Amazon in 2023 By Sunil Gupta and Margaret L. Rodriguez | 37
+about Amazon's various ventures and question who the company is competing with. This
+case study can be easily taught online and appeals to a wide range of student groups.
+The key is to enjoy the case, stay updated on the latest developments, and engage in
+meaningful discussions about Amazon's evolving strategies.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=310#oembed-1
+
+In this 2010 interview with Charlie Rose, Jeff Bezos, the founder and former CEO of
+Amazon, shares his insights on Amazon's competitive advantage, how they approach
+competition. Bezos explains that Amazon's approach to maintaining a competitive edge
+consists of three key factors: a wide selection, low prices, and fast, convenient, reliable
+delivery. He also emphasizes the importance of being customer-obsessed, focusing on
+the customer more than on competitors. Bezos highlights that Amazon's online business
+model allows for cost structure advantages and that their purchasing power is now
+comparable to that of Walmart. Additionally, Bezos it's almost scary how much foresight
+Bezos had regarding Amazon Web Services
+
+38 | Case Study: Amazon in 2023 By Sunil Gupta and Margaret L. Rodriguez
+You will find more infographics at Statista
+
+Questions for discussion or quiz
+
+     · What business is Amazon in? Are they spreading themselves too thin or are they well-positioned for
+         the future?
+
+     · Who are Amazon's competitors? And what is Amazon's competitive advantage?
+
+                                                                             Case Study: Amazon in 2023 By Sunil Gupta and Margaret L. Rodriguez | 39
+         · What should traditional retailers like Best Buy do to compete with Amazon?
+40 | Case Study: Amazon in 2023 By Sunil Gupta and Margaret L. Rodriguez
+Who Is Your Customer?
+
+CHERYL LAWSON
+
+Creating Buyer Persona
+
+   Let's talk about creating customer personas! A customer persona is like a character
+sketch of your perfect customer. You base it on actual data from your current customers
+and research into your target market. Knowing your customers' needs, wants, and pain
+points helps you tailor marketing and sales strategies that really click with them.
+
+   So, how do you create a customer persona? First, gather data about your target market.
+You can get this from:
+
+                                                                                                                                                    Who Is Your Customer? | 41
+  · Customer surveys
+  · Website analytics
+  · Social media insights
+  · Industry reports
+
+Now, with your data in hand, let's build that persona. Give them a name and a job title.
+Then, dive into the details:
+
+  · Demographics: Age, gender, location, income level, and so on.
+  · Psychographics: Interests, hobbies, values, and more.
+  · Challenges: What big hurdles does your persona face?
+  · Goals: What's your persona aiming for?
+  · Pain points: What bothers or frustrates your persona?
+  · Needs: What does your persona need to reach their goals?
+
+With your customer persona complete, use it to shape your marketing and sales
+strategies. For instance, craft targeted content that speaks to their interests, or develop
+sales pitches that address their specific needs and pain points.
+
+   Creating customer personas is super helpful for boosting your marketing and sales
+results. By really understanding your target market, you can design campaigns that
+convert leads into customers more effectively.
+
+   A few extra tips for creating customer personas:
+
+  · Get different perspectives by involving multiple people in the process.
+  · Be as specific as possible--the more details, the better.
+  · Keep your personas up-to-date as your target market evolves.
+
+Storytime:
+
+Here's a personal example of how creating customer personas can be a valuable exercise.
+When I was working as the marketing director for the Route 66 Marathon in Tulsa,
+we started working on our customer personas. The good news was that through the
+registration process, we already had a lot of information about each of our participants. A
+lot of that information even showed up on their runner bib, such as which distance they
+
+42 | Who Is Your Customer?
+were running or walking, If they were a member of a running club, which start corral they
+were in. Being in corral A or B meant they were more likely a fast runner, while C or D
+indicated they were either one of our "party runners," back-of-the-packers, or they simply
+registered late.
+
+   During the registration process, we also asked if they would like to participate in our
+bloggers/social media panel and inquired about their job. So, by looking at photos on a
+plane ride back from a conference, we were able to identify and create our personas.
+By understanding the different types of participants, we could then create targeted
+marketing campaigns that catered to the various runner profiles, enhancing our overall
+marketing strategy.
+
+   In summary, gathering as much information as possible about your customers from
+the very beginning is crucial to creating effective customer personas. The more data you
+have about their demographics, psychographics, challenges, goals, pain points, and needs,
+the better you can tailor your marketing and sales strategies to resonate with them. By
+understanding your customers' unique characteristics, you can create targeted campaigns
+that drive engagement and conversions, ultimately leading to a more successful business.
+
+                                                                                                                                                    Who Is Your Customer? | 43
+How to Create a Buyer Persona
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=92#oembed-1
+
+Free Buyer Person Template by SEMrush: http://smr.sh/Kdc
+
+44 | Who Is Your Customer?
+Customer Personas and D.I.S.C
+
+CHERYL LAWSON
+
+I have been using the DISC (D-I-S-C) method for many years in various classes, ranging
+from event planning to social media marketing. This technique is not only helpful for
+understanding how to communicate with customers, coworkers, colleagues, or family
+members but also enables us to know ourselves better.
+
+   Early in my career at General Motors, we participated in a Myers-Briggs personality
+style assessment. It was an eye-opening experience as I began to understand my
+communication preferences and recognize that others may have different styles. People
+want to be treated according to their preferences.
+
+   At Fleetwood RV, we incorporated DISC training into our sales system. Understanding
+your own communication style and identifying the customer's profile (whether they are D,
+I, S or C) greatly aids the sales process and helps tailor presentations accordingly.
+
+   This same concept applies in marketing when identifying customer personas.
+Recognizing that our preferred communication style may differ from our target audience
+allows us to adapt our marketing visuals, tone of voice and overall presentation on
+platforms such as websites or social media pages like Instagram and Facebook.
+
+   Utilizing the DISC method can significantly improve your understanding of yourself and
+others while enhancing your professional skills in areas like sales and marketing. There are
+numerous places where you can take this test - even simple versions can be found online
+for use during class or while reading at home.
+
+   THE SURVEY
+   INSTRUCTIONS FOR RESPONDING:
+   In the space provided below, you'll find different behaviors relating to a specific
+situation. Your task is to rank these behaviors based on how well they represent you, from
+most to least characteristic. Start from the left and assign "4" points to the behavior that
+best describes you in that situation. Then, assign "3" points to the next most characteristic
+behavior, followed by "2" points for the next one, and finally, "1" point for the behavior that
+least resembles you. Download the survey
+   EXAMPLE
+   3 Directing 4 Influencing 2 Steady 1 Cautious
+
+                                                                                                                                          Customer Personas and D.I.S.C | 45
+Dan                                 Iris          Shelia         Curtis
+Self-Certain                        Optimistic    Deliberate     Restrained
+
+Adventurous                         Enthusiastic  Predictable    Logical
+
+Decisive                            Open          Patient        Analytical
+Fearless                            Impulsive     Stabilizing    Precise
+Restless                            Emotional     Protective     Doubting
+Competitive                         Persuading    Accommodating  Curious
+Assertive                           Talkative     Modest         Tactful
+Experimenting                       Charming      Easy-Going     Consistent
+Forceful                            Sensitive     Sincere        Perfectionists
+TOTAL                               TOTAL         TOTAL          TOTAL
+
+INSTRUCTIONS FOR COUNTING AND GRAPHING:
+First, sum up the numbers in each of the four columns. Write the total number for each
+column in the empty space labeled "TOTAL" at the bottom of the column. To ensure
+accuracy, add all the columns together. The sum of all four columns should equal 100.
+
+   Next, plot the numbers from the totals columns on the graph provided below. For
+instance, if the total number in the "D" column was 15, you would place the plotting point
+(dot) halfway between the 14 and the 16 on the graph for that dimension.
+
+46 | Customer Personas and D.I.S.C
+D I           S      C
+
+40 40 40 40
+
+38     38     38     38
+   36     36     36     36
+   34     34     34     34
+
+32 32 32 32
+
+30     30     30     30
+   28     28     28     28
+   26     26     26     26
+
+24 24 24 24
+
+22     22     22     22
+   20     20     20     20
+   18     18     18     18
+
+16 16 16 16
+
+14 14 14 14
+   12 12 12 12
+   10 10 10 10
+
+After completing your graph, circle the highest visual point. This represents your
+strongest behavioral characteristic. The higher you score on the graph, the more intensity
+you bring to this particular behavioral characteristic. Look at the letter at the graph on
+page one which corresponds to the highest visual point. Using this letter look up your
+behavioral style
+
+   (D=Dan, I=Iris, S=Sheila, C=Curtis) Watch the video below for explanations or click here.
+
+       One or more interactive elements has been excluded from this version of the text. You can view them online here:
+       https://open.library.okstate.edu/introtosocialmedia/?p=325#oembed-1
+
+D=Dominance, I=Influencing, S=Steady, C=Cautious
+
+Okay, now that you've got a handle on DISC styles, it's time to think about how you can
+apply this to your customers and enhance your marketing strategy. Using DISC styles can
+
+                                                                                                                                          Customer Personas and D.I.S.C | 47
+help you pinpoint the right social media platforms to reach your customers, and tailor
+your content, tone, and style to match their preferences. Let's explore this:
+
+   If your customers fall into the `S' or Steady Shelia category, they might appreciate the
+familiar communities on Facebook or the professional connections on LinkedIn. They
+value consistency, patience, and long-term relationships. So, platforms that facilitate
+regular, meaningful engagement could be their digital hangout spots.
+
+   Those in the `C' or Compliant Curtis group are all about details and clarity. They might
+be drawn to the defined guidelines and clear communication of LinkedIn or the fast-
+paced, information-dense environment of Twitter. These platforms could be their go-
+to sources for in-depth information and precise updates. You might also find Cs in the
+Dataisbeautiful subReddit.
+
+   For our `D' or Dominant Dan category customers, quick, result-oriented platforms like
+Instagram or TikTok could be their arena. They're dynamic, decisive, and enjoy seeing
+the impact of their actions. These platforms can offer them immediate engagement,
+inspiration, and opportunities to take action.
+
+   And for the `I' or Influencing Iris types, the networking-friendly environments of
+Instagram or Twitter could be their stomping grounds. They're all about expressing their
+thoughts and making connections. These platforms allow them to network widely and
+share their influential ideas.
+
+   Remember, these are general tendencies and real-world preferences can vary. People
+might engage with multiple platforms for different reasons. So, it's crucial for you as a
+marketer to keep your approach flexible and adaptable. Monitor your engagement, adjust
+your strategy, and most importantly, keep learning about your customers!
+
+   Incorporating DISC into your customer personas can give you valuable insight into how
+your customers think, behave, and communicate. With this in your tool kit, you can create
+targeted, relevant content and connect with your customers in a way that resonates with
+them. It's all about meeting them where they are and speaking their language.
+
+                    An interactive H5P element has been excluded from this version of the text. You can view it online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=325#h5p-9
+
+48 | Customer Personas and D.I.S.C
+Competition Check
+
+CHERYL LAWSON
+
+"If you make the opportunity, you'll be the first in the position to take advantage of it."
+   - Biz Stone Co-Founder of Twitter
+
+let's dive into the realm of social media competitive analysis. As a business, you've got
+competition, those pesky folks selling similar products or services as you, targeting the
+same crowd. With e-commerce, these competitors aren't just on the next block, they
+could be across the globe.
+
+   The web has removed geographical barriers, exposing your business to a worldwide
+wrestling ring. Your competition isn't just the store down the street; it's also that trendy
+online shop based halfway around the globe. And believe me, their Instagram ads can be
+pretty slick.
+
+   Ignoring what your competitors are doing on social media? Not an option. It's about
+learning their tactics, their successes, their failures. It's about staying one step ahead. But
+this isn't about being creepy, spying, or doing anything sketchy. It's just good business
+sense.
+
+   Your competition could be publicly listed companies whose financial reports are easily
+accessible. You get a peek at their financial health, and you know what you're up against.
+It's not always a David vs Goliath scenario; often, the smaller, more innovative companies
+outperform their larger competitors.
+
+   When we chat about competition, it's not always a bad thing. It keeps you on your toes,
+pushing you to improve your product, your customer service. Plus, you get to learn from
+those who've been around the block.
+
+   So, who are these competitors? Here's the breakdown:
+
+  · Direct Competition: These are your most obvious competitors. If you're selling
+      pizzas, it's the other pizza joints. Picture the Pepsi-Coca-Cola rivalry.
+
+  · Indirect Competition: These are a bit sneakier. If you have a toy shop downtown,
+      your indirect competition might be that online toy store who's also targeting your
+      city's kiddos.
+
+  · Replacement Competition: This one's tricky. It's about the alternatives, the
+      substitutes. The folks who sell something different, but it can still replace what
+
+                                                                                                                                                          Competition Check | 49
+      you're offering. Like Kindle becoming the replacement for traditional books.
+
+     Coke vs. Pepsi The Ultimate Rivalry
+
+        The soft drink industry has been dominated by two cola giants for decades - Coca-Cola and Pepsi. Their
+     fierce rivalry has fueled some of the most memorable marketing campaigns, and among them, none is more
+     iconic than the "Pepsi Challenge." This bold initiative, launched by Pepsi in the mid-1970s, invited consumers to
+     participate in a blind taste test to determine which cola they preferred. The results became a pivotal moment in
+     advertising history and sparked an ongoing debate about brand loyalty and consumer behavior. In the video,
+     "Marketing Experts Break Down the Coke vs. Pepsi Rivalry" by Vanity Fair, experts delve into the dynamics of
+     this legendary rivalry, revealing key insights and strategies that continue to shape the world of marketing
+     today. Buckle up, as we take you through a rollercoaster ride of one of the most heated battles in the business
+     landscape.
+
+                          One or more interactive elements has been excluded from this version of the text. You can view them
+                          online here: https://open.library.okstate.edu/introtosocialmedia/?p=94#oembed-1
+
+ Why Perform Competitor Analysis
+
+Why should you bother to perform a social media competitor analysis for your strategy?
+   First and foremost, understanding your competition gives you an understanding of your
+
+customers. It's easy for businesses to get tunnel vision, focusing on their strengths while
+forgetting to take a look around at what's happening in the marketplace. Competitive
+analysis, especially on social media, gives you a fresh set of eyes and a clearer perspective
+on what your customers want and need.
+
+   Secondly, it helps you identify potential threats. Keeping tabs on your competitors'
+social media activities gives you a heads-up on potential threats lurking around the
+corner. Whether it's a new market entrant or a disruptive technology, a thorough analysis
+of your competitors' social media activities will alert you well in advance.
+
+   Thirdly, it allows you to set relevant benchmarks. Businesses often set performance
+
+50 | Competition Check
+standards or Key Performance Indicators (KPIs), but without a solid understanding of the
+competitive landscape, these benchmarks may be out of step with the market realities.
+Monitoring your competitors on social media helps ensure your benchmarks are in line
+with industry standards.
+
+   Moreover, a social media competitor analysis is a fantastic tool for recognizing market
+gaps. Even in a crowded market, there's always a blind spot your competition is missing.
+Through a careful study of your competitors' social media activities, you could discover an
+untapped niche or a customer group that's been overlooked.
+
+   For instance, say you're in the furniture business. You might find that none of your
+competitors are targeting the millennial market on social media. There's your gap. You can
+then develop a social media strategy to engage millennials with modern furniture designs
+and grow your customer base.
+
+   A deep dive into your competitors' social media might uncover some struggling
+businesses. Here's where potential opportunities for acquisitions or mergers could come
+up. By merging with or acquiring these businesses, you could expand your operation,
+improve your product quality, and tap into their distribution network to reach new
+markets.
+
+   In conclusion, a social media competitor analysis isn't just a "nice-to-have" for your
+social media strategy; it's a vital tool that can steer your business in the right direction,
+help you stay ahead of the curve, and ultimately, succeed in the marketplace.
+
+How to Perform a Social Media Competitive Analysis
+
+The article from Hootsuite outlines a step-by-step process for conducting a social media
+competitive analysis, which is a critical tool for any business wanting to excel in the online
+space. Here's a summary of the key points:
+
+  1. Identify Your Competitors: Start by listing out who your competitors are. These
+      could be businesses that offer similar products or services, operate in the same
+      geographical area, or target the same audience demographic. You can use social
+      listening tools or conduct a simple Google search to identify these competitors.
+
+ 2. Choose Which Social Networks to Analyze: Your competitors may not be active on
+      all social networks, and neither should you. Prioritize the platforms where your
+      target audience is most active. You could use a social media demographics guide to
+
+                                                                                                                                                          Competition Check | 51
+      help identify these platforms.
+ 3. Analyze Your Competitors' Social Media Presence: Look at your competitors' overall
+
+      presence on each platform. How many followers do they have? How frequently do
+      they post? What's their brand voice and personality?
+ 4. Evaluate Your Competitors' Content: Study the types of content your competitors
+      share. What gets the most likes, shares, or comments? Is it videos, images,
+      infographics, or user-generated content? Use this information to inform your own
+      content strategy.
+ 5. Measure Your Competitors' Engagement: Look at how your competitors interact
+      with their audience. How do they respond to comments or complaints? Do they use
+      any specific hashtags? Do they run contests or giveaways?
+ 6. Track Your Competitors' Posting Frequency: How often are your competitors
+      posting? This can help inform your own posting strategy.
+  7. Analyze Your Competitors' Audience: This involves studying the demographic
+      details of your competitors' followers. What's their age, gender, location, and
+      interests?
+ 8. Use Tools for Social Media Competitive Analysis: There are various tools available
+      that can help streamline this process, such as Hootsuite, Sprout Social, or BuzzSumo.
+ 9. Document Your Findings: As you gather all of this information, document it in a way
+      that allows you to make direct comparisons between your social media performance
+      and that of your competitors.
+10. Make Strategic Decisions: Finally, use all this information to make strategic
+      decisions about your own social media strategy. Maybe you need to post more
+      frequently, diversify your content, or engage more with your audience. Whatever it
+      is, a competitive analysis will help you spot the areas where you can improve.
+
+SWOT Analysis
+
+A SWOT analysis is a useful tool for evaluating the strengths, weaknesses, opportunities,
+and threats related to your business - or in this context, your social media marketing
+strategy. Here's how it applies to social media:
+
+   Strengths: These are the things your business does well on social media. Maybe you
+have a highly engaged community, your video content receives massive views, or your
+customer service via direct messaging is top-notch. This could also include factors like
+
+52 | Competition Check
+having a well-defined brand voice that resonates with your audience, or having
+influencers or brand advocates who regularly share your content.
+
+   Weaknesses: These are the areas where your social media marketing could use some
+improvement. Perhaps your post frequency is inconsistent, your engagement rate is low,
+or your content isn't resonating well with your audience. Or maybe your response time to
+customer queries is too long. Identifying these weak points can help you devise strategies
+to improve them.
+
+   Opportunities: Opportunities are external factors in your business environment that
+could provide a boost to your social media presence. Maybe there's an emerging social
+media platform where your competitors are not yet active, or a trending topic that aligns
+with your brand which you can capitalize on. Perhaps there are industry events, holidays,
+or popular hashtags related to your business that you could leverage for increased
+visibility.
+
+   Threats: Threats are external factors that could potentially harm your social media
+presence. This could be anything from changes in social media algorithms that decrease
+your organic reach, to negative reviews or public relations crises that emerge online. Also,
+it could be potential actions of your competitors - if they're planning to launch a big social
+media campaign, for example, it could overshadow your own efforts.
+
+   Conducting a SWOT analysis in the context of a social media competitive analysis
+involves not just looking at your own strengths, weaknesses, opportunities, and threats,
+but also those of your competitors. This can give you a clearer picture of where you stand
+in the social media landscape and help you identify ways to improve your performance
+and gain a competitive edge.
+
+   Remember, the goal isn't to copy your competitors, but to understand what they're
+doing well and identify areas where you can differentiate yourself.
+
+                                                                                                                                                          Competition Check | 53
+Social Media Competitive Analysis Template
+
+   Click on the image above to open the template or click below to download the excel
+spreadsheet.
+
+          Social Media Competitive Analysis [To use the template, click the _File_ tab and select _Make a copy..._]
+
+      Exploring Meta Ad Library
+
+     The Meta Ad Library is a treasure trove of information about the strategies your competitors are using to reach their target
+     audience. Here's an exercise to get you familiar with it. We'll be doing three searches for your competitor or a brand you are
+     familiar with. Here's how to do it:
+     Search for a Competitor: Go to the Meta Ad Library and type in the name of your competitor or a brand that you're interested
+     in. Browse through the ads that are currently active. What kinds of messages are they promoting? What is their call to action?
+     How does their ad design reflect their brand identity?
+
+54 | Competition Check
+Winning Combo: Content, Marketing,
+and Measurement: The "See, Think, Do,
+Care" Framework
+
+CHERYL LAWSON
+
+Introducing Avinash Kaushik's "See, Think, Do, Care" framework - a snappy, innovative
+strategy to understand your customer's journey and align it with your social and digital
+content. Imagine it as a cycle that your customers are constantly flowing through, with
+each stage reflecting a different state of mind, a different need, a different level of
+engagement.
+
+Here's a brief rundown:
+
+See: This is the largest possible audience, all the folks out there who could potentially be
+interested in your products or services. They may not know they need your product yet,
+but we're trying to catch their eye.
+
+   Think: This is a subset of the "See" crowd. These are the people who are actively
+thinking about a product or service like yours, but haven't quite made the decision to
+purchase yet.
+
+   Do: Now we're getting into serious territory. This group is smaller still, made up of
+people who are ready to make a move. They're ready to buy, subscribe, download, you
+name it.
+
+   Care: This last group is the cream of the crop. These are your most loyal customers.
+They've bought, they're happy, and they're likely to do it again. Not only that, but they're
+also likely to tell their friends about how great you are.
+
+   Now, how do we tackle content for each of these stages? This is where the fun begins.
+Each stage requires a different approach.
+
+                                               Winning Combo: Content, Marketing, and Measurement: The "See, Think, Do, Care" Framework | 55
+                                                                                                                    The image
+                                                                                                                    illustrates
+                                                                                                                    Avinash Kaushik's
+                                                                                                                    See-Think-Do-Ca
+                                                                                                                    re framework
+                                                                                                                    applied to a
+                                                                                                                    specific audience.
+                                                                                                                    Travel &
+                                                                                                                    Adventure
+                                                                                                                    Business.
+
+See-Think-Do-Care framework for Social Media Content
+   The beauty of the See-Think-Do-Care framework lies in its versatility and applicability
+
+to virtually any content marketing strategy, including social media. It provides a clear
+roadmap to content creation, helping you address the unique needs of audiences at
+different stages in their customer journey. Let's break down how to use it in your social
+media strategy:
+
+   See: At this stage, your aim is to raise awareness and attract potential customers.
+Content here should be engaging, informative, and shareable, but it doesn't need to
+directly promote your product or service. Think of blog posts, infographics, and videos
+that answer common questions or solve problems in your industry. Share this content on
+your social platforms to attract a broad audience, gain followers, and build your brand
+reputation.
+
+   Think: Here, your audience is contemplating their options. They're aware of their needs
+and are actively seeking solutions. Your social media content should guide them towards
+your offerings without being overly promotional. Case studies, customer testimonials,
+product comparison posts, and `how-to' content that features your product or service can
+be effective here. This type of content can help sway their opinion in your favor and push
+them further down the funnel.
+
+   Do: At this stage, your audience is ready to take action. They've done their research,
+they've weighed their options, and they're ready to make a decision. The content here
+should be targeted, direct, and persuasive, with clear calls to action. Offer exclusive
+
+56 | Winning Combo: Content, Marketing, and Measurement: The "See, Think, Do, Care" Framework
+discounts, highlight the unique selling points of your product or service, share product
+demos, or promote free trials.
+
+   Care: This stage is all about nurturing and retaining your existing customers. Engage
+with your loyal customers on social media by sharing user-generated content, offering
+exclusive promotions or sneak peeks at new products, and asking for their input on
+upcoming features or products. Your goal here is to keep them interested and engaged
+with your brand, transforming them into brand advocates.
+
+   By understanding and implementing the See-Think-Do-Care framework, you can
+ensure that your social media content marketing is hitting all the necessary touchpoints,
+effectively guiding your audience from awareness to conversion, and beyond.
+
+          An interactive H5P element has been excluded from this version
+          of the text. You can view it online here:
+https://open.library.okstate.edu/introtosocialmedia/?p=374#h5p-10
+
+                                                Winning Combo: Content, Marketing, and Measurement: The "See, Think, Do, Care" Framework | 57
+58 | Winning Combo: Content, Marketing, and Measurement: The "See, Think, Do, Care" Framework
+PART 3: SOCIAL MEDIA 101
+
+                                                                                                                                                     Part 3: Social Media 101 | 59
+60 | Part 3: Social Media 101
+Every Network is an Island
+
+CHERYL LAWSON
+
+Navigating your path through the terrain of social media marketing can seem daunting,
+particularly when deciding which social media platform is most suitable for your business.
+You've defined your objectives; you may be aiming to hone your skills as a social media
+marketer for an enterprise or leveraging your knowledge to boost your startup's growth.
+In either scenario, the question of "Which social media platform is the best for my
+business?" inevitably arises.
+
+   This is a longstanding debate, yet it's important to realize that each network carries its
+own significance. The choice of platform hinges not on general perceptions of `the best',
+but on what best aligns with your unique business goals and fits the specific needs of your
+customer personas.
+
+   Social media platforms were developed with distinct objectives in mind. Facebook
+sought to unify individuals worldwide, LinkedIn established an avenue for professional
+networking, Instagram provided a platform for all age groups to capture and chronicle
+their significant moments. Consequently, understanding the benefits unique to each
+platform is vital. It's about deciding which platform offers the capabilities that best serve
+your business goals, aligns with your industry and resonates with your defined customer
+personas.
+
+   Remember the initial chapters: "What business are you in?" and "Who is your
+customer?" Keeping your specific industry and your target customer personas in mind
+is key when assessing these platforms. Each one offers unique benefits and reaches
+specific demographics, so consider where your customers are most likely to be active and
+engaged. The platform that best reaches your customers and aligns with your business
+objectives is the one you want to focus on.
+
+     Side Note:
+
+        Regardless of whether you're a budding startup or an established brand, it's wise to secure your brand name
+     across all social media networks, even if you're not actively using them in your current strategy. This
+
+                                                                                                                                                Every Network is an Island | 61
+     preemptive measure ensures your brand name isn't hijacked or misused by others. The last thing you want is
+     for someone else to lay claim to your brand's name.
+
+Who Lives There?
+
+A primary appeal of social media for marketers is the extensive targeting options it
+provides. Unlike traditional marketing which often focuses on mass marketing, social
+media marketing allows you to precisely target the audience for your marketing
+campaigns.
+
+   Before launching any marketing campaign, it's essential to set clear goals, including
+defining the type of audience who should view your ads and how they should interact with
+your business. For this, it's essential to know the demographics of users on each social
+platform. Let's talk Statistics for a bit.
+
+62 | Every Network is an Island
+Find more statistics at Statista
+
+Facebook
+
+Facebook is populated mostly by adults of 25-34 years age group. The second largest
+
+                                                                                                                                                Every Network is an Island | 63
+group is 18-24 years who make up 23.8% of Facebook's population and only 4.8% of users
+fall into the senior age group. The biggest country present on the platform is India, while
+users from the US and Canada are only 10% of the total Facebook population. As for
+gender, males dominate the platform with 56% of the total population. Also, 51% active
+users visit the website several times a day and 75% of Facebook users are at least college
+graduates.
+
+Instagram
+
+On Instagram, the highest population is of 25-34 year olds who make up 33.1% of all users
+and age group of 18-24 years is second with 29.6% share. Most of them come from the US,
+whereas India and Brazil hold second and third positions respectively. 43% of these users
+are college graduates and 42% earn over $75,000 per annum.
+
+   Over 510 million users are females and males are behind with a difference of 20 million.
+These users spend around 28 minutes a day on Insta. Most users follow at least a single
+brand on the app and 73% of teens in the US find Instagram the easiest way to reach and
+interact with a brand.
+
+TikTok
+
+TikTok is a customer favorite app and stands second among the most popular free apps of
+2019. Its users are present in 141 countries while China, India, United States, and Turkey
+are among the countries where it is more frequently downloaded and used.
+
+   44% TikTok users are females and 56% are males. Out of these, 41% users are aged 16-24
+years who spend at least 52 minutes every day on the app, watching videos related to
+entertainment, dance, pranks, fitness and other categories.
+
+   90% of TikTok or Douyin users access the app via Android smartphones and maintain a
+healthy engagement rate of 52%. In 2019, people spent $115.3 million on the app for in-app
+purchases, influencer marketing, etc.
+
+   This was a brief overview of some popular social platforms. You can opt for the platform
+that suits your business needs.
+
+64 | Every Network is an Island
+What Language Do They Speak?
+
+Whether you're talking to friends in a party, communicating with little kids in social
+gatherings, or sharing thoughts with business associates in a professional setting, you
+should always be aware of your audience. When you choose the language or tone they
+understand, you can conveniently communicate with each other without
+misunderstandings.
+
+   Don't forget this rule when communicating with your audience on social media.
+Creating a profile on social websites is easy. What's difficult is to spread your message
+and get people talking about the brand in a positive manner. However, this objective can
+be achieved by determining what type of content the audience prefers and creating posts
+accordingly.
+
+Hashtags (#)
+
+Hashtags were introduced by Chris Messina in an attempt to organize content on social
+media. Twitter platform first introduced this unique feature in 2007, but it was later
+adopted by Facebook, Instagram, YouTube, Pinterest, and LinkedIn due to its usability.
+
+   A hashtag categorizes content on the basis of topic. If you want to reach the right
+audience for your business, you need to target popular and relevant ones. Moreover, you
+can also create custom hashtags to promote your products.
+
+   Let's discuss this concept with an example. Imagine that a roofing service provider hires
+you as a social media marketer. To build their business online, you need to come up with
+suitable hashtags for the social marketing strategy. Here are a few trends and hashtags
+that may prove useful:
+
+   #roofing #roofingcontractor #construction #greenroofing #roofrepair #roofgutters
+
+Long Form vs. Short Form Content
+
+The internet users tend to have short attention spans. They easily get distracted and can
+ignore your posts if they don't find it interesting. This is why content marketing in digital
+
+                                                                                                                                                Every Network is an Island | 65
+media focuses on captivating and concise content that can keep readers hooked till the
+last line.
+
+   If we need to keep the content short, how can we share important information or news
+with the target audience?
+
+   It's common for social media marketers to get confused about the length of content. But
+you should remember that the content length depends on the interest of your audience as
+well as the platform where you intend to post it.
+
+   If you are planning to set up a company blog, it's best to opt for long-form content. The
+purpose of blogging is to educate people about a relevant topic and offer comprehensive
+solutions to problems. For example, if you are an expert in providing electrical installation
+and repair services, you may want to write posts about safety tips for customers. Blog
+posts can be 500-1,000 words, but you should aim for publishing blogs of 2,000-2,500
+words to boost SEO score.
+
+   LinkedIn is also suitable for posting long-form content. You can write about your area
+of expertise and experiences to share knowledge with other professionals.
+
+   Other social platforms such as Facebook, Twitter, Instagram, etc. may be suitable for
+short-term content. Whether you are thinking of creating text posts, videos, or images,
+it's a better option to keep the content short for better engagement.
+
+   Also, don't forget that long form videos aren't compatible with most social websites.
+Instagram supports videos of up to 15 seconds. So, if you are creating long form
+informative videos, it may be a good option to post it on YouTube and share a brief snippet
+on Twitter and other social websites. Your followers who find the topic interesting will
+visit your YouTube channel to watch the entire video.
+
+What's Their Favorite Dish?
+
+Back in the day, social media marketing was all about text posts and still images. With
+technology advancements, a wide variety of content is now available to internet users.
+Let's first take a look at the most popular types of digital content. After that, we will
+discuss which content goes well with popular social websites.
+
+  · Blogs or articles
+  · eBooks
+  · Images (still images, GIFs, 360° images)
+
+66 | Every Network is an Island
+  · Videos (recorded videos and live streaming)
+  · Infographics
+  · Testimonials
+  · Contests
+  · Polls
+  · Podcasts
+  · Webinars
+  · How-to guides
+
+Instagram is an image-based platform. To promote your brand, you can share high-
+quality images of products, team members, as well as stills from networking events.
+Adding relevant captions and hashtags is also essential. A similar strategy is suitable for
+Pinterest where you can capture attention via images.
+
+   As for Facebook, videos perform far better than any other type of content. This includes
+live streams as well as processed images for coverage of organizational events. You can
+also post videos developed with the aim of advertising on your Facebook page.
+
+   With the increasing population of TikTok, you shouldn't ignore its importance in the
+marketing plan. You can complement videos with captions and can include links to your
+website to increase web traffic.
+
+   Twitter network was mostly known for its credibility when it comes to news and
+information. Users of this platform show more interest in professionally processed
+content which includes informational infographics and videos. Lately, in 2024, the
+credibility of the platform has suffered as Elon Musk's pay for verified status has blurred
+the lines of trustworthiness on the platform.
+
+   For LinkedIn, you can turn to long form articles, user guides, and eBooks to increase
+engagement. We all know YouTube is one of the most popular video streaming websites.
+So, you can post videos on this platform regardless of their size or length.
+
+       Reading:
+
+          https://www.oberlo.com/blog/social-media-marketing-statistics
+          https://backlinko.com/social-media-users
+
+                                                                                                                                                Every Network is an Island | 67
+68 | Every Network is an Island
+Analyzing Twitter's Evolution: BM to
+AM
+
+CHERYL LAWSON
+
+Discussing Twitter is a necessity, even if its demise seems imminent. The platform's
+significance in communication, news sharing and societal movements since its
+establishment remains noteworthy. Essentially, we should analyze it during two eras:
+before Elon Musk (BM) and after his acquisition (AM).
+
+   Presently viewed as a colossal disaster under Musk's ownership, Twitter's integrity has
+suffered. Launching with mass firings of developers and alienating advertisers to the point
+where major companies retracted their support-despite not being an optimal advertising
+choice compared to Facebook, Instagram or Google-Twitter was still patronized due to its
+large audience base.
+
+   Musk intended for Twitter users to freely voice their opinions without censorship
+despite his controversial business tactics leading many to dub the situation as a "dumpster
+fire." Though you can interact with acquaintances on the platform, engaging becomes
+more challenging due primarily to bots proliferating hate speech and explicit content.
+
+   The decline in active users is evident; most only log in occasionally for mentions or
+event interactions via sponsors that maintain accounts there. However, sustaining such
+activity increasingly becomes burdensome.
+
+                                                                                                                            Analyzing Twitter's Evolution: BM to AM | 69
+   However, to appreciate Twitter's true potential, we need to look back to the era before
+Musk. This was a time when Twitter's original purpose, as encapsulated by co-founder Biz
+Stone, was at its purest.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=390#oembed-1
+
+In a series of captivating anecdotes from Twitter co-founder Biz Stone at the Cannes
+Lions 2009, the birth, growth, and global impact of Twitter are traced. Born out of the
+inspirations from simplicity and ease of communication present in platforms like AOL
+Instant Messenger, Twitter grew into a real-time communication network, facilitating an
+intriguing sense of connection among users. Initially, the allure of Twitter was the real-
+time updates, as mundane as they may be, lending an intriguing peek into the lives of
+others.
+
+   A remarkable example includes a tweet from Stone announcing a pub change that led to
+the new pub reaching its capacity within 10 minutes. This showcased Twitter's ability to
+facilitate group coordination in real-time, akin to a flock of birds moving as a single unit.
+
+70 | Analyzing Twitter's Evolution: BM to AM
+This potential was also visible when Twitter's presence at a festival created a buzz and
+brought people together.
+
+   Twitter's potential extended beyond casual coordination, manifesting in profound
+impacts on journalism and activism. One example saw a man in Egypt using Twitter to
+document protests, demonstrating how social media could capture and spread significant
+moments globally. Furthermore, a single-word tweet even managed to secure legal
+assistance for someone in trouble, exemplifying Twitter's potential to affect real-world
+change.
+
+   The platform itself, however, wasn't just about technology but also about the triumph
+of humanity. As seen in instances where Twitter was used to coordinate efforts during
+wildfires, gas shortages, breaking news events, and natural disasters, the platform proved
+to be a facilitator for collective human action.
+
+   The notion of collective action is further strengthened by Twitter's open network
+and ecosystem, fostering growth and diversification on a global scale. By opening its
+infrastructure to developers, Twitter sparked the creation of over 11,000 registered
+applications that generate three times the traffic of twitter.com itself. This approach
+allowed Twitter to tap into the power of billions of mobile and internet users globally,
+creating a potentially impactful and unpredictable open network.
+
+   On the commercial side, Twitter has proven to be a valuable tool for businesses, leading
+to increased revenue and customer engagement. Brands used Twitter for customer
+service, monitoring customer complaints and providing immediate responses. Even small
+businesses could stay connected with local customers without incurring substantial costs,
+by using Twitter for marketing and customer service.
+
+   Stone's recounting of Twitter's history not only presents the platform as a means of
+communication and information sharing but also as an instrument of global connectivity
+and collective action. The ability for businesses to leverage this platform for commercial
+gain is significant, but equally, if not more important, is the potential of Twitter, or any
+social media platform, to address complex global challenges by fostering a culture of
+collaboration, openness, and interoperability.
+
+     on a personal note:
+
+        On a personal note, I am deeply saddened by Twitter's dramatic decline since Musk acquired the company in
+     October 2022. Twitter was my favorite social network, primarily because of the conversations and connections
+
+                                                                                                                             Analyzing Twitter's Evolution: BM to AM | 71
+     it facilitated. I fondly recall receiving an email from then-Senator Barack Obama, inviting me to join him on this
+     new platform. It was a thrilling era, seeing politicians and news outlets begin to leverage the power of social
+     media.
+
+        In 2009/10, Jeff Pulver initiated the 140 conference (named after Twitter's character limit at the time),
+     bringing together enthusiasts who recognized Twitter's potential to connect the world. This inspired me to
+     launch the SMTULSA Conference to unite social media enthusiasts in my own region.
+
+                          One or more interactive elements has been excluded from this version of the text. You can view them
+                          online here: https://open.library.okstate.edu/introtosocialmedia/?p=390#oembed-2
+
+        Twitter changed the trajectory of my career/personal brand.
+         1. My dog's Twitter account @imajackrussell brought me speaking gigs, and sponsorships
+        2. I created and sustained the annual SMTULSA Conference for 10 years & it all started with Twitter.
+        Today, my visits to Twitter are limited to learning about new AI tools and receiving local weather updates
+     through the #okwx hashtag, which remains invaluable for Oklahoma residents. However, the majority of my
+     time is now spent on platforms like TikTok, YouTube, and as of yesterday, (July 2023) Instagram's new Twitter
+     competitor, Threads. We'll delve into the rise of these emerging social platforms later, but for now, it's a solemn
+     farewell to the Twitter we once knew.
+        The good old days were when the worst thing that happened on Twitter was the `fail whale'.
+
+72 | Analyzing Twitter's Evolution: BM to AM
+                                                                                                                                                      Twitter Fail Whale
+
+Enough with the nostalgia about Twitter. It's probably evident from my reminiscing that it
+held a special place in my heart during the BM era. However, let's shift our focus back to
+the present. If you're considering Twitter as a part of your brand or project's social media
+strategy, I have a couple of valuable exercises to help you learn how to effectively leverage
+the platform.
+
+     Exercise
+        Exercise 1: Live Tweet a YouTube Video
+        Objective: To enhance your ability to create compelling, real-time content and learn how to incorporate
+
+     relevant hashtags effectively.
+        Steps:
+         1. Choose an interesting and relevant video from YouTube. This could be related to your industry, a
+             motivational talk, or a tutorial - anything that provides value to your audience.
+                                                                                                                             Analyzing Twitter's Evolution: BM to AM | 73
+        2. As you watch the video, compose live tweets that summarize key points, insights, or interesting facts.
+             Remember, each tweet is a standalone message, so it should be comprehensible on its own.
+
+        3. Incorporate the official hashtag in your tweets. This could be the video title, the speaker's name, the
+             event hashtag (ie: #TedxTulsa) or the topic being discussed.
+
+        4. Engage with your audience. If they reply to your tweets or ask questions, respond promptly and keep
+             the conversation going.
+
+        This exercise not only helps you understand the dynamics of live-tweeting but also enables you to observe
+     how your audience engages with different types of content.
+
+        Exercise 2: Twitter for Search - #ai
+        Objective: To explore the power of Twitter as a search tool and identify valuable content in your area of
+     interest.
+        Steps:
+         1. Log in to your Twitter account or visit https://twitter.com/explore
+        2. In the search bar at the top, enter the hashtag #ai and press enter.
+        3. Browse through the resulting tweets to identify threads or individual tweets that catch your attention.
+        4. Look for content that provides new insights, challenges your thinking, or offers a fresh perspective on
+
+             artificial intelligence.
+        5. Retweet your favorite thread or tweet, and consider adding a comment of your own to spark
+
+             conversation.
+        6. Make a note of any new influencers, thought leaders, or interesting accounts you come across during
+
+             your search.
+         7. This exercise will help you realize the vast amount of information available on Twitter, and how
+
+             effectively using hashtags can streamline your search for quality content. Caution! Due to the increased
+             prevalence of spam and inappropriate content on Twitter, particularly after Elon Musk's acquisition (AM),
+             your search results may include potentially offensive tweets. For this reason, it's not recommended to
+             conduct this exercise via a projected screen.
+
+Just when I thought the Twitter Chapter was over, Elon Musk strikes again. This time,
+it's changing the name of Twitter to X.
+
+74 | Analyzing Twitter's Evolution: BM to AM
+CNN posts "obituary" for Twitter:
+   "Twitter, the text-based social media platform that played an outsized role on
+
+society by serving as a digital town square, was killed by its unhinged owner Elon
+Musk on Sunday. It was 17 years old.
+
+   A zombie Twitter, known only as X,... pic.twitter.com/NQKLWLAnfZ
+   -- Mike Sington (@MikeSington) July 25, 2023
+
+                                                                                                                 Analyzing Twitter's Evolution: BM to AM | 75
+Facebook a Metaverse
+
+CHERYL LAWSON
+
+Facebook
+
+Facebook: Pioneering a Digital Revolution
+
+From the hallowed halls of Harvard to practically every corner of the globe, Facebook's
+journey is nothing short of iconic. Whether you've been captivated by the dramatization
+of its inception in "The Social Network" movie, or pored over early interviews of a young
+Mark Zuckerberg, Facebook's revolutionary impact on our societal fabric is undeniable.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=396#oembed-1
+
+The video, harking back to a time twelve years prior, beautifully captures the essence of
+Facebook's mission and the groundbreaking vision its founders had:
+
+   Breaking Convention: Facebook's approach wasn't just to be different for the sake of
+it. They yearned to challenge the status quo, urging not just to opt for conventional
+choices. The aim was to find a distinctive path because their vision was unlike any that had
+come before. "Don't just make the conventional decisions, but think about how we can do
+something differently than everyone else because what we're attempting is distinct from
+prior endeavors."
+
+   The Ripple Effect: It's a testimony to the power of ideas. The musings and efforts of a
+handful can ripple out, influencing the lives of hundreds of millions globally. "The impact
+of a small group of people's ideas can touch the lives of hundreds of millions of real
+individuals every day."
+
+   Embracing Failure: The Facebook ethos was to take chances, fueled by the right
+intentions. Mistakes were part of the journey, but they believed in the support of their
+
+76 | Facebook a Metaverse
+community. "Don't fear trying something if the intentions are genuine. Even if you falter,
+there's a community to support you, and undue criticism won't be your portion."
+
+   Critical Creativity: Facebook's work environment thrived on fostering a blend of
+analytical thinking and imagination. They didn't just want employees; they wanted
+visionaries who could identify gaps and make monumental impacts. "Facebook urges its
+workforce to be analytical and innovative, enabling them to identify voids and effect
+significant changes."
+
+   Expanding Horizons: Even at its inception, Facebook was never just about `status
+updates'. It was about tapping into the potential of shared human experiences and the
+complexities of the world around us. "The possibility for individuals to disseminate
+intricate and meaningful insights about their environment is just at its dawn at Facebook."
+
+   A Global Footprint: Beyond likes, shares, and pokes, Facebook facilitated heartwarming
+adoptions and became the backbone of pivotal political movements, like during the Iranian
+elections. "Facebook's influence spans the globe, from playing a role in adoption processes
+to bolstering political revolutions such as the Iranian elections."
+
+   The Future is Personal: Facebook was just scratching the surface. They foresaw a future
+where every digital interaction would be deeply personal and interconnected. "We're
+on the threshold of a future where every site and gadget feels like an extension of the
+individuals we cherish and are familiar with."
+
+   In retrospection, Facebook's journey underscores the idea that when a vision is powered
+by genuine intent, resilience, and innovation, it can not only change the course of
+technology but also deeply intertwine with the fabric of human lives and their
+experiences.
+
+Facebook's Societal Imprint: The Good, The Bad, and The Legal
+
+Facebook, or Meta as it's now known, stands as one of the towering giants in the digital
+realm. Its influence touches almost every facet of modern life, and with such expansive
+reach comes a series of undeniable societal impacts, both positive and negative.
+
+Positive Societal Impact
+
+Global Economic Catalyst: Facebook has drastically altered the landscape of global
+
+                                                                                                                                                       Facebook a Metaverse | 77
+economic activity. By connecting businesses with potential consumers and clients, it has
+made marketing more accessible and cost-effective. Small businesses, artisans, and even
+hobbyists have found a global audience, leading to economic prosperity and encouraging
+a spirit of entrepreneurship.
+
+   Sharing Memories: In the age of smartphones and the internet, Facebook has become
+a go-to platform to share cherished moments. By posting photos, videos, and tagging
+friends and family, it has made it seamless for people to reminisce about memories,
+rekindling connections and bridging the physical distance.
+
+Negative Societal Impact
+
+Mental Health Concerns: A dark cloud over the realm of social media, especially platforms
+as vast as Facebook, is the evident link between its heavy usage and detrimental mental
+health outcomes. Several research studies have painted a concerning picture, linking
+excessive social media usage with depression, anxiety, loneliness, and even self-harm or
+suicidal tendencies.
+
+   Political Tampering: The platform hasn't been immune to controversies, with
+allegations and evidence of it being used as a tool for political tampering. From the spread
+of misinformation to the Cambridge Analytica scandal, Facebook has faced criticism for its
+role in influencing elections and public opinion, intentionally or otherwise.
+
+The Legal Battlefield: Class Action Lawsuit
+
+Amidst the melange of pros and cons, the platform has also found itself embroiled in legal
+turmoil. A class-action lawsuit, named In re: Facebook, Inc. Consumer Privacy User Profile
+Litigation, has been brought against Facebook on behalf of its users. The allegations are
+severe - claiming Facebook shared or otherwise provided unauthorized access to third
+parties about users and their connections. This includes a vast spectrum ranging from
+third-party app developers to advertisers and data brokers.
+
+   The gravity of these allegations emphasizes the lack of stringent monitoring and
+enforcement of data access and usage by these third parties. Facebook, now under the
+name Meta Platforms, Inc., has faced this lawsuit under the vigilant eyes of the Honorable
+Vince Chhabria of the United States District Court for the Northern District of California.
+
+78 | Facebook a Metaverse
+   Despite the allegations and the consolidation of these lawsuits, Meta has categorically
+denied any wrongdoing or liability.
+
+Reflection
+
+In reflection, Facebook's odyssey serves as a vivid testament to the power of vision,
+genuine intent, resilience, and innovation. Such a combination can not only reshape
+technological landscapes but also intricately weave into the tapestry of human
+experiences and emotions. Boasting over 3 billion users, Facebook presents an undeniable
+resource for business owners and organizations. It allows them to organically tap into
+an expansive audience and leverage affordable paid options to reach their desired
+consumers. This journey encapsulates the dual nature of the digital age. While it has
+undeniably empowered businesses, fostered connections, and championed expression, it
+also casts a spotlight on the profound responsibility tech giants bear. They must prioritize
+users' mental well-being and staunchly defend the pillars of democracy. As we transition
+to the next segment, we'll delve into the continued utility of Facebook for businesses and
+showcase its transformative potential through real-world examples.
+
+Business Optimization on Facebook:
+
+While the digital landscape is constantly evolving, the tenets of a robust online presence
+often remain consistent. Facebook, despite its occasional tumult, remains a bastion for
+businesses keen on tapping into its vast user base. A proactive approach, centered around
+optimizing and enriching a Facebook business page, can create a marked difference in
+how a brand resonates with its audience. In 2021, I offered to audit a Facebook business
+page for members of one of our facebook groups. All of this advise still rings true: Here's a
+summary.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=396#oembed-2
+
+                                                                                                                                                      Facebook a Metaverse | 79
+1. Visually Engaging Imagery:
+
+  · Regularly refresh your profile and cover photos to echo your brand's current themes
+      or offerings.
+
+  · Infuse important business information in these visuals, such as contact info or
+      promotional details.
+
+  · Use captions not just for clarity, but to engage or steer actions.
+
+2. Responsive Engagement:
+
+  · Always be there; acknowledge comments, encourage sharing and tagging.
+  · Set up auto-replies for your messages. Quick responses can leave lasting
+
+      impressions. We do this a lot during big events and festivals. Adding the most
+      frequently asked questions as auto replies is a great time saver.
+
+3. Content Curation:
+
+  · Share the love - when you share content from other sources, give them a shoutout
+      by tagging.
+
+  · Lean on visuals - whether it's vivid photos or captivating videos, let them tell your
+      story. Think about videos to answer FAQs or to give a sneak peek into your
+      operations.
+
+  · Align with the world - time your posts with events or global happenings to remain in
+      sync.
+
+4. Competitive Intelligence:
+
+  · Use the Ad Library to explore ads running across Meta. It's a goldmine not just to see
+      competitor ads, but also to understand the broader industry's pulse.
+
+  · Dive deep into ads concerning social issues, politics, or elections. Understanding
+      who's funding these and their target audience can offer intriguing insights.
+
+  · Utilize Facebook's page transparency feature. When choosing a competitor for
+      comparison, ensure you're on a level playing field.
+
+5. Experiment and Adapt:
+
+  · Stay curious. With features like Reels gaining momentum, ponder how they might fit
+
+80 | Facebook a Metaverse
+      into your brand story.
+  · Monitor, learn, and tweak. Celebrate the content that's a hit and recalibrate what
+
+      doesn't quite land.
+
+And hey, while the digital toolbox might be ever-expanding, the essence remains: be
+genuine, offer real value, and always have your ear to the ground. Facebook's gigantic
+user base is not just a statistic; it's an array of opportunities. Conversations, connections,
+conversions - it's all there, waiting for you. Up next, let's dive into some real-life examples
+of businesses acing their Facebook game! Shall we?
+
+     Facebook Business Page Analysis Exercise (Can be in class exercise and discussion or
+   homework)
+
+      For this exercise, we're going to deep dive into the social media presence of a brand you love or frequently use.
+    Analyzing established brands can provide a wealth of insights for your own social media strategy.
+
+     Step 1: Choose Your Brand
+     Select a brand that resonates with you. It could be one you admire, are curious about, or even critique. Share the Facebook page
+     URL of your chosen brand:
+     Brand's Facebook URL: facebook.com/brandpage
+     Step 2: Profile & Page Essentials
+     A brand's cover and profile images are like the storefront of a physical store. They should be inviting, relevant, and in sync with
+     the brand's identity.
+     Cover & Profile Image: Does the brand have both? Are they relevant and updated?
+     Description & Call to Action (CTA): Is the brand's purpose or offering clearly mentioned? Do they have an active CTA, like `Shop
+     Now' or `Learn More'?
+     Step 3: Community Engagement
+     Understanding the brand's follower count and their interaction can provide insights into their community management efforts.
+     Follower Count: How many followers do they have?
+     Engagement Metrics: Analyze their general post metrics. Look at likes/reactions, shares, and comments.
+     Brand Responses: Is the brand actively engaging with its followers by responding to comments?
+     Step 4: Post Analysis
+     Choose the brand's most recent post for this analysis.
+     Target Persona: Based on the content, tone, and visuals of the post, can you identify which customer persona they are targeting?
+     Post Enhancement: What changes would you suggest for their post or caption to make it more engaging or effective?
+
+                                                                                                                                                       Facebook a Metaverse | 81
+A Personal Note on Privacy
+
+In addition to the intricacies of using Facebook for business, there's another essential
+aspect I always emphasize to my students: Privacy. Given the vast amount of personal
+information and content we share on Facebook, it's paramount to understand and control
+who sees what.
+
+   If you've been away from Facebook for some time, or if during our "Google Yourself"
+assignment you noticed content from your Facebook profile popping up, it's a clear sign
+you need to revisit your privacy settings.
+
+   I strongly recommend doing a Facebook Privacy Checkup. It's a user-friendly tool
+offered by Facebook to help you review and adjust who can see your posts, profile details,
+and more. You can find a step-by-step guide here.
+
+   Remember, it's your content and data. Make sure it's accessed only by those you truly
+intend to share it with. Privacy isn't just about safeguarding data; it's about preserving your
+personal boundaries in the digital realm.
+
+82 | Facebook a Metaverse
+Facebook a Metaverse: Instagram
+
+CHERYL LAWSON
+
+The Acquisition and Rapid Growth
+   In 2012, Facebook made a strategic move by acquiring a burgeoning photo-sharing
+
+app, Instagram, for approximately $1 billion. This acquisition signaled the potential and
+importance of visual-based social platforms in the ever-evolving digital landscape. The
+purchase not only bolstered Facebook's portfolio but also ushered in an era of rapid
+growth for Instagram.
+
+   The Rise to a Cult-like User Base
+   Instagram quickly transcended its initial status as a simple photo-sharing app. Its easy-
+to-use interface, paired with a range of editing tools, allowed even amateur photographers
+to produce captivating, professional-grade images. This democratization of photography,
+combined with the app's social features, cultivated a devout and ever-expanding user
+base.
+   The `Platform Killer' Image
+   Instagram's continuous evolution made it a formidable contender in the social media
+realm. With its innovative features and consistent updates, it began overshadowing other
+platforms, earning it the moniker of a `(insert social platform here) killer'.
+   Stories and the Snapchat Influence
+   In 2016, Instagram introduced `Stories,' a feature allowing users to share transient,
+24-hour content. This was undeniably inspired by Snapchat's primary function.
+Instagram's rendition, however, boasted a more intuitive interface and integration with an
+already robust platform, making it instantly popular.
+   A Hub for Photographers and Artists
+   Instagram became an essential platform for photographers, both amateur and
+professional. Its focus on visuals allowed artists to showcase their work, gain followers,
+and even monetize their artistry through collaborations and sponsorships.
+   Enter Reels: The TikTok Resemblance
+   Continuing its trend of integrating successful external features, Instagram launched
+`Reels' in 2020. A clear nod to TikTok's short-form video content, Reels gave users the
+ability to create and explore short, engaging videos on a new dedicated Feed.
+   The Rise of the Instagram Model and Influencer
+   As Instagram grew, so did its influence on popular culture. The platform saw the rise
+
+                                                                                                                                      Facebook a Metaverse: Instagram | 83
+of the `Instagram Model' and the `Instagram Influencer' - individuals who leveraged their
+substantial follower base to shape trends, promote brands, and in many cases, carve out
+lucrative careers.
+
+   Empowering Businesses: Tools, Shop, and More
+   Instagram recognized the immense potential of its platform for businesses. It rolled
+out a suite of features tailored for brands and entrepreneurs: from detailed insights and
+advertising options to the `Shop' feature, transforming profiles into storefronts. Today,
+businesses, big and small, harness the power of Instagram to reach audiences, drive sales,
+and bolster their brand image.
+
+The Rule of Thirds in Photography:
+
+For many aspiring photographers and Instagram enthusiasts, understanding the
+fundamentals of framing can enhance the quality of photos tremendously. One such
+fundamental concept is the "Rule of Thirds."
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=416#oembed-1
+
+Key Insights from the Video:
+
+  · The rule of thirds is paramount in both photography and cinematography. It's a key
+      principle that paves the way for dynamic, aesthetically pleasing compositions.
+
+  · The concept involves imagining your image divided into nine equal segments by two
+      vertical and two horizontal lines. The idea is to position the essential elements in
+      your scene along these lines, or at the points where they intersect.
+
+  · Placing your subject at any of the four intersections or aligning them with these
+      lines, be it horizontally or vertically, results in an engaging and balanced
+      composition.
+
+  · By deliberately placing focal points off-center and providing negative space, a
+      photograph can convey a richer story or mood. For instance, aligning a subject's eyes
+      with the top horizontal line can create a compelling portrait.
+
+  · It's also crucial to consider multiple dimensions within a frame - left vs. right, up vs.
+
+84 | Facebook a Metaverse: Instagram
+      down, or forward vs. backward. This multi-dimensional approach can lead to a more
+      dynamic visual narrative.
+
+     Exercise: Photography with the Rule of Thirds
+
+        Objective: To understand and apply the Rule of Thirds in photography, leading to the creation of dynamic and
+     visually pleasing images. (Instructors, I usually allow students time during class to explore campus and take
+     their photos, then we discuss them as a class)
+
+        Instructions:
+        Choose Your Subject: This could be anything - a friend, a pet, a building, a tree, or any object that catches
+     your eye. Remember, the goal is to emphasize the subject using the Rule of Thirds.
+        Frame with the Grid: Imagine your camera or phone screen is divided into nine equal rectangles, split by two
+     horizontal and two vertical lines. Most smartphones and digital cameras have a built-in grid feature you can
+     activate.
+        Place Your Subject: Position your subject along one of the vertical or horizontal lines, or ideally, at one of the
+     four intersections. Remember, this rule is a guide, not a strict directive. Feel free to experiment!
+        Capture the Photo: Once you're satisfied with your composition, capture the image.
+        Reflect: Look at the photo. Does your subject draw the eye? Does the surrounding space in the photo lead
+     viewers to explore the rest of the image?
+        Share and Discuss: Share your photo with peers or on a discussion platform. Discuss:
+        Why did you choose the particular subject.
+     The placement of the subject in accordance to the Rule of Thirds.
+     Where you intend viewers to focus and how you hope they will explore the entire frame.
+     Note: Save these photos as we'll be revisiting them later in the chapter for further exercises and discussions.
+     Understanding the theory behind photography principles is one thing, but seeing its application in your photos
+     will solidify your grasp on the concept!
+
+Boosting Engagement with Reels and Stories: Tips and Tools
+
+Instagram (and Facebook) Reels and Stories offer a great way to boost engagement and
+visibility. Here are some tips and tools, including AI-driven ones, to optimize your content:
+
+                                                                                                                                      Facebook a Metaverse: Instagram | 85
+   Understand Your Audience: Before diving into tools, identify the content your audience
+enjoys. Insights will show which Stories or Reels get the most engagement.
+
+   Embrace AI for Content Creation: Tools like ChatGPT and Bard can help generate
+creative ideas or even draft engaging captions for Reels, especially when experiencing
+creative blocks.
+
+   Efficient Video Editing: For those who find video editing time-consuming, Time Bolt
+can expedite the process, and Magic Studio can help refine Instagram photos.
+
+   Maximize Reel Potential: With Video dot AI, you can auto-detect the highlights of
+longer videos, making it simpler to create engaging reels. This saves content creation time
+and ensures the best parts of your videos are showcased.
+
+   Optimize for YouTube Too: If you're also active on YouTube, TubeBuddy is an invaluable
+tool. It aids in everything from keyword research to A/B testing video metadata.
+
+   CapCut: This mobile video editing tool is a favorite among many social media
+enthusiasts, particularly for TikTok and Instagram Reels and Stories. It offers a range
+of intuitive features to enhance videos: from adding music, transitions, and text to
+specialized visual effects. Plus, it's free to use, making it accessible for all creators, from
+beginners to pros.
+
+   Advanced Video Edits: For those looking for intricate video edits like background
+removal or replacement, Runwayml is a fantastic solution. It's an excellent tool for creating
+dynamic TikTok-style edits for other platforms.
+
+   Stay Updated: Instagram often releases new features for Reels and Stories. Always
+explore these features as they can give you an edge in engagement.
+
+Instagram Threads
+
+We discussed Threads a bit in our Twitter / X section, however fast it's rise has been, it
+appears that over half of its users have already given up on the new platform.
+
+   Meta plans retention `hooks' for Threads as more than half of users leave app
+
+86 | Facebook a Metaverse: Instagram
+Youtube: The World's Second Largest
+Search Engine
+
+CHERYL LAWSON
+
+YouTube: A Deep Dive
+
+A Brief History of YouTube
+
+YouTube was founded in February 2005 by three former PayPal employees: Chad Hurley,
+Steve Chen, and Jawed Karim. What began as a dating site (Yes, a dating site) quickly
+pivoted to a user-generated video platform. In a little over a year, it grew so rapidly that
+Google acquired the platform in November 2006 for $1.65 billion in stock.
+
+   The platform underwent rapid evolution, introducing monetization for creators with
+the Partner Program, expanding into mobile streaming, and eventually becoming the go-
+to destination for video content of all kinds: from DIY tutorials to news, music videos, and
+even full-length movies.
+
+   Today, YouTube boasts over 2 billion logged-in monthly users, with videos in more
+than 80 languages, making it a truly global platform.
+
+YouTube for Business: Unlocking Potential
+
+1. Second Largest Search Engine:
+It's not just a video platform. YouTube is the world's second-largest search engine after
+Google. This means businesses have a prime opportunity to ensure their content is
+discoverable to billions, just by optimizing their video descriptions, titles, and tags.
+
+   2. Telling Your Brand's Story:
+There's no medium quite as compelling as video to convey a story. It's visceral, it's emotive,
+and it's immersive. Businesses can utilize YouTube to craft and share their brand
+
+                                                                                                            Youtube: The World's Second Largest Search Engine | 87
+narratives, be it their company history, customer testimonials, product showcases, or
+behind-the-scenes looks.
+
+   3. Challenges - Camera Shyness:
+One common hurdle many face is the discomfort or apprehension of appearing on camera.
+It's a genuine concern, especially if you're representing your brand. Here are some
+strategies to consider:
+
+   Animated Videos: Use animated videos or explainer videos to convey information
+without needing to appear on camera.
+
+   Slideshows: Combine images and voiceovers to produce content. This can be
+particularly useful for informational or tutorial-style content.
+
+   Hire Presenters or Influencers: There are many YouTubers or presenters who can
+represent your brand on your behalf.
+
+   Practice Makes Perfect: The more you do it, the more comfortable you'll become. Start
+by making unlisted videos or practicing live streams to gain confidence.
+
+   4. Optimization Tips:
+   Keyword Research: Just like SEO for websites, YouTube videos thrive on good keyword
+research. Use tools like TubeBuddy or vidIQ to identify keywords that are relevant to your
+business and have a good search volume.
+   Engaging Thumbnails: A captivating thumbnail can be the difference between a click
+and a miss.
+   Consistent Posting: Like any platform, consistency is key. Regular uploads can boost
+your channel's visibility and subscriber base.
+   Engage with Your Community: Respond to comments, engage with other creators, and
+be an active participant in your niche. This fosters a sense of community and can amplify
+your reach.
+
+     Examples
+
+     My Mom's Unexpected YouTube Stardom
+
+        If you ever need a heartwarming testament to the unpredictable charm of YouTube, I have a personal story
+     for you.
+
+        About a decade ago, armed with nothing but my smartphone and a heartfelt intention to preserve my family's
+     oral traditions, I began recording my mother. She's an exceptional cook and a passionate gardener, having her
+
+88 | Youtube: The World's Second Largest Search Engine
+roots (pun intended!) in the countryside of Arkansas. With the sheer amount of wisdom she possesses about
+the natural world and the kitchen, I thought, "Why not immortalize it?"
+
+   One particular day, her garden was bursting with okra - a rich harvest that was too bountiful to consume
+immediately. As she started preparing the okra for freezing, a method she used to preserve their freshness, I
+instinctively began recording the process. Once done, I uploaded the footage to her dedicated YouTube
+account and, admittedly, it slipped my mind soon after.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them
+                    online here: https://open.library.okstate.edu/introtosocialmedia/?p=420#oembed-1
+
+   Imagine my astonishment when, months later, I stumbled upon that very video and found it had garnered
+over 30,000 views! The comments section was a heartening mix of nostalgia and gratitude. Many mentioned
+how her technique mirrored their own grandmothers', while others playfully remarked they'd love to be guests
+at her Sunday dinners. To date, that video stands proudly with over 50,000 views.
+
+   But the story doesn't end there. At the vibrant age of 86, my mom continues to be the star of her own little
+corner of YouTube. This year, she's been caught in a playful battle of wits with backyard squirrels who have a
+penchant for her tomato plants. Her strategy to pick the tomatoes before the cheeky critters get to them has
+resonated with many, and it's one of our popular uploads this year. (Note the upgraded kitchen)
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them
+                    online here: https://open.library.okstate.edu/introtosocialmedia/?p=420#oembed-2
+
+   The moral of this tale? In the words of a certain sneaker brand and slightly modified by the essence of our
+experience: Just do it. You never know whose life you might touch, or how the simple acts we take for granted
+can resonate deeply with others.
+
+                                                                                                     Youtube: The World's Second Largest Search Engine | 89
+The Meteoric Rise of TikTok and its
+Business Implications
+
+CHERYL LAWSON
+
+A Brief History of TikTok:
+
+TikTok, initially launched as Douyin in China in 2016, entered the global market a year
+later. In 2018, after acquiring the app Musical.ly, TikTok merged its platforms, quickly
+capturing the hearts and screens of millions, especially Gen Z. Known for its short-form
+videos, catchy soundtracks, and user-friendly editing tools, the app has transformed from
+a fun platform for sharing lip-syncs and dance challenges into a significant force in social
+media marketing.
+
+The `Keith Lee Effect' - An Exemplary Success Story:
+
+One of the most fascinating success stories emerging from TikTok is that of food critic
+
+Keith Lee. His journey began with heartwarming content centered around cooking for
+
+his postpartum wife, and it evolved as viewers got a front-row seat to her pregnancy
+
+cravings with their second child. Today, Keith's reviews have taken a charitable turn. He's
+
+turned the spotlight on small mom-and-pop restaurants, often struggling with marketing
+
+budgets.
+
+The "Keith Lee Effect" is a real phenomenon in the TikTok world. When he graces a
+
+restaurant with a favorable rating, it isn't surprising to see lines stretching around the
+
+block the very next day. Keith's organic and genuine approach to food reviews has made
+
+him a beacon for local businesses. His story is a testament to the power of authenticity on
+
+  TikTok and how the platform can rapidly amplify a message or a brand.  #foodcritic
+       @keith_lee125 Pretty Soul Kitchen taste test would you try it ?
+
+ original sound - Keith Lee
+
+90 | The Meteoric Rise of TikTok and its Business Implications
+Harnessing TikTok for Business:
+While TikTok's spontaneity is its charm, there's a method to the madness for businesses:
+
+   Educational Content: Much like YouTube, TikTok has become a hub for `how-tos' and
+tips. Brands can leverage this by sharing expertise in bite-sized clips.
+
+   Trend Integration: TikTok's algorithm places a heavy emphasis on trending sounds and
+challenges. Brands can use these trends, integrating them smartly with their message. It
+not only displays cultural relevance but can also boost visibility.
+
+   Authenticity Over Polish: While high-production value videos are appreciated, the
+TikTok community has always leaned towards raw and genuine content. Brands should
+not shy away from candid moments.
+
+   Engage, Don't Broadcast: Unlike traditional advertising platforms, TikTok is about two-
+way communication. Engage with your followers, participate in challenges, and respond
+to comments.
+
+     Exercise: Dive into TikTok for Your Business!
+
+        Objective:
+     Leverage a trending sound on TikTok to create a promotional video for your school or project business. Analyze
+     and understand the dynamics of engagement based on your video.
+
+        Steps:
+        Research Trending Sounds:
+        Open the TikTok app.
+     Go to the `Discover' tab. Here, you'll find current trending sounds and challenges.
+     Listen to a few and select one that resonates with the message or vibe you want to convey for your school or
+     business.
+     Plan Your Content:
+        Think about how the sound can be integrated with your business or school's promotional content. Does it
+     evoke humor, sentimentality, motivation, or any other emotion that aligns with your brand voice?
+     Draft a storyboard or jot down the primary elements you want in the video. This helps in ensuring that your
+     video is cohesive and in sync with the sound.
+     Shoot Your TikTok Video:
+        Utilize the external tools discussed in the previous chapters for shooting and editing if needed. Remember,
+     while quality is essential, TikTok appreciates authenticity. It doesn't have to be a high-production video.
+     Incorporate branding elements subtly, like wearing branded merchandise, including the business logo, or
+     showcasing your product or service.
+        Upload & Analyze:
+
+                                                                                                     The Meteoric Rise of TikTok and its Business Implications | 91
+        If you have a test account or are comfortable with your main account, upload the video.
+     Add relevant hashtags, an engaging caption, and ensure the video is set to `public.'
+     Monitor the engagement over a period. Look for likes, shares, comments, and new followers. This will give you
+     insights into what works and what doesn't.
+     Reflect & Discuss (For those not uploading):
+
+        Share your video concept with the class or a group.
+     Discuss why you chose the particular sound and how it complements the business voice.
+     Get feedback and refine your strategy for future videos.
+
+        Note: Engaging with your audience is crucial on platforms like TikTok. If you receive comments or questions,
+     make an effort to respond, as this can foster community and enhance brand loyalty.
+
+        Good luck, TikTokers! Remember, consistency and authenticity are key. Happy filming!
+
+92 | The Meteoric Rise of TikTok and its Business Implications
+LinkedIn: Building Professional Bridges
+in the Digital Age
+
+CHERYL LAWSON
+
+A Brief History of LinkedIn Established in 2002 by Reid Hoffman and launched in 2003,
+LinkedIn began as a vision to create a platform specifically tailored for professionals.
+With its user base reaching a million within its first year, LinkedIn soon distinguished
+itself from other social networks by emphasizing on professional networking rather than
+personal social interactions. Over the years, it has introduced numerous features like
+endorsements, company pages, and a thriving job marketplace, making it the premier
+platform for professional growth and B2B interactions.
+
+Personal Profiles: Amplifying Your Professional Image
+
+Benefits:
+
+  1. Career Opportunities: LinkedIn serves as a global marketplace for job opportunities
+      across various sectors.
+
+ 2. Networking: The platform allows you to connect with professionals from your
+      industry, opening doors for collaborations and partnerships.
+
+ 3. Learning and Skill Development: With `LinkedIn Learning', users have access to a
+      plethora of courses tailored for professional growth.
+
+Tips:
+
+  1. Complete Your Profile: A comprehensive profile including a professional photo,
+      compelling headline, detailed work experience, and educational background
+      increases your visibility.
+
+ 2. Engage Authentically: Share articles, comment on posts, and engage in meaningful
+      discussions related to your field.
+
+ 3. Recommendations: Seek endorsements and recommendations from colleagues,
+
+                                                                                                     LinkedIn: Building Professional Bridges in the Digital Age | 93
+      which act as `testimonials' for your skills and professional credibility.
+
+Business on LinkedIn: Making B2B Connections Count
+
+Benefits:
+
+  1. B2B Networking: LinkedIn is renowned for its B2B opportunities, allowing
+      businesses to connect and collaborate.
+
+ 2. Talent Acquisition: With its vast user base, LinkedIn is an ideal platform for
+      businesses to scout for talent.
+
+ 3. Brand Visibility: A well-maintained LinkedIn business page enhances brand
+      credibility and visibility among other professionals and businesses.
+
+Tips for Incorporating LinkedIn in Your Strategy:
+
+  1. Optimize Your Business Profile: Ensure your logo, banner, and company description
+      are up-to-date and reflect your brand identity.
+
+ 2. Publish Regular Updates: Share insights, company milestones, and industry news.
+      Engaging content positions your brand as an industry leader.
+
+ 3. Engage with Followers: Respond to comments, participate in discussions, and
+      appreciate feedback. It fosters a positive brand image.
+
+ 4. LinkedIn Ads: Consider leveraging LinkedIn's advertising solutions to reach a more
+      targeted audience, especially for B2B products or services.
+
+ 5. Analyze and Refine: Use LinkedIn analytics to understand post engagement, follower
+      growth, and other key metrics. Refine your strategy based on these insights.
+
+LinkedIn offers a unique blend of opportunities for both individuals and businesses. A
+well-executed LinkedIn strategy can significantly boost one's professional journey or
+business growth in the digital age.
+
+94 | LinkedIn: Building Professional Bridges in the Digital Age
+Trending Social Networks: A Dive into
+the Digital Age
+
+CHERYL LAWSON
+
+In the infancy of the digital age, the competition between emerging social networks often
+seemed like a zero-sum game: one network's gain was another's loss. Fast forward to
+today, and the digital landscape has radically evolved. With an array of platforms, users
+now enjoy the luxury of choice, and businesses have multiple avenues to market their
+brand.
+
+The Rise of New Challengers
+
+Twitter, once a singular giant in the micro-blogging arena, is now feeling the competitive
+heat. With Elon Musk's recent forays causing ripples on the platform, competitors are
+emerging to potentially dethrone the once-unchallenged king. Platforms like Sproutable
+and Mastodon are coming up as potential rivals, providing alternative spaces for
+conversation and content.
+
+   Threads, once (just weeks ago) celebrated as the future of intimate topic-centric
+discussions, now faces challenges in retaining its users despite its unique approach to
+fostering deep engagements on particular subjects. Meanwhile, Twitter itself seems to
+be evolving, aiming to be more comprehensive. Its efforts to emulate China's super app,
+WeChat, are evident with features that go beyond just tweeting.
+
+   Moreover, the audio-chat renaissance with Twitter Spaces and Clubhouse is reshaping
+how we engage online. Lemon8 and Discord further emphasize this shift, blending
+traditional messaging with voice channels, making communication more dynamic than
+ever.
+
+                                                                                                          Trending Social Networks: A Dive into the Digital Age | 95
+The Power of Strategy in the Age of Diversity
+
+The digitized world's beauty lies in its diversity; a vast array of platforms catering to
+various user needs. With a correct digital marketing strategy, businesses can tap into
+this diversity, promoting brand awareness, engaging their target audience, and fostering
+enduring relationships.
+
+   Remember the days of Myspace's dominance? It was the giant of its time, only to
+be overshadowed by Facebook's meteoric rise. Such transitions teach businesses the
+importance of adaptability and the dangers of complacency. As Circuit City fell to Best
+Buy, and Polaroid was overshadowed by digital cameras, the message is clear: innovation
+and adaptability are keys to enduring success.
+
+   Competition breeds excellence. With multiple platforms vying for user attention, each
+strives to outdo the other, leading to innovative features, better user experiences, and
+more value for marketers.
+
+Why Choose Just One?
+
+Businesses often grapple with the `right platform' for their marketing efforts. In the age
+of multiplicity, why choose just one? Leveraging different platforms for various marketing
+needs can be a game-changer. An Instagram reel might be perfect for showcasing a
+product, while a thoughtful thread on Threads could be ideal for brand storytelling.
+
+   However, with great power comes great responsibility. It's not about being everywhere
+but being where it matters. Understanding where your audience resides and how they
+engage is pivotal.
+
+Dive into the Now
+
+2023 paints a vibrant picture of the social media landscape:
+   Facebook remains a dominant force with its 2.7 billion users.
+
+YouTube stands strong as the second-largest search engine with 2 billion users.
+WhatsApp and Facebook Messenger cater to the instant messaging realm, boasting 2
+
+96 | Trending Social Networks: A Dive into the Digital Age
+billion and 1.3 billion users respectively.
+WeChat holds its ground with 1.2 billion, especially strong in the Asian markets.
+Instagram continues to be the go-to for visual content with 1.15 billion.
+TikTok, the newcomer, has swiftly captured hearts, boasting nearly 700 million users.
+
+Setting Sail in Digital Waters
+
+Embarking on the digital journey requires not just a ship but a map. As you navigate the
+vast waters of social media:
+
+   Understand Your Audience: Know where they hang out, what they like, and how they
+engage.
+Content is King: Craft content that resonates. Authenticity matters.
+Engage: Social media is not a monologue. Engage with your audience, respond to
+comments, and foster a community.
+Adapt and Evolve: The digital landscape is ever-changing. Stay updated with trends and
+be ready to pivot when needed.
+
+                                                                                                           Trending Social Networks: A Dive into the Digital Age | 97
+Analytics - The Backbone of Your
+Social Media Strategy
+
+CHERYL LAWSON
+
+In the modern digital landscape, there's a saying: "If it can't be measured, it can't be
+managed." This holds particular resonance in the realm of social media, where the sheer
+volume of data can be dizzying. Yet, tucked within this deluge of data are the golden
+insights that can steer campaigns to success and refine content to engage more
+effectively.
+
+Why Analytics Matter
+
+Every interaction a user has on social media, whether it's clicking a link, liking a post, or
+watching a video, generates data. When interpreted, these actions offer deep insights into
+user behaviors, preferences, and trends. Armed with this understanding, businesses can
+tailor their strategies, ensuring their content hits the mark with their target audience.
+
+Built-in Analytics and Third-party Tools
+
+While most major social media platforms come with their own suite of analytics (Facebook
+with its Insights, Instagram with its analytics for business accounts, and so forth), those
+looking for more granular, cross-platform insights often turn to third-party tools:
+
+98 | Analytics - The Backbone of Your Social Media Strategy
+· Iconosquare: Initially centered around Instagram and Facebook, Iconosquare has
+   expanded its reach, now offering support for Twitter and TikTok as well. Its visual
+   analytics platform, complemented by easy-to-download graphs and graphics, makes
+   reporting a breeze.
+
+· Hootsuite: Not just a scheduling tool, Hootsuite provides in-depth analytics across a
+   range of platforms, aiding in both content planning and performance review.
+
+· Sprout Social: This is a comprehensive tool providing analytics, scheduling, listening,
+   and reporting for a cross-channel perspective.
+
+· HubSpot: Beyond its renowned inbound marketing tools, HubSpot offers a robust
+   suite of social media analytics.
+
+· Falcon.io: It integrates analytics insights with engagement, listening, and publishing
+   features, offering a holistic view of a brand's social presence.
+
+· Zoho Social: Tailored for growing businesses, it provides real-time monitoring
+   coupled with actionable insights.
+
+· Meta Business Suite: Designed for Facebook and its associated apps, this suite
+   delivers profound insights and advertising tools.
+
+                                                                                                   Analytics - The Backbone of Your Social Media Strategy | 99
+Key Metrics to Monitor
+
+For those steering organic social media campaigns, defining and adhering to specific
+metrics that echo with your overarching business goals is essential. Some of these metrics
+could include:
+
+  · Engagement rates (likes, shares, comments)
+  · Video views or play duration
+  · Click-through rates on shared content
+  · Growth trajectory in followers or subscribers
+
+Remember, the key lies in consistency. Pinpoint metrics that align with your goals and
+monitor them at regular intervals, be it weekly, monthly, or annually. This not only helps
+in recognizing trends but also in course correction whenever needed.
+
+Running Ads? Here's Your Guide to Measurement
+
+The success of social media advertisements can be gauged robustly. Platforms, be it
+Facebook, Instagram, or others, provide a rich tapestry of metrics, from click-through
+rates and leads generated to sales conversions and user interactions. However, measuring
+is just step one. To truly harness the power of ads, brands must be willing to analyze and
+iterate based on what the data reveals.
+
+   In the vast expanse of social media, analytics stands as a lighthouse, guiding strategies
+towards success. By decoding what truly engages audiences, businesses can fine-tune
+their approach, resulting in content that resonates and campaigns that deliver. As we
+journey ahead, we'll dive deeper into each analytical tool, unveiling how to derive
+actionable insights from them. So, stay engaged and let's navigate this analytical odyssey
+together!
+
+100 | Analytics - The Backbone of Your Social Media Strategy
+Keep Calm and Be Platform Agnostic:
+A Content-First Approach
+
+CHERYL LAWSON
+
+In an ever-evolving digital landscape, myriad social media platforms beckon businesses
+and content creators. While tempting to plunge into every platform available, a wiser
+strategy revolves around the essence of your message--the content itself. Instead of
+spreading too thin, take a content-first approach, which means prioritizing your message
+and then tailoring it to each platform you deem beneficial.
+
+Why Content-First?
+
+Content, at its core, is the foundation of any marketing strategy. Before determining which
+platform best serves your needs, establish your message, voice, and desired impact. Your
+content represents your brand; platforms are merely channels to convey it.
+
+Crafting a Robust Content Strategy
+
+  · Understand Your Goals: Whether you're aiming for brand awareness, engagement, or
+      sales conversions, your goals will shape your content.
+
+  · Know Your Audience: Platforms are diverse because audiences are. Tailor your
+      content based on where your target audience primarily hangs out.
+
+  · Type & Frequency: From blog posts and infographics to podcasts and videos, the
+      type and frequency of content should align with both your resources and audience
+      preferences.
+
+  · Measure and Adjust: Use KPIs (Key Performance Indicators) to monitor performance.
+      Adjust content and strategy accordingly.
+
+                                                                                           Keep Calm and Be Platform Agnostic: A Content-First Approach | 101
+Brand Voice & Authenticity
+
+Your brand voice should be consistent across platforms but adapted to each platform's
+language and culture. Authenticity reigns supreme; hence, storytelling should be genuine,
+reflecting your brand's ethos.
+
+The Art of Content Repurposing
+
+Given the energy and time devoted to content creation, repurposing offers a smart way to
+maximize reach without reinventing the wheel. An infographic can be broken down into
+bite-sized visuals for Instagram, or a blog post can be transformed into a podcast.
+
+Mastering Live vs. Processed Content
+
+The spontaneity of live videos offers authenticity, whereas polished and processed videos
+project professionalism. A blend of both caters to varied audience preferences.
+
+Essential Tools for the Trade
+
+Even on a budget, there are tools to enhance content quality. From smartphones and
+tripods for video to Canva for graphics, investing in a few tools can significantly amplify
+your content.
+
+Engaging Through Captions & Hashtags
+
+Pair your visuals with compelling captions. While brevity often wins, occasional deep
+
+102 | Keep Calm and Be Platform Agnostic: A Content-First Approach
+dives can engage audiences differently. Hashtags, when used judiciously, enhance
+discoverability and community engagement.
+
+Understanding the Younger Demographic
+
+If targeting Gen Z or younger millennials, consider engaging them in content
+brainstorming. Their tech-savviness and understanding of current trends can offer fresh
+perspectives.
+
+Navigating Ethical Waters
+
+While daring content can gain attention, it's pivotal to approach with sensitivity and
+awareness. Avoid cultural appropriation, offensive content, or anything that can tarnish
+your brand reputation.
+
+Persistence Pays Off
+
+In the digital arena, overnight success stories are rare. Patience, consistency, and
+adaptability are the hallmarks of a sustainable content-first approach.
+
+   --
+   In the maze of platforms, a content-first approach ensures you never lose sight of
+your brand's essence. Platforms will evolve, emerge, or even disappear, but genuine, high-
+quality content will always find its audience. Prioritize content, be adaptable, and the right
+platform will amplify your message.
+
+                                                                                          Keep Calm and Be Platform Agnostic: A Content-First Approach | 103
+Rachel Miller speaks on "Tactics to Get Engagement And Grow a
+Brand to reach 1 Million Fans and Beyond"
+
+Anyone can achieve great results with video content by consistently posting engaging
+content, focusing on providing value to the audience, and utilizing various strategies to
+promote and engage with the content. I love this video from Rachel Miller.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=110#oembed-1
+
+Ways to Promote Posts
+
+104 | Keep Calm and Be Platform Agnostic: A Content-First Approach
+Time Management and Social Media:
+Let AI Be Your Sidekick
+
+CHERYL LAWSON
+
+Remember when we chatted about analytics tools? Many of those tools can also help
+schedule content.
+
+   I'll add one more recommendation,
+   The Social Media Time-Trap
+   We all know the charm of social media for businesses. But, without some discipline and
+cool tools, you'll be endlessly scrolling instead of strategizing. Been there, done that!
+   Two big things to keep in mind:
+
+  1. Don't Spread Too Thin: You don't need to be on every platform. Pick ones that align
+      with your goals.
+
+ 2. Stay Focused: It's super easy to get distracted. Set timers for tasks. Got a tweet to
+      post? Set aside specific time for it.
+
+Juggling different accounts? Grab a password manager. Trust me, it's a lifesaver. No more
+forgotten passwords or those risky sticky notes!
+
+   AI to the Rescue: Social Media Automation
+   Here's where AI steps in and makes magic:
+
+  · Chatbots: Tools like MobileMonkey or ManyChat can handle common questions,
+      bookings, or even lead generation on platforms like Facebook Messenger. It's like
+      having a 24/7 customer service rep!
+
+  · Image Recognition: Tools like Google Cloud Vision can scan user-generated content
+      for images related to your brand. This way, you can jump into conversations you
+      didn't even know were happening.
+
+  · Predictive Analysis: Platforms like Crimson Hexagon can predict future trends
+      based on social media chatter. Talk about staying ahead of the curve!
+
+  · Tailwindapp Ghostwriter: Tailwindapp's new AI-based technology generates
+      natural-sounding, engaging copy in half the time. Maximize your time creating
+      content, and power through brain fog and writer's block with ideas and inspiration.
+
+                                                                                               Time Management and Social Media: Let AI Be Your Sidekick | 105
+Plan Your Social Media Like a Pro
+   Planning is still key. And with a content calendar, you're golden. Find a template or whip
+
+up your own. Schedule a month ahead, tweak as events unfold, and make sure everyone's
+in sync.
+
+   If time zones or odd hours have you tied up, scheduling tools like SocialPilot, HootSuite,
+or Feedly have got your back.
+
+   Watch Out for Those Oops Moments!
+   Automated scheduling is fantastic, but remember Sephora's hashtag mishap? Double,
+no, triple-check before scheduling. And keep up with current events. Event the best
+content can seem insensitive if a world event has happened.
+   IFTTT and Beyond
+   Heard of "If This, Then That"? IFTTT lets you automate content across platforms. It's
+nifty, but remember to review. Automation's neat, but you want that genuine touch -
+always.
+   AI's a game-changer, but it doesn't replace the human touch. Use it to free up time,
+avoid repetition, and get insights. Just always add your personal flavor. After all, social
+media is about making genuine connections.
+   I keep a spreadsheet of my favorite ai tools. Ai Toolbox by Cheryl Lawson
+
+106 | Time Management and Social Media: Let AI Be Your Sidekick
+Nurturing Engagement for Business
+Growth
+
+CHERYL LAWSON
+
+In the age of digitization, businesses are increasingly turning to social media to amplify
+their reach. While boosting follower counts is one metric of success, true growth is driven
+by fostering deeper connections and active interactions. This chapter delves into the
+importance of engagement and how it plays a pivotal role in elevating your brand's social
+media presence.
+
+The Depth of Engagement
+
+Merely having a presence on social media isn't enough. Sure, the number of followers
+can look impressive, but what really counts is how many of them actively engage with
+your content. Whether it's a like, a share, or a comment, these engagements signal that
+your audience isn't just passively scrolling past, but is genuinely invested in what you're
+offering.
+
+   Let's put it this way - having followers is good, but having engaged followers? That's the
+gold standard. Why? Because consistent interaction ensures your content keeps popping
+up on their timelines, keeping your brand at the forefront of their minds.
+
+The Digital Competition Arena
+
+Today, the digital world offers countless avenues for brands to make their mark. But
+with increased accessibility comes increased competition. If your content doesn't spark
+interest, users will swiftly move on to something that does. So, keeping them hooked is
+essential. And how do you do that? By regularly posting engaging content and staying
+responsive to their interactions.
+
+                                                                                                                      Nurturing Engagement for Business Growth | 107
+Social Listening
+
+Want to monitor how your brand is faring in terms of engagement? There's a toolkit for
+that. Platforms like Iconosquare, Buzzlogix, Zoho Social, and Agorapulse not only track
+engagement rates but also gauge your brand's reputation across the social sphere.
+
+Silence Isn't Always Golden
+
+Sometimes, despite your best efforts, the interaction just doesn't pour in. Before hitting
+the panic button, pause and reassess. Is it your content? Or perhaps the platform?
+Tweaking your strategy based on honest introspection can turn things around.
+
+   Also, remember, your brand isn't just a logo and a tagline. It's a personality. And
+personalities connect best when they're genuine. Hosting live Q&A sessions, showcasing
+your team, and leveraging user-generated content can humanize your brand and drive
+meaningful interactions.
+
+Influencers: The New-Age Brand Ambassadors
+
+For an added engagement boost, consider influencer collaborations. Their endorsement
+can introduce your brand to a broader audience, boosting visibility and, in turn,
+engagement.
+
+Why Email Isn't Outdated
+
+Think email's had its day? Think again. Regular emailers, newsletters, and targeted
+campaigns are a proven way to keep your audience in the loop. By directing them to your
+website or latest blog post, you're nurturing a deeper brand-consumer relationship.
+
+108 | Nurturing Engagement for Business Growth
+Handling Negative Feedback
+
+In the business world, you can't please everyone. But how you handle dissatisfaction says
+a lot about your brand. Instead of viewing negative feedback as a setback, consider it an
+opportunity for growth. Address concerns with empathy, offer solutions, and always strive
+to better your service.
+
+Troll Alert!
+
+Navigating the social media landscape also means encountering trolls. It's crucial to
+distinguish genuine feedback from baseless criticism. Set community guidelines and stick
+to them. Always engage with grace and never let trolls dictate your brand narrative.
+
+Transforming Feedback into Strategy
+
+Negative comments, though challenging, can be your road map to improvement. Instead
+of shying away, lean into constructive criticism. Address concerns, tweak your strategies,
+and let your audience know you value their input. This not only builds trust but
+strengthens brand loyalty.
+
+Prioritizing Customer Relations
+
+At the heart of every thriving business is a loyal customer base. Prioritize their needs,
+address their concerns, and always aim for excellence in service. By cultivating a
+customer-centric culture, you not only bolster brand reputation but ensure long-term
+success.
+
+   While growing your follower base is essential, true success lies in meaningful
+engagement. Value your audience, prioritize their feedback, and consistently deliver
+quality - the pillars of a robust social media strategy.
+
+                                                                                                                      Nurturing Engagement for Business Growth | 109
+The Social Media Job Guide: Tips for
+Aspiring Professionals
+
+CHERYL LAWSON
+
+For those aspiring to forge a career in social media, this chapter's for you. While
+organizations like Social Media Tulsa excel in project management and event-based social
+media, the journey for beginners can be a roller-coaster.
+
+   Decoding the Social Media Myth
+   It's a misconception that success in social media revolves only around fluency with
+platforms and content creation. Social media expertise is deeply rooted in marketing
+principles. Once you internalize these foundational concepts, you'll be leagues ahead
+of others in the game. Although technology gifts us myriad platforms, the essence of
+marketing remains consistent.
+   Lessons from the Internship Trenches
+   Early in your career, internships provide valuable firsthand experience. While they're
+a gateway to invaluable insights, they can also be a whirlwind of tasks. As the new kid
+on the block, you might sometimes find the blame landing on your desk. Embrace these
+moments; they shape resilience and equip you for future roles.
+   Does Your Resume Stand Out?
+   Your resume is more than just a document; it's your first impression. A bland or
+incomplete resume can close doors even before they open. Highlight your skills,
+experiences, and strengths in a captivating design that grabs attention. Before sending it
+out, ensure it's error-free and tailor-made to align with the roles you're targeting.
+   Is LinkedIn Still Relevant?
+   LinkedIn, established in 2003, has aged like fine wine. While some argue its golden days
+are over, the platform remains a potent tool for professionals. Many recruiters actively
+source and even interview candidates here. Engage, share insights, and foster connections
+on LinkedIn--it could be your ticket to your dream job.
+   Venturing Out Alone
+   Joining a seasoned team offers rich learning experiences, but solo ventures might
+appeal to the entrepreneurial spirit in you. Freelancing can be the first step, eventually
+
+110 | The Social Media Job Guide: Tips for Aspiring Professionals
+leading to your own agency. Before embarking on this journey, devise a solid business plan,
+from strategies to resources, and consider creating a professional online presence.
+
+   Showcasing Your Skills: The Portfolio
+   Your portfolio is a testament to your abilities. Employers and clients alike will ask
+to see proof of your expertise. If you're starting out and lacking in substantial work to
+showcase, consider crafting your own personal brand on various platforms. This can serve
+as tangible evidence of your proficiency.
+
+                                                                                                  The Social Media Job Guide: Tips for Aspiring Professionals | 111
+Mastering Social Media Strategy:
+Drawing Insights from "How Benjamin
+Button Got His Face"
+
+CHERYL LAWSON
+
+In the iconic TED talk by Ed Ulbrich on how Benjamin Button was brought to life, a
+profound journey of innovation, collaboration, and persistence was unfolded. Taking
+inspiration from the dedication and creativity of that team, we've curated a guide to craft
+your own social media strategy. Just as Benjamin Button's face was a masterpiece, so too
+can be your digital footprint.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://open.library.okstate.edu/introtosocialmedia/?p=118#oembed-1
+
+   1. ADMIT YOU HAVE A PROBLEM (Understanding Your Current Position)
+
+  · History & Background: Before you can solve a problem, you must recognize and
+      understand it. Dive into the history of your brand's social media presence and
+      understand its evolution.
+
+  · Current Environment: Examine the current digital landscape, how your brand is
+      positioned, and the challenges you're facing.
+
+2. BREAK DOWN THE PROBLEM (Setting Smart Goals)
+
+  · Identify Objectives: List everything you hope to accomplish. This could be
+      increasing followers, boosting engagement, or driving website traffic.
+
+  · Analyze the Details: Dive into the intricacies of your current strategy. As Ulbrich
+      explored the markers in Benjamin's aging, you too must understand the pivotal
+      moments and elements in your social media journey.
+
+  · Challenge the Norm: Sometimes, it's essential to reconsider and even discard long-
+
+112 | Mastering Social Media Strategy: Drawing Insights from "How Benjamin Button Got His Face"
+      held beliefs or practices. Be willing to pivot or completely revamp your strategy.
+3. TECHNOLOGY STEW (Conducting a Social Media Audit)
+
+  · Seek Inspiration: Just as the creators looked to other industries for technology
+      solutions, so should you. There might be a strategy, tool, or platform in another
+      industry that's perfect for your needs.
+
+  · The Aha Moment: This is when things begin to click. When you find that strategy,
+      tool, or idea that promises to revolutionize your approach.
+
+  · Imagine the Possibilities: Always be open to innovative approaches. Pose the
+      question, "What if?"
+
+4. SANDBLAST THE EDGES (Formulating a Plan)
+  · Based on your audit, objectives, and inspiration, carve out a tailored social media
+      strategy. This is the blueprint that will guide all your actions on digital platforms.
+
+5. BOX OFFICE (Measuring Performance)
+  · Quantify Outcomes: Just as box office numbers reflect a movie's success, your
+      metrics - followers count, engagement rate, click-throughs - will depict the success
+      of your strategy.
+  · Test, Test, Test: The digital world is ever-evolving. Consistently test new strategies,
+      tools, and content types to see what resonates best with your audience.
+
+In conclusion, crafting a successful social media strategy requires understanding,
+innovation, and adaptation, much like the journey of creating Benjamin Button's face. As
+you embark on this journey, let persistence be your guide and creativity your tool. Happy
+strategizing!
+
+                                                  Mastering Social Media Strategy: Drawing Insights from "How Benjamin Button Got His Face" | 113
+114 | Mastering Social Media Strategy: Drawing Insights from "How Benjamin Button Got His Face"
+PART 4: COURSE PROJECT
+
+                                                                                                                                                      Part 4: Course Project | 115
+116 | Part 4: Course Project
+Course Project: Create a Social Media
+Strategy
+
+CHERYL LAWSON
+
+Course Project: Social Media Strategy
+   Throughout this semester, you'll develop a social media marketing strategy for a specific
+
+company or department within the university. You'll pick a client/company (real or
+fictional), focusing on an organization with a decision-maker for whom you'll design the
+marketing strategy. No need for actual access to the organization - `client' simply means
+you can't choose an industry for this project.
+
+   Due Dates:
+   Steps 1-2: February 23
+   Steps 3-4: March 9
+   Steps 5-7: April 6
+   Steps 8-10: May 4
+   We'll also have assignments to create content for posting along the way. Your final
+submission will include a written proposal of all 10 steps and a short video (20 minutes
+max) to describe your strategy to the client. Due May 4 (In-person classes will present in
+class).
+   Step 1. Business Scope
+   Gather intel on the client's mission, product/service, market, and competitors. If
+possible, define their Why, How, and What; if not, suggest creating one.
+   Step 2. Aiming High
+   Outline the client's business and social media goals - engagement, growth, or ROI.
+   Step 3. Eye on the Customer
+   Identify target audiences using client criteria or platform data, and create customer
+personas with demographics and psychographics.
+   Step 4. Know the Competition
+   Examine competitors' social media performance and compare it to the client's. Identify
+standout tactics for both.
+   Step 5. Social Media Checkup
+
+                                                                                                                                Course Project: Social Media Strategy | 117
+   Assess what's working or not, audience engagement, target audience network usage,
+and comparison to the competition.
+
+   Step 6. Tone It Up
+   Decide on a communication style for your strategy based on audience, personas, and
+platform suggestions. Include a hashtag strategy.
+   Step 7. Content Countdown
+   Pick the networks to use based on target audience and persona data. Create a content
+calendar for March, April, and May.
+   Step 8. Content Crafting
+   Develop content, captions, posting dates/times, including photos, videos, links, reposts,
+and captions.
+   Step 9. Platform Play
+   Choose platforms and software for scheduling, posting, and engaging with content
+(Meta Business Manager/ Creator Studio, Tailwind, Iconosquare, Buffer, Hootsuite,
+Creator Studio, IFTTT, etc.).
+   Step 10. Measure and Report
+   Submit your overall strategy, content plan, and any analytics available from posted
+content.
+   Turn in your written strategy and record a video describing your plan and any available
+analytics (for in-person class, present to the class).
+
+118 | Course Project: Social Media Strategy
+Bibliography
+
+  1. The 4 P's of Marketing Mix and how to master it in today's world (Template). (n.d.).
+      Angle180. https://www.angle180.com/insights/4-ps-marketing-mix
+
+ 2. American Marketing Association. (n.d.). Definitions of Marketing. American Marketing
+      Association. https://www.ama.org/the-definition-of-marketing-what-is-
+      marketing/
+
+ 3. Aslam, S. (n.d.). Facebook by the Numbers: Stats, Demographics & Fun Facts. Omnicore.
+      https://www.omnicoreagency.com/facebook-statistics/
+
+ 4. Beltis, A. (n.d.). How Long Should Blog Posts Be in 2020? HubSpot.
+      https://blog.hubspot.com/marketing/how-long-should-your-blog-posts-be-faq
+
+ 5. Bender, A. (2020, September 17). Remembering Malcolm Forbes's 70th Birthday, Where
+      1980s Excess Peaked. InsideHook. https://www.insidehook.com/article/style/
+      remembering-malcolm-forbes-70th-birthday-party
+
+ 6. Chen, J. (n.d.). Social media demographics to inform your brand's strategy in 2020.
+      SproutSocial. https://sproutsocial.com/insights/new-social-media-demographics/
+
+  7. Cohen, H. (2011, December 14). Seth Godin: 7 Truths At The Heart of Marketing (& How
+      to Use Them). Heidi Cohen. https://heidicohen.com/seth-godin-7-truths-at-the-
+      heart-of-marketing-how-to-use-them/
+
+ 8. DISC Assessment. (n.d.). Wikipedia. https://en.wikipedia.org/wiki/DISC_assessment
+ 9. Getman, C. (n.d.). The 16 Marketing KPIs You Should Be Measuring (But Probably
+
+      Aren't). Vital. https://vtldesign.com/digital-marketing/16-marketing-kpis-to-
+      measure/
+10. Griffith, E. (2018, April 17). 19 Massive Corporate Social Media Horror Stories. PCMag.
+      https://www.pcmag.com/news/19-massive-corporate-social-media-horror-stories
+ 11. Hendricks, D. (2020, December 25). Complete History of Social Media: Then And Now.
+      Small Business Trends. https://smallbiztrends.com/2013/05/the-complete-history-
+      of-social-media-infographic.html
+12. ideas, D. m. (n.d.). What is digital Marketing ? Medium.
+      https://medium.com/@digitalmarketingideas10/what-is-digital-
+      marketing-76771d3d05d0
+13. Most popular social networks worldwide as of October 2020, ranked by number of
+      active users. (n.d.). Statista. https://www.statista.com/statistics/272014/global-
+      social-networks-ranked-by-number-of-users/
+
+                                                                                                                                                                   Bibliography | 119
+14. Saleh, K. (2020, April 11). The State of Omnichannel Shopping - Statistics and Trends.
+      Invesp. https://www.invespcro.com/blog/state-of-omnichannel-shopping/
+
+15. TikTok Statistics - Revenue, Users & Engagement Stats (2021). (n.d.).
+      InfluencerMarketingHub. https://influencermarketinghub.com/tiktok-stats/
+
+16. Total number of Websites. (n.d.). Internet live stats.
+      https://www.internetlivestats.com/total-number-of-websites/
+
+17. Vaynerchuk, G. (n.d.). WHAT'S THE ROI OF YOUR MOTHER? Gary Vaynerchuk.
+      https://www.garyvaynerchuk.com/social-media-roi-calculate-metrics/
+
+18. What is digital marketing? (n.d.). Adobe Marketo Engage.
+      https://www.marketo.com/digital-marketing/
+
+19. Yang, S., Keller, F. B., & Zheng, L. (2017). Social Network Analysis: Methods and
+      Examples. Sage Research Methods. https://methods.sagepub.com/Book/social-
+      network-analysis-1e
+
+120 | Bibliography
+

@@ -1,0 +1,20 @@
+{
+  "task": {
+    "task_id": "metaphysics_adapt_test_1",
+    "natural_language_task": "I am struggling with a metaphysics question; please analyze it carefully.",
+    "desired_output_kind": "analysis",
+    "domain_tag": "philosophy",
+    "subdomain_tag": "metaphysics",
+    "given_facts": [],
+    "assumptions": [],
+    "constraints": [],
+    "allowed_tools": [
+      "philosophy_logic_lesson",
+      "philosophy_methods_lesson",
+      "philosophy_metaphysics_lesson",
+      "philosophy_four_lens",
+      "ethics_meta_perspectives"
+    ]
+  },
+  "max_steps": 12
+}

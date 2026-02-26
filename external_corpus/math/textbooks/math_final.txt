@@ -1,0 +1,378 @@
+Math 105                             Final Practice Problems - SOLUTIONS
+
+Note: This is a sample of possible problems, not the population. Study all class materials and
+MyOpenMath problems. You may use a calculator, a spreadsheet and GeoGebra or Stapplet for
+statistics.
+
+1. Would you rather have 3500 Mexican Pesos or 210 Euros? Justify your answer. The current
+    exchange rates are 1 Euro to 1.08 US dollars and 1 Peso to 0.057 US dollars.
+    3500 Pesos ($0.057/1 Peso) = $199.50
+    210 Euros ($1.08/1 Euro) = $226.80. I would rather have the Euros because they are
+    worth more.
+
+2. A certain shade of green paint is made from 5 parts yellow mixed with 2 parts blue. If you
+
+have 2 cans of yellow paint, how much blue paint do you need?
+
+ parts yellow =  cans yellow,  5x = 4, x=4/5 of a can of blue paint.
+ parts blue      cans blue
+
+3. The school board is electing a new chair of the board. The candidates are labeled W, X, Y,
+
+and Z for simplicity. The votes are shown below.
+
+          Number of voters           25    18     16         22        19
+
+             1st choice              W     Z      Z          X         Y
+
+             2nd choice              X     W      Y          Y         X
+
+             3rd choice              Y     Y      W          W         W
+
+             4th choice              Z     X      X          Z         Z
+
+a. How many voters voted in this election?
+
+25 +18 +16 + 22 +19 = 100
+
+b. How many votes are needed for a majority? 100 ÷ 2 =50 , 50 +1 =51
+
+                                                 51 votes are needed for a majority
+
+c. Find the winner under the plurality method.
+
+          W=25                 X=22        Y=19   Z=18+16=34
+
+                                           Z is the plurality winner.
+
+d. Find the winner under the Instant Runoff Voting method.
+
+          W=25                 X=22        Y=19   Z=34
+
+                               +19
+
+                               41
+
+                               +25
+
+                               66          X is the winner of Instant Runoff.
+
+e. Find the winner under the Borda Count method (Point System).
+
+W = 25 4 +183 +16  2 + 22  2 +19  2 = 268
+
+X = 253 +181+16 1+ 22  4 +19 3= 254
+
+Y = 25 2 +18 2 +16 3 + 22 3 +19  4 = 276
+
+Z = 251+18 4 +16  4 + 22 1+19 1= 202
+
+                                           Y is the winner of Borda Count.
+
+f. Find the winner under the Pairwise Comparison or Condorcet method.
+
+W 59, X 41                     X 47, Y 53        Y 66, Z 34
+
+W 43, Y 57                     X 66, Z 34
+
+W 66, Z 34 Y is the winner with 3 pairwise wins.
+
+Cara Lee                                                                       Page 1
+4. Determine whether each statement is true or false.
+
+          F                  F
+
+a. If dogs can fly, then cats can swim. True
+
+          T                  T
+
+b. Dogs can't fly or cats can't swim. True
+
+          T                  F
+
+c. Dogs can't fly and cats can swim. False
+
+5. The number of salespeople assigned to work during a shift is apportioned based on the
+    average number of customers during that shift. Apportion 20 salespeople given the
+    information below.
+
+a. Hamilton's Method
+
+Subject      Customers             ÷65                 Initial or Minimum  Final
+Morning          95          Standard Quota                     1 +1       2
+Midday                                                          4          4
+Afternoon      275                    1.46                      6          6
+Evening        415                    4.23                      7 +1       8
+Total          515                    6.38                      18         20
+             1300                     7.92
+
+Divisor      1300 ÷ 20 = 65
+
+b. Jefferson's Method
+
+Subject      Customers                ÷65              Initial      (trials)      Final
+Morning          95          Standard Quota            1        ÷60 ÷58           1
+Midday                                                 4                          4
+Afternoon      275                    1.46             6        1.58 1.63         7
+Evening        415                    4.23             7                          8
+Total          515                    6.38             18       4.58 4.74         20
+             1300                     7.92
+                                                                6.92 7.16
+
+                                                                8.58 8.88
+
+                                                                19         20
+
+Divisor      1300 ÷ 20 = 65
+
+Cara Lee                                                                          Page 2
+6. Finance problems. Use Excel to calculate the     Financial Formulas Provided
+    value for each problem. Write the Excel         =principal + principal*rate*years
+    syntax and your answer rounded to the           =FV(rate, nper, pmt, [pv], [type])
+    nearest cent. Write each answer in a complete   =principal*EXP(rate*years)
+    sentence.                                       =PV(rate, nper, pmt, [fv], [type])
+                                                    =EFFECT(nominal rate, periods per year)
+    a. Luisa needs to start saving for retirement.  =PMT(rate, nper, pv, [fv], [type])
+         She can afford to deposit $90 every
+         month, into an account paying 5.36% APR,
+         compounded monthly. Find the balance
+         in the account after 29 years.
+         =FV(0.0536/12, 29*12, 90, 0)
+         =$74,872.52
+         Luisa will have $74,872.52 in 29 years.
+
+b. Jonah is purchasing a 2016 Dodge Challenger for $32,750. He plans to put $4,500 cash
+    down, and finance the remainder at 9.35% APR, compounded monthly, for seven years.
+    Find his monthly car payment. How much will Jonah pay in total for the car?
+    $32,750 - $4,500 = $28,250 for the amount of the loan
+
+=PMT(0.0935/12, 7*12, 28250, 0)
+=$459.55
+Jonah's car payment is $459.55.
+He will pay $4500 + 7*12*$459.55 = $43,102.20 for the car
+
+c. Charles deposited $2,800 into an account paying 7.15% APR, compounded daily. Find the
+    balance in this account after 15 years.
+
+=FV(0.0715/365, 15*365, 0, 2800)
+=$8,182.64
+
+Charles will have $8,182.64 in 15 years.
+
+d. Trung deposited $1200 into a savings account paying 6.5% APR, compounded
+    continuously. Find his account balance after 15 years. What percentage of that is interest?
+
+=1200*exp(0.065*15) = $3,181.40
+=$3,181.40 - $1,200 = $1,981.40 interest, $1,981.40/3,181.40 = .623 or 62.3%
+Trung will have $3,181.40 in 15 years.
+
+e. May is comparing two different accounts. One is 6.3% compounded quarterly and the
+    other is 5.5% compounded daily. Calculate the effective rate of each and state which
+    account will earn more money.
+
+=effect(0.063, 4)       =effect(0.055, 365)
+
+=0.0645                 =0.0565
+
+The quarterly compounded rate of 6.3% is better because it has a higher annual
+
+interest rate of 6.45%
+
+Cara Lee                                                   Page 3
+7. Use the 2024 tax tables to answer the tax questions. The tables will be given with the test.
+    Write your answers in complete sentences.
+
+    a. Manuel is filing as head of household and has $22,500 in itemized deductions. Should he
+         claim the itemized deductions or the standard deduction? How much would his
+         deduction be?
+
+         The standard deduction from the table is $21,900. He should use his itemized
+         deductions because they are higher.
+
+b. Jessie and Sam are married filing jointly with two kids. They have a gross income of
+    $104,100 and $21,000 in itemized deductions. Determine their deduction and calculate
+    their taxable income.
+
+       $104,100 - $29,200 (Standard deduction of $29,200 is higher)
+    = $104,100 - $29,200
+    = $74,900
+    The taxable income for Jessie and Sam is $74,900.
+
+c. Bill is single with a taxable income of $35,100. Calculate the amount of tax owed using
+
+the table.                                (you can write the steps out in a
+
+                                          different way, just show your work)
+
+          $1,160 + 0.12(35,100 - 11,600)
+
+= $1,160 + 0.12($23,500)
+
+= $1,160 + 2,820
+
+= $3,980
+
+Bill owes $3,980 in taxes.
+
+d. Kole had $6,210 deducted from their paychecks in withholdings. Their taxes owed came
+    out to be $5,598. Does Kole get a refund or owe money and what is the amount?
+
+    $6,210 - $5,598 = $612
+    Kole had more deducted from their paychecks than they owe, so they get a refund
+    of $612.
+
+Cara Lee                                                                     Page 4
+8. Identify the sampling method:
+    a. Researchers select every 5th customer who walks into the store to take a survey.
+         Systematic sample
+
+    b. Raffle tickets are distributed and collected in a bag, where they are mixed and ten are
+         drawn for prizes.
+         Simple Random Sample
+
+    c. I asked the shoppers near me in the shoe department what size they wear.
+         Convenience Sample
+
+    d. An IRS auditor randomly selects 25 taxpayers in each filing status (single, head of
+         household, married filing jointly, and married filing separately).
+         Stratified (by filing type)
+
+9. Write the type of study, describe the control group (if any), the treatment group and whether
+    there is any blinding and the type.
+
+    a. A study was done on a new heart medication, where some patients would receive the
+         medication and others would receive a placebo, without knowing to which group they
+         belonged. The nurse who was dispensing the pills was given the pills for each patient and
+         couldn't tell the difference.
+         This is an experiment. The treatment group received the medication and the
+         control group received the placebo. This experiment is double-blind because there
+         is a placebo used and the nurse does not know who is receiving each treatment.
+
+    b. A study assigned one group of participants to try a new moisturizing cream on their
+         hands, and the other group was instructed not to use any cream. This new cream was
+         predicted to help extremely dry skin.
+         This is an experiment. The treatment group uses the cream and the control group
+         does not. A placebo is not used so the participants are not blinded.
+
+    c. A study was done to find the average height of each NBA team's players.
+         This is an observational study (not case-controlled).
+
+    d. A study was done to try a new dog food, and the dog owners were given cans with the
+         labels removed. The person handing out the dog food knew which type was given.
+         This is an experiment. The treatment group is the dogs receiving the new food and
+         the control group gets a different type of food. The study is single-blind because
+         the owners do not know which type of food they are getting for their dogs. The
+         person handing out the food does know.
+
+Cara Lee  Page 5
+10. In a CNN poll of 500 adults nationwide, 62% of those surveyed answered yes to the
+    following question, "Do you favor a law to ban the sale of assault weapons and
+    semiautomatic rifles?" The margin of error was 4.4%. Write the confidence interval. Would
+    you claim that a majority of Americans support such a law?
+
+62% ± 4.4%
+(62-4.4, 62+4.4)
+(57.6%, 66.4%)
+The full confidence interval is over 50% so we could claim that a majority of
+Americans support having the law.
+
+11. List the type of bias in each study.
+    a. PCC students were sent an email survey to determine how long to keep the computer lab
+         open in the evenings.
+         This study is subject to voluntary response bias because students choose whether to
+         respond and the sample may not be representative of the population. You could
+         also say selection bias because an email survey is not a good way to survey people
+         about computer access.
+    b. Campus officials want to know how many PCC students have experienced housing
+         insecurity so they poll students at Sylvania and Rock Creek campuses.
+         This study is subject to selection bias. Students at SE and Cascade were not
+         surveyed so the sample will not be representative of the PCC student population.
+
+12. Old Faithful (geyser in Yellowstone Park) typically erupts nearly 20 times per day for about
+    1.5 to 5 minutes in duration each time. The amount of time between eruptions varies but is
+    fairly regular. For May 30, 2016, the time between eruptions was recorded (in minutes):
+
+97, 88, 91, 95, 90, 100, 107, 85, 93, 103, 99, 107, 90, 94, 90
+
+[ 85, 88, 90, 90, 90, 91, 93, ] 94, [ 95, 97, 99, 100, 103, 107, 107 ]
+
+min  Q1  median                                 Q3  max
+
+a. Use GeoGebra or Stapplet to create a
+    histogram and boxplot with label and
+    units. What is the shape of the
+    distribution? Practice taking a screenshot
+    for the final.
+
+The shape is unimodal and skewed
+right.
+
+b. Use GeoGebra or Stapplet to find the
+    mean, standard deviation, and 5-number
+    summary, including units.
+
+         Mean: 95.3 minutes                                     Page 6
+         Standard deviation: 6.77 minutes
+         5-number summary:
+         85, 90, 94, 100, 107 minutes
+
+Cara Lee
+13. There are 20 prize items in a box:
+
+5 pink phone cases     2 yellow calculators  2 green erasers   1 purple phone case
+2 pink erasers         4 yellow phone cases  3 green journals  1 purple calculator
+
+If you grab one prize at random, what is the probability that
+
+    a. it is a calculator? 3
+                                     20
+
+    b. it is not green? 15 = 3
+                              20 4
+
+    c. it is pink or purple? 9
+                                    20
+
+    d. it is yellow or a phone case? 12 = 3
+                                                20 5
+
+e. If you draw three prizes in a row, putting them back in each time, what is the probability
+
+that they are all green journals?
+
+          3 3 3 27     = 0.0034
+           =
+20 20 20 8000
+
+f. If three people draw prizes in a row (they get to keep them, so they do not put them
+    back), what is the probability that they are all yellow phone cases?
+      4 3 2 24
+          = = 0.0035
+     20 19 18 6840
+
+g. What are the odds against getting a pink eraser?
+
+18:2 or 9:1
+
+14. The probability distribution for the amount of money an insurance company pays in claims
+    per customer per year is given below.
+
+a. Calculate the expected payout for the insurance company per customer, including units.
+
+            Payout     $20,000   $15,000     $1,000  $500       $0
+          Probability   0.001     0.003       0.09   0.05      0.856
+
+$20,000(0.001) + $15,000(0.003) + $1,000(0.09) + $500(0.05) + $0(0.0856)
+
+= $20                  +  $45           + $90 + $25 + $0                  = $180
+
+The expected or average amount the insurance company pays per customer is $180.
+
+b. If the insurance policy sells for $599 per year, what is the expected profit or loss for the
+    company? Write your answer in a complete sentence.
+    $599 - $180 = $419
+
+The insurance company makes an average of $419 per policy per year.
+
+Cara Lee                                                              Page 7
+

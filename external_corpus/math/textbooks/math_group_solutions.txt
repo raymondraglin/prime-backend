@@ -1,0 +1,330 @@
+MTH 105           Chapter 1: Logical Reasoning and Problem Solving
+
+          1.1-1.2: Logic in Everyday Life, Sets and Venn Diagrams - SOLUTIONS
+
+Class Activities
+
+1. Discuss each statement and decide which are propositions. Circle
+    or highlight them.
+    a. Are you hungry?
+    b. Janae was nominated for student council president.
+    c. Four pounds less.
+    d. 7 + 8 = 33
+    e. I have two siblings.
+
+2. A proposition is given, represented by the letter p. Write the wording for the negation and
+    double negation.
+
+    p: Hannah eats apples.
+
+   not p: Hannah does not eat apples
+   not not p: Hanna refuses to not eat apples (you can be creative with this
+   one)
+
+3. More Negations. Read the following and decide whether logging will continue. "The
+    House failed to overturn a veto on a bill that would stop logging."
+
+   Logging would continue
+
+    (The bill would stop logging. The veto would continue logging. Overturning
+    the veto would stop logging. Failing to overturn the veto continues logging.)
+
+4. On this California ballot measure, what's the result of a "yes" vote?
+
+Ballot question title: Redistricting. State Senate Districts. Referendum.
+Ballot question text: A "Yes" vote approves, and a "No" vote rejects, new State Senate
+districts drawn by the Citizens Redistricting Commission. If the new districts are rejected,
+the State Senate district boundary lines will be adjusted by officials supervised by the
+California Supreme Court.
+(State Senate districts are revised every 10 years following the federal census.)
+
+In California's Proposition 40 (2012), it's likely that some voters thought
+a "yes" vote meant approving a new way of drawing Senate district
+boundaries when in fact, it meant to keep the existing method.
+(If the new districts are rejected, the lines will be adjusted)
+
+https://civicdesign.org/ballot-questions-are-hard-to-understand-here-are-6-ways-to-fix-
+
+them/
+
+Cara Lee          Page 1
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+5. Negations of all or none: Write a negation of each statement. There is more than one right
+    answer.
+
+a. All students like coffee.
+
+   All students don't like coffee or some students don't like coffee.
+
+b. No students like to sing.
+
+   Some students like to sing.
+
+6. Determine whether each "and" statement is true or false.
+
+   a. 25 + 30 = 55 and 55 ÷ 11 = 6. false
+   b. 16 is even and odd. false
+   c. Cats are mammals and geckos are reptiles. true
+
+7. Determine whether each or statement is inclusive or exclusive.
+
+   a. Are you going to wear pants or a skirt tomorrow? Exclusive Or
+   b. Students can join the Music Club if they are in the choir or band. Inclusive Or
+
+8. Determine whether each "or" statement is true or false.
+
+   a. 3 + 8 = 10 or 6 is an odd number. false
+   b. Mexico is a country or a city. true
+   c. Mice are rodents or snakes are reptiles. true
+
+Cara Lee                                                     Page 2
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+9. Identify the hypothesis and conclusion of each conditional statement.
+
+a. If you can see the stars, then it is night.
+
+   Hypothesis: You can see the stars, Conclusion: It is night.
+
+b. You'll win big if you play the lottery.
+
+   Hypothesis: You play the lottery, Conclusion: You'll win big.
+
+c. If elephants fly, then fish don't swim.
+
+   Hypothesis: Elephants fly, Conclusion: Fish don't swim.
+
+10. Determine whether each "if...then" statement is true or false.
+
+   a. If a figure is a square, then it has four equal sides. true
+   b. If cows can fly, then eagles can fly. true
+   c. If the sky is purple, dogs are not pets. true
+   d. If horses are mammals, then horses have two legs. false
+
+11. Write the converse, inverse, and contrapositive for the conditional statement:
+    Original Statement: If you perform well tomorrow, then you get a cash bonus.
+
+   a. Converse: If you got a cash bonus, you performed well.
+
+b. Inverse: If you didn't perform well, you didn't get a cash bonus.
+
+c. Contrapositive: If you didn't get a cash bonus, you didn't perform well.
+
+d. Which pairs of statements are equivalent to each other? The original statement
+   and contrapositive are equivalent. The converse and inverse are
+   equivalent.
+
+Cara Lee                                                                  Page 3
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+12. Compound Statements: Some courses at PCC and other colleges have complex sets of
+    prerequisites. For each class, list all the minimum ways a student could meet the
+    prerequisites.
+
+a. ART275 Printmaking II.
+
+    Prerequisites: ART 272 or ART 273 or ART 274
+
+   3 possible ways (to meet the minimum prerequisite)
+       · Take ART 272 or
+       · Take ART 273 or
+       · Take ART 274
+
+b. AD256 Advanced Counseling and Addiction.
+    Prerequisites: AD 160 or (AD 150 and AD 151)
+
+   2 possible ways (to meet the minimum prerequisite)
+       · Take AD 160 or
+       · Take AD 150 and AD 151
+
+c. BA285 Human Relations-Organizations.
+
+    Prerequisite: (WR 115 and RD 115) or IRW 115 and MTH 20 or equivalent
+
+    placement. Note: IRW 115 is integrated reading and writing.
+
+   This could be clearer with more parentheses, but assume math is
+   required.
+   2 possible ways (to meet the minimum prerequisite)
+
+       · Take WR 115 and RD 115 and MTH 20 or
+       · Take IRW 115 and MTH 20 or
+       · Note: There are more options if you consider placing above
+
+           each class:
+
+                o Take WR 115 and RD 115 and place higher than MTH 20 or
+                o Place higher than WR 115, take RD 115 and MTH 20 or
+                o Take WR 115, place higher than RD 115 and MTH 20 or
+                o Place higher than IRW 115 and MTH 20
+
+d. CIS277A Data Analytics.
+    Prerequisites: CIS 125D or CIS 275, and (WR 115 and RD 115) or IRW 115 and MTH 20
+    or equivalent placement. You can build off your last answer.
+
+        · Take CIS 125D along with the 2 possibilities above
+        · Take CIS 275 along with the 2 possibilities above.
+        · If you included placing out of classes there would be 8 more
+
+            possibilities
+
+Cara Lee                                               Page 4
+MTH 105                          Chapter 1: Logical Reasoning and Problem Solving
+
+                         1.2: Sets and Venn diagrams
+
+13. Pizza Venn Diagrams
+
+Let's continue the last example with P representing pepperoni, H representing ham, and M
+representing mushrooms. Shade or color in the appropriate area(s) for each pizza on the
+Venn diagrams below.
+
+Pepperoni &              Cheese  Veggie                    Supreme
+ Mushroom                                             (everything on it)
+
+Cara Lee                                              Page 5
+MTH 105                                Chapter 1: Logical Reasoning and Problem Solving
+Qualified Propositions
+
+14. Draw a Venn diagram for each categorical proposition. Then write on the line whether the
+    sets are disjoint, overlapping, or one is a subset of the other.
+                                                                                 Relationship between the Sets
+
+a. Some bikes are orange.              _____Overlapping______________
+
+          Bikes         Thing
+                 x s that
+
+                        are
+
+                        orange
+
+b. All bicycles have wheels.           ______Subset____________________
+
+          Things that have
+          wheels
+
+          Bicycles
+
+c. No bikes are alive.                 _____Disjoint______________
+
+          Bikes              Things
+                             that are
+                             alive
+
+Cara Lee                               Page 6
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+15. Interpreting values on a Venn diagram
+
+A survey was taken to see which professional sports were
+watched by students. Let F represent football, B represent
+basketball, and H represent hockey.
+
+Answer the following questions (use complete sentences).
+Show any calculations that were used.
+
+a. How many students participated in the survey?
+
+    65 + 42 + 53 + 24 + 25 + 19 + 37 + 35 =300
+   300 students took the survey.
+
+b. How many students watched basketball?
+
+    42 + 53 + 25 + 19 = 139
+    139 students watched basketball.
+
+c. How many students watched only one of the sports?
+
+     65 + 53 + 37 = 155
+     155 students watched only one of the sports.
+
+d. How many students watched at least two sports?
+
+     24 + 42 + 19 + 25 = 110
+   110 students watched at least two of the three sports.
+
+e. How many students didn't watch hockey?
+
+    300 - (24 + 25 + 19 + 37) = 195 OR 35 + 65 + 42 + 53 = 195
+   195 students didn't watch hockey.
+
+e. How many students watched football or hockey? Can you find this 2 different ways?
+
+    65 + 42 + 24 + 25 + 37 + 19 = 212 or 300 - 53 - 35
+   212 students watched football or hockey (remember the inclusive or)
+
+f. How many students watched football and hockey, but not basketball?
+
+(this one can be found directly from the diagram)
+         24 students watched football and hockey, but not basketball.
+
+Cara Lee                                                    Page 7
+MTH 105   Chapter 1: Logical Reasoning and Problem Solving
+
+16. Challenge Problem - read the wording very carefully.
+
+150 people attending a concert were asked if they played piano, guitar, or drums.
+
+10 could play all three.
+73 could play guitar.
+18 couldn't play any of these instruments.
+21 could play piano and drums.
+49 could play at least two of the instruments.
+13 could play piano and guitar but not drums.
+69 could play drums or guitar but not piano.
+
+Let P represent piano, G represent guitar, and D represent drums.
+         Write a description in each area.
+
+Calculate and fill in the values for all eight regions.
+
+If given the "all" value, enter in the center.
+
+If given the "none" value, enter outside of the circles.
+
+Next, look for information for any that are only two of the three (small areas
+connected to center):
+
+Look for information for
+two of three (but doesn't
+exclude the third). For
+this type, you have to
+subtract the center value.
+
+Cara Lee  Page 8
+MTH 105                        Chapter 1: Logical Reasoning and Problem Solving
+
+Next, we can do the
+"at least two" (four center
+areas) by subtracting the
+three known values.
+
+After that, look for one
+instrument that has values
+in three of the four areas,
+subtracting them.
+
+The three areas from
+drums and guitar that are
+bordering the piano circle
+represent "drums or
+guitar, not piano."
+Subtract the two known values to find the "only drums."
+
+When just the "only piano"                               Page 9
+area remains, subtract all of
+the other values from the
+total.
+
+NOTE: In general, a
+process of elimination is
+used. The given
+information isn't always the
+same types as this problem,
+but will be enough to work
+through area by area until
+all have values assigned.
+Cara Lee
+

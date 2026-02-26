@@ -1,0 +1,214 @@
+MTH 105                                  Name _____________________________________________
+                        5.1: Apportionment
+
+Apportionment is the problem of dividing up a fixed number of people or items among
+groups of different sizes. For example, we use apportionment to determine the number of
+representatives for each state in the US House of Representatives, or to divide school busses
+among districts.
+
+Rules of Apportionment
+
+1. The people/items can only be divided into                                                   .
+
+2. We must use the                            of people/items being divided.
+
+3. Each group must get                        of the people/items being divided up.
+
+4. The number of people/items assigned to each group should be                             to
+
+the size of the group. (Exact is rarely possible so get as close as possible).
+
+Apportionment Methods and Steps
+
+1. Divide the total population by the number of items to find the divisor: The number of
+people each person should represent (decimal).
+
+2. Divide the population of each group by the divisor to get the standard quota.
+
+Hamilton's Method (vetoed in 1792, used from 1850-1900): Cut off decimal to find
+the initial number. Then give any extra seats in order of the highest decimal remainders.
+
+Jefferson's Method (used from 1792-1830): Cut off the decimal to find the initial
+number. Lower the divisor if needed so that there are no leftover seats. Uses trial and
+error.
+
+Webster's Method (used in 1840): Instead of cutting off the decimal, round it to find the
+initial number. Then raise or lower the divisor if needed so there are no leftover seats.
+
+Hill-Huntington Method (used 1941-present): Instead of rounding using 0.5 or higher,
+
+use the geometric mean ( + 1) to round the initial number. Then raise or lower the
+divisor if needed so there are no leftover seats.
+
+It is important to acknowledge slavery in the U. S. when these methods were formed. In the
+textbook I encourage you to read about the 3/5 Compromise and Hamilton, Jefferson and
+Webster's relationship to slavery. In the 3/5 compromise, only 3/5 of the slave population was
+counted for representation. When the slaves were freed in 1863, they were counted as whole
+people. Black men were given the right to vote in 1869 and all women in 1920, however,
+there are still voter suppression measures for black people and other minoritized groups.
+
+It is important to acknowledge this history and the racism that continues today so those with
+privileges can use them to work toward removing systemic oppression.
+
+Cara Lee                                                        Page 1
+MTH 105                Name _____________________________________________
+
+Example 1. PCC has four campuses and 45 full-time math instructors. The number of
+students at each campus is given in terms of full-time equivalency (FTE). How can we divide
+up the math instructors fairly?
+
+2016-17 Academic Year Data: https://www.pcc.edu/ir/factsheet/Factbook/201617/swr5yrt2012-2016.pdf
+
+Use Hamilton's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota  Initial or Minimum  Final
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total
+
+Divisor:
+
+Use Jefferson's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Use Webster's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Cara Lee                                                   Page 2
+MTH 105                Name _____________________________________________
+
+Use Hill-Huntington's method to apportion the math instructors.
+
+Campus Students (FTE)  Standard Quota
+
+Sylvania   8871
+
+Cascade    4841
+
+Rock Creek 6797
+
+Southeast  2722
+
+Total      23,231
+
+Divisor:
+
+Cara Lee                                                         Page 3
+MTH 105                                          Name _____________________________________________
+                                5.2: Voting Methods
+
+Personal Reflection:
+Do you think the U.S. presidential election system is fair? Explain why or why not.
+
+Voting Methods
+
+Ranked Choice Voting and the Preference Schedule
+
+Example 1. Students are voting for their class president and the candidates are Omar (O),
+Ann (A), and Helen (H). They have ranked the candidates according to their preference.
+
+            Vien Ann Marv Tasha Eve          Omar  Lupe  Dave  Helena                Jimmy
+                                             O     H     O     H                     A
+1st choice  A A O            H     A         H     A     H     A                     H
+2nd choice                                   A     O     A     O                     O
+3rd choice  O H H            A     H
+
+            H O A            O     O
+
+Make a Preference Schedule:
+
+1st choice
+2nd choice
+3rd choice
+
+Plurality Method (only first choice counts)
+
+            1   3  3            3
+
+1st choice A    A  O            H
+
+2nd choice O    H  H            A
+
+3rd choice H    O  A            O
+
+Cara Lee                                                       Page 4
+MTH 105                                   Name _____________________________________________
+
+Example 2. Five candidates are running for office and labeled A, B, C, D and E for simplicity.
+Which candidate wins under each method?
+
+ Plurality Method
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+How many people voted?
+How many votes are needed for a majority win?
+How many votes are needed for a plurality win (at a minimum)?
+
+ Instant Runoff Method (Sometimes Called Sequential Runoff or Single Transferrable Vote)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+ Point System (Borda Count)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+ Condorcet Method (Pairwise Comparisons)
+                3 4 4 6 2 1
+
+1st choice B C B D B E
+2nd choice C A D C E A
+3rd choice A D C A A D
+4th choice D B A E C B
+5th choice E E E B D C
+
+Cara Lee                                                       Page 5
+

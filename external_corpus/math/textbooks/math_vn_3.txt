@@ -1,0 +1,136 @@
+       MTH 105                                 Name ______________________________________
+
+                     2.1-2.2: Spreadsheets and Simple and Compound Interest
+
+Personal Reflections:
+1. Do you use a budget? Why or why not?
+
+2. List some places in your finances where you might be able to save a few dollars or more
+    per week or per month.
+
+                          2.2: Simple and Compound Interest
+
+Simple Interest                                Compound Interest
+Definition: Interest is only earned (or paid)  Definition: Interest is earned on the
+on the original amount.                        original amount and any interest added to
+                                               the account.
+
+Example: You invest $500 and you earn 6%       Example: You invest $500 at a rate of 6%
+interest every year for 5 years.               interest compounded yearly for 5 years.
+
+Year            Interest  Balance              Year   Interest               Balance
+Start                      $500                Start                          $500
+
+  1                                              1
+  2                                              2
+  3                                              3
+  4                                              4
+  5                                              5
+
+Formulas:                                                       Page 1
+Cara Lee
+MTH 105                             Name ______________________________________
+
+Using Spreadsheet Formulas for Compound Interest
+
+You will need to use Microsoft Excel or Google Sheets while you watch these videos. You can
+use a computer, tablet or smart phone with the Google Sheets App.
+
+Future Value Formula                Present Value Formula
+
+=FV(rate, nper, pmt, [pv], [type])  =PV(rate, nper, pmt, [fv], [type])
+
+Inputs:
+         rate =
+
+nper =
+
+pmt =
+
+pv =
+
+fv =
+
+[type] =
+
+Example 1. If you invest $500 at 6% interest, calculate the balance after 5 years for each
+compounding interval. Write the formula used and inputs in proper syntax.
+
+    o Simple Interest
+
+o Compounded Yearly
+
+o Compounded Quarterly
+
+o Compounded Monthly
+
+o Compounded Daily (365)
+
+o Compounded Continuously
+
+Cara Lee                                                   Page 2
+MTH 105                                        Name ______________________________________
+
+Compounding Continuously                       Effective Rate
+If we let the number of compounding            The corresponding rate if compounded
+periods go to infinity, we get a base of e in  yearly. Used to compare different
+our function.                                  compounding options.
+
+      =                                        =effect(nominal rate, periods
+                                               per year)
+=P*exp(rate*years)
+
+Example 2. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. How much would you need to deposit in an account that pays 5.25% compounded
+             monthly to have $20,000 in 20 years?
+
+b. You get an inheritance of $15,000 and you decide to put it in an account that pays
+    7.1% interest compounded continuously. How much would it be worth in 25 years?
+
+c. You decide to save your tax refund of $1000 in an account that pays 6.5%
+    compounded quarterly. How much would you have in 15 years?
+
+d. You are shopping for savings accounts and you find one with a rate of 3.25%
+    compounded monthly and one with a rate of 3.15% compounded daily. Find the
+    effective rates to determine which account has a better rate.
+
+Cara Lee                                       Page 3
+MTH 105                                    Name ______________________________________
+                                2.3: Savings Plans
+
+You will need to use Microsoft Excel or Google Sheets while you watch these videos. You can
+use a computer, tablet or smart phone with the Google Sheets App.
+
+          Future Value Formula      Present Value Formula
+
+=FV(rate, nper, pmt, [pv], [type])  =PV(rate, nper, pmt, [fv], [type])
+
+Saving with an initial deposit and/or monthly payments.
+
+Example 1. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. You want to save $100 per month at an annual rate of 8% interest. How much will
+             you have after 15 years?
+
+b. You want to save $1000 now and $50 per month for 10 years. How much will you
+    have if you find an account with 7% interest?
+
+Payment Formula
+
+=PMT(rate, nper, pv, [fv], [type])
+
+Example 2. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+
+         a. You want to save $30,000 for the down payment on a house in 5 years at an annual
+             rate of 5% interest. How much do you need to set aside per month?
+
+b. Your company needs $2,000,000 for an expansion project in 5 years. How much
+    should be deposited quarterly in an account that earns 8% interest compounded
+    quarterly?
+
+Cara Lee                                                   Page 4
+

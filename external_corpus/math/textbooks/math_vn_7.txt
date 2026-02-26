@@ -1,0 +1,179 @@
+MTH 105                          Name _____________________________________
+          4.1: Contingency Tables
+
+Relating Venn Diagrams to Contingency Tables:
+
+250 households were surveyed and 180 said they have a cat, 95 said they have a dog, and 52
+said they have a cat and a dog. Fill in the Venn diagram and the contingency table.
+
+Cat       Dog                                         Dog No Dog Total
+
+                                               Cat
+
+               No Cat
+
+                                               Total
+
+4 types of probabilities: Marginal, AND, OR, Conditional, using contingency tables
+MARGINAL
+
+         Find the probability that a randomly selected person from the study has a cat.
+
+         P(cat) =
+
+AND
+         Find the probability that a randomly chosen person from the study has a cat AND a
+         dog.
+
+         P(cat AND dog) =
+
+OR
+         Find the probability that a randomly chosen person from the study has a cat OR no
+         dog.
+
+         P(cat OR no dog) =
+
+CONDITIONAL
+         Given that a person from the study has a dog, what is the chance they have a cat?
+
+         P(cat given dog) =
+
+Cara Lee                                              Page 1
+MTH 105                                        Name _________________________________________________
+                                4.2: Fundamentals of Probability
+
+Three Types of Probabilities, Theoretical, Empirical, Subjective
+
+Theoretical Probability- Based on counting equally likely outcomes
+
+Example 1. You have a
+quarter, a dime, and a nickel.
+You toss them in the air, and
+record whether they land on
+heads or tails.
+
+a. Draw a tree to see the
+    possible outcomes.
+
+b. Can you think of a way to
+    multiply to find the
+    number of outcomes?
+    (Multiplication Principle)
+
+c. What is the probability of getting 3  d. exactly 1 head?
+    heads?
+
+Theoretical Probability Model: We are interested in the number of heads, so we will list the
+possible outcomes for the number of heads, along with the probability of getting each.
+Number
+of Heads
+
+Probability
+
+e. What is the probability of getting 1  f. What is the probability of getting
+    or2 heads?                               fewer than 2 heads?
+
+g. What is the probability of not        h. What is the probability of getting at
+    getting 2 heads (Complement)?            least one head? (Complement of
+                                             none)
+
+Empirical Probability (Relative Frequency) - Based on observations or an experiment
+15% of the parts sampled were found to be defective, so there is a 15% chance that a
+randomly selected part will be defective.
+
+Subjective Probability - Based on intuition, experience or feeling
+What's the chance you will go to the party on Friday?
+
+Cara Lee                                                            Page 2
+MTH 105                     Name _________________________________________________
+
+Relationship between Odds and Probability
+
+Example 2. A team is given odds of winning of 4:7. What is the chance they will win? Lose?
+
+Gambling Odds: "odds on" means "odds against"
+
+Example 3. At a horse race, the odds on My Little Pony are given as 8 to 1. What is the
+probability of My Little Pony winning and losing? The 8 to 1 odds mean that for every $1 you
+bet on My Little Pony, you get $8 if you win. If you bet $10 and My Little Pony wins, how
+much do you win?
+
+                            Combining Probabilities
+
+Example 4. You have 10 prizes in a bag and people are going to draw them at random. Two
+
+are yellow erasers, one is a yellow calculator, three are green calculators and four are red
+
+erasers. First, let's find the individual probabilities:
+
+P(YE)=          P(YC)=      P(GC)=                        P(RE)=
+
+P(Calculator)=  P(Eraser)=  P(Red)=                       P(Yellow)=  P(Green)=
+
+"Or" Events (Single Draw)                                 "And" Events (Multiple Draws)
+
+              Add          Add                   Multiply                    Multiply
+( or ) = () + ()   Be careful not to  ( and ) = ()  ()                     Change the
+                   double count the                                   probability for each
+
+                      intersection                                             draw
+
+"Or" Events
+a. What is the probability of drawing a yellow or green item?
+
+b. What is the probability of drawing a red item or an eraser?
+
+"And" Events
+c. If we put the items back in each time, (draw with replacement), what is the probability of
+
+    drawing three red erasers in a row?
+
+d. If we do not put the marbles back in each time, (draw without replacement), what is the
+    probability of drawing three red erasers in a row?
+
+Cara Lee                                                              Page 3
+MTH 105                                  Name _________________________________________________
+             4.3: The Law of Large Numbers and Expected Value
+
+The Law of Large Numbers:
+In an experiment with independent trials, as you increase the number of trials the relative
+frequency gets closer to the theoretical probability.
+
+Example 1. Theo rolled a standard 6-sided die 1,000 times and recorded that the number 2
+came up 100 times. He suspects that the die is not fair. Is he correct?
+
+Gambler's Fallacy:
+The mistaken belief that a streak or run of bad luck will make the opposite outcome more
+likely.
+
+Expected Value:
+The long run average or mean value for many repeated samples.
+
+The expected value is an        that is weighted by the                                      .
+
+Example 2. A lottery ticket has five possible prize amounts and the chances of winning each
+are shown in the probability model.
+
+Prize                     $1 $10 $50 $1000                            0
+
+Probability               1  1  1                            1  1539=0.7695
+
+                          5  50 100 2000                        2000
+
+a. Find the expected value for this lottery ticket.
+
+         b. If the cost of the ticket is $2, what are your expected winnings?
+
+Example 3. Primo Insurance sells an annual car insurance policy for $1,350. Based on past
+data collected, an average of 1 in 50 policyholders will file a $6,000 claim, an average of 1 in
+100 policyholders will file a $15,000 claim, and an average of 1 in 300 policyholders will file a
+$33,000 claim.
+
+         Insurance Payout
+         Probability
+
+         a. Find the expected value for the amount that Primo will pay per policy.
+
+         b. What is the expected profit or loss per policy?              Page 4
+Cara Lee
+

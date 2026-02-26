@@ -1,0 +1,247 @@
+Video Notes                                                 Portland Community College
+
+                                 1.3 Decimals and Percents
+
+Class Prep Assignment                              Due at the beginning of next class
+
+Rounding - May be Review
+
+Step 1. Determine the place to which the number is to be rounded. Circle or underline it.
+
+Step 2. If the digit to the right of the number to be rounded is less than 5, replace it and all the digits
+to the right of it by zeros. If the digit to the right of the underlined number is 5 or higher, increase the
+underlined number by 1 and replace all numbers to the right by zeros. If the zeros are decimal digits,
+you may eliminate them.
+
+Place value chart
+
+                                                                                                          Hundred
+                                                                                                       Thousandths
+                                                                                               Ten
+                                                                                            Thousandths
+                                                                                   Thousandths
+
+                                                                         Hundredths
+
+                                                               Tenths
+                                                       Decimal
+                                                   Point
+                                           Ones
+
+                                 Tens
+
+                      Hundreds
+
+            Thousands
+
+   Ten
+thousands
+
+10,000 1,000 100 10                    1        .  .1 .01 .001 .0001 .00001
+
+1. Round each number to the place value given:
+    a. 126.745 inches to the nearest tenth
+
+b. 5.68932 feet to two decimal places
+
+c. 0.038594 to three decimal places
+
+d. $ 43.893 to the nearest cent
+
+e. 0.00125 to four decimal places
+
+f. 0.00199 to four decimal places
+
+                                                                                                                    Page 1
+Video Notes                                                                               Portland Community College
+                       Converting Percentages to Decimals - May be Review
+
+Percent means per 100, so depending on which way we are converting, we move the decimal 2 places
+to the left or to the right.
+
+Percent to decimal
+
+50% means 50/100. When we divide this we get 0.50 or 0.5. Notice how the decimal is now 2 places
+to the left.
+
+Decimal to percent
+
+0.25 is read as 25 hundredths, which can be written as 25/100. This is 25%. Notice how the decimal
+place is now 2 places to the right.
+
+Memory aid
+
+D                   P
+
+2. Convert each percentage to a decimal:                  Convert each decimal to a percentage:
+    a. 31%                                                g. 0.97
+    b. 130%                                               h. 0.09
+    c. 3%                                                 i. 0.009
+    d. 0.3%                                               j. 2.41
+    e. 1.3%                                               k. 0.3294
+    f. 1.23%                                              l. 0.0354
+
+Divide and round each proportion to four decimal places.
+
+m. 9                                                      o. 9
+
+      25                                                        11
+
+n. 5                                                      p. 
+
+      36                                                        
+
+                                                                    Page 2
+MTH 105                                         Name:______________________________________
+          Operations with Percentages - May be Review
+
+Finding the percentage of an amount
+
+"of" is a key word that means multiply. First change the percentage into decimal form and
+then multiply.
+
+3. A sweater that is normally priced at $59.99 is on sale for 20% off. What is the discount?
+    What is the new price of the sweater?
+
+Finding the percentage given a fraction
+4. A pollster surveyed 320 people and 136 of them said they are planning to vote for
+
+    candidate A in the next election. What percent of those surveyed are planning to vote for
+    this candidate?
+
+Absolute and Relative Change
+Absolute change is the difference in two quantities and has the same units as the original
+quantities.
+Relative change is the absolute change and is written as a percentage increase or decrease.
+
+                                      starting quantity
+
+The starting quantity is called the base of the percent change.
+5. You bought a desktop computer three years ago for $1250. Today, it is worth about $350.
+
+    Describe the absolute and relative change in the computer's value.
+
+Cara Lee                             Page 3
+MTH 105                                         Name:______________________________________
+                       1.4: Proportional Reasoning
+
+Class Prep Assignment  Due at the beginning of next class
+
+Watch the video on Proportional Reasoning and take notes on this page.
+
+    � Does a runner run a 5,000-meter race at the same rate they run a 100-meter race?
+    � Should the amount of taxes a person pays be related to their income?
+    � Should a state's representation in the U.S. government be related to the population of
+
+         the state?
+
+Proportional: When two quantities have the same relative size, or the same ratio or rate. In a
+proportional relationship, one quantity is always a constant multiple of the other.
+
+1. Tax example. Julia makes $40,000 a year and pays $6,800 in taxes. Fabiana makes
+    $400,000 a year and pays $50,000 in taxes. Are these ratios proportional?
+
+2. Shopping example. Cans of chickpeas are $1.25 each or 4 for $5.00. Are these rates
+    proportional?
+
+Ratio: A comparison of two like quantities without units                Page 4
+Rate: A fraction of two unlike quantities (has units with "per")
+Unit Rate: A rate where the denominator is one unit
+
+    3. Identify each as a ratio, rate, or unit rate
+             a. $19.99 per shirt
+
+             b. 60 
+                  5 
+
+             c. 3:4
+     Cara Lee
+MTH 105                Name:______________________________________
+
+Solving proportion problems visually (scaling)
+
+    4. A car speeding on the highway in cruise control travels 18 miles every 15 minutes.
+         How far will the car travel in 5 minutes? How far will it travel in one hour?
+
+0 miles    18 miles
+
+0 minutes  15 minutes
+
+Solving proportion problems using a unit rate (constant multiple)
+
+    5. Bars of soap are on sale at the price of 3 bars for $2. How much would you pay for 7
+         bars of soap if the sale applies to all quantities at the same rate?
+
+Solving proportion problems with an algebraic equation
+
+    6. A house valued at $480,000 has property taxes of $4,992 per year. In the same
+         neighborhood, assuming the tax rate is proportional, what would the property taxes be
+         for a house valued at $395,000?
+
+Cara Lee               Page 5
+MTH 105                                    Name:______________________________________
+                       1.5: Problem Solving
+
+Class Prep Assignment  Due at the beginning of next class
+
+Reflection: Give an example of a complex problem to solve in your life. How did you
+approach it?
+
+Watch the videos on Problem Solving and take notes on these pages.
+
+A Problem Solving Process
+    1. Identify the question(s) you're trying to answer. Do any research needed to understand
+         the context.
+    2. Identify the information you have and any information you may need. Look up or
+         estimate any missing information. Estimate the range of reasonable answers.
+    3. Brainstorm and try out different mathematical tools to see what might be helpful. Use
+         manipulatives, visuals or tables whenever possible. All ideas are useful, even if they
+         don't work out.
+    4. Choose one method to continue and get a potential solution.
+    5. Check whether your solution makes sense. Is it reasonable? Can you get there a
+         different way to confirm your answer? Return to Steps 1-5 as needed. When finished,
+         explain your conclusion.
+
+Operation Sense
+What would you use each operation for?
+
+         Addition -
+
+         Subtraction -
+
+         Multiplication -
+
+         Division -
+
+Cara Lee               Page 6
+MTH 105   Name:______________________________________
+
+Use the problem solving process to solve this problem. Try solving it yourself first,
+then watch the video.
+
+1. You have two similar job offers. Which one would you choose and why?
+    � Job A: $50K per year salary, 3 weeks of paid vacation per year, and a benefits
+         package valued at $9K. The company will match 6% of retirement contributions.
+    � Job B: $24 per hour, 40 hours per week, 2 weeks of paid vacation per year, and a
+         benefits package valued at $10K per year. The company will match 5% of
+         retirement contributions.
+
+For the problem above, reflect on how you used your operation sense and number sense.
+
+Cara Lee  Page 7
+MTH 105                                 Name:______________________________________
+Solving Problems with Unit Conversions
+
+2. A medicine package gives a dosage of 0.65 mg/kg/day of a medication given in 2
+    doses. If the child weighs 40 pounds, how many milligrams do they need? If the
+    chewable tablets come in either 3 or 5 mg, which ones should be purchased and how
+    many tablets should be given?
+
+Solving Problems with Geometry
+
+    3. You're pouring a concrete patio with the shape of two overlapping squares as shown
+         in the diagram. You want the concrete to be 6 inches thick. If each square is 12x12 feet
+         and the overlap is about 3x4 feet, how many cubic yards of concrete should you order?
+
+Cara Lee                                Page 8
+

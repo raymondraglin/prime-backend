@@ -1,0 +1,2214 @@
+A Guide to Technical Communications: Strategies & Applications
+A Guide to Technical Communications: Strategies & Applications Copyright © 2016 by Lynn Hall & Leah Wahlin is
+licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, except where otherwise
+noted.
+CONTENTS
+
+Introduction
+
+What is Technical Communications?             2
+
+Rhetorical Foundations
+
+What is Rhetoric?                             5
+
+Applications in Technical Communications      8
+
+Job Search Communications
+
+Preparing Job Application Materials           11
+
+Interview Strategies                          23
+
+Employment Access, Equity & Opportunity       32
+
+Engaging With Research
+
+Common Types of Research Reports & Documents  40
+
+Strategies for Conducting Research            41
+
+Writing about Research                        47
+
+Data Commentary                               53
+
+Using and Documenting Sources                 55
+
+Collaboration & Team Projects
+
+Team Project Management                       58
+              A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 1
+
+INTRODUCTION
+
+Welcome!
+
+Welcome to the textbook for Engineering Technical Communications courses at The Ohio State
+University. Our aim in writing this textbook was to create a resource specifically focused on and
+applicable to the kinds of communication skills most beneficial to the students who take our
+courses. Therefore, this textbook focuses on developing both technical and professional
+communication skills and will help readers practice strategies for critically analyzing audiences
+and contexts, real-world applications of rhetorical principles, and skills for producing documents
+(reports, proposals, instructions), presentations, videos, and wide variety of other professional
+communications.
+
+References
+
+Header Image: "Writing Tools" by Pete O'Shea / CC BY
+
+              1
+2 LYNN HALL & LEAH WAHLIN
+
+WHAT IS TECHNICAL
+COMMUNICATIONS?
+
+At its most basic, communication is the transmission of information in the form of words, images, and
+sounds. We string words, images, and sounds together to make meaning and to share that meaning
+with others. How we form the "strings" depends on audience and context. For instance, how we talk,
+text, or email our friends and personal acquaintances is usually different than how we communicate
+with our bosses or coworkers.
+
+   You might be asking yourself how a technical communications class is different from other
+academic writing classes. In a traditional academic setting, the writing classroom tends to be about the
+demonstration of knowledge--expanding on ideas or documenting an understanding of traditional
+types of papers or essays (explanatory, argumentative, reflective) with the audience being the
+instructor. In a technical communication classroom, many of the principles are similar--organizing
+paragraphs effectively, following the writing process--but with an increased focus on the professional
+context for communicating information and, therefore, even more emphasis on concision, clarity, and
+accessibility.
+
+   Ultimately, the goal of technical communication is to transmit important information as effectively
+and efficiently as possible--information that allows you and the people around you to do your jobs
+well.
+
+   The other way that technical communications might differ from your concept of a traditional
+writing class is that it is not limited only to "writing." Part of transmitting information effectively
+is recognizing that we have many options for how we can communicate with our audiences. There
+are, of course, important written forms, such as reports, emails, proposals, and instructions, but you
+will also need to use visual and oral modes, such as presentations, videos, infographics, or diagrams.
+Further, web and social media offer professionals even more opportunities to communicate in a wide
+variety of formats. An effective communicator knows when and how to strategically deploy (or blend)
+these modes depending on audience and desired response.
+
+   The most important "strategy" emphasized in this textbook is that all communication must be
+designed with audience and purpose in mind. There are almost endless types of documents and forms
+of communication that will be at your disposal as a professional. In addition to knowing what you
+are communicating (the information, your expertise), you, the communicator, must thoughtfully
+consider who you are communicating to (your audience) and why you are communicating (the
+purpose).
+
+Why is communication so important?
+
+If you asked a professional to tell what they really spend their time doing, you might be surprised
+to learn that most of their workday is spent communicating. In a professional environment,
+
+                                                                                         2
+                                                                                        A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 3
+
+communication becomes a thread that ties together your expertise, your duties, and your professional
+relationships. It allows you to first get a job and then perform your job well by fulfilling your duties,
+learning new skills, and maintaining good working relationships with your colleagues.
+
+   Sometimes incredibly knowledgeable people forget to consider the who and why, focusing only on
+the what, and this can lead to gaps in communication.
+
+   Imagine sitting in a lecture on particle physics when you don't know an electron from a proton.
+The professor speaks rapidly and offers no pauses for questions from the classroom and assumes
+that every student, in every seat, is receiving and processing the lecture in the exact same way. As a
+student, you would feel lost and your focus would be on trying to keep up rather than assimilating
+any new knowledge on the subject. This professor, in assuming everyone had the same knowledge
+base, has caused a gap in communication because of a lack of audience awareness. One of the basic
+tenets of being an effective communicator is to know how to avoid these communication gaps. By
+understanding an audience's makeup (education level, background knowledge, values, needs, etc.)
+and developing communication--in whatever form it may be--we can minimize the possibility of
+communication failure.
+
+   Engineers, especially, must be able to communicate within their teams and also be able to
+communicate complex information to a variety of audiences with different knowledge backgrounds.
+As Stephen Pinker (2014) explains,
+
+       The curse of knowledge is the single best explanation of why good people write bad prose. It simply
+       doesn't occur to the writer that her readers don't know what she knows--that they haven't mastered
+       the argot of her guild, can't divine the missing steps that seem too obvious to mention, have no way to
+       visualize a scene that to her is as clear as day. And so the writer doesn't bother to explain the jargon, or
+       spell out the logic, or supply the necessary detail.
+
+Essentially, anyone who has developed a specific area of expertise needs to be mindful that not
+everyone around them knows the same information or even sees the world in the same way. Part of
+being an effective communicator means recognizing that the process of communicating information
+is dynamic and creative and being sensitive to your audience's needs and understanding.
+
+   Ultimately, the goal of this textbook is to help you develop the tools and critical thinking skills you
+need to be an effective communicator in your professional life. While we do address specific, common
+types of workplace documents, it is important to know that the types of communicating you will do in
+your professional life will evolve and change over time. For instance, people who began their careers
+in the 1980's likely did not consider email writing an important skill, but today it is one of the most-
+used genres of workplace communication. Whatever happens in the future, a nuanced, audience-
+focused communication strategy will allow you to evolve and thrive. This textbook is a foundation to
+help you develop an awareness of the adaptability of communication.
+
+References
+
+Pinker, S. (2104). The source of bad writing. The Wall Street Journal. Retrieved
+from http://www.wsj.com/articles/the-cause-of-bad-writing-1411660188
+4 LYNN HALL & LEAH WAHLIN
+
+RHETORICAL FOUNDATIONS
+
+Rhetorical Foundations
+
+Structures, in order to remain standing, must be built on strong foundations. Like a building,
+communication must be built with a strong foundation in order to be effective. We build this
+foundation with an understanding of what Aristotle defined as the "available means of persuasion."
+This next chapter offers some basic tools for building effective communications.
+
+References
+
+Header Image: Untitled Photo by bogitw / CC0
+
+                                                                                         4
+                                                                                        A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 5
+
+WHAT IS RHETORIC?
+
+Rhetoric is the ancient art and science of persuasion, the study of persuasion, and the individual
+process of persuasion. Unfortunately, in the 21st century, rhetoric tends to be positioned as something
+separate from everyday communication. However, all human activities are rhetorical, whether or not
+we are conscious of it.
+
+   Rhetoric is about strategic choices and approaches to communication whether textually, verbally, or
+even aurally and visually. When we communicate to different types of audiences about the same topic,
+we make strategic decisions on what details to include or omit, what types of evidence or support to
+use, and so on.
+
+     For example: let's imagine that you spent a little bit of time last weekend studying but mostly party-hopping and
+  celebrating because your school's football team won the championship.
+
+            · When you speak to your best friend about your weekend, you are likely to provide details about how many
+                parties you went to and what exactly you did at the parties, including gossip about mutual friends.
+
+            · When you speak to your grandmother about that same weekend, you might mention your study group
+                meeting on Sunday afternoon, the take-out dinner you had on Friday night, and perhaps briefly mention that
+                you celebrated the team's win with friends.
+
+            · When you speak to your supervisor at your on-campus job, you are likely to discuss the big football win (Go
+                Team!), your looming exam schedule and how your study and exam schedule will impact your availability to
+                work for the rest of the term.
+
+All versions are accurate representations of your weekend, but you make strategic choices about
+which details to include or not include based on the particular rhetorical situation of your
+discussion. That is, how and what you communicate is shaped by:
+
+        · The writer, author, creator, also known as the rhetor
+        · The audience, including primary, secondary, and tertiary audiences
+        · The topic of the communication
+        · The purpose, which often can be broken into a primary, secondary, and tertiary purpose
+        · The context and culture within which the communication is taking place.
+
+The context and culture impact the rest of the rhetorical situation (rhetor, audience, topic, purpose).
+   The three rhetorical appeals, as discussed by Aristotle are ethos, pathos, and logos. These three
+
+appeals are guided by kairos, which is about timing. The three appeals may be used alone, but
+arguments are most effective when they combine appeals to ethos, pathos, and logos, with strong
+grounding in kairos or timeliness.
+
+   Ethos: a Greek word for character, ethos is an appeal to character, especially authority and
+
+                                                                                         5
+6 LYNN HALL & LEAH WAHLIN
+
+expertise. Ethos is often mistaken as an appeal to ethics. Though ethics are an aspect of a person's or
+organization's ethos, ethics are not the only component of character, authority, or expertise.
+
+   Celebrity and other endorsements are often based on ethos. Ethos is why an American Dental
+Association endorsement of a toothpaste is more powerful and generally holds more sway than
+an endorsement from a non-medical professional. At the same time, though, ethos as it relates to
+advertising is bit complex. Sometimes people or organizations will have strong ethos not because
+they are professionals in a given field (such as dentistry) but because they may they demonstrate the
+ideal results or benefits of a product.
+
+   Let's take Sofia Vegara, for example. Vegara is a popular actor due to her role on the sitcom
+Modern Family. Her ethos as one of the world's most beautiful people makes her an especially useful
+spokesperson for an array of personal care products, in part because she is known not only as an
+actor but as an attractive person. It is no surprise that she is a spokesperson for a variety of cosmetic
+and personal products, from Cover Girl makeup to Head and Shoulders shampoo. The latter product,
+though, is really where her ethos shines. Head and Shoulders is a dandruff shampoo, and generally,
+flaky scalp is not associated with beauty. By having Vergara star in Head and Shoulders' commercials,
+and further, having Vergara happily admit that her family has been using Head and Shoulders for
+over 20 years, the company relies on Vergara's ethos as a confident, beautiful woman to combat
+embarrassment that some people (perhaps particularly women) may feel when faced with their own
+dandruff and flaky scalp and the need for a medicated shampoo. Vergara's emphasis on how long
+her family has used Head and Shoulders even suggests that perhaps some of Vergara's success in the
+beauty arena is due to Head and Shoulders.
+
+   Pathos: originally, pathos described appeals to audiences' sensibilities. Modern uses of pathos
+generally means an appeal to emotions, both positive and negative. A rhetor may appeal to emotions
+that an audience already has about a subject, or a rhetor may elicit emotions.
+
+       The Emotions are all those feelings that so change men as to affect their judgements, and that are also
+       attended by pain or pleasure. Such are anger, pity, fear and the like, with their opposites. We must
+       arrange what we have to say about each of them under three heads. Take, for instance, the emotion of
+       anger: here we must discover (1) what the state of mind of angry people is, (2) who the people are with
+       whom they usually get angry, and (3) on what grounds they get angry with them. (Aristotle, 1378)
+
+As Aristotle argues, emotions are central to our decision making, even if we are not consciously
+aware of it. If a rhetor desires to persuade a particular audience, then the rhetor must understand
+the ruling emotions regarding the topic and the specific audience. What makes the audience angry
+(or pleased), who or what is involved in producing or evoking that emotional state, and why does
+that particular audience become angry (or pleased) within a specific context? Knowing the answers
+to these questions will help a rhetor better prepare an argument and provide a basis for developing
+evidence and identifying counterarguments.
+
+   Pathos appeals can sometimes be overwhelming and dominate an argument because emotions in
+general can be overwhelming. When emotions are strong enough, they can overtake logic and reason.
+Political campaigns are excellent examples of pathos appeals. Political ads often play on the fears and
+hopes of different demographics. For example, a political ad focused aimed at retired and elderly
+voters may claim that a candidate plans on eliminating social support programs such as Medicare or
+will drastically cut Social Security benefits. These types of ads do not need to contain facts or evidence
+                                                                                        A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 7
+
+of such actions to be useful and successful because they rely on the fears and worries that the intended
+audience already has about financial and medical security.
+
+   Remember, pathos is about the emotional state of the audience, not the rhetor.
+   Logos: an appeal to logical reason, logos is about the clarity, consistency, and soundness of an
+argument, from the premise and structure to the evidence and support. A rhetor appeals to logos
+by making reasonable claims and supporting those claims with evidence, such as statistics, other
+data, and facts. However, Logical and reasonable arguments and evidence are not universal across
+audiences, contexts, cultures, and times. What an audience considers reasonable claims and adequate
+evidence is influenced by an audience's values and beliefs. Further, data and facts may evolve over
+time as we obtain more evidence, information, and data.
+   For example, some people believe the Federal Drug Administration is part of a conspiracy to
+cover up evidence that common vaccines cause a variety of neurological, psychological, and physical
+disorders, despite extensive scientific evidence from around the world that demonstrates common
+vaccines are safe. The scientific evidence is not reasonable or logical (and therefore not persuasive)
+for the conspiracy audience because the evidence may come from manufacturers of vaccines, FDA-
+sponsored studies, or researchers or studies with have connections to the FDA or other government
+agencies. However, for other audiences--such as those who are simply unsure about the actual
+benefits or reasons for vaccines--the same studies and data may be quite persuasive.
+   Kairos is the Greek word for time. In Greek mythology, Kairos (the youngest son of Zeus) was the
+god of opportunities. In rhetoric, kairos refers to the opportune moment, or appropriateness, for
+persuading a particular audience about a particular subject. Kairos depends on a strong awareness of
+rhetorical situation. Kairos is the where, why, and when of persuasion.
+   For example, nearly all op-eds and political essays are kairotic. The rhetors work to relate their
+ideas and messages to whatever is happening in the news and popular culture.
+8 LYNN HALL & LEAH WAHLIN
+
+APPLICATIONS IN
+TECHNICAL
+COMMUNICATIONS
+
+Rhetoric teaches us that our communications must be shaped with an understanding of our intended
+audience and desired purpose. This is also true of technical communications. The goal of technical
+communications is to get information from Point A (the author/speaker) to Point B (the audience)
+as efficiently and effectively as possible. A strong rhetorical foundation helps facilitate that
+transmission.
+
+   Think back to the story in the introduction about the student in the physics lecture. In that
+scenario, the student (the audience) experienced a breakdown in the communication (lecture) being
+delivered by the teacher (the author). For the student, a lack of background knowledge meant not
+being able to keep up with the lecture. This lack of background knowledge is just one of the many
+factors that can cause gaps or roadblocks in understanding. Often, these gaps or roadblocks lead to
+miscommunication.
+
+   Here's another example: Did you ever play
+Candy Land as a kid? Candy Land is a
+children's board game where the objective is
+for players to race through the game to find
+the missing King Kandy and be the first to
+arrive at Candy Castle without getting stuck
+in any of the pitfalls (stay away from Molasses
+Swamp!) that would slow a player down and
+allow others to pass.
+
+   Think of the successful transmission of
+information like playing a game of Candy
+Land-your job as an effective communicator
+is to avoid the factors that cause your audience "Candyland" by Dave Parker / CC-BY
+to get "stuck" on their way to understanding.
+
+   In professional and technical communication, it is important to remember your rhetorical
+foundation in order to minimize the possibility of gaps/roadblocks in order to ensure your
+information gets where you want it to go -- you guessed it! -- as efficiently and effectively as
+possible. Whether you are writing an email to a client, typing a memo for your boss, or preparing
+a presentation, considering audience, purpose, and context as you draft will help you be an effective
+communicator and increase your professional ethos.
+
+                                                                                         8
+10 LYNN HALL & LEAH WAHLIN
+
+JOB SEARCH COMMUNICATIONS
+
+   A number of complex communication situations arise during the process of searching for, applying
+to, interviewing for, and accepting a new internship or job. The stakes are high as you consider out
+how to position yourself as a professional in your field and it is deeply personal (you're trying to
+convince someone that you are a capable and qualified individual), so many people often feel unsure
+of themselves or nervous about this process.
+
+   As with any type of communication, these skills take practice and preparation, and the material in
+this chapter is designed to give you a chance to develop strategies that will help build your confidence
+through the hiring process:
+
+        · Reading and evaluating job postings
+        · Developing an excellent résumé and application letter
+        · Preparing for the interview and communicating after the interview
+Focusing on communications and dynamics throughout the job search process also provides an
+opportunity to reflect on anti-discrimination laws in the United States and considering how those
+laws and the contemporary discourse about diversity in the workplace will play a role in your career.
+   Starting your career is a process of learning how to position yourself as a professional within your
+field, and much of that process relies on your ability to communicate effectively.
+
+                                                                                        10
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 11
+
+PREPARING JOB
+APPLICATION MATERIALS
+
+The following sections present a series of steps to guide you toward focused, personalized, and correct
+job application documents. Résumés and application (or cover) letters are common job documents,
+but our focus here is broader--we will ask you to consider the communication situation as a whole,
+from analyzing job postings to creating the documents as a dynamic process.
+
+   Your job materials are not forms to fill out, but strategic and persuasive communications that will
+need to be customized for each potential employer and at every phase in your career.
+
+Starting the Job Search
+
+The job search is more than finding a job posting for which you fulfill the requirements. This planning
+phase allows you to gather the information and language that you need to make yourself a strong
+applicant.
+
+Know Yourself
+
+As you begin the process of finding and applying for employment in your chosen field, it is important
+to take stock of your education, technical skills, and the experiences and characteristics that make
+you an ideal employee and co-worker. This self-assessment is the foundation for building strong job
+materials.
+
+   Beyond evaluating your skill set, this is also an opportunity to take stock of the types of
+environments you will thrive in:
+
+   Do you work better independently or in groups?
+   Have you always imagined working for a large company, with the structure and perks that offers? Or do you
+see yourself working on a smaller team, perhaps taking risks for a project you believe in personally?
+   Do you like developing new ideas and planning? Do you like seeing through a complex project to the finish?
+   Use this information as you search for potential jobs and internships and evaluate employers.
+Seeking out a work environment and job that suits your strengths and preferences will give you an
+advantage in the job search and in your career.
+
+Know Your Field
+
+Use the resources available to you (career services, job websites, networking events) to find positions.
+Go to career fairs and make connections. Even before you are truly "on the market" career fairs and
+
+                                                                                        11
+12 LYNN HALL & LEAH WAHLIN
+
+networking events are great ways to build your confidence and become comfortable in professional
+environments.
+
+   You will find Job Search Tools/Resources from OSU's Engineering Career Services here. Students
+in other colleges and disciplines will be able to find similar career services information online as well.
+
+   Keep yourself informed and up-to-date on the projects and initiatives happening within your
+chosen field and especially of those employers that most interest you. This is not something you only
+do the night before a career fair or an interview - expose yourself to these ideas and discussions over
+a long period of time. These types of resources are a great place to get started:
+
+        · Organizations and conferences. Connecting with and simply being aware of the national
+           organizations will expose you to current ideas and developments in the field. Most host
+           conferences on a regular basis and even just reading the Call for Presentations or the titles
+           and abstracts from a recent conference will introduce you to new terms and concepts, laying
+           groundwork for future learning or research.
+
+        · Company blogs or white papers. Most companies "talk to" the public or the industry in
+           some way to manage public perception, promote accomplishments, and (often) recruit
+           employees. These might be highly technical or more casual or promotional in tone,
+           depending on the company culture, industry, and their goals - any of these provide valuable
+           insights.
+
+        · Social media. Following both companies and individual professionals will introduce you to
+           their work, concerns, and developments in the industry. It also might make it easy for you to
+           get exposed to these ideas as part of your regular online habits.
+
+        · Local networking or meetup groups. Professionals often hold events at a local level to
+           meet each other and learn about what other companies in the area are doing. These might be
+           purely social or they might include learning opportunities in the form of talks and
+           presentations. On campus, you will also find a variety of discipline-specific groups and
+           students organizations that can also expose you to new ideas and resources, not to mention
+           great professional connections.
+
+Build a vocabulary! Part of what you are doing as you prepare yourself for your career is learning a
+language - you are developing vocabulary and learning the language of your profession in addition to
+developing the required technical technical skills.
+
+   In the process of completing the self-assessment, you probably discovered that you have lots of
+skills and strengths seemingly unrelated to your field. It's important to remember that even unrelated
+experiences have taught you "transferable skills" - skills that may not be technically related, but are
+considered important to any field.
+
+   These "soft" skills are consistently ranked high on employer lists of desired attributes and include
+organizational skills, leadership abilities, teamwork experience, communication skills, problem
+solving, meeting deadlines, and so on. In the job search process, it is important to be able to describe
+your previous experiences in language that employers recognize as valuable.
+                                        A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 13
+
+Organization         Research &         Communication Interpersonal             Other
+Management &         Planning
+Leadership                                                                      Managing time effectively
+                     Forecasting        Speaking          Being sensitive to
+Initiating new                          effectively       feelings and moods    Setting and meeting goals
+ideas                Coming up with                       of others                Being a self-starter;
+                     ideas              Writing
+Coordinating                            concisely         Listening             self-motivated
+tasks                   Identifying                          Developing            Working independently
+                     problems              Listening                               Enlisting help when
+   Being                                attentively       rapport
+detail-oriented         Developing                           Providing support  needed
+                     solutions             Facilitating      Motivating            Meeting deadlines
+   Managing or                          group discussion     Negotiating           Being diligent; tenacity
+directing teams or      Solving                              Sharing credit
+groups               problems              Providing         Teaching/training  to get the job done;
+                                        appropriate          Delegating         follow-through
+   Coaching             Imagining       feedback             Cooperating;
+   Selling ideas or  alternatives                                                  Being responsible
+products                                   Being tactful  working with a team   and reliable
+   Decision-makin       Gathering          Negotiating
+g                    information           Persuading
+   Managing                                Interviewing
+conflicts or            Analyzing and      Editing
+problems             evaluating
+   Managing          information
+budgets
+                        Setting goals
+                        Defining needs
+                     and requirements
+
+Think & Write: After reviewing the transferable skills outlined above, spend some time thinking
+about any experiences (academic, extracurricular, job-related, etc.) you have had in which you
+demonstrated, practiced, or developed one or more of these skills. Select one, and, in a paragraph,
+describe what the specific experience was, explaining which skills you demonstrated and developed.
+
+Designing an Effective Résumé
+
+A résumé, from the French word for "summary," is a concise, standardized document that introduces
+you as a professional, most often for the purposes of seeking employment. It is also useful in other
+situations, such as applying for awards or seeking a promotion.
+
+   It is likely a document you are already somewhat familiar with and you might even already have a
+résumé of your own, but learning how to strategically and confidently build a résumé for a particular
+audience and purpose is a vital professional communication skill. The résumé is more than a list
+of jobs - it is a prioritized, condensed introduction to you, the job applicant, and it demands close
+attention.
+
+     Note: The practices outlined here are focused on business culture and norms in the United States, so keep in mind that
+  you will need to research and follow the appropriate standards if you're applying for positions internationally.
+
+To understand everything else that follows in this section, it is important to first consider the
+rhetorical situation for this particular type of communication. What is the intended effect? What are you
+trying to accomplish? Who is your audience? How will they be accessing and reading your document?
+14 LYNN HALL & LEAH WAHLIN                              PURPOSE
+
+ AUDIENCE                                               Demonstrate that you possess the qualifications for
+                                                        the position (or award or promotion)
+ Employer or representative of an employer
+                                                        Document your qualifications, experience, and
+ Seeking potential employees                            work history
+    Evaluating a pool of applicants to see if they are
+                                                           Fulfill obligation to produce a standard
+ qualified, looking for a reason to say yes or no       employment document
+    Likely reviewing a set of résumés
+
+Each decision you make about what to include in your résumé and how it should look should be made
+with these factors in mind, plus more, based on your knowledge of the specific employer or position.
+
+                                                          Key Takeaways
+
+Here are four basic rules regarding how to approach writing your résumé:
+
+     1. Create multiple versions. A résumé should be customized to the specific job you are applying for and
+          adapted based on your knowledge of the employer. You should also consider how you will be submitting the
+          document to determine the best formatting (See more about designed résumés vs. ATS résumés).
+
+     2. Learn the conventions of your discipline. Not every professional context is the same - it is invaluable for
+          you to have someone in the field or even the specific company to which you are applying review your résumé.
+          An engineer's résumé will likely look very different from a designer's résumé simply based on the audience's
+          expectations.
+
+     3. Update on a regular basis. Even if you expect to stay in a job in the long term, take notes and gather
+          information for your résumé every couple of months or after you finish a major project. It's difficult to
+          remember the details of a complex project after the fact, so having that information documented is a huge
+          asset.
+
+     4. Eliminate errors from the document. Because the résumé is condensed (a single page for undergraduate
+          students) and since it is used to evaluate you as a potential employee, there is little tolerance for typos or errors.
+          Check grammar, spelling, design consistency, punctuation, and language. Then check it again and ask a friend
+          to review it. And then again.
+
+What to Include in Your Résumé
+
+The content in your résumé should be carefully selected to present the best, most applicable
+qualifications for a particular employer (the company and position for which you are applying) or
+purpose (attending a career fair).
+
+   Here are the basic types of information that you will select from as you build your résumé:
+
+             An interactive H5P element has been excluded from this version of the text. You can view it online here:
+             https://ohiostate.pressbooks.pub/engrtechcomm/?p=52#h5p-3
+
+Strong action verbs are words that you should use to describe your activities throughout the résumé, typically
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 15
+
+  beginning each bullet point in the experience descriptions. These words should be varied (avoid repetition), vivid (be
+  specific, descriptive), and honest (don't overstate your activities or experience).
+
+     Here are some useful strong action verbs:
+  Analyzed, assessed, built, calculated, collaborated, coordinated, created, defined, delivered, designed, developed, documented, evaluated,
+  examined, interpreted, managed, monitored, prepared, presented, programmed, provided, reported, researched, resolved, supervised,
+  solved, supported
+
+     Strong action verbs to emphasize results:
+  Achieved, completed, improved, reduced, resolved, succeeded, surpassed
+
+As you are planning what content to include in your résumé, know that information placed at the top
+of the document typically has the most impact. That's why education is almost always one of the first
+sections, since the first requirement in an internship posting is typically your year in school, major,
+and GPA. As you move down the page, though, lead with the most relevant, interesting sections, and
+organize the content to feature the experiences and skills that this employer will most value.
+
+   You will have many questions about what you should and should not do as you are compiling and
+revising your résumé. You can try to find answers to these questions online, but once you know
+the basics, ultimately, you will need to make your own choices about the best way to present your
+qualifications.
+
+   If you are wondering whether or not to include a piece of information, focus on the audience's
+needs. Will they find this information valuable in making a decision about you as a candidate? Does it reveal
+something important about your skills, interests, and qualifications? Does it reveal something new about you
+that is not already revealed in the document?
+
+   If you are wondering how to present a piece of information, know that the options are endless, but,
+again, you will want to focus on the audience. Is the content presented in a way that is easy to see and
+understand? Is it logically connected to the information around it?
+
+   Be confident as you make these decisions. There are fewer "rules" than you might think--the
+challenge is to create a document that is not just correct, but that strategically reveals you as a
+candidate for a job and an individual. You don't want your résumé to look like a form or to be
+exactly like everyone else's. Look for ways to include those things that express your personality and
+passion--the things that make you unique.
+
+Visual Design Considerations
+
+The content and language in your résumé, as discussed in the previous section, is the first priority,
+as you figure out how to explain your experiences and show the employer that you meet the
+requirements for the position. The visual design of your résumé--the way the information is
+presented on the page--also deserves some careful planning and consideration because it has an
+impact on the way your audience will be able to read and understand the information.
+
+   Recall that your reader (e.g., an HR representative, a campus recruiter) might be reviewing many
+résumés in a row and perhaps reviewing them quickly. An effective visual design can help ensure that
+your résumé is accessible and that it makes a good impression, which will make them more likely to
+consider you a strong candidate!
+16 LYNN HALL & LEAH WAHLIN
+
+                                                               Key Takeaways
+
+      Here are some simple things to keep in mind as you are finalizing the design of your résumé (the example résumé
+   above demonstrates many of these attributes for your reference):
+
+             · Clear headings. Content needs to be categorized visually, with main section headings (e.g., Work
+                 Experience) and subheadings Font size and type help visually organize the text on the page. All caps and bold
+                 are you best options for emphasizing headings and subheadings; italics and underlining are more difficult to
+                 read and should be used less often.
+
+             · White space. A résumé that is full of dense blocks of text becomes difficult to read. Our eyes need white
+                 space to help us understand how information is connected and how it relates to the content around it. Add
+                 space above headings and subheadings. Don't use unnecessary lines or embellishments--white space is often
+                 more effective.
+
+             · Balance. White space may be a helpful organizing principle, but you want to avoid too much white space or
+                 empty spaces on the page. Adjust the length of lines or the layout to ensure that each "quadrant" of the
+                 document has a roughly equal amount of content. The most common issue is a large "channel" of white space
+                 down the right side of the page.
+
+             · Vertical alignment. To keep a document visually organized, similar headings and elements (e.g., a bulleted
+                 list) should fall along the same vertical line--if you drew a straight line from the top of the page to the bottom,
+                 all the bullets would fall along the line, for instance. This keeps the document clear and organized (compare the
+                 example in the previous section with the "needs improvement" résumé below).
+
+             · Coherence and consistency. The same types of information (e.g., company name, dates) should be presented
+                 in the same way--same text formatting, positioning in the section. This helps "train" the reader's eye, making
+                 sure they know where and how to find the information.
+
+             · Fonts and typography. To ensure that your résumé displays correctly and is compatible with Applicant
+                 Tracking Software (ATS), it's best to use a common, standard, and professional font (Arial, Times New Roman,
+                 Tahoma). However, you can use more than one font--a serif font works well for headings alongside sans-serif
+                 fonts for body text.
+
+Reflection & Discussion: Consider how the design of the résumé below affects you as a reader.
+How does your eye travel down the page? How would it make you feel about the job applicant's
+qualifications?
+A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 17
+18 LYNN HALL & LEAH WAHLIN
+
+Common Questions
+
+             An interactive H5P element has been excluded from this version of the text. You can view it online here:
+             https://ohiostate.pressbooks.pub/engrtechcomm/?p=52#h5p-4
+
+Writing the Application Letter
+
+Traditionally, the application letter or cover letter is a formal letter that accompanies your résumé
+when you apply for a position. Its purpose is to support your résumé, providing more specific details,
+and to explain in writing why you are a strong candidate for the specific position to which you are
+applying. It should not simply reiterate your résumé; it's an opportunity for you to make a case for
+your candidacy in complete sentences and phrases, which gives the reader a better sense of your
+"voice."
+
+   As always, it's helpful to start by first thinking about the audience and purpose for the application
+letter. What information does your reader need to glean from your letter? At what point in the hiring process
+will they be reading it?
+
+AUDIENCE                                           PURPOSE
+                                                   State your intention to apply for the position
+
+Specific (named) employer for a specific position  Explain why you are a good candidate by describing your
+                                                   experiences and demonstrating your skills (go beyond the
+Gets a sense of your "voice" and your interest     résumé)
+through your writing--you are talking directly to
+the reader                                            Display knowledge of and interest in this specific
+                                                   employer/job
+
+                                                      Produce a high quality piece of writing (proving that
+                                                   you have the ability)
+
+As you draft the letter, consider what you would want to say if you were sitting across the desk from
+your reader. It should be written in a formal, professional tone, but you still want it to flow like natural
+speech--this will make it easier for your reader to absorb the information quickly.
+
+What to Include in the Application Letter
+
+It can be helpful to think about writing the application letter in sections or "blocks." This provides a
+basic structure for the letter; once you have an understanding of this foundation, you can customize,
+update, and personalize the letter for different applications and employers.
+
+   Introductory Paragraph
+   Open the letter with a concise, functional, and personable introduction to you as a job candidate.
+This is your chance to establish the essential basics of your qualifications and to set the themes and
+tone for the rest of the letter.
+
+        · Name the position you're interested in (by exact name and number, if available), and where
+           you heard about it
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 19
+
+        · Clearly state that you are applying for the position--remember that you are requesting (not
+           demanding) that they consider you as a candidate for the position
+
+        · Identify your major, year or graduation date, and school (this should be a brief preview of
+           your educational status/area--you will go into more detail in the Education paragraph)
+
+        · Create a theme (essentially a thesis statement) for the letter, based on the job requirements
+           and your knowledge of the employer (this may not be possible until you write the other
+           paragraphs, so save it for last)  NOTE: Once you have established the thesis (the key
+           reasons for your qualifications), keep in mind that the remaining paragraphs must
+           specifically "prove" or "show" that you possess these qualifications
+
+Optionally, you might also take the opportunity at the beginning of the letter to express your interest
+in working for this particular company and/or your passion for and interest in the field--I am
+particularly interested in this position because... This sets a nice tone and shows that you are engaged
+and enthusiastic. It is also an opportunity to demonstrate your knowledge about the employer and
+what they do (developed through your research).
+
+   Education & Academics Paragraph(s)
+   Since you will have already stated your basic educational status (major/year/school) in the
+introductory paragraph, the purpose of this paragraph is to paint a more detailed picture of you as
+a student, making progress in your academic program and gaining valuable experiences along the
+way. Your opportunity in this paragraph is to describe your academic progress in more specific detail,
+explaining the activities and knowledge you are developing that most matter for this position and
+employer. Carefully consider what the employer will value most about your educational experiences.
+
+        · Emphasize specific skills and knowledge that you are developing
+        · Describe significant coursework or projects--don't be afraid to focus in on a particularly
+
+           compelling example or experience
+
+If you have a lot of project experience or several key experiences that you want to highlight, this
+information may be written in multiple paragraphs.
+
+   This content should NOT be a laundry list of course titles. Instead, describe how your academics
+have shaped your understanding of the field you are entering and significant skills you are developing,
+but always tie it back to what the employer is looking for--stay focused on the information your
+audience needs and what they will care about.
+
+   Employment Paragraph (if applicable)
+   It is important for employers to feel that they are hiring responsible, reliable people who know how
+to hold down a job. If you do have work experience in this field such as a previous internship, this is
+a perfect time to discuss that. If you have previous work experience, even if it's not related to your
+field, this is your opportunity to describe the value of that experience--the value for you, but, more
+importantly, to your reader.
+
+        · Describe your previous work experience (show, don't tell that you're a good employee)
+        · Be specific about the company, the time frame, your responsibilities, actions and the
+
+           outcomes/results
+        · Focus on relevant and transferable skills developed on the job
+20 LYNN HALL & LEAH WAHLIN
+
+Activities Paragraph (if applicable)
+   Activities and involvement in things outside of your coursework and work experiences such as
+
+student organizations, clubs, and volunteer work are a great way to show that you are a well-rounded,
+motivated person with good time management skills. Personal, human connections are an important
+part of the job application process, and describing some of these activities and interests can help your
+reader start to feel a more personal connection.
+
+        · Demonstrate personality, values, and transferable skills through sports, volunteer, travel or
+           other professional experiences
+
+        · Describe your specific actions and involvement honestly, while still trying to connect to
+           transferable skills and the keywords in the job posting
+
+If the employer has a strong program for charitable giving and involvement in an area that you share
+an interesting, that would be another opportunity to build a connection with them and show that you
+could embrace the company culture and values.
+
+   Concluding Paragraph
+   As you conclude the letter, tie everything together, acknowledge the next steps, and end on a
+positive note.
+
+        · Reference your resume ("You will find additional information on my résumé")
+        · Request (don't demand) an interview ("I would appreciate the opportunity to meet with to
+
+           learn more about the position and discuss my application")
+        · Provide contact information in the paragraph (phone number and email address)--don't put
+
+           this below your name
+        · Reiterate interest in the position, the employer--another opportunity to demonstrate your
+
+           knowledge about the company
+
+A Note About Topic Sentences
+
+As you reinforce the main idea or purpose of the letter (that you have the necessary skills,
+qualifications, and temperament for the job), make sure you prioritize what your reader needs to
+know about you and that all of the experiences you describe are meaningful to them. One good way
+to do that is to focus on how you construct the topic sentences. The first sentence in each paragraph
+should clearly explain the purpose of the information contained in that paragraph.
+
+   Begin each paragraph with a statement that connects your experience to the employer's
+requirements and desired qualifications.
+
+                                  Topic Sentence = My experience + Why it matters
+   Consider how the following examples were revised to focus more on the value of the experience to
+the employer rather than simply stating the information about the experience.
+
+     EXAMPLE 1:
+
+            · Original: During the past three summers, I worked at Ray's diner in my hometown.
+            · Revised: Working at Ray's diner in my hometown for the past three summers has taught me a lot about
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 21
+
+                responsibility and reliability.
+     EXAMPLE 2:
+
+            · Original: During my freshman year, I was part of an Alternative Energy Vehicle project group.
+            · Revised: I gained first hand experience with collaborative problem solving and project management while
+
+                working on an Alternative Energy Vehicle project during my freshman year.
+     The revised versions explicitly connect the experience (working at the diner, being on a project team) with the value and lessons
+  learned, making it easier for your reader to understand, even while reading quickly, how this supports your qualifications.
+
+Letter Formatting Considerations
+
+Your application letter should use formal letter formatting. You will find detailed information about
+the required elements of a letter document here and more information about writing cover letters
+here (both are from Purdue's Online Writing Lab).
+
+   In today's job market, where many applications are online, the letter might be delivered in a variety
+of different formats. For example, it might be a PDF file uploaded to an online application system or
+if might be simply sent in the body of an email. In any case, consider the following as you decide how
+to format the letter:
+
+        · If you are delivering it as a stand alone file or an attachment, use a formal letter format and
+           save it as a PDF (unless otherwise instructed).
+
+        · If you are sending the application letter content directly in the body of an email, you do
+           NOT typically need to include the sender's (your) address, the date, or the recipient/inside
+           address. You would begin the email with the greeting.
+
+     NOTE: Carefully follow all instructions for any job application process or ask to confirm how the materials should be
+  delivered. It is possible, for instance, that a company would want you to send your application letter via email as an
+  attachment--it just depends on how the company processes applications.
+
+Career Portfolios
+
+The word portfolio, by definition, is "a case or stiff folder for holding papers, prints, drawings, maps,
+etc." and "a collection of samples of a person's work, typically intended to convey the quality and
+breadth of his or her achievement in a particular field" (OED, n.d.). Though the word can be traced to
+16th century Italy, its Latin roots (portare "to carry" + folium "leaf") date back even further.
+
+   A career portfolio-whether a physical or electronic version-is a place for gathering and
+maintaining documents important to your career. Think of it as a dynamic, expanded version of
+your résumé where you document and demonstrate your education, experience, and skillset. Where
+résumés and application letters are limited due to their genre-specific natures, the career portfolio can
+contain anything you want prospective employers to see. However, this does not mean that it should
+contain everything. It's important to be selective and to think rhetorically about the items you choose
+to include.
+
+   As you gather documents, consider your chosen field. What do employers in the field find valuable?
+22 LYNN HALL & LEAH WAHLIN
+
+What skills and abilities do employers in the field expect employees to have? For instance, mechanical
+engineers might be expected to have design experience, project management experience, and effective
+communication skills. It might benefit a mechanical engineer, then, to include any schematics they
+have created, a strong project plan, and a writing sample or slide deck to document communication
+skills. Keep and maintain artifacts that showcase your strengths.
+
+   Portfolios can be either electronic or physical. A physical portfolio should be kept in an attractive
+binder, though an electronic version is easier to distribute and can be linked to on your résumé and
+LinkedIn profile.
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 23
+
+INTERVIEW STRATEGIES
+
+Interviewing is the phase of the job search process where you go from being an applicant on paper
+to a real, 3-dimensional person. In one way or another, you are being evaluated on your verbal
+communication skills through this face-to-face (or phone) interaction. Employers want to see if you
+match up to the qualifications described in your résumé and they want to see if you have good
+interpersonal communication skills to get a sense of how you would function as part of their team.
+
+   Interviews are often intimidating for job seekers who feel the pressure of being evaluated and
+feel uncomfortable with the interview format. While the nervousness may never go away, effectively
+preparing for the interview can make you feel more confident, and, with practice, you will be better
+able to stay in the moment and treat the interview like a conversation.
+
+   This chapter will focus on general interview preparation, but know that different disciplines and
+industries have different interviewing techniques. For instance, the technical interview or "code day"
+has become standard for many computer science-related fields. You should always do research on
+standard practices in your industry, but also keep in mind that interviews can be surprising. In fact,
+some employers try to surprise interviewees to get a sense of how they think and react in unfamiliar
+situations. Part of your challenge is to stay open-minded and relaxed so you can project confidence,
+even in unexpected or unfamiliar situations.
+
+Preparing for the Interview
+
+Good preparation before an interview is based on understanding who your audience
+is--understanding the employer and the industry. This is not the type of information that you can
+memorize the night before. Take time as much time as you can to read and absorb information from
+a variety of sources to get a thorough sense of the company--not just the basic information you find
+on the "About" page of their website, but the tone and personality they broadcast in social media, their
+achievements, their community involvement, etc.
+
+                                                                                        23
+24 LYNN HALL & LEAH WAHLIN
+
+     The following text was originally written by Caleb Craft for the Engineering Career Services Job Blog at The Ohio State University
+  and has been adapted for this textbook with permission.
+
+     Every semester I facilitate workshops on interviewing strategies for engineering students. In the presentation the
+  following question is asked: "What do you think employers say the number one interviewing problem for our
+  students is?"
+
+     Do you know the answer? You probably do. In fact, I have yet to lead a workshop where the right answer was not
+  guessed right away. The number one constructive statement from Engineering Career Services (ECS) employers is that
+  students are not prepared by doing simple research about the company.
+
+     Did you know that you are supposed to do research before going into an interview or a career fair? You probably did!
+  Most students seem to know the importance of research and claim to practice this prior to an interview, but still most
+  employers say students don't know enough about the company and industry.
+
+     Consider:
+           1. students may not know how to research effectively and, more importantly,
+           2. students may not know how to clearly communicate this research to the employer.
+
+     This may seem like old news, but because many employers and students are not seeing eye to eye on just how prepared
+  students are, you owe it to yourself to consider the following advice. Think of it as double-checking your research
+  methods before your next employer interaction!
+
+     The solution is pretty straightforward. Start by using multiple resources to look at the company and position from
+  different angles.
+
+     Next, spending time on the company website is an absolute must. Useful information can be found on the homepage,
+  the "About Us" page, the "Careers" page, as well as any pages about mission, vision, and values. Know facts such as: what
+  goods/services the company provides, who the company's customers are, and where your position of interest fits within
+  the company structure. But also pay attention to how the company portrays itself. Recent news and social media
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 25
+
+  platforms may also be a good tool for this information. Lastly, Glassdoor is a great resource to check out recent employee
+  reviews of specific companies and even see actual interview questions that were asked of candidates.
+
+     But the key to doing all of this research is to remember that you are not just gathering information for the sake of
+  gathering information. I have never heard of an interview where an employer asked a candidate to write down everything
+  they know about their company. During every step of your research you should be asking yourself the following question:
+  How do my interests, values, and qualifications fit within this company/position? Remember, answering this question is
+  the primary purpose of an interview and asking yourself this question helps narrow your interests as well. If you aren't
+  considering this question than you are not researching effectively.
+
+             "The two words `information' and `communication' are often used interchangeably, but they signify quite different things.
+          Information is giving out; communication is getting through."
+
+             Sydney J. Harris
+
+     Now, let's look at how you might convey that information during an interview.
+     Remember that the main goal of your company research should be to answer this question: "How do my goals/
+  interests/values/qualifications fit into this company/position?" If you have actually thought through this question during
+  research you will be prepared to communicate this information strategically in two ways: research-proving answers and
+  research-proving questions.
+     For example, let's say you are applying for an internship at Engineering Inc. and you notice on their website that one of
+  their core values is "Sustainable Action." In your interview you are asked why you wanted to be a chemical engineer. A
+  research-proving answer could be, "I chose chemical engineering because I have always excelled at math and science, but I
+  also wanted to do some good with my career. That's actually one of the reasons I am interested in Engineering Inc. I
+  noticed while reviewing your website that your company's committed to sustainable engineering."
+     Or perhaps you are asked where you see yourself in five years. How can you answer honestly, but also align your
+  answer with what you have learned about the company? When speaking about your strengths or qualifications, provide
+  answers that are reflective of you and the desired qualifications listed on the job description. Again, the goal of your
+  interview is to convince the employer that you are the best fit for the company and position. You have to be looking
+  through this lens during your research and every question that you answer!
+     Lastly, no interview is complete until you have your chance to ask questions of the employer as well. As you know, this
+  is not a time to ask about salary or vacation time, but it is a good time to ask about factors that are important to you in a
+  job search. That being said, your questions are another opportunity to demonstrate your knowledge through research-
+  proving questions. Did the company just release a new product model or open a new facility? Asking questions about
+  these things shows that you really do have a genuine interest in the company, and that you've done your homework.
+     So there it is! The big "secret" to interview success really boils down to knowing who you are, thinking about how you
+  fit when you research companies and positions, and then seizing opportunities to communicate this fit during interview
+  answers and questions. Pretty simple, right?
+
+             "Communication - the human connection - is the key to personal and career success."
+             Paul J. Meyer
+
+During the Interview
+
+Once you have prepared mentally and gathered information for the interview, it's time to prepare for
+the interaction during the interview.
+26 LYNN HALL & LEAH WAHLIN
+
+Dress the Part
+
+Let's keep this simple--dress your best. In most business cultures, dressing professionally is a sign of
+respect, conveying that you care about the position, that you want to make a good impression.
+
+   Here are the basics:
+      1. Wear your best professional clothing--this typically means a suit (for men, a tie) and dress
+           shoes (no open toes, no white socks).
+      2. Try on the complete outfit (including shoes) to make sure you're comfortable. Does it fit?
+           Stay in place? Can you sit down, shake hands, and move comfortably? You don't want your
+           clothing to distract you or the interviewer.
+      3. Clean and press your clothes and shoes. Prepare your outfit the night before and hang it up
+           (no wrinkles!).
+
+Even if you know the work environment is casual, you should dress "up" for the interview--more
+professionally than you would if you worked there. The exception would be if you are explicitly told
+not to--for instance, if the recruiter specifies that you should dress "business casual."
+
+Don't Come Empty Handed
+
+Arriving at the interview with important documents and notes shows that you are prepared and
+thinking ahead. Organize all your materials in a nice folder or folio--presentation matters!
+
+   Print out several clean copies of your résumé and any other documents you might want to
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 27
+
+reference, like the job or internship description or your references. You should also bring a few
+samples of your work, if possible--documents you've prepared or artifacts from projects.
+
+   Make the most out of all of that research and preparation by bringing notes. A nice notebook or
+paper and a pen are perfectly acceptable for you to have in the interview and they can help you feel
+more focused by getting some of the information out of your head and organized on paper.
+
+   Follow these guidelines:
+      1. Be organized. Re-write or type and print your notes so you can easily find the information
+           you need. You don't want to be shuffling through scraps of paper.
+      2. Keep it simple. Write down keywords, brief phrases and ideas that will jog your memory,
+           not a complete script.
+      3. Prepare questions for the interviewer (see examples below). You typically have the
+           opportunity to ask these questions at the end of the interview, when it can be difficult to
+           remember what you were going to ask.
+
+                                                                    Pro Tip
+
+      Take notes during the interview! The interviewer will likely reveal information to you during the conversation--write
+   down anything that you want to remember for later or anything that you want to come back to later in the conversation.
+
+      Questions to Ask the Interviewer
+
+     In addition to revealing your knowledge of the company, these questions are also an opportunity for you to figure out if
+  the employer and the company culture is a good fit for you. Think carefully about what matters to you, what would allow
+  you to do your best work, and try to ask questions that will give you insight into those factors.
+
+            · What are the primary tasks or responsibilities for a person in this position? What does a day in this job look
+                like? Is travel required? Overtime?
+
+            · What is the orientation or training process?
+            · What are the goals/priorities for a person in this position? How will success be measured?
+            · What is the company's assessment and review process?
+            · Does the company support professional development activities?
+            · How does this position fit within the team/department? What is the reporting structure?
+            · Does this position function alone or within a team setting?
+            · How would you describe the company culture or team dynamic?
+            · What is this company's approach to management?
+            · What are the company's overall goals and priorities and how do those affect someone in this department/
+
+                position?
+     NOTE: This is not typically the best time to ask about salary and benefits. This is your opportunity to learn about the
+  workplace and the position--the environment, how it's structured, employee support programs.
+
+     From Donnie Perkins, Chief Diversity Officer, College of Engineering. Learn more here.
+     Following are some questions students may ask prospective employers about their diversity, inclusion and equity.
+  Company recruiters who can provide factual and reasonable responses to these questions are on a positive track
+28 LYNN HALL & LEAH WAHLIN
+
+  advancing diversity and inclusion in ways that truly benefit employees, the company, customers, and community while
+  promoting innovations, strategic thinking and active engagement.
+
+            · How does company define diversity, inclusion, and equity? Provide an example of how diversity, inclusion,
+                and equity benefits [Company].
+
+            · What are the racial, ethnic, and gender demographics of [Company's] company-wide, leadership, and
+                manager levels?
+
+            · As a national and/or multinational company, describe your cultural competency training program for
+                employees who will take assignments in [specific countries or continents where the company does business].
+
+            · Describe the role and responsibilities of women and persons of color on [Company's] leadership team.
+            · Give me an example of how [Company] values people of color, female, LGBTQ, veteran and employees with
+
+                disabilities.
+
+Body Language & Interaction
+
+As a general rule, it's important to be observant and take your cues from the interviewer. Reflect
+their tone and pay attention to the dynamic they set--are they very formal and profession or more
+conversational? It's okay to make small talk, but you want to follow the lead of the interviewer.
+
+   Shake hands. Most of the time, these professional interactions will begin with a handshake. Be
+prepared with a firm (but not too firm!) and confident handshake. It never hurts to practice!
+
+   Be conscious of your posture. You will want to sit up straight (no leaning or lounging) and avoid
+crossing your arms in front of your chest (it can seem defensive or withdrawn).
+
+   Make eye contact. Look at the interviewer while they ask you questions and give them non-verbal
+cues--smiling, nodding--when appropriate. Make it clear that you understand what they're saying,
+that you're listening.
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 29
+
+   Speak clearly and thoughtfully. Adjust your volume for the environment and make sure the
+interviewer can hear and understand you easily. Don't rush yourself and take time to deliver
+thoughtful responses. Ask for clarification if you don't understand a question.
+
+   Project calm. Fidgeting and extra movement can make you seem nervous even if you aren't. Be
+aware of your tendencies and try to minimize them. If you know you fidget, try to keep your hands
+folded and avoid clicking or tapping the pen. Don't wear jewelry that you will play with or that will
+make noise while you move. Wear your hair in a way that will not tempt you to touch or play with it
+constantly. If seated at a table, sit towards the front of the chair and plant your feet on the floor--it
+can help keep you steady.
+
+   Be yourself. With all of the previous tips in mind, you also need to feel comfortable and like
+yourself. If you are enthusiastic, if you talk with your hands, if you are shy, that's fine--you just need
+to be the most engaged, professional version of yourself you can be in order to show the interviewer
+what you are capable of in the workplace.
+
+After the Interview
+
+At the end of the interview, you will want to ask the interviewer what you can expect in terms of next
+steps or when they might make a decision about the position. This will help set your expectations and
+allow you to prepare for future interactions--they might have multiple rounds of interviews or they
+might have another week left of meeting with candidates, for instance.
+
+   Within 24 hours of the interview, you should send a thank you note to the interviewer(s). Email is a
+30 LYNN HALL & LEAH WAHLIN
+
+standard and expected vehicle for this message and you will likely have already been in contact with
+them via email or will have their business card from the interview.
+
+   The formula for this message is simple, but choose your words carefully and try to extend their
+good impression of your written communication here as well:
+
+         + Relevant subject line
+         + Gratitude for their time and the opportunity
+         + Your continued interest in the position
+         + Something specific from your conversation (this is where taking notes comes in handy!)
+         + Reminder of your qualifications
+         + Positive and forward-looking conclusion
+   You will want to reflect the overall tone of your interaction--try to make it consistent with the
+person they met the day before.
+
+     Subject: Design Engineer Internship - Thank you
+     Ms. Tanner,
+     Thank you for the opportunity to meet with you yesterday. I feel like I learned a lot about the Design Engineer
+  Internship role at ABC Innovations and I remain very interested in the position.
+     After hearing about the project I would be assigned to, I did some further research on your prototyping process and I
+  can see interesting connections with the work I did in my previous internship. It would be exciting to build on that
+  knowledge with your team.
+     Please feel free to contact me via phone at xxx-xxx-xxxx or email if there is any additional information I can provide. I
+  look forward to hearing from you.
+     Thank you,
+     J. Buckeye
+A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 31
+32 LYNN HALL & LEAH WAHLIN
+
+EMPLOYMENT ACCESS,
+EQUITY & OPPORTUNITY
+
+The Virginia Civil Rights Memorial commemorates leaders who worked for desegregating schools in the state
+"Virginia Civil Rights Memorial -- State Capitol Grounds Richmond (VA) 2012" by Ron Cogswell / CC BY
+
+In this section, we turn our attention to social issues that affect the workplace--specifically, questions
+of social diversity and the importance of equitable employment opportunities in the United States.
+
+   The U.S. is a diverse and multifaceted country. And yet, social and historical forces combine
+to create an imbalance in the workforce--in the access groups of people have to educational and
+economic power and in the ways contributions to the workforce are viewed and valued.
+
+   As a society, we have realized that diverse teams, companies, and groups of people are better
+equipped to innovate and address the needs of the customers they serve. Companies of all sizes are
+
+                                                                                        32
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 33
+
+working to address these issues in their hiring practices and in the ways they foster positive, inclusive
+work environments for their employees.
+
+How will you work to make the U.S. workforce more     Most importantly, we hope that you recognize this
+                equitable and inclusive?           as unfinished business. We encourage you to think of
+                                                   this as a discussion and as a dynamic, ever-changing
+
+                                                   part of your professional life. The way things are now
+
+are not the way they will be in 20 or 30 years and you will be part of that change. How the workforce
+
+of 2050 looks like is, in part, up to you. The goal in this chapter is to give you the opportunity to think
+
+about your contribution to that future, where you fit into picture, the impact you will have in your
+
+own sphere of influence.
+
+             One or more interactive elements has been excluded from this version of the text. You can view them online here:
+             https://ohiostate.pressbooks.pub/engrtechcomm/?p=60#video-60-1
+
+History & Context
+
+Perhaps you have noticed that most employers include a statement about being and "equal
+opportunity employer" in their job advertisements and recruiting materials. The Ohio State
+University includes the following statement in the footer of their Careers website (jobsatosu.com):
+
+       The Ohio State University is an equal opportunity employer. All qualified applicants will receive
+       consideration for employment without regard to race, color, religion, sex, sexual orientation, gender
+       identity, national origin, disability status, or protected veteran status.
+
+Statements such as this are so commonplace that you might not spend much time thinking about
+them, but they reveal something important about the history of employment law and practices in the
+United States.
+
+   The Civil Rights Act of 1964 (CRA), originally introduced by President Kennedy and signed into
+law by President Johnson on July 2, 1964, was a major achievement of the Civil Rights Movement.
+The Act made discrimination illegal at the Federal level, outlawing practices like segregated schools,
+public restrooms and water fountains. Title VII of the Act specifically addressed the problem of
+employment discrimination, establishing the Equal Employment Opportunity Commission, whose
+mission is investigating and enforcing anti-discrimination laws. Here, you can watch President
+Johnson's Remarks on Signing the Civil Rights Bill:
+
+             One or more interactive elements has been excluded from this version of the text. You can view them online here:
+             https://ohiostate.pressbooks.pub/engrtechcomm/?p=60#oembed-1
+
+Why was this legislative action necessary? In the decades before the CRA, decisions about recruiting and
+hiring were at times openly made on the basis of race, sex, nationality, etc. You could even see that
+the "help wanted" section of newspapers in the early 20th century were often separated jobs for men,
+women, and, in some cases, by race. Job ads might also specify marital status, as employers were
+34 LYNN HALL & LEAH WAHLIN
+
+looking for unmarried "girls" to fill certain roles. Low-paying and unskilled jobs were more likely to
+be reserved for women and minorities, greatly limiting their employment opportunities.
+
+   You can see some examples of segregated job advertisements here (from the Learn NC website).
+   One impact of the CRA was the establishment of "protected classes," which are ways of classifying
+groups of people at risk of being systematically singled out for discrimination and explicitly
+prohibiting such discrimination. Initially, the protected classes identified were race, color, religion,
+sex, and national origin. Over time, anti-discrimination laws have evolved and the original Act has
+been amended to meet the evolving needs of the American workplace.
+
+     This timeline shows the dates and legislation that officially recognized the protected classes:
+
+            · 1964: Race, color, religion, sex, or national origin
+            · 1967: Age - 40 or older (Age Discrimination in Employment Act)
+            · 1974: Veteran status (Vietnam Era Veterans' Readjustment Assistance Act of 1974 and Uniformed Services
+
+                Employment and Reemployment Rights Act)
+            · 1990: Disability (Americans with Disabilities Act)
+            · 2008: Genetic information (Genetic Information Nondiscrimination Act)
+
+     The laws also includes provisions for people who have filed charges to protect them from experiencing retaliation or
+  stigma that might affect their careers.
+
+As explained by the EEOC, "Every U.S. citizen is a member of some protected class, and is entitled to
+the benefits of EEO law. However, the EEO laws were passed to correct a history of unfavorable treatment
+[emphasis added] of women and minority group members" (National Archives, n.d.).
+
+   The ever-evolving nature of the laws and discourse in our society is evident in the status of the
+LGBT community as a protected class. The EEOC considers discrimination on the basis of sexual
+orientation (2012) or gender identity (2015) as part of the "sex" protected class. A number of state
+and local governments have passed specific anti-discrimination laws related to sexual orientation and
+gender identity. However, there are currently no explicit Federal protections in place.
+
+Diversity & Inclusion in the U.S. Workplace
+
+It is important to remember that making discrimination illegal does not mean that it no longer
+happens. The purpose of the EEOC and the legal system in the United States is to continue to refine
+the protections and defend people's right to work and thrive in their professional lives.
+
+   Even if the law levels the playing field, historical and social realities can have real consequences
+on an individual's access and equity. As an example, we might examine the impact of the CRA on
+education achievement and income levels. As Beasley (2012) articulates in Opting Out,
+
+       "[The Civil Rights] act, coupled with the initiative of a number of colleges and universities across the
+       country, produced a significant rise in black college attendance. By 2000, nearly 18 percent of African
+       Americans aged 25 to 54 had received at least a bachelor's degree compared with only 7 percent in
+       1969 (US Census Bureau 1973, 2001). While college education is inarguably a key factor in the upward
+       mobility of African Americans, blacks with college degrees still face considerable hurdles. Indeed,
+       over this same period of time, the difference in average earnings of black and white college graduates
+       dropped by only one percentage point (US Census Bureau 1973, 2001). Thirty-five years after racial
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 35
+
+       discrimination was legally banned, the question remains: what continues to hold African Americans
+       back, if not the law?"
+
+So, if the CRA "resolved" issues surrounding employment discrimination, why aren't hiring practices
+fair and completely unbiased? Why worry about how underrepresented groups of people fair in the
+workplace?
+
+   Let's consider an oft-cited example involving professional orchestras. Up until the 1970s, musicians
+in symphony orchestras were almost entirely white males. Arguing that the decisions about who was
+qualified were entirely merit-based, the decision makers agreed to a new process of blind auditions,
+where the musicians would perform behind a screen, removing race, gender or any other visible
+factors from the evaluation process. The result was that women were between 25 and 46 percent more
+likely to be hired than men than they were during the old audition process; a shift that has radically
+altered the demographics of professional orchestras (Miller, 2016). This example asks us to consider
+how simply removing sex or gender from the process of evaluating an applicant could change the
+outcome.
+
+   Disparities in employment combined with shifts like the blind auditions have raised important
+questions about the ways in which social perceptions, stereotypes, and biases impact hiring and job
+performance related decisions. If a screen changes hiring outcomes for orchestras, how are these
+forces playing out in other parts of the job market?
+
+   The causes and effects of discrimination are varied and multidimensional, so researchers working
+in a variety of fields have conducted studies to better understand the impact that bias can have on
+workforce demographics and power structures. Following are just a few examples of studies that
+demonstrate the impact of social biases in the workplace.
+
+Racial Bias
+
+In a significant study conducted in Chicago and Boston in 2001-2002, researchers submitted résumés
+to a variety of advertised jobs, but some used "white-sounding" names and some "black-sounding"
+names, which were selected based on census data for common names in the white and black
+communities. They found résumés with names like Emily Walsh and Greg Baker received about 50%
+more callbacks for interviews than those with names like Lakisha Washington or Jamal Jones. Further
+examination of the difference between how better quality résumés were received by employers
+revealed that those with the "white-sounding names" benefitted significantly more from a higher
+quality résumé than those presumed to come from black applicants (Bertrand & Mullainathan, 2004).
+
+Gender Bias
+
+In a different study researching names and gender, Moss-Racusin, et al. (2012), asked science
+faculty to evaluate identical resumes for the position of lab supervisor. The candidate named "John"
+was overwhelmingly ranked as more qualified than the candidate named "Jennifer" in spite of their
+identical credentials. The candidate perceived as male was also offered a higher starting salary.
+
+   A number of studies have shown that perceptions of women's abilities can affect how they are
+treated in the workplace. In a study that examined how candidates' competency was rated, male
+candidates were given preference over women for a job that required skills in mathematics, even
+36 LYNN HALL & LEAH WAHLIN
+
+when data shows equal competence between genders (Reuben, Sapienza, & Zingales, 2014). In both
+of the aforementioned studies, it is important to note that bias was present regardless of participant
+gender.
+
+Similarity Bias
+
+In a study published in the American Sociological Review, Rivera (2012) identifies the importance
+interviewers place on "cultural matching," meaning that employers prioritized similarities like "leisure
+pursuits, experiences, and self-presentation styles" above productivity or job-related skills. This study
+illustrates the effect of similarity bias, in which factors like shared interests or communication style
+affect how potential employees are evaluated.
+
+   It is human nature to gravitate towards like people (thus the similarity bias mentioned above). In
+diverse group (or team) settings: "people tend to view conversations as a potential source of conflict
+that can breed negative emotions" and, as a result, "these emotions . . . can blind people to diversity's
+upsides: new ideas can emerge, individuals can learn from one another, and they may discover the
+solution to a problem in the process" (Chhun, 2010).
+
+   We must, however, remember the perils of our tendency toward insularity: "Though people often
+feel more comfortable with others like themselves, homogeneity can hamper the exchange of different
+ideas and stifle the intellectual workout that stems from disagreements" (Chhun, 2010).
+
+Benefits of Diversity
+
+And, in addition to basic principles of fairness and equality, it turns out that a diverse workforce
+is more profitable. Researchers and companies have found that diverse teams improve outcomes,
+increase productivity, and innovate at higher rates:
+
+        · Forbes conducted interviews and distributed surveys to 321 executives of global companies
+           and found that the vast majority agreed that diversity drives innovation. To that end, three-
+           quarters of respondents planned to "leverage diversity for innovation and other business
+           goals" (Forbes Insights, 2011).
+
+        · A McKenzie study demonstrated a correlation between diverse executive boards and higher
+           returns on equity (Barta, Kleiner, Neumann, 2012).
+
+Ultimately, research tends towards the benefits of a diverse and multi-talented workforce. More
+and more companies are recognizing the economic rewards of recruiting, retaining, and cultivating
+diversity in their ranks.
+
+   These are evolving issues that raise complex, difficult questions about what it means to have equal
+employment opportunities. It will be important for you to be aware of these issues and able to
+participate in discussions about diversity and inclusion, no matter who you are.
+
+Discussion & Reflection
+
+     What does "diversity" mean to you? How do you think about, define or use the term?
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 37
+
+     Consider how often you find yourself interacting with people who "look like" you in terms of race, ethnicity, and
+  gender. Do you have opportunities to work in diverse groups? Why or why not?
+
+     What made it possible for you to be where you are, in terms of your education and prospects for future employment?
+  Consider both tangible (monetary, for example) and intangible (encouragement from family members, for example) forms
+  of support. What pushed you down this path?
+
+     Consider the impact of having socio-economic opportunities for groups of people systematically limited. What are the
+  systemic effects of job discrimination? What happens to communities if large numbers of its members have a similarly
+  limited access to gainful employment (or education or fair housing)?
+
+References
+
+Barta, T., Kleiner, M. & Neumann, T. (2012). Is there a payoff from top-team diversity? McKenzie
+Quarterly. Retrieved from: http://www.mckinsey.com/business-functions/organization/our-
+insights/is-there-a-payoff-from-top-team-diversity
+
+   Beasley, M. (2011). Opting out: Losing the potential of America's young black elite. Chicago: U of Chicago
+P.
+
+   Bertrand, M. & Mullainathan, S. (2004). Are Emily and Greg more employable than Lakisha and
+Jamal? A field experiment on labor market discrimination. American Economic Review,
+94, 991-1013. http://www.aeaweb.org/articles.php?doi=10.1257/0002828042002561
+
+   Chhun, B. (2010). Better decisions through diversity. Kellogg Insight. Retrieved from:
+http://insight.kellogg.northwestern.edu/article/better_decisions_through_diversity
+
+   Forbes. (2011). Global diversity and inclusion: Fostering innovation through a diverse
+workforce. Forbes Insights. Retrieved from: http://www.forbes.com/forbesinsights/
+innovation_diversity/
+
+   Miller, C. (2016, February 25). Is blind hiring the best hiring? The New York Times. Retrieved
+from http://www.nytimes.com/2016/02/28/magazine/is-blind-hiring-the-best-hiring.html?_r=0
+
+   Moss-Racusin, C., Dovidio, J., Brescoll, V., Graham, M., & Handelsman, J. (2012). Science faculty's
+subtle gender biases favor male students. PNAS, 109(41), 16474-16479. doi:10.1073/
+pnas.1211286109
+
+   National Archives. (n.d.). Equal Employment Opportunity (EEO) Terminology. Retrieved from
+http://www.archives.gov/eeo/terminology.html
+
+   Reubena, E., Sapienzab, P. & Zingalesc, L. (2014). How stereotypes impair women's careers in
+science. PNAS, 111(12), 4403-4408. doi:10.1073/pnas.1314788111
+
+   Rivera, L. (2012). Hiring as cultural matching: The case of elite professional service firms. American
+Sociological Review, 77(6), 999-1022. doi:10.1177/0003122412463213
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 39
+
+ENGAGING WITH RESEARCH
+
+   Carrying out and communicating research is an integral part of professional communication. This
+chapter explores many of the considerations of sound, ethical research, including:
+
+        · Common Types of Research Reports & Documents
+        · Conducting Research
+        · Evaluating Sources
+        · Documenting Sources
+        · Writing About Research
+
+References
+
+Header Image: "William Oxley Thompson Memorial Library East Atrium" by Ibagli / Public Domain
+
+                                                                                        39
+40 LYNN HALL & LEAH WAHLIN
+
+COMMON TYPES OF
+RESEARCH REPORTS &
+DOCUMENTS
+
+Research is central to most work in STEM fields and you may often be required to conduct various
+types of research as part of your professional life. Lab reports, recommendation reports, proposals,
+and white papers are just some of the professional documents that rely on research. These are the
+kinds of documents that can help organizations make decisions, solicit new clients and contracts, and
+communicate with the public.
+
+   For more information on these common types of professional correspondence, see the Workplace
+Communications chapter.
+
+                                                                                        40
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 41
+
+STRATEGIES FOR
+CONDUCTING RESEARCH
+
+In the 21st century, we have more information and knowledge instantaneously at our fingertips than
+could have been imagined 100, 50, or even 30 years ago. Figuring out how to wade through all of that
+information can be daunting. Research is one way we can we can make sense of and discuss all the
+information available to us. Research is the basis for strong and persuasive communication because it
+helps us understand what others have said, done, and written about a particular topic or issue.
+
+What is research?
+
+Research begins with questions. Before you begin to find sources, you must determine what your
+already know and what you hope to learn. Do you want first-person reflections and commentary?
+Statistics and facts? News reports? Scientific analyses? History?
+
+   For example, if you are interested in a recent piece of legislation then you would want to locate
+the full-text of the bill as well as commentary about the legislation from reliable news organizations
+such as The Wall Street Journal or The New York Times. If you are interested in statistics about the U.S.
+population, you might go to the U.S. Census Bureau or the Pew Research Center. Perhaps you are
+interested in the experiences of veterans returning from active duty. In this case you may turn to
+blogs or op-eds written by vets, official U.S. military records from agencies such as the Department
+of Defense, Department of Veterans' Affairs, or organizations such as the RAND Corporation.
+
+Primary v. Secondary Research
+
+There are two basic kinds of research--primary and secondary. Often, primary and secondary
+research are used together.
+
+   Primary research is often first-person accounts and can be useful when you are researching a local
+issue that may not have been addressed previously and/or have little published research available. You
+may also use primary research to supplement, confirm, or challenge national or regional trends with
+local information. Primary research can include:
+
+        · Interviews
+        · Surveys
+        · Questionnaires
+        · Observations and analysis
+        · Ethnography (the study and description of people, cultures, and customs)
+
+Secondary research is what many students are most familiar with as it is generally requires searching
+
+                                                                                        41
+42 LYNN HALL & LEAH WAHLIN
+
+libraries and other research institutions' holdings. Secondary research requires that you read others'
+published studies and research in order to learn more about your topic, determine what others have
+written and said, and then develop a conclusion about your ideas on the topic, in light of what others
+have done and said. Some examples of source types that might be used in secondary research include:
+
+        · Academic, scientific, and technical journal articles
+        · Governmental reports
+        · Raw data and statistics
+        · Trade and professional organization data
+
+Primary and secondary research often work together to develop persuasive arguments. Let's say, for
+example, you are interested in using STEM knowledge to improve the quality of life for the homeless
+population in Columbus, Ohio. The most successful project would use both secondary and primary
+research. First, the secondary research will help establish best or common practices, trends, statistics,
+and current research about homelessness both broadly in the U.S. and state, and more narrowly in the
+county and city.
+
+   Your brainstorming would likely lead to questions regarding the following:
+
+        · The major issues facing homelessness and combating homelessness in the U.S.
+        · The homeless population and demographics for Columbus, Ohio
+        · Services currently available for the homeless in Columbus
+        · Services available in other cities and the state
+
+The above information would likely be available through secondary research sources. Useful
+information would likely be available through city and state government agencies such as U.S.
+Department of Health and Human Services or the U.S. Department of Housing and Urban
+Development; local and national homeless advocacy groups such as the Coalition on Homelessness
+and Housing in Ohio, Columbus Coalition for the Homeless, National Alliance to End Homelessness,
+and the National Coalition for the Homeless. You would also need to search relevant research
+databases (discussed in the Where Do I Look? section) in subject areas such as engineering, sociology
+and social work, and government documents.
+
+   Second, primary research, such as interviews or surveys can provide more in-depth and local bent
+to the numbers and details provided in secondary sources. Some examples of groups to interview
+or survey include local homeless advocates; shelter and outreach employees and volunteers; people
+currently or previously experiencing homelessness, such as the vendors or writers for the street
+newspaper Street Speech; researchers or university-affiliated groups, such as OSU's STAR House, that
+conducts, compiles, and applies research on homelessness.
+
+   Often, the strongest research blends primary and secondary research.
+
+Where do I begin?
+
+Research is about questions. In the beginning the questions are focused on helping you determine a
+topic and types of information and sources; later in the research process, the questions are focused on
+expanding and supporting your ideas and claims as well as helping you stay focused on the specific
+rhetorical situation of your project.
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 43
+
+Questions to get started
+
+        · What is my timeline for the project? You will likely want to set personal deadlines in
+           addition to your instructor's deadlines.
+
+        · What do I want to know or learn about? This helps you determine scope or the limits of
+           your research. If you're writing a dissertation or thesis, then your scope will generally be
+           larger because those types of projects are often 100+ pages. For a term paper, the scope will
+           be more narrow. For example, if you're interested in NASA funding and research, you may
+           limit yourself to the past 10-15 years because NASA because NASA has been around for
+           nearly 60 years. Further, you may limit your focus to research that has transitioned into
+           technologies or resources used outside of NASA and the space program.
+
+        · What do I already know about this topic?
+        · What biases might I have about this topic? How might I combat these biases?
+
+Questions to determine methodology
+
+        · Where might I find useful, reliable information about this topic? For academic research, you
+           will generally focus on library, technical, scientific, and governmental resources. It is fine if
+           you are not quite sure exactly where you should look; your instructor should be able to help
+           you determine some places that would be appropriate.
+
+        · Will I need to perform primary research, secondary research, or both?
+
+Next you will have to develop a research question. By this point you should have a general idea of
+your topic and some general ideas of where you might find this information.
+
+                                                             Research Questions
+
+      Research questions generally form the basis for your project's thesis. Research questions are not about facts, but are
+   about opinions, ideas, or concerns.
+
+      Which of these is a research question?
+
+           1. What is NASA's budget for 2016?
+           2. What is the impact of NASA's budget on scientific breakthroughs and contributions to non-space-related
+
+                 fields?
+      The former can be answered quickly and easily (NASA's 2016 budget was about $19.3 billion), but the latter requires
+   detailed analysis of multiple sources and considerations of various opinions and facts.
+
+Once you have developed your research question(s), you are ready to begin searching for answers.
+
+Where do I look?
+
+In the 21st century, we generally turn to the internet when we have a question. For technical,
+scientific, and academic research, we can still turn to the internet, but where we visit changes. We will
+discuss a few different places where you can perform research including Google, Google Scholar, and
+your university library website.
+44 LYNN HALL & LEAH WAHLIN
+
+Google and Google Scholar
+
+The default research site for most students tends to be Google. Google can be a great starting place
+for a variety of research. You can use Google to find news articles and other popular sources such
+as magazine articles and blog posts. You can use Google to discover keywords, alternative terms, and
+relevant professional, for-profit, and non-profits business and organizations. The most important
+thing to remember about using Google is that search results are organized by popularity, not by
+accuracy. Further, because Google customizes search results based on a user's search history, searches
+performed by different people or on different browsers may provide slightly different results.
+
+   For many technical, scientific, and scholarly topics, Google will not provide access to the
+appropriate and necessary types of sources and information. Google Scholar, however, searches only
+academic and scientific journals, books, patents, and governmental and legal documents. This means
+the results will be more technical and scholarly and therefore more appropriate for much of the
+research you will be expected to perform as a student. Though Google Scholar will show academic
+and technical results, that does not mean that you will have access to the full-text documents. Many of
+the sources that appear on Google Scholar are from databases, publishers, or libraries, which means
+that they are often behind paywalls or password-protected. In many cases, this means you will have to
+turn to a university or other library for access.
+
+University Libraries
+
+Library resources such as databases, peer-reviewed journals, and books are generally the best bet for
+accurate and more technical information. A Google search might yield millions and millions of results
+and a Google Scholar search may yield tens or hundreds of thousands of results, but a library search
+will generally turn up only a couple thousands, hundreds, or even dozens of results. You may think,
+"Isn't fewer results a bad thing? Doesn't that mean limiting the possibilities for the project?" The quick
+answers are yes, fewer results means fewer options for your project, but no, this does not mean using
+the library limits the possibilities for a project.
+
+   Overall, library resources are more tightly controlled and vetted. Anyone can create a blog or
+website and post information, regardless of the accuracy or usefulness of the information. Library
+resources, in contrast, have generally gone through rigorous processes and revisions before
+publication. For example, academic and scientific journals have a review system in place--whether a
+peer-review process or an editorial board--both feature panels of people with expertise in the areas
+under consideration. Publishers for books also feature editorial boards who determine the usefulness
+and accuracy of information. Of course, this does not mean that every peer-reviewed journal article or
+book is 100% accurate and useful all of the time. Biases still exist, and many commonly accepted facts
+change over time with more research and analysis. Overall the process for these types of publications
+require that multiple people read and comment on the work, providing some checks and balances that
+are not present for general internet sources.
+
+So what are common types of library sources?
+
+        · Databases: databases are specialized search service that provide access to sources such as
+           academic and scientific journals, newspapers, and magazines. An example of a database
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 45
+
+           would be Academic Search Complete.
+        · Journals: journals are specialized publications focused on an often narrow topic or field. For
+
+           example, Computers & Composition is a peer-reviewed journal focused on the intersection
+           of computers, technology, and composition (i.e. writing) classrooms. Another example is the
+           Journal of Bioengineering & Biomedical Science.
+        · Books: also called monographs, books generally cover topics in more depth than can be
+           done in a journal article. Sometimes books will contain contributions from multiple
+           authors, with each chapter authored separately.
+        · Various media: depending on the library, you may have access to a range of media, including
+           documentries, videos, audio recordings, and more. Some libraries offer streaming media
+           that you can watch directly on the library website without having to download any files.
+
+How do I perform a search?
+
+Research is not a linear process. Research requires a back and forth between sources, your ideas and
+analysis, and the rhetorical situation for your research.
+
+   The research process is a bit like an eye exam. The doctor makes a best guess for the most
+appropriate lens strength, and then adjusts the lenses from there. Sometimes the first option is the
+best and most appropriate; sometimes it takes a few tries with several different options before finding
+the best one for you and your situation.
+
+   Once you decide on a general topic, you will need to determine keywords that you can use to search
+different resources.
+
+                                                                   Exercises
+
+      Let's say you read an article about how four Mexican immigrants and their cheap robot beat MIT in a robotics
+   competition, and now you are interested in the topic of immigration and STEM education or employment. After reading
+   the article, you decide on some terms:
+
+             · Illegal aliens
+             · Hispanics
+             · STEM
+             · Education
+             · Employment
+
+It is important to have a wide range of keywords because not all terms will result in the same
+information. Developing a list of keywords can be aided by a quick Google search. A Google search
+may reveal more official language or terms; broader or narrower terms and concepts; or related terms
+and concepts. You can also search for the term + synonym to find other words you might use. Keep
+in mind, a synonym search will not work for all terms. For technical and scientific topics, though,
+Google may not be a lot of help for finding other terms.
+
+   You can use a couple different tricks to narrow your search. Using quotation marks around two
+or more words means the search results will contain those words only in that specific order. For
+example, based on the exercise above, a search for "illegal aliens" would only provide results where
+these words appear in this exact order, with no words between them. A search for illegal aliens
+46 LYNN HALL & LEAH WAHLIN
+
+without the quotation marks will search for "illegal aliens" but also any sources that have the word
+illegal and alien anywhere in the text.
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 47
+
+WRITING ABOUT RESEARCH
+
+Determining a topic and finding relevant resources are only the beginning steps in the research
+process. Once you locate sources, you actually have to read them and determine how useful and
+relevant they are for your particular research context.
+
+Understanding and Documenting the Information
+
+Remember, our own ethos relies, in part, on the quality of the secondary research sources we use. That
+is, the sources we use can either add or detract from our overall credibility. Therefore, reviewing,
+processing, and documenting information is an integral part of the research process. Below, we
+discuss a variety of strategies for effectively understanding and documenting sources.
+
+Skimming
+
+Skimming is the process of reading key parts of a text in order to get an overview of an author's
+argument and main ideas. There are many different methods for skimming, so you will have to
+determine which works best for you and your particular source.
+
+   Well-written texts such as essays, articles, and book chapters are generally formatted in similar
+ways:
+
+         Introduction: provides the main idea/thesis as well as overview of the text's structure
+      Body: provides claims, arguments, evidence, support and so on to support thesis
+      Conclusion: provides connections to larger contexts, suggests implications, ask questions, and
+      revisit the main ideas
+   Ideally, the main ideas will be presented in the introduction, elaborated on in detail in the body, and
+reviewed in the conclusion. Further, many sources will contain headings or subheadings to organize
+points and examples, and well-written paragraphs generally have clear topic sentences, or sentences
+that provide the main idea(s) discussed in the paragraph. All of these aspects will help you skim while
+developing a sense of the argument and main ideas.
+   When you skim a source, consider the following process:
+      1. Read the introduction (this could be a few paragraphs long).
+      2. Scan the document for headings. In a shorter article, there may not be any headings or there
+
+           may be only a couple.
+      3. Whenever you see a new heading, be sure to read at least the first few sentences under the
+
+           heading and the final few sentences of the section.
+      4. Read the conclusion.
+
+                                                                                        47
+48 LYNN HALL & LEAH WAHLIN
+
+                                                        Example: Skimming a Book
+
+      When we encounter a text for a first time, it's a good idea to skim through to see if we need to take a further look at it
+   in our research. One method for doing this is referred to as the First Sentence Technique, which entails reading the
+   introduction, the first sentence of each paragraph, and the conclusion. This approach can be useful for taking notes and
+   creating summaries of sources.
+
+      A slightly more in-depth approach can deepen your understanding of the text and help you identify particular sections
+   or even other resources that might be helpful:
+
+             · Scan the preface, acknowledgements, and table of contents. (This identifies the methods and framework for
+                 the book.)
+
+             · Scan the notes at the end of chapters to better understand the author's research.
+             · Scan the index to see if the book covers the information you need.
+             · Read the introductory paragraphs for each chapter. (This can help you better understand the structure and
+
+                 arguments of the book.)
+
+Taking Notes
+
+Taking notes is a central component of the research process. While you skim the articles, record
+important information, beginning with publication information. Publication information provides
+a sense of the rhetorical situation for the source, such as intended audience and context. As you
+encounter texts in your research, consider its role in your project and take note of the publication
+information as noted. Recording the publication information as you go will help avoid problems or
+mistakes when citing and building the reference list.
+
+             An interactive H5P element has been excluded from this version of the text. You can view it online here:
+             https://ohiostate.pressbooks.pub/engrtechcomm/?p=82#h5p-5
+
+   You may think: what should I record from the sources other than the publication information? The
+goal of research notes is to help you remember information and quickly access important details. You
+should write down the following details:
+
+        · Thesis statement
+        · Keywords
+        · Major points or claims
+        · Evidence, support and/or examples
+        · Headings (depending on the source)
+
+You may want to write down the thesis, points, and claims exactly as they appear in the source.
+However, whenever you copy the language exactly, be sure to use quotation marks to indicate
+that the information is coming directly from a source/author.
+
+Restating the Information in Your Own Words
+
+After taking the time to skim and take notes, you should also put the author's thesis and ideas into
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 49
+
+your own words. This ensures that you truly understand the source and the author's points. There are
+two major ways to approach this process: summary and paraphrase.
+
+Summary
+
+Summaries are condensed versions of the original source, in your own words. Summaries focus on
+the main ideas, but do not copy any of the original language. A 500 page book or a 2 hour movie could
+be summarized in a sentence. Summaries do not contain the same level of detail as the original
+source.
+
+                                                             Example: Summary
+
+      The following text demonstrates a summary of an original passage:
+      Original Text
+      "Lead can enter drinking water when service pipes that contain lead corrode, especially where the water has high
+   acidity or low mineral content that corrodes pipes and fixtures. The most common problem is with brass or chrome-
+   plated brass faucets and fixtures with lead solder, from which significant amounts of lead can enter into the water,
+   especially hot water."
+      Summary
+      Water becomes contaminated by lead when lead pipes, solder, or certain types of fixtures degrade, and hot water can
+   increase the amount lead released.
+      Environmental Protection Agency. (2016). Basic information about lead in drinking water. Retrieved from
+   https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water
+
+Paraphrase
+
+Similarly, paraphrases are restatements of source material, in your own words, but the difference is
+that paraphrases tend to be closer in length to the original source. Paraphrases have the same level
+of detail as the original. Remember, though, if you copy from the original even two or three words
+in a row you must provide quotation marks around those words.
+
+                                                            Example: Paraphrase
+
+      Original
+      "Lead can enter drinking water when service pipes that contain lead corrode, especially where the water has high
+   acidity or low mineral content that corrodes pipes and fixtures. The most common problem is with brass or chrome-
+   plated brass faucets and fixtures with lead solder, from which significant amounts of lead can enter into the water,
+   especially hot water."
+      Paraphrase
+      Water becomes contaminated by lead when lead pipes or lead solder degrades. Certain types of fixtures, such as those
+   plated with chrome and brass, as well as hot water, acidic water, and water with lower amounts of minerals can make
+   lead contamination significantly worse.
+
+Regardless of whether you choose to directly quote, summarize, or paraphrase a source, you must
+document the source material. Failure to do so is plagiarism and can lead to allegations of academic
+or workplace dishonesty.
+50 LYNN HALL & LEAH WAHLIN
+
+Annotated Bibliographies*
+
+Annotated bibliographies are a common step in the research process. Annotated bibliographies are
+exploratory in nature--they help writers organize their thoughts and sources about a topic and help
+writers determine a direction for their research. Depending on the academic discipline, purpose, and
+instructor preference, the style, content, and even the name of annotations can vary. This document
+is a basic overview, so please confirm details of your annotated bibliography with your instructor.
+
+Purposes of an annotated bibliography
+
+For you: During the research and writing process, the annotated bibliography helps you,
+the researcher, keep track of the changing relevance of sources as you develop your ideas. It also
+helps you save time by focusing on each author's essential ideas (which helps you make connections
+between sources), and it can help you begin the process of composing your project.
+
+   For others: During the research process, annotated bibliographies also help show your instructor
+that you are consulting idea-generating and relevant sources and, more importantly, that you
+understand the significance of and relationship between your sources. When you seek assistance from
+your librarian, annotated bibliographies also help the librarian guide you toward the best available
+sources. Finally, annotated bibliographies help your writing consultant/tutor work with you more
+efficiently on integrating an author's ideas into your writing.
+
+What is an annotation?
+
+Generally, an annotation provides a summary of the major ideas in a source, such as the source's thesis
+(argument) and major supporting details; an evaluation of the ideas and points in the source; and a
+sense of how the source connects with your project and other sources in the annotated bibliography.
+
+   Questions to consider as you compose your annotation:
+
+        · What is the thesis (main argument of the source), and what is the general purpose of the
+           source?
+
+        · Who is the author and what are his/her credentials? Who is the intended audience?\
+        · What theoretical or ideological assumptions does the author advocate, and where or how
+
+           does that appear in the source?
+        · What topics does the source cover? What types of evidence does it use?
+        · What parts of the argument or analysis are particularly persuasive, what parts are not, and
+
+           why?
+        · What types of rhetorical appeals (ethos, pathos, logos) does the author use in the
+
+           development, deployment, and support of their ideas?
+        · How is this source useful, or not useful, to your project? How does it help you advance the
+
+           argument for your project?
+        · How well does the source relate to or not relate to the other sources in your annotated
+
+           bibliography?
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 51
+
+What are the parts of an annotated bibliography?
+
+      1. The first part of every entry in an annotated bibliography is a citation of the source. Follow
+           the citation style preferred by your instructor.
+
+      2. The second part of every entry is an annotation or description of the source. Annotations
+           can vary in length, depending on the purposes of the annotated bibliography. Generally, the
+           annotation will contain some information about the author's credentials/authority, followed
+           by a brief summary of the source, taking into consideration the audience, author's
+           viewpoint, and the thesis statement. Assessments of the source can appear anywhere, but it
+           is commonly featured at the end of the annotation. Consider whether you found the
+           argument or analysis persuasive, whether this source is useful to you, and why. You may also
+           include any relevant links to other sources.
+
+     Sample, APA style:
+     Tien, F. and Fu, T. (2008). The correlates of the digital divide and their impact on college
+     student learning. Computers and Education 50(1): 421-436. doi:10.1016/j.compedu.2006.07.005
+
+             Although Taiwanese scholars1 Tien and Fu focus on Taiwanese college students, a significant portion of the
+          article is pertinent to a U.S. context. First, the authors acknowledge that most discussion of the "digital divide"
+          incorrectly simplifies the issue of technological access.2a As a result, they discuss what they call the three
+          dimensions of the digital divide: access; use and knowledge; and skills (422).2b This recognizes what several other
+          sources in my bibliography have touched upon: access does not mean use nor does it mean knowledge or skills to
+          effectively use digital technologies.3a Second, they explain that many countries, the US and Taiwan included,
+          depend upon education at all levels to combat the digital divide(s). The issue is that there are deficiencies within
+          educational systems which sometimes work to reinforce the divides already in place.3b Tien and Fu claim, however,
+          that educational contexts hold the most possibility for combating the digital divide(s).3c Tien and Fu claim that
+          demographic and socio-economic background had no significant influence on accurately predicting computer
+          use,3d which contrasts with claims of other sources such as Kirtley.4 However, gender and major did appear to have
+          an influence on computer use; Tien and Fu note, for example, that female students tended to devote more focused
+          computer time on academic-related work.3e Overall, the first half of the article that breaks down the different
+          dimensions of the digital divide is the most useful for my project.5
+
+     1. This establishes the authority of the authors and evaluates the source's usefulness in an American context.
+     2a/2b. Establishes the argument of the article.
+     3a. Specific supporting details; establishes connection with other sources in bibliography.
+     3b/3c/3d/3e. Specific supporting details.
+     4. Establishes connection to other sources in bibliography.
+     5. Establishes usefulness for specific project.
+
+*This content adapted from a handout created by the Center for the Study and Teaching of Writing at
+OSU. Emphasis (color) added and sample modified to APA format.
+
+Research Conversations
+
+Research is about understanding the prevailing opinions, arguments, facts, and details about a given
+topic. This requires reading what others have already said and published about a topic. We can
+understand this as the conversation about the topic. For most topics and issues, there can be multiple
+52 LYNN HALL & LEAH WAHLIN
+
+conversations, each grounded in a specific context, culture, and field of study. Rhetorician Kenneth
+Burke (1941) calls this the "parlor conversation."
+
+         You come late. When you arrive, others have long preceded you, and they are engaged in a
+      heated discussion, a discussion too heated for them to pause and tell you exactly what it is about.
+      ... You listen for a while, until you decide that you have caught the tenor of the argument; then
+      you put in your oar. Someone answers, you answer him; another comes to your defense; another
+      aligns himself against you. ... The hour grows late, you must depart. And you do depart, with the
+      discussion still vigorously in progress. (Burke, 1941, p. 110)
+   In other words, before you can effectively and persuasively enter into any conversation, you must
+understand and consider what others have already said. Otherwise you may simply replicate others'
+ideas, ask questions or raise issues that have already been resolved, or otherwise lack the knowledge
+and information needed to make productive and persuasive contributions to the topic.
+   Academic writing requires presenting your sources and your ideas effectively to readers. According
+to Graff and Birkenstein (2006), authors of the book They Say, I Say, the first element in the process
+involves "entering a conversation about ideas" between you--the writer--and your sources to reflect
+your critical thinking (p. ix). Graff and Birkenstein provide templates (a quick Google search for
+"They Say I Say templates" brings up many examples) for organizing your ideas in relation to other
+research, your thesis, supporting evidence, opposing evidence, and the conclusion of your and others'
+arguments.
+   You are likely already aware of the `"they say/I say" format. A common version of this is:
+
+         "On the one hand, ______________. On the other hand, ______________."
+   When talking about research, you might begin with "on the one hand, Researcher X (2015)
+claims....." and then insert, "on the other hand, I argue....." Or, you may use this construction to put
+two sources in conversation before inserting your ideas. For example:
+
+         On the one hand, Researcher X (2015) claims.....On the other hand, Researcher Y (2016)
+      argues...Building on Researcher X and Researcher Y, I contend...
+   What is most important to remember about integrating research and your own ideas is that you
+must provide clear attribution of ideas in the text. Attribution is not only about citations, but also
+about providing textual clues about source material and its origins. Sometimes this is described as
+introducing and explaining and sometimes it is described as sandwiching a quotation or idea. For
+example:
+
+         According to Researcher X (2015), "information directly quoted from source" (p. 20). That is,
+      [explanation, justification, or other explication on the quoted material].
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 53
+
+DATA COMMENTARY
+
+Data Commentary
+   Part of the research process includes making sense of the information you find, for yourself and
+
+especially for others. Data commentary is the process of explaining and contextualizing information.
+This section will discuss what data is (including some different types) and why commentary is
+important for understanding data.
+What is Data?
+
+   Writ large, data can be defined as any information generated or collected through inquiry or
+observation. For example, in your class, you might observe individuals with curly, straight, or wavy
+hair. Observations of these categories of hair comprise one kind of data. Alternatively, you might
+measure how varying levels of carbon and nitrogen affect the growth of plant root structures. The
+measurements of plant roots represent another kind of data.
+
+What are the Types of Data?
+
+Both of the above scenarios involve the generation of data: information about observable or
+measurable phenomena in the world. In the scenario above where effects of carbon and nitrogen are
+associated with plants' root structures, data would consist of measurements associated with the roots.
+For example, the length of roots produced by each plant, or the number of `shoots' branching from
+each root are two different sets of quantitative data. Quantitative data is usually defined as numerical
+information, generated or collected through measurements conducted by humans or mediated
+through devices (computers, microscopes, scales, etc.)
+
+   Alternatively, the information collected in the first example--that people in a given group have
+different hair texture that can be described and grouped by category--is what we usually call
+qualitative data. Qualitative data is observable or measurable information that is not (typically)
+numerical in nature.
+Writing and Talking about Data: What can we do with it and what should we do with it?
+
+   While the distinction between these two types of data can be valuable, it's important to recognize
+that there are not hard and fast boundaries between the two. Qualitative judgments are often made
+about quantitative data, and quantitative judgments can be used to manipulate qualitative data:
+
+   "All quantitative data is based upon qualitative judgments; and all qualitative data can be described
+and manipulated numerically." (http://www.socialresearchmethods.net/kb/datatype.php)
+
+   What does this mean? It means that when we collect quantitative data, our measurements are
+based on our qualitative judgments about what is important/valuable information to measure. So,
+
+                                                                                        53
+54 LYNN HALL & LEAH WAHLIN
+
+in the root example above, the plant's root length or complexity are potential measures that tell
+us something about how the plant has been affected by the variables, carbon and nitrogen levels.
+Through exposure to other scientific studies of similar phenomena, through which they have gained
+expert judgment and shared disciplinary knowledge, ecologists have come to expect that there will be
+a relationship between root length and complexity and these variables. This example demonstrates
+that what is important or valuable to measure is determined by a researcher's questions, but also by
+cultural values and beliefs within that researcher's discipline, as well as the larger culture.
+
+   How quantitative data is generated involves qualitative judgments that are influenced by larger
+disciplinary and cultural values and standards. In addition, analysis of quantitative data also involves
+interpretation and explanation influenced by what the interpreter already knows about the topic,
+what she wants to suggest with the information, and for whom she is presenting the information.
+
+   For example, the researcher studying the effects of carbon and nitrogen on plant roots might
+compose a paper for a scientific journal; the audience for this piece would be other researchers
+interested in plant ecology. In this paper, the researcher could focus on the data and results,
+emphasizing how varying levels of carbon and nitrogen differently influence plant root length and
+structure. Because of her audience (other ecologists) and purpose (communicating her results), the
+researcher doesn't need to explain the significance of her findings in the same way she would if, for
+example, she was explaining her results to the public. The same study, written to appear in Popular
+Science, would need to explain why it matters that carbon and nitrogen differently influence plant
+root length and structure. The researcher might, for example, hypothesize that overuse of synthetic,
+nitrogen-based fertilizers on agricultural plants, such as carrots, could reduce the size or density of
+the crop yield. A conventional farming audience, or an audience interested in sustainable farming
+might differently interpret this representation of the research differently than the scientific audience
+reading the scientific article covering the same research and data. The difference lies in the purpose
+for which the writer is interpreting the data and how she must represent what is at issue, given
+the conventions and expectations of the genre of scientific article, versus popular news coverage of
+scientific research.
+How Persuasion and Data Interpretation InteractAlthough it would be convenient for data to `speak
+for itself,' this is rarely, if ever, possible. One individual looking at the data makes different sense of
+it than another, although through persuasion and discussion, we can come to agree what the data
+means. In the field of engineering, as well as many other scientific and technical fields, acceptance of
+your ideas and interpretations are based not only on your technical facility--coming up with the best
+answer or solution--but on your ability to persuade someone else that your interpretation or idea is
+the best answer solution. As such, technical writing and communication becomes a vital way of not
+only understanding what it is you know (e.g. writing an explanation of your results so you understand
+what it means), but also transmitting that knowledge to others. Until knowledge is shared, until you
+have effectively communicated what you know to another party who shares the same interpretation
+of the facts or data, what you know can't really count as `knowledge' (Winsor, 1996, p. 5).
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 55
+
+USING AND DOCUMENTING
+SOURCES
+
+Ohio State University Libraries has created their own PressBook, Choosing & Using Sources, with
+excellent information on the research process. Check out Chapter 6 for information on
+evaluating sources and Chapter 7 and Chapter 8 on using and citing sources.
+
+   Note: As with this PressBook, you will need to click on each individual section of a chapter to read
+the entirety of a chapter.
+
+                                                                                        55
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 57
+
+COLLABORATION & TEAM PROJECTS
+
+   Team projects will follow you from the college classroom to the workplace--few people have jobs
+or careers that allow them to work in complete isolation. In fact, looking carefully at collaboration
+trends in the workplace over the past twenty years, researchers found that collaboration between
+management and employees had increased by 50% or more (Cross, Rebele & Grant, 2016). Employees
+who can work effectively on a team are valuable to employers, as are leaders who can facilitate
+communication within a team of people. Collaboration done well allows us to get more done than we
+could possibly accomplish on our own.
+
+   Collaborating with other people can be challenging. In a team setting, you can't control every aspect
+of the project as you need to rely on others to complete the work. Additionally, a team's ability to
+work effectively is impacted by interpersonal communication and communication styles. Researchers
+at Google found that factors like the ability to take equal turns speaking and being perceptive of the
+moods and feelings of their teammates created a sense of "psychological safety," which was a key
+feature among successful teams in the organization (Duhigg, 2016).
+
+   Every team of people is unique--there is no one perfect method for successful collaboration
+because it requires attention to these types of interpersonal dynamics in every new collaborative
+situation.
+
+   Beyond interpersonal dynamics, however, a successful project requires setting clear goals and
+expectations for each team member. As a result, unsurprisingly, good communication is the
+foundation of a successful collaboration. Practice the skills and strategies and familiarize yourself
+with the resources outlined in the following sections to make you and your teams better equipped to
+plan, manage, and complete large, complex projects.
+
+References
+
+Cross, R., Rebele, R., & Grant, A. (2016). Collaborative Overload. Harvard Business Review, 94(1), 74-79.
+   Duhigg, C. (2016, February 25). What Google learned from its quest to build the perfect team. The
+
+New York Times Magazine. Retrieved from http://www.nytimes.com/2016/02/28/magazine/what-
+google-learned-from-its-quest-to-build-the-perfect-team.html
+
+   Header image: by ulrichw / CC0 via Pixabay
+
+                                                                                        57
+58 LYNN HALL & LEAH WAHLIN
+
+When a new project gets underway, it is important to make sure that the team has a clear, shared
+understanding of what it is you are trying to accomplish. Don't assume that everyone has the same
+understanding of the project that you do, even if they have read the same assignment description
+or brief or attended the same meetings. Each team member will bring their own perceptions and
+priorities to the project; this diversity of perspectives is a strength as long as the team is able to
+collectively ensure that those perspectives support the project's goals. Basically, clear goals make sure
+that everyone has the freedom to use their strengths and still meet the rest of the team at the finish
+line with a successful outcome.
+
+   Often, teams have a "project kickoff" meeting or event in which every person on the team (and,
+potentially, members of a client team) has the opportunity to weigh in on and help establish the shared
+expectations for the project.
+
+by HypnoArt / CC0
+
+At the start of a project, make sure that you and your team have made decisions about the following:
+        · Goals, outcomes, and/or product. What are you producing or creating? Does everyone on
+           the team understand what it is or what you are trying to accomplish? This might be as
+           simple as confirming what's required for a class assignment, or it might involve more
+           brainstorming, planning, and negotiation for an open-ended or more complex project.
+
+                                                                                        58
+                                                                                       A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 59
+
+        · Timeline or schedule. Does everyone know when the work needs to be completed? All
+           projects must have an end date or a concrete timeframe for achieving the goal. You might
+           know when the final deadline is, but it's even more important for the team to create
+           additional "internal deadlines." Shorter-term check-ins and interim deadlines allow a team
+           to ensure that every team member is producing work that aligns with the project goals and
+           that the work can be combined into a cohesive project in the end. See below for more
+           information about building project schedules.
+
+        · Roles and responsibilities. Does each team member understand what they are contributing
+           to the project or what they are responsible for? Do you have a project leader or a
+           communications lead? Teams can decide if they want or need someone in a specific
+           leadership role--this might depend on the project and the team dynamic--but it is often
+           useful to have a person overseeing all the different parts of a project and monitoring
+           progress.
+
+        · Communication and information management. Do all the team members understand
+           how the project will be built, created, and delivered? Have you agreed upon the best way to
+           communicate with each other throughout the project--to provide progress updates? For
+           instance, you might agree to send weekly individual status updates or hold bi-weekly project
+           team meetings.
+
+Document all of the decisions made and be transparent-make decision documentation accessible to
+everyone on the team. If anything changes, and things do often change during a complex project, those
+changes should be documented and distributed in the same way.
+60 LYNN HALL & LEAH WAHLIN
+
+Project Schedules
+
+by bphotoart / CC0
+
+Even for the simplest, most straightforward projects, a thoughtful project schedule is important
+because it serves as both a road map and a journal--allowing you to look ahead at the work that needs
+to be completed and look back at what's already been accomplished.
+
+   Almost as important, the process of producing the project schedule forces you to imagine all of the
+necessary components and to determine how they will be produced and by whom. A project schedule
+represents how the work will get done and, ultimately, how the project will be successful.
+
+   Different companies and industries will have different standards and templates for project
+schedules, but all project schedules will document similar types of information:
+
+        · Timeline: A projection of when each part of the project will begin and end. For a project
+           that has a definite start date, specific dates will be identified. For proposed projects,
+           durations (e.g., 13 days or two months) are indicated. Timelines allow the project manager to
+           map out the exact sequence of work.
+
+        · Deliverable: The tangible outcomes of project activities--those things that the project is
+           designed to produce. A project will likely have multiple deliverables throughout the lifespan
+                                                                            A GUIDE TO TECHNICAL COMMUNICATIONS: STRATEGIES & APPLICATIONS 61
+
+   of the project. A report, a mobile application, a marketing campaign, a video, a presentation, a
+   building, and a campaign event are all examples of deliverables.
+· Project phase: A grouping of a series of logically-related project activities. A project phase
+   will often end with the completion of a significant deliverable. A technical development project
+   might be organized into Planning, Design, Development & Testing, Implementation.
+· Tasks or Activities: The smallest units of planned work that go into a project schedule.
+   These should represent the complete series of steps that will allow the project team to
+   complete required deliverables. Tasks should also be associated with resources, so it's clear
+   who is responsible for completing the work.
+· Milestone: Checkpoint in the project schedule. These help the project managers ensure that
+   the work is progressing as planned and make decisions about next steps. A milestone does
+   not have work associated with it, but often follows the completion of a major deliverable or
+   project phase.
+· Resources: The people (individuals or groups) who are assigned to work on the project in
+   some capacity. Each task is the project schedule is associated with a resource and part of the
+   project manager's responsibility is to ensure that there are enough resources to complete the
+   work as planned.
+

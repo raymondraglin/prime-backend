@@ -1,0 +1,1889 @@
+Supporting Secondary
+   Teachers' Critical
+
+Disciplinary Literacies
+
+                     Jeanne Dyches
+
+                  Iowa State University Digital Press
+                                     Ames, Iowa
+Supporting Secondary Teachers' Critical Disciplinary Literacies by Jeanne Dyches is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, except where
+otherwise noted.
+
+You are free to copy, share, adapt, remix, transform, and build upon the material, so long as you follow
+the terms of the license.
+
+This is a publication of the
+Iowa State University Digital Press
+701 Morrill Rd, Ames, IA 50011
+https://www.iastatedigitalpress.com
+digipress@iastate.edu
+Contents
+
+Introduction                                                    1
+
+Jeanne Dyches
+
+Residential Segregation and Parable of the Polygons             7
+
+Ridwan Abdi
+
+What Can We Do About Climate Change? A Socratic Seminar in      10
+
+Biology
+
+Samantha Andersen
+
+Debating through the Lens of Interpretive Communication         14
+
+Erin Brandt
+
+Examining Poverty in Latin American Countries: A Poster         17
+
+Carousel
+
+Mackenzie Crampton
+
+Using Cornell Notes to Guide Students Watching "Music" Episode  20
+
+of Explained
+
+Will Douglas
+
+Using RAFT to Analyze Pascal's "Claim-to-fame"                  23
+
+Sullivan Fitzgerald
+
+Gender Inequality, Fishbowl Discussion                          26
+
+Kayla Gerard
+
+Annotating Informational Text and Literary Non-Fiction in ELA   28
+
+Selma Hasan
+
+The Great Depression: Jigsaw Method                             32
+
+Carter Junge
+
+Addressing The Effects of Minimum Wage Through Collaborative    35
+
+Conversation
+
+Juliana Lobraco
+Using the Fishbowl Strategy to Discuss Book Banning         38
+
+Ainsley Lovrien
+
+Langston Hughes and Walt Whitman; Venn Diagrams             40
+
+Ashley Luedtke
+
+Analyzing "War Girls" using a TPCASTT Guided Close Reading  42
+
+James Mechikoff
+
+Finding Imagery in "Still I Rise" by Maya Angelou with The  47
+
+Response Heuristic
+
+Crystal Millan-Herrera
+
+Collaborative Discussion About How Viruses are Spread       50
+
+Samuel Peterson
+
+Using Read-Write-Pair-Share to Discuss Housing Insecurity   52
+
+Brianna Sander
+
+Brave New World: Using the Character Anatomy in Critical    55
+
+Literacy
+
+Elijah Strong
+                                                                                                         | 1
+
+Introduction
+
+   Jeanne Dyches
+
+Like many teachers, I pull from various textbooks and resources to ensure
+my students have access to the readings and ideas essential to the topic at
+hand. For the better part of a decade now, I have been teaching a course titled
+EDUC 395: Teaching Disciplinary Literacy to teacher candidates at Iowa
+State University. Every semester, I strategically cobble together materials that
+speak to disciplinary literacy, equity, and justice-oriented literacy instruction,
+and fuse them for my students' learning. I have yet to locate a singular text
+that helps my students understand how to "do" disciplinary literacy in a
+manner that aligns with critical literacy-that is, the notion that all texts
+are power-imbued and should be questioned. Textbooks seem to send the
+message: you can do standards-aligned disciplinary literacy instruction, or
+justice-oriented, equity-minded instruction-but you can't do both.
+
+Because textbooks often isolate disciplinary literacy concepts and issues of
+critical literacy, and a text that melds these often isolated fields has yet
+to emerge, there is a shared pedagogical need between in-service and pre-
+service teachers, as well as teacher educators, for a text that offers readers an
+assortment of accessible, ready-to-implement disciplinary literacy strategies
+informed by critical lenses-that is, critical disciplinary literacy (CDL)
+strategies. This textbook, co-created with students in EDUC 395: Teaching
+Disciplinary Literacy, and supported by CDL experts, offers accessible,
+research-based, multidisciplinary CDL strategies ready for implementation in
+secondary classrooms. Moreover, this text fills a void in the field by showing
+educators how they can teach to name and disrupt oppression while meeting
+national and local standards (Dyches, Sams, & Boyd, 2020; Dover, 2013).
+
+What is Disciplinary Literacy?
+
+Virtually all national standards for secondary students (grades 6-12) in the
+2 |
+
+United States require teachers to facilitate students' disciplinary literacies
+(Berry & Aldrich, 2022; Zygouris-Coe, 2012). Disciplinary literacy (Shanahan &
+Shanahan, 2008) complicates the one-size-fits-all notion that "all teachers are
+teachers of reading," and instead tasks educators with de-mystifying for their
+students the unique ways in which disciplines work. In most approaches to
+disciplinary literacy instruction, secondary students must consider how field
+experts think and perform if they are to flourish in mainstream academic
+settings.
+
+But recently emerging scholarship suggests that disciplinary literacy is, by
+itself, an incomplete and potentially problematic approach to secondary
+literacy instruction (Dyches, 2021; under review; Dobbs, 2020; Moje, 2015;
+Wrenn & Gallagher, 2021). Prompting students to "think like" or even "be"
+an expert (Berry & Aldrich, 2022) relates implicit messaging about whose
+knowledge is-and isn't-valued in secondary spaces. Students, particularly
+those belonging to marginalized groups, may feel that their funds of
+knowledge are incompatible with those deemed "academic" in nature.
+Moreover, research continues to call for generative approaches to disciplinary
+literacy that de-neutralize students' thinking of academic knowledges as
+static, monolithic, apolitical entities, and instead highlight the ways in which
+disciplines, and education more broadly, are always connected to power
+structures (Dyches, 2022; Hinchman & O'Brien, 2019; Moje, 2015).
+
+How is Critical Disciplinary Literacy Different?
+
+Critical disciplinary literacy prompts students to name, confront, and analyze
+issues of equity and power relative to their respective disciplines. CDL
+understands disciplines as unique communities with their own specialized
+(and often exclusionary) skills, norms, practices, and discourses, but deviates
+from conventional applications of disciplinary literacy by responding to the
+ways in which power systems and their attendant analytic skills work
+differently based on the disciplines at hand (e.g., Dyches, 2018; 2021; 2022;
+Wrenn & Gallagher, 2021). Applying the CDL skills of "reading the word and
+the world" (Freire & Macedo, 1987) to understand the power dynamics of, and
+inequities involved in, vaccine distributions requires a different skill set and
+                                                                                                         | 3
+
+strategy approach than locating textual representations of toxic masculinity
+in Romeo and Juliet. CDL acknowledges these nuances across disciplines, and
+that students' acquisition of these skills is not an inevitable outcome.
+
+Why Does CDL Instruction Matter?
+
+Multiple state and national organizations require pre-service teachers to
+show evidence of their understanding, and ability to create instruction
+responsive to, disciplinary literacy and cultural competencies. Supporting
+pre-service students as they learn to meld these instructional approaches
+prepares them for their work as in-service teachers. Pre-service teachers'
+successes will have a direct impact on secondary students in public schools:
+as these new teachers enter classrooms, they will be better equipped with
+the skills to support students' disciplinary learning in engaging and
+sociopolitically relevant ways.
+
+The textbook's objectives are far-ranging, supporting both pre- and in-service
+teachers' efforts to confidently approach CDL instruction.
+
+   Objectives
+
+       · To help pre-service teachers apply critical disciplinary literacy;
+       · To empower pre-service teachers to create and share instructional
+
+           materials based on research-based best practices;
+       · To support pre-service teachers' understandings and applications of
+
+           technology in their critical disciplinary literacy instruction; and,
+           ultimately,
+       · To provide pre-service, in-service, and teacher educators with a
+           multimodal textbook resource filled with CDL strategies they can
+           implement in their own classrooms/professional spaces.
+4 |
+
+Co-Authoring Process
+
+During the CDL project, EDUC 395 students, all of them teacher candidates,
+learned about CDL in a scaffolded manner across our 16-week, semester-long
+class. The timeline we followed is below:
+
+Week Topic       Table 1. Timeline for CDL Project
+                                                 CDL Guest Speakers
+
+Weeks Learning about Disciplinary N/A
+1-8    Literacy
+
+Week 8 Social Justice and Disciplinary N/A
+             Literacy
+
+Weeks  Critical Literacy, introduce CDL  N/A
+9-10   chapter assignment
+                                         Selma Hasan (ISU-ELA major) &
+Weeks  Critical Disciplinary Literacies  Sammy Andersen (ISU-Biology
+10-15  Week 13: CDL chapter outline      major)
+       draft submitted                   Dr Brandon Sams, ISU (ELA)
+       Week 15: CDL chapter final        Dr Ashley Boyd, associate
+       version submitted                 professor, Washington State
+                                         University (Social Studies)
+                                         Dr Katie Baker, assistant professor,
+                                         Elon University (Math)
+
+Weeks  Students record video demos,
+15-16  upload video/transcript to YouTube N/A
+       and finalize CDL chapters
+
+Throughout the semester, invited guest speakers, each of them a CDL expert
+of a particular discipline (science, ELA, math, and social studies), joined
+our class to model a CDL-oriented lesson for students, and to answer their
+questions. Throughout the project timeline, students submitted various
+portions of their project and received feedback before moving on to the
+next task. Periodic check-ins, including small group/whole class discussions,
+                                                                                                         | 5
+
+provided students with the space to share successes, challenges, and
+questions. At the end of the project, students completed a reflection, sharing
+their experiences with the project, including successes, challenges, impact on
+pedagogy, and lingering questions.
+
+Chapter Format
+
+Each chapter opens with a disciplinary literacy standard that supports the
+described lesson. These standards come from the Common Core State
+Standards for Math, Social Studies, and ELA; Next Generation Science
+Standards; and World Readiness Standards for Learning Languages. Next,
+students note which of Lewison, Flint, and Sluys' (2002) four critical literacy
+dimension(s) their lesson meets: disrupting the commonplace, interrogating
+multiple viewpoints, focusing on sociopolitical viewpoints, and taking action and
+promoting social justice. Resources are linked for readers' convenience.
+
+Next, chapters provide a step-by-step guide to implementing the CDL lesson.
+A link to student's accompanying video demonstrations (closed captions
+provided) follows the step-by-step instructions. Each chapter concludes with
+a brief bio about its student author.
+
+Impact
+
+Though equity-oriented instruction is widely valued in education, students
+do not always have opportunities to practice justice-oriented instruction
+(Ladson-Billings, 2006; 2018), especially in ways that are differentiated to their
+own disciplinary norms (Boyd, 2017; Dyches, 2021). Having the opportunity
+to develop these ideas during their educator preparation coursework suggests
+that CDL practices-ones intended to promote equity, agency, and justice-will
+be present in students' future classrooms.
+
+With almost two decades experience in education, creating a textbook with
+my students was a new experience for me. I believe deeply in honoring
+students' vast funds of knowledge, creativity, and their agency to create. This
+project challenged me to think in new ways, and gave me the opportunity
+6 |
+
+to learn from my students, who bring a wealth of experiences, ideas, and
+approaches to our class. I am honored to, along with my students, have
+had the opportunity to move what have been hitherto largely conceptual
+understandings of CDL into widely-accessible, practitioner-based
+approaches.
+
+In Closing
+
+Co-creating a textbook with my students proved to be challenging, wonderful
+work. I treasure the experience and the students whose creativity, passion,
+and hard work undergirds the text's creation. Our collective hope is that
+readers will find value and merit in this text, and have a deeper understanding
+of how to teach disciplinary literacy in ways that reflect justice-oriented
+thinking and goals. We hope these strategies are not only applicable and easy
+to use, but ones that will increase students' engagement with their discipline
+and the world around them.
+
+About the Author
+
+               Jeanne Dyches
+
+                     Iowa State University
+                     http://www.drdyches.com/
+
+Dr. Jeanne Dyches, associate professor at Iowa State University, examines
+applications of critical disciplinary literacies in secondary classrooms and
+tensions and synergies between canonical curricula and critical pedagogies.
+Dr. Dyches is interested in better understanding how practitioners teach
+canonical texts in disciplinary-specific, justice-oriented ways. Her work has
+been published in journals such as English Education, Harvard Educational
+Review, Journal of Curriculum Studies, Journal of Teacher Education, and Journal
+of Adolescent and Adult Literacy. Various organizations have recognized the
+quality of her research and teaching.
+                                                                                                         | 7
+
+Residential Segregation and Parable
+of the Polygons
+
+   Ridwan Abdi
+
+   Overview
+
+       · Disciplinary Literacy Skill: Common Core 6.NS.C.6.C Convert Fractions
+           and Decimals to percent
+
+       · Critical Literacy Skill(s): Focusing on sociopolitical viewpoints (Lewison,
+           Flint, & Sluys, 2002)
+
+       · Instructional Resources Needed:
+                 "Attacking the Black-White Opportunity Gap That Comes from
+                    Residential Segregation" (Black & Kahlenberg, 2019)
+                 Parable of the polygons
+                 KWL-CL CHART
+                 Guided worksheet
+                 Google Slides
+
+Step by Step Instructions
+
+ 1. This lesson can be done over two days. To start, I will create four student
+      groups, give out the KWL-CL CHART, and introduce the topic of
+      Residential Segregation by using questions such as What are some of the
+      factors that contribute to residential segregation? What are the
+      consequences of residential segregation? After introducing the topic,
+      give students a couple of minutes and ask them to fill out the first two
+      columns of the chart.
+8 |
+
+ 2. After students are done writing, I will ask students to read the article
+      "Attacking the Black-White Opportunity Gap That Comes from
+      Residential Segregation" with their group.
+
+ 3. Then, students will be given a guided worksheet to fill out as students
+      play the game Parable of the polygons to get a deep lesson about
+      diversity in a fun way. I will quickly model the activity beforehand. This
+      activity makes students consider bias and how it leads to a segregated
+      resident.
+
+ 4. After all groups are done with their activity as a class, groups will share
+      their answers with the whole class and participate in discussions. Then I
+      will ask students to complete the rest of the KWL-CL CHART.
+
+ 5. We will also talk about what type of mathematics they have seen during
+      the reading and activity. At this point, I will reintroduce the
+      mathematics used in the article and the gaming activity using Google
+      Slides. During the slides presentation, students are expected to answer
+      the questions in the slides and take notes simultaneously.
+
+ 6. To conclude our activity, students will write a reflection of a minimum
+      of two sentences on the relationships between percentages and fractions
+      on the back of the KWL-CL CHART. My CDL strategy mini-lesson
+      satisfies the CL dimension of focusing on sociopolitical viewpoints by
+      reasoning how the smallest of biases can push a whole society past the
+      tipping point of residential segregation.
+
+About the Author
+
+Ridwan Abdi
+
+Major: Mathematics Education
+
+I am a lifelong learner born and raised in Kenya. I have always been passionate
+about education and the power it has to open up doors and help people reach
+their goals. Education has been a cornerstone of my life, and I believe in
+its ability to foster creativity, build confidence, and provide opportunities.
+My goal is to help others realize their potential and find success in their
+pursuits. To that end, I am currently working towards a degree in Education
+                                                                                                         | 9
+
+and Math, with the ultimate aim of becoming an educator. In my free time,
+I enjoy playing card/board games, spending time with family, and exploring
+new places. I also have a strong interest in reading manga/manhua, watching
+anime, and traveling. Above all, I am committed to making a positive impact
+on the world through my work in the field of education.
+10 |
+
+What Can We Do About Climate
+Change? A Socratic Seminar in
+Biology
+
+   Samantha Andersen
+
+   Overview
+
+       · Disciplinary Literacy Skill: HS-LS2-7: Design, evaluate, and refine a
+           solution for reducing the impacts of human activities on the environment
+           and biodiversity.
+
+       · Critical Literacy Skill(s) (Lewison, Flint, & Sluys, 2002): Interrogating
+           multiple viewpoints
+
+       · Instructional Resources Needed:
+                 "Every Place Has Its Own Climate Risk. What Is It Where You
+                    Live?" (Thompson, 2020)
+                 "What is Climate Change?" (Dunbar 2015)
+                 Graphic Organizer
+
+Step-by Step-Instructions
+
+ 1. This lesson can be done over two days or the students can be given a
+      chunk of class time before the seminar to answer these questions from
+      this graphic organizer.
+
+ 2. I have provided two pieces of text for the students to read and look at
+      before the seminar. "What is Climate Change" (Dunbar 2015) is an
+      overview of the concept of climate change. "Every Place Has Its Own
+                                                                                                      | 11
+
+    Climate Risk. What Is It Where You Live?" (Thompson, 2020) provides
+    the students with a graph that displays the climate change risks that
+    each county in the United States is facing. I will encourage students to
+    take notes (taking notes requires students to employ their writing skills)
+    over both of these readings and ask questions they might have had
+    about climate change. I will also provide the questions beforehand on
+    the graphic organizer so that the students have time to articulate their
+    well-thought out responses for group discussion.
+3. I will organize the classroom to be in a circle where students are all
+    facing each other. A large part of the Socratic seminar is students asking
+    questions and formulating ideas to share with the class. The seminar
+    is teacher-facilitated but largely focused on student's conversations.
+    Another option to allow each student to speak is to have the lesson be
+    student-facilitated. Each student needs to speak. This is where my job or
+    the student's job as a facilitator is to call on students who might feel
+    overpowered by those with louder voices or call on those who haven't yet
+    participated.
+4. To have the students analyze the data, I am going to ask questions
+    about the graph from "Every Place Has Its Own Climate Risk. What Is It
+    Where You Live?" (Thompson, 2020) As well as asking more open-ended
+    questions that don't necessarily have a solution. These questions require
+    students to employ their critical thinking and problem solving skills.
+    These questions are:
+
+        What trends did you notice?
+        What climate threat affects your area?
+        What threat do you think is the most serious?
+        What threats overlap?
+        Have you seen other articles or videos about climate change?
+        What else do you know is affected by climate change?
+        What are you/your community doing to help climate change?
+        What could be done to help these issues?
+        Where do you think people will be affected the most? Who do you
+
+          think will be affected the most? Why?
+        Who is contributing to climate change? Why?
+12 |
+
+These questions are meant to get the students thinking about the graph and
+the data they saw. It also gets the conversations started, as each student might
+have different things that they noticed or were surprised about. The questions
+get students to use their classroom talk and listen to their peers.
+
+ 5. I want to facilitate discussion or have a student facilitate discussion and
+      allow the students to formulate ideas and explanations with creative
+      thinking. Science more often than not does not have one clear solution
+      or one clear answer. I want to encourage that philosophy and promote
+      multiple perspectives.
+
+ 6. I will tell each student to write notes on major points that are made
+      during the collaboration. At the end, we will reflect over what was said
+      and evaluate the ideas.
+
+ 7. I will collect the graphic organizer as an exit pass/participation in the
+      seminar.
+
+References
+
+Dunbar, B. (2015, May 13). What is climate change? NASA. Retrieved September
+10, 2022, from https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-
+knows/what-is-climate-change-k4.html
+
+Filkins, S. (n.d.). Socratic Seminars. Socratic Seminars | Read Write Think.
+Retrieved September 10,2022, from https://www.readwritethink.org/
+professional-development/strategy-guides/socratic-seminars
+
+Next generation science standards. Next Generation Science Standards. (2022,
+August 11). Retrieved September 10, 2022, from
+https://www.nextgenscience.org/
+
+Thompson, S. A., & Serkez, Y. (2020, September 18). Every place has its own
+climate risk. what is it where you live? The New York Times. Retrieved
+September 10, 2022, from https://www.nytimes.com/interactive/2020/09/18/
+opinion/wildfire-hurricane-climate.html
+                                                                                                       | 13
+
+About the Author
+
+               Samantha Andersen
+
+                     Major: Biology and Secondary Education
+
+My name is Samantha Andersen, and I am from Ogden, Iowa. I grew up in a
+small town with lovely teachers who gave me the passion for teaching. Science
+classes were always a huge passion of mine and I want to be able to share that
+with future students. I have always admired the way teachers can change the
+world with what they do. Outside of school, I read, rollerblade, walk my three
+dogs, and spend time with the people I love.
+14 |
+
+Debating through the Lens of
+Interpretive Communication
+
+   Erin Brandt
+
+   Overview
+
+       · Disciplinary Literacy Skill: IAWL.4.IPL3: Use the language to
+           investigate, explain, and reflect on the relationship between the practices
+           and perspectives of the cultures studied
+
+       · Critical Literacy Skill(s): Interrogating multiple viewpoints
+       · Instructional Resources Needed:
+
+                 Interpretive Communication and the 5 C's (Iowa City Schools)
+                 Quote from `Mein Kampf': "I know that fewer people are won over
+
+                    by the written word than by the spoken word and that every great
+                    movement on this earth owes its growth to the great speakers and
+                    not to great writers."
+                 TPS Handout
+
+Step by Step Instructions
+
+ 1. I will have the students read the following quote: "I know that fewer
+      people are won over by the written word than by the spoken word and
+      that every great movement on this earth owes its growth to the great
+      speakers and not to great writers."
+
+ 2. Then students will be given time to write down some thoughts on the
+      quote and their own opinion (see 5Cs handout).
+
+ 3. Once they have finished writing their thoughts, I will divide them into
+                                                                                                      | 15
+
+    small groups and they will talk about their thoughts. They will answer
+    questions about if they agree or disagree with the statement, why they
+    feel that way, and if they think of any examples of arguments for or
+    against the power of speech over writing in their own lives.
+4. After this, I will break the class up into a group that agrees and one that
+    disagrees. Then they are given time to each articulate why they chose
+    their side. I let students switch sides if they want. I ask each side if they
+    could be convinced to take the other side.
+5. Once debating is over, I reveal that the quote was taken from Mein
+    Kampf, and have them discuss how this ideology worked in favor of
+    people like Hitler during his reign, and what it meant for the nazis and
+    for the people hurt by their being in power.
+
+    Note: In this scenario, interpretive communication works by asking
+    students to derive meaning from the quote based on what they know, what
+    is happening around them in their own lives, and what the context of the
+    quote itself is. In this case it is a scaffolded approach to interpretive
+    communication where they give initial thoughts, discuss its meaning with a
+    partner, then must defend their stance. Once everyone has had a chance to
+    be heard, they are given the opportunity to change their minds. Then they
+    are given further context, and are asked to reconcile their stance with the
+    way it was put into action in the past, who it hurt and who it helped. In
+    doing all this, students get a chance to show their understanding of the idea
+    and the way it caused harm in its original context, share their opinions on
+    the subject, apply it to current and historical contexts, and demonstrate
+    their knowledge of the consequences of the ideology of the given quote. In
+    this way students are asked to interrogate their viewpoints, the viewpoints
+    of their peers, the viewpoints of people that allowed this ideology to take
+    power, and those who were harmed by this ideology.
+16 |
+
+References
+
+Iowa City Schools. World Readiness Standards for Learning Languages.
+
+Retrieved   from  https://www.iowacityschools.org/site/handlers/
+
+filedownload.ashx?moduleinstanceid=217&dataid=22692&FileName=World-
+
+ReadinessStandardsforLearningLanguages.pdf
+
+Hitler, Adolf, 1889-1945. Mein Kampf. Boston: Houghton Mifflin, 1999.
+
+About the Author
+
+               Erin Brandt
+
+                     Majors: World Languages and Cultures
+                     (Spanish, German)
+
+My name is Erin Brandt. I'm from Central Iowa. I'm studying education,
+because I have a lot of passion for my content area, world languages and
+cultures. I love languages, and have studied several, including Spanish,
+German, French, Russian, Latin and Chinese, and I am currently trying to
+learn Korean and Japanese. I'm most particularly interested in teaching
+German, as my family is German, and I feel closely connected to the language.
+I hope to learn a lot about being a great teacher while teaching, and that I
+can use these skills to inspire my students while working towards a career in
+higher education.
+                                                                                                       | 17
+
+Examining Poverty in Latin
+American Countries: A Poster
+Carousel
+
+   Mackenzie Crampton
+
+   Overview
+
+       · Disciplinary Literacy Skill: IAWL.IPL. Express self and negotiate
+           meaning in the target language by appropriately engaging in unrehearsed
+           conversations and/or correspondence to actively participate in social
+           interactions (face-to-face or electronically) as a global citizen.
+
+       · Critical Literacy Skill(s): Focusing on sociopolitical issues
+       · Instructional Resources Needed:
+
+                 "Poverty in Latin America and the Caribbean: A Long and Bumpy
+                    Road Ahead" (O'Brien & Ñopo, 2022)
+
+                 Poster Carousel Handout
+
+Step by Step Instructions
+
+*Note: This strategy has been adjusted to fit the proficiency of Spanish 4
+students*
+
+ 1. For the first part of this lesson, students will read the article, "Poverty in
+      Latin America and the Caribbean: A Long and Bumpy Road Ahead."
+      This article provides information about the current poverty rates in
+      Latin America and historical statistics of poverty. It also explains how
+18 |
+
+      COVID-19 has affected the poverty rates within the past couple of years.
+ 2. Then, we will have a whole class discussion about the article.
+
+    Discussion questions:
+
+          · What is the main idea of this article?
+          · How much did the poverty rate increase between 2019 and 2021?
+          · How much has labor income dropped?
+
+ 3. After the discussion, students will be divided into groups of 4, where
+      they will each complete a poster carousel activity. During this activity,
+      each group is prompted with 4 questions about the article.
+
+ 4. There will be one question in each of the corners of the poster (see
+      example). The students will be sat at each corner, which will assign them
+      each a question. Using their previous knowledge and information from
+      the article, each student will reflect on the questions and share their
+      opinion using the Spanish language. Every answer must be in Spanish.
+
+ 5. After an allotted time, the group members will rotate the poster
+      clockwise, and each student will now have a new question.
+
+ 6. After 3 full rotations, the students will have answered each question.
+      Then, I will ask the groups to discuss their answers in Spanish.
+
+ 7. After the groups' verbal discussion, each group will share their answers
+      and discussion with the whole class.
+
+ 8. While each group shares, the other students will reflect on their own
+      answers and discussion and share any questions or comments they have.
+
+ 9. Throughout this lesson, students will examine sociopolitical issues in
+      Latin America, specifically poverty. The students will reflect on the
+      information in the the article and share their own perspectives on
+      poverty in Latin America, allowing them to gain a deeper understanding
+      of sociopolitical issues in Latin America, while also practicing their
+      written and verbal Spanish communication.
+                                                                                                       | 19
+
+About the Author
+
+Mackenzie Crampton                 Cultures
+
+Majors: World Languages and
+
+(Spanish) and Secondary Education
+
+I grew up in the very small town of Lehigh in Central Iowa with my two
+sisters and mom and dad. I attended Southeast Valley High School, and
+after graduation, I attended Iowa Central Community College. Currently, I
+am working on obtaining my Bachelor's Degree in World Languages and
+Cultures: Spanish and Secondary Education. Education was not something
+that I ever thought I would be interested in, but because of my love for the
+Spanish language, I decided to take the education route. Now, I can't imagine
+myself being anything other than a Spanish educator. After graduation, my
+main goal is to travel and experience as many different cultures as possible.
+Eventually, I would like to move to the East Coast and work as a Spanish
+teacher.
+20 |
+
+Using Cornell Notes to Guide
+Students Watching "Music" Episode
+of Explained
+
+   Will Douglas
+
+   Overview
+
+       · Disciplinary Literacy Skill: Determine a central idea of a text and analyze
+           its development over the course of the text, including how it emerges and
+           is shaped and refined by specific details; provide an objective summary of
+           the text." (RI.9-10.2)
+
+       · Critical Literacy Skill(s): Integrating multiple viewpoints
+       · Instructional Resources Needed:
+
+                 "Music" episode of Vox's Explained
+                 Cornell Notes Handout
+
+Step by Step Instructions
+
+ 1. I will have students watch the "Music" episode of Vox's Explained. This
+      is because the central idea of the episode lines up with the topic nearly
+      perfectly, and it integrates another viewpoint (music) into the topic of
+      the day (and unit of "what makes us human" as a whole). And the reason
+      for the topic is because philosophical questions are asked, and
+      potentially answered, to help guide students in answering complex
+      questions, which they will likely face no matter what path they take
+      post-primary and post-secondary education.
+                                                                                                      | 21
+
+2. While they watch the episode, I will have them fill out the Cornell notes,
+    with the first column of the Cornell notes (the one with the header of
+    "elements of music") pre-filled out with rhythm, pitch, harmony, melody,
+    and timbre. The first column is pre-filled out because students might try
+    and incorporate other terms that are not the elements of music we want
+    to focus on. Furthermore, humans are the only species on Earth that can
+    exhibit all five of these elements. Below is an example the headers and
+    one element of music, also available in a link to the Google Doc for the
+    Cornell Notes Handout above, and here (https://tinyurl.com/2p5yy3ff).
+    The purpose of using Cornell notes relates to the standard of
+    interpreting the central idea of a text and analyzing its development, as
+    the episode highlights its central idea on how humans are unique
+    because of the elements, and it develops this idea by comparing and
+    contrasting humans to animals. And, the Cornell notes structure, as
+    stated and shown, follows the structure of the episode.
+
+Element of Definition  Which Animals Can or Can't
+Music                  Use This Element of Music
+Rhythm                 (According to the Episode)
+
+                       Can:
+                       Can't:
+
+ 3. I will have provided students with a place to list which animals can or
+      cannot use that element of music, see above. (Hint: humans should be in
+      all five of the "can" lists).
+
+ 4. The class/activity will conclude with a whole class discussion, on how
+      music makes us human. This will use the Cornell notes, as well as
+      guiding questions.
+
+Possible guiding questions*
+
+ · Why does the episode make the distinction between humans and
+      animals in the elements?
+22 |
+
+ · Why are humans the only beings that are known to exhibit all five of the
+      elements (in your opinion/best guess)?
+
+ · If another being, either from Earth or not, is known to have the same
+      capacity for all five elements, what then? In other words, does that make
+      them "human"?
+
+*There are no right or wrong answers for these.
+
+About the Author
+
+               Will Douglas
+
+                     Major: English Education
+
+I have moved all over the United States, but call Slater, Iowa, my home. I have
+previously gone to Luther College, earning a Bachelor's of Arts in Political
+Science and International Studies. Afterwards, I went to Vermont Law School
+for a year and a half before realizing becoming an attorney was not for me. So,
+I decided that becoming an English/Literature teacher at the secondary level
+(middle or high school) was my calling.
+                                                                                                       | 23
+
+Using RAFT to Analyze Pascal's
+"Claim-to-fame"
+
+   Sullivan Fitzgerald
+
+   Overview
+
+       · Disciplinary Literacy Skill: A-SSE.A.1 - Interpret complicated
+           expressions by viewing one or more of their parts as a single entity.
+
+       · Critical Literacy Skill(s): Disrupting the commonplace
+       · Instructional Resources Needed:
+
+                 History of Mathematics : The History of Pascal's Triangle
+                 RAFT activity sheets
+
+Step by Step Instructions:
+
+ 1. For the first part of the lesson, I will show students a short video. This is
+      to introduce, but more importantly, explain the history of Pascal's
+      triangle. Students will take mental or physical notes of the names
+      mentioned and their contributions.
+
+ 2. After the video is over, we will begin our RAFT activity. Start the
+      activity with handing out the four different RAFT activity sheets to
+      students. Explain the RAFT and how it works, and then assign each
+      student one of the four roles. Once students have an understanding of
+      their role and activity, have them group with one of each role to have
+      total groups of four distinct roles. Guide the students through how the
+      activity will work, reiterate the names of the roles they are researching,
+      and explain the goal of the project. Do this by presenting a short walk
+24 |
+
+      through/example. Once they have an understanding, give the students
+      5-8 min of research time to research their assigned role via the link
+      given in their handouts (they are looking for supporting arguments and
+      claims to prove their mathematician is deserving of the credit.)
+ 3. Once students have finished their research, they will begin their group
+      discussion. Emphasize that this discussion topic is for students to
+      support their roles' "claim to fame." Groups will maneuver their
+      discussion from person to person, inviting rebuttals only after the
+      speaker is finished with their thoughts.
+ 4. After about a ~20 min discussion within groups, students will reflect on
+      their discussion by writing who they think is most deserving to be
+      credited with the discovery of the Triangle and why. This approach
+      helps students see a diverse point of view, and analyze who is often
+      credited for something, and who is marginalized.
+ 5. Finally, the teacher will bring the class together and ask students to
+      raise their hand for who they think deserves credit. Once people have
+      raised their hands, the teacher will call on someone and ask for them to
+      explain their reasoning. Do this for all 4 roles, and record thoughts on
+      the board for kids to analyze. At the end of class, collect the notes from
+      the students.
+
+References
+
+"Graphic Organizer: Raft (Role, Audience, Format, Topic) Writing Strategies."
+Terra Foundation for American Art, https://www.terraamericanart.org/tools-for-
+teachers/raft-writing-strategies/.
+
+Adams, Anne E., and Jerine Pegg. "Teachers' Enactment of Content Literacy
+Strategies in Secondary Science and Mathematics Classes." Journal of
+Adolescent & Adult Literacy, vol. 56, no. 2, 2012, pp. 151-161., https://doi.org/
+10.1002/jaal.00116.
+
+"The National Association for Multicultural Education." Can I Be a
+Multicultural Educator in Math? - NAME Learn, https://www.nameorg.org/
+learn/can_i_be_a_multicultural_educa.php.
+                                                                                                       | 25
+
+About the Author
+
+               Sullivan Fitzgerald
+
+                     Majors: Secondary Education and Mathematics
+
+I grew up in central Des Moines and went to a vastly homogeneous setting. I
+had a desire to be an engineer because everyone around me was going into it,
+but I never really had a passion for it. I arrived at community college freshman
+year, and was immediately met with a change of scenery, and a change in
+ideology. I had a lot of my ideas and perceptions challenged, and it led me
+down a path of education. I can't say what pulled me to it, but it pulled me
+hard. I have pursued a career in educating people whenever and wherever I
+can, whether that be math, music, physics, or anything else. I strive to be a
+teacher who shows love and compassion to every student in tangible ways.
+Sometimes it's easier than you'd think!
+26 |
+
+Gender Inequality, Fishbowl
+Discussion
+
+   Kayla Gerard
+
+   Overview
+
+       · Disciplinary Literacy Skill: Propel conversations by posing and
+           responding to questions that relate the current discussion to broader
+           themes or larger ideas; actively incorporate others into the discussion;
+           and clarify, verify, or challenge ideas and conclusions. (SL.9-10.1) (DOK
+           1,2,3)
+
+       · Critical Literacy Skill(s): Focusing on sociopolitical viewpoints
+       · Instructional Resources Needed:
+
+                 "My Experience With Gender Inequality" (Farid, 2021)
+                 "Ten Ways You Can Help Fight Against Gender Inequality" (Sutton,
+
+                    2020)
+                 Guiding Questions (Handout)
+
+Step by Step Instructions
+
+ 1. First, the class will be split into two groups: Group one will read the first
+      article, while group two will read the second in order to gain a better
+      understanding of gender inequality and how it occurs in our world.
+
+ 2. Everyone will read their assigned article individually before discussing it
+      with their group.
+
+ 3. Groups will get together to discuss thoughts on the articles by
+      completing Guiding Questions
+                                                                                                       | 27
+
+ 4. After discussing, students will form two circles, one inner and one outer
+      circle.
+
+ 5. Group 1 will be in the inner circle first and will discuss their article
+      using the guiding questions for ten minutes while the outer group
+      listens.
+
+ 6. When time is up, the outer group will have time to ask questions.
+ 7. Then groups will switch, having group 2 be the inner circle and group 1
+
+      be the outer circle.
+ 8. To conclude, students will write a quick reflection about their own
+
+      thoughts on our discussion and hand it in as an exit ticket.
+ 9. Through this discussion and reflection, students will gain skills in
+
+      reading comprehension, critical thinking, and making connections.
+      Students will unpack sociopolitical issues through reading and
+      discussing about people's real life experiences with gender inequality.
+
+About the Author
+
+               Kayla Gerard
+
+                     Majors: English and Secondary Education
+
+I'm from De Witt, Iowa. Growing up, my mom was a teacher, and she is
+one of my biggest inspirations, so being a teacher was always something I
+was interested in, but it was when I was in high school that I became a
+daycare teacher for preschoolers which is where I truly discovered my love for
+teaching. I aim to become a high school English teacher before furthering my
+education with a master's degree. When I'm not in class, studying, or reading,
+you'll find me spending all my free time with my dogs.
+28 |
+
+Annotating Informational Text and
+Literary Non-Fiction in ELA
+
+   Selma Hasan
+
+   Overview
+
+       · Disciplinary Literacy Skill: CCSS.ELA-LITERACY.RI.9-10.4 Determine
+           the meaning of words and phrases as they are used in a text, including
+           figurative, connotative, and technical meanings; analyze the cumulative
+           impact of specific word choices on meaning and tone (e.g., how the
+           language of a court opinion differs from that of a newspaper).
+
+       · Critical Literacy Skill(s):
+                 Interrogating multiple viewpoints
+                 Focusing on sociopolitical viewpoints
+                 Taking action and promoting social justice
+
+       · Instructional Resources Needed:
+                 How to be Antiracist - Vox Article
+                 Book Excerpt "How to be Antiracist" Ibram X Kendi
+
+Step by Step Instructions
+
+ 1. Students will be numbered into ones and twos.
+ 2. Group one will be assigned the Vox article
+ 3. Group two will be assigned the Stamped (for kids) CBS excerpt.
+ 4. Students will read the articles individually and follow the guidelines
+
+      below for annotating (students will have a paper copy of their assigned
+                                                                                                        | 29
+
+      reading with open margins to allow for notetaking and annotating)
+ 5. Annotating involves:
+ 6. Underlining any major pieces of information provided by the text.
+ 7. Highlighting words they do not understand.
+ 8. Circling keywords in the text.
+ 9. Writing down their initial reaction to a piece of information (ie. I have
+
+      not thought about this before, why have I not thought about this, etc).
+10. Highlighting connections they make between the two texts - this can be
+
+      similar words and definitions, ideas that can be applied to pieces of
+      information, or simple observations.
+11. The strategy for annotating and close reading helps students think
+      critically about the texts they are reading and form a stronger
+      understanding while being actively engaged with the reading (Fisher,
+      2015).
+30 |
+
+    Annotation in action - Excerpt from the Vox article
+
+      The idea of anti-racism has been getting a lot of attention in recent days as
+      Americans around the country rise up against police violence. But the idea
+      is far from new, with roots in decades of civil rights work by black
+      Americans, (what are some examples that can be pulled from history to support
+      this piece of information) said Malini Ranganathan, a faculty team lead at the
+      Antiracist Research and Policy Center.
+
+      In recent years, thanks to the work of Kendi and others, the term itself has
+      come to be used to describe what it means to actively fight against racism
+      rather than passively claim to be non-racist. Anti-racism involves "taking
+      stock of and eradicating policies that are racist, that have racist outcomes,"
+      Ranganathan said, "and making sure that ultimately, we're working towards
+      a much more egalitarian, emancipatory society."
+
+      Part of that work is acknowledging our own positions in a white
+      supremacist system (what are ways that I can be more aware of my position?). So
+      I should acknowledge that I am a white woman, and as such, I can't talk
+      about what it feels like to experience racism, or to fight against it as a
+      person of color. (As a Brown woman, I can talk about how it feels like to
+      experience racism, but I can't generalize and expect that to be everyone else's
+      experience as well). But it's also not the responsibility of people of color to fix
+      racism, or explain to white people how not to be racist. As Dena Simmons, a
+      scholar and practitioner of social-emotional learning and equity and author
+      of the upcoming book White Rules for Black People, put it, "Don't ask the
+      wounded to do the work."
+
+      So I spoke to experts on the topic to help people -- including myself --
+      better understand what anti-racism means and what it looks like in practice.
+      "White folks always want to know how they can do better," Simmons said. "I
+      say, start by doing something." (where can I look more into how to do something?
+      What does that look like).
+                                                                                                       | 31
+
+References
+
+CBS News. (2022, June 12). Book excerpt: "How to Raise an Antiracist" by Ibram X.
+Kendi. Retrieved October 12, 2022, from https://www.cbsnews.com/news/book-
+excerpt-how-to-raise-an-antiracist-by-ibram-x-kendi/
+
+Fisher, D. (2015). 50 instructional routines to develop content literacy, Pearson.
+
+North, A. (2020, June 3). How to be an antiracist: Antiracism, explained. Vox.
+Retrieved September 11, 2022, from https://www.vox.com/2020/6/3/21278245/
+antiracist-racism-race-books-resources-antiracism
+
+About the Author
+
+               Selma Hasan
+
+                     Majors: English Literature and Secondary
+                     Education
+
+My name is Selma Hasan, and I am from Amman, Jordan. I grew up in
+Jordan and attended various schools, all of which introduced me to wonderful
+educators who shaped my love and desire for education. I moved to the
+United States a few times in my childhood but settled in Iowa to pursue a
+degree in education. English has always been a passion of mine, and I believe
+there is a lot of room for learning and growth in an English classroom.
+32 |
+
+The Great Depression: Jigsaw
+Method
+
+   Carter Junge
+
+   Overview
+
+       · Disciplinary Literacy Skill: SS-US.9-12.16. Examine labor and
+           governmental efforts to reform and/or maintain a capitalistic economic
+           system in the Great Depression.
+
+       · Critical Literacy Skill(s): Interrogate multiple viewpoints
+       · Instructional Resources Needed:
+
+                 "The Great Depression & The New Deal: A Very Short
+                    Introduction" (Rauchway, YEAR, pp. 64-67, 78)
+
+                 Jigsaw Assignment (Handout)
+
+Step by Step Instructions
+
+ 1. The first part of the lesson, we will be reading pages 64-67 & 78 of Eric
+      Rauchway's "The Great Depression & The New Deal: A Very Short
+      Introduction." Reading the book will show students the steps that the
+      United States took to help the country through the economic crisis of
+      the GD.
+
+ 2. After reading, we will have a whole discussion answering discussing the
+      following:
+
+         What social programs were implemented to help people, and by
+            whom?
+                                                                                                      | 33
+
+        Which program do you think was the most important?
+
+3. After the discussion, I will split students up into four groups for them to
+    analyze the four different programs that were implemented to help the
+    crisis. Those programs are the Agricultural Adjustment Act (AAA), the
+    Civilian Conservation Corps (CCC), the Works Progress Administration
+    (WPA), and the Civil Works Administration (CWA). Students will be able
+    to understand these programs and explain their importance to their
+    peers through the jigsaw method. They will complete those questions
+    based on the book using textual evidence.
+
+4. Students will be able to disrupt the commonplace by looking at the
+    issues everybody had no matter what their jobs status, income, or class
+    was. Students will be able to interrogate multiple viewpoints as they will
+    be put into groups and find out the answers based on textual evidence,
+    as well as discuss the programs and their importance to the government
+    and its people. After a determined amount of time, all students will
+    come back together to explain/educate their peers about what their
+    program/project is and their importance through the answers they found
+    in the text.
+
+5. Once students all come together, every group will have a few minutes to
+    discuss their answers. In between rotations, we will have a brief
+    conversation about the project/program and go over any important
+    details that were stated or missed.
+
+6. During each group's discussion, students will take notes on their
+    answers and highlight key information.
+
+7. After one rotation (after every group has shared their answers) students
+    will have an understanding of each project/program and know its
+    importance regarding what it did for the government, the people, and
+    how it helped fight the economic crisis.
+34 |
+
+About the Author
+
+               Carter Junge
+
+                     Majors: Secondary Education and History
+
+My name is Carter Junge, and I am a student at Iowa State University. I am
+double majoring in Secondary Education and History. I was born in Sergeant
+Bluff, Iowa, but grew up in Sioux City, Iowa after the age of three. I attended
+Sioux City East High School where I first started taking education classes.
+Growing up, I learned that I had a soft spot for people, especially kids. I took
+care of my cousins frequently and developed strong relationships with them
+while still teaching them the right things to do. Education is important to
+me because it is more than just students grabbing a pen and paper to write
+down notes, it is about building personal connections with the students and
+teaching them life skills like communication and organization.
+                                                                                                       | 35
+
+Addressing The Effects of Minimum
+Wage Through Collaborative
+Conversation
+
+   Juliana Lobraco
+
+   Overview
+
+       · Disciplinary Literacy Skill: 6.EE-9-Represent and analyze quantitative
+           relationships between dependent and independent variables
+
+       · Critical Literacy Skill(s): Focusing on sociopolitical issues
+       · Instructional Resources Needed:
+
+                 "What is Minimum Wage?" [YouTube]
+                 Iowa Occupational Employment Website (U.S. Bureau Of Labor
+
+                    Statistics, 2022)
+                 Minimum wage list per state in the U.S. (U.S. Department of Labor,
+
+                    2022)
+                 Jamboard Activity for Collaborative Conversation Strategy:
+
+                    Jamboard Activity: Chapter Outline
+
+Step by Step Instructions
+
+ 1. To start the lesson, students will watch a short introductory video that
+      covers a general background about minimum wage and how it is
+      implemented in society.
+
+ 2. Students will use the two texts, the Iowa Occupational Employment and
+      the Minimum Wages per state in the U.S (https://tinyurl.com/bd8c852e )
+36 |
+
+      websites, to analyze and gather information about the state's (Iowa)
+      minimum wage and the average wages per existing occupation in Iowa
+      rounded to the nearest dollar.
+ 3. Students will be divided into groups of four, and each student will
+      choose an occupation from the Iowa Occupational Employment website.
+      They will show their analysis when completing the class Jamboard
+      activity. Instructions for the group analysis include:
+ 4. Gathering what the occupation responsibilities are and the average
+      hourly wage.
+ 5. Finding the ordered pairs between time (hours worked) and earnings
+      (money made) rounded to the nearest dollar for their chosen Iowa
+      occupation for one eight-hour work day and post them on their group's
+      jamboard.
+ 6. Once students have finished this task individually for their occupation,
+      the group will collaboratively discuss their findings, moving from
+      person to person and identify the independent and dependent variables,
+      and post those to the jam board page (see section two of the Jamboard
+      handout)
+ 7. Each group will then be given a large sheet of graphing paper to plot
+      their points on the x and y axis, which correspond to the independent
+      and dependent variables of time and earnings.
+ 8. The four students will draw all four different wage lines on the same
+      graph paper and collectively analyze each other's data. Students will
+      collaboratively discuss and write an equation of the line pertaining to
+      the relationship between time and earnings for their occupation.
+ 9. Students will compare these results to the linear line corresponding to
+      the Iowa minimum wage on the jam board activity.
+10. Throughout the collaborative conversation strategy suited to the
+      Jamboard, groups will use their critical thinking and comprehension to
+      depict their observations about the relationships between hourly wage
+      and the growth of each linear line.
+11. From these observations, students will be able to focus on the
+      sociopolitical issue of minimum wage by noting the growth differences
+      of income that pertain to the population of Iowa residents. Furthermore,
+      students will focus on how minimum wage affects how fast or slow
+                                                                                                        | 37
+
+      people are able to simply afford the cost of living, which can also link to
+      poverty.
+12. Students will resonate with how the shapes of the linear graphs pertain
+      to the social issue of minimum wage by considering the amount of time
+      it may take for one occupation to earn applicable earnings over another.
+      This is a sociopolitical issue because minimum wage creates an aspect
+      of inequality of income for those who are working minimum wage jobs.
+13. During the collaborative jam board discussion/activity, the teacher will
+      walk around the room to answer any questions and promote
+      participation from all members of each group.
+
+About the Author
+
+                Juliana Lobraco
+
+                     Majors: Mathematics and Secondary Education
+
+I am from Bloomingdale, IL, and grew up in the southwest suburbs of
+Chicago. Throughout my educational experience in this area, I grew to love
+the principles of mathematics and found myself enjoying learning math from
+the many supportive and optimistic teachers I encountered. Many of my
+educators encouraged me to believe in myself and fostered an applicable
+classroom environment that my peers and I enjoyed being part of. My high
+school educators are the ones that inspired me most to become a math
+teacher. They made math class super fun and interesting and besides the
+content, showed me that they truly cared about my success both inside and
+outside the classroom! I hope that one day I can make a difference in a
+students life and provide them with the same support and encouragement that
+I received throughout my education.
+38 |
+
+Using the Fishbowl Strategy to
+Discuss Book Banning
+
+   Ainsley Lovrien
+
+   Overview
+
+       · Disciplinary Literacy Skill: (RL.8.1) (DOK 1,2,3)
+       · Critical Literacy Skill(s): Focusing on sociopolitical viewpoints
+       · Instructional Resources Needed:
+
+                 "Pros and Cons of Book Banning"
+                 "Book Banning" (Webb, 2009)
+
+Step by Step Instructions:
+
+This mini-lesson provides a way to examine the practice of banning books and
+allows students to generate ideas and questions through fishbowl discussion.
+
+ 1. The lesson will begin with two groups (numbering them off): pros and
+      cons.
+
+ 2. Each group will read their articles individually and then come together
+      to create questions or comments they have for their time in the mini
+      circle. (Pros group will focus on the pros list in their article).
+
+ 3. After their discussions, the groups will form a fishbowl discussion with
+      a mini circle in the middle and an outer circle.
+
+ 4. This creates a way to talk about this sociopolitical issue. Book banning
+      creates censorship and removes censored material from the classroom.
+      It is a sociopolitical issue because it can target books on racism, slavery,
+                                                                                                       | 39
+
+      white supremacy, or other political issues. Cite evidence supporting
+      their analysis of the article, and pull key features of the text, so there is
+      critical thinking and understanding of the articles.
+ 5. One group will get into the mini circle and talk amongst themselves,
+      asking questions and commenting on the article, while the outer group
+      will listen and take notes if needed.
+ 6. Then, the groups will switch and do the same.
+ 7. When the fishbowl discussion is finished, we will create a large group
+      discussion over the articles and comment on the fishbowl discussion.
+      There will be guiding questions that tie into each article and some could
+      be pulled from the fishbowl.
+
+About the Author
+
+Ainsley Lovrien
+
+Majors: English Education and Secondary Education
+
+I'm from a small town in northeast Iowa called Clarksville. I care about
+education because ever since I was in high school, I knew I wanted to be in
+the school, whether that was a counselor or teacher. I think that education
+is important and much needed, especially when teaching future doctors,
+electricians, and other workers. It also gives kids a safe space to learn and be
+themselves and provides a way to bring out social skills. My goal is to become
+an English teacher for middle school and be able to teach the books that I read
+as a kid in school as well as new books for kids can reflect on. An interesting
+fact about me is that my uncles signed me up for a little kids' tractor pull in my
+hometown when I was a kid. I ended up winning, then placing 1st at State and
+ultimately getting 3rd at the Corncob Palace at Nationals. I was also invited
+to compete at the World Championships.
+40 |
+
+Langston Hughes and Walt
+Whitman; Venn Diagrams
+
+   Ashley Luedtke
+
+   Overview
+
+       · Disciplinary Literacy Skill: Determine the meaning of words and phrases
+           as they are used in the text. (RL.9-10.4) (DOK 1,2,3)
+
+       · Critical Literacy Skill(s): Interrogating multiple viewpoints
+       · Instructional Resources Needed:
+
+                 I Too, Sing America
+                 I Hear America Singing
+
+Step by Step Instructions
+
+ 1. I will first give students a Venn diagram that focuses on Hughes I Too,
+      Sing America and Whitman's I Hear America Singing.
+
+ 2. I will assign students to groups of four to work on this activity. As they
+      are analyzing, it will be helpful to talk about their ideas with their peers.
+
+ 3. Using close reading skills, they will compare and contrast the ideas of
+      the poems and how they relate to each other.
+
+         Whitman was a White Male author living in the 1800's and wrote
+            his poems based on the pride he had in America.
+
+         Hughes was a Black Male author living in the early 1900's and wrote
+            his poem based on his own pride and how black people were treated
+            in America.
+                                                                                                       | 41
+
+ 4. Students will then analyze the pieces from a modern lens and how they
+      could change if the poems were written in modern times.
+
+         Students will notice ideas that are on either Hughes' side of the
+            diagram or Whitman's side of the diagram and underline them if
+            they could apply to a current modern lense for both authors.
+
+About the Author
+
+               Ashley Luedtke
+
+                     Major: English Education
+
+I'm from Norwalk, Iowa but I moved four separate times before I started
+Middle School at Norwalk. I've always enjoyed English classes, and I want to
+instill appreciation into any students that I might have in the future. When I
+was in high school, I was often the one that my friends would go to when they
+needed help with their essays, and it just felt normal to go into teaching after
+that. I've had 8 dogs in my lifetime, with many more hopefully to come.
+42 |
+
+Analyzing "War Girls" using a
+TPCASTT Guided Close Reading
+
+   James Mechikoff
+
+   Overview
+
+       · Disciplinary Literacy Skill: (RL.11-12.4) Determining the meaning of
+           words & Phrases.
+
+       · Critical Literacy Skill(s): Disrupting the commonplace
+       · Instructional Resources Needed:
+
+                 "War Girls" (Jessie Pope)
+                 TPCASTT Format Guide [PDF]
+                 Example Handout
+
+Step by Step Instructions
+
+I will perform an annotated close reading of the poem War Girls, by Jessie
+Pope, as an opportunity to teach World War I literature, analyze a poem for
+figurative language, and give a voice to an otherwise historically marginalized
+group from a period of time they are often forgotten or overlooked. In the
+case of this example lesson, this will be analyzing women's voices in World
+War I poetry, which is a typically under-recognized group. In this case, this
+is disrupting the commonplace as the most famous authors of World War I
+poetry are Rupert Brooke, Wilfred Owen, Siegfried Sassoon, etc. All those
+examples are men, and thus this will be different than what is commonly read
+and analyzed. This annotated close reading will use the TPCASTT format,
+with some modifications for the idea of this being also in mind for critical
+                                                                                                       | 43
+
+literacy that I am calling a TPCASTT + CL [Example Handout Here], which
+is an excellent guided format for how a close reading of a poem can be
+performed using a detailed handout that has both guided instructions, and a
+table for students to write.
+
+ 1. During the first step, I will hand out the poems to the students face
+      down, and ask students to hold off on reading any of them till I have
+      asked students to turn them over when we work on this together. I
+      would also hand out the TPCASTT + CL handout, as is shown just below
+      these steps.
+
+ 2. T - Title - The first step in the TPCASTT + CL involves analyzing the
+      meaning of the title before reading the poem [See Example Handout
+      Here].
+       a. This is when I'd first ask students to flip over the poem and move
+            into the first step of the TPCASTT + CL which focuses on just the
+            title, with no reference to the poem. I'd focus primarily on asking
+            students what they think about the poem's title "War Girls," and to
+            detail their thoughts in the handout section for this. If a poem was
+            used without the title, you can skip to the next step!
+
+ 3. P - Paraphrase - The second step of the TPCASTT + CL is to paraphrase
+      the surface meaning of the poem.
+       a. This is when I'd encourage students to read through the poem
+            quietly, just one time through, and then right down what they think
+            is happening. I'd remind students not to dig into things deep here,
+            just read it and write it down. I'd also write my own example while
+            they quietly read and write theirs.
+
+ 4. C - Connotation - The third step, connotation, invites students to look
+      more deeply into the poem.
+       a. This is the big step really. Now is when I'd have students identify
+            and highlight the parts of the poem with a deeper meaning, or that
+            they think is metaphorical. I'd have students all write down one
+            line/quote on their TPCASTT + CL handout with what they think is
+            the meaning. Whatever they best think is a good example of
+            figurative language.
+
+ 5. Pause and discuss (Optional)
+44 |
+
+       a. This is an optional step, but now would be a great time to stop and
+            discuss with students in pairs, small groups, or a whole class
+            discussion to both break up the independent work, and to make
+            sure students are getting things. The C step really builds into the
+            rest of the steps, so it might be a good chance to also informally
+            assess where the students are before they start to really work with
+            the poem more.
+
+ 6. A - Attitude - The Tone and the Narrator
+       a. Here I'd encourage students to again, read through the poem and
+            focus on the feeling the poem gives. Does our poetic narrator seem
+            to have a specific tone in the poem? How do they feel about what
+            the poem is kind of about like they identified in the previous step?
+            I'd have students detail this under the A section of the handout.
+
+ 7. S - Shifts - Looking for when the A step changes.
+       a. This is where we will look at things like where the attitude of the
+            poem might switch around. This can be especially helpful for more
+            common poems like sonnets that are renowned for their shifting
+            nature, but also just for general poetry like "War Girls" for this
+            example. I'd make sure to emphasize with students not just to note
+            where it happens, but also to discuss what it looks like. I might ask
+            if the poetic narrator's point of view changes and how?
+
+ 8. T - Title - Reevaluate
+       a. Now encourage students to step back, and reevaluate the title.
+            Before, we did it with no real context, but here, we have the context.
+            I'd maybe make sure to focus and ask students, does the title have a
+            double meaning? Is the title itself figurative? Or is the title literal?
+            All great points you can use to encourage students when they are
+            filling out their TPCASTT + CL.
+
+ 9. T - Theme - Finally, all the pieces together, what is the meaning here?
+       a. This is the final big puzzle coming together. Here is where I'd ask
+            my students to take everything we have now, and put it together.
+            What is the real theme going on here? What is the final big picture?
+            It puts all the pieces that we built up before together, and it will
+            help for the next steps.
+
+10. + CL - Critical Literacy - Disrupting the Commonplace
+                                                                                                       | 45
+
+       a. This is the final step that I want to talk about since this focuses on
+            the big picture of this lesson. Now that we know the big idea of the
+            whole poem, I want to shift students' focus to talking about how
+            this poem might be different from the standard poems we analyze
+            when looking at world war 1 poetry. I'd highlight things like the
+            woman author, and how this perspective differs from what is often
+            considered the norm. When looking at World War I poetry, figures
+            like Siegfried Sassoon, Wilfred Owens, and Rupert Brooke, all of
+            whom are males, often come up in discussion. Therefore looking at
+            a women's perspective in this case is far from what is often
+            considered the commonplace when discussing World War I poetry.
+            I will encourage students to address how they think this poem
+            disrupts the commonplace of world war I poetry and the era of
+            world war I. I am incorporating this lesson as part of a larger series
+            of lessons, but this can be done with any poem.
+
+The reason I chose this text in the context of critical literacy is that I wanted
+to analyze a perspective that can often be forgotten and overlooked when
+looking at this particular era of poetry. When analyzing world war 1 poetry,
+the perspective that is most focused on is often the soldiers. I wanted this
+lesson to instead disrupt that commonplace and focus on the perspective of
+others in the war, in this case, the women back at home.
+
+About the Author
+
+               James Mechikoff
+
+                     Major: Technical Communication with an
+                     Education Focus
+
+My name is James Mechikoff, and I am a technical communication major with
+a focus on education and educational literacy. Education is about sharing our
+experiences with others in a way that is meant to teach and for others to learn
+from it. That is why I chose this area of focus in technical communication.
+46 |
+
+Because to be able to communicate, especially the highly technical nature of
+some more advanced processes, you need to know how to teach your audience
+about that. That is part of why I also wanted to focus on this activity; I want
+to focus on making the implicit more explicit.
+                                                                                                       | 47
+
+Finding Imagery in "Still I Rise" by
+Maya Angelou with The Response
+Heuristic
+
+   Crystal Millan-Herrera
+
+   Overview
+
+       · Disciplinary Literacy Skill: (RI.9-10.4) (DOK 1,2,3) Determine the
+           meaning of words and phrases as they are used in a text, including
+           figurative, connotative, and technical meanings; analyze the cumulative
+           impact of specific word choices on meaning and tone
+
+       · Critical Literacy Skill(s): Interrogating multiple viewpoints
+       · Instructional Resources Needed:
+
+                 "Still I Rise" by Maya Angelou
+                 Response Heuristic Graphic Organizer
+                 Audiobook of "Still I Rise"
+
+Step by Step Instructions
+
+ 1. First I will discuss with the students the definitions of imagery
+      (According to Dictionary.com, imagery means "the formation of mental
+      images, figures, or likenesses of things, or of such images collectively")
+      and figurative language (According to Dictionary.com figurative language
+      means ("language that contains or uses figures of speech, especially
+      metaphors.") Are there similes in the poem? Or any metaphors? What
+      feelings does the poem bring out? We will discuss what they mean and
+48 |
+
+      what to look for in the poem as they listen to the audiobook of "Still I
+      Rise" by Maya Angelou.
+ 2. This lesson focuses on Multiple Viewpoints by "Paying attention to and
+      seeking out the voices of those who have been silenced or marginalized
+      (Lewison et al.). The Response Heuristic Graphic Organizer will be
+      helpful in citing evidence about imagery on the voice of the author and
+      how she expresses her perspective of being a Black woman. Students
+      have a chance to show their voices as well, sometimes being young, their
+      voices or opinions aren't taken seriously. With the Response Heuristic
+      students have a chance to share how being a student of color can be in
+      society through personal experiences or empathizing.
+ 3. I will then hand out a Response Heuristic Graphic Organizer that is
+      three columns in which students will write down in the first column a
+      quote from the poem "Still I Rise" by Maya Angelou that demonstrates
+      imagery. In the second column students will explain why it
+      demonstrates imagery. (Is the chosen quote a simile or metaphor? What
+      feelings does the quote demonstrate?) In the third column students will
+      write a connection to the passage chosen.
+ 4. Then I will ask students to start asking themselves questions to help
+      them cite evidence. I will give them time to work on their own to fill out
+      their Response Heuristic Graphic Organizer such as What kind of
+      figurative language and imagery do we see in this first stanza?What perspective
+      is the author trying to demonstrate? How can you relate to this poem in your
+      own life?
+ 5. After filling out the form, students will be asked to share their responses
+      to a neighbor to discuss the multiple viewpoints, such as the authors,
+      their own, and their neighbors perspective.
+ 6. The strategy of response heuristic is important because "Response
+      Heuristic was designed to foster readers' inferences about an author's
+      meaning and create space for the reader's personal interpretation of
+      literature (Gillis and Van Wig).
+                                                                                                       | 49
+
+References
+
+Angelou, Maya. "Still I Rise." Poetry Foundation, 1978,
+www.poetryfoundation.org/poems/46446/still-i-rise.
+
+"Definition of Imagery | Dictionary.com." www.dictionary.com, 2019,
+www.dictionary.com/browse/imagery.
+
+"The Definition of Figurative Language." www.dictionary.com, 2019,
+www.dictionary.com/browse/figurative-language.
+
+Gillis, Victoria, and Ann Van Wig. "Disciplinary Literacy Assessment."
+Journal of Adolescent & Adult Literacy, vol. 58, no. 6, Mar. 2015, pp. 455-460,
+10.1002/jaal.386. Accessed 28 Nov. 2022.
+
+Lewison, Mitzi, et al. "Taking on Critical Literacy: The Journey of
+Newcomers and Novices." Arts, vol. 79, no. 5, 2002, pp. 382-392. Accessed 6
+Dec. 2022.
+
+About the Author
+
+               Crystal Millan-Herrera
+
+                     Majors: English Education and Secondary
+                     Education
+
+My name is Crystal Millan-Herrera and I am a first generation Latina student
+and I am from Northwest Iowa. Education is important to me because
+Education opens many doors of opportunity, growth, and learning new skills.
+Education is a chance to improve day to day in any material and to
+demonstrate that anyone can learn. My goal is to graduate from college and
+to find a job as a middle school English teacher. I hope to inspire others,
+especially first generation and Latino/a students to show that we can be
+teachers and professionals. Education makes anything possible.
+50 |
+
+Collaborative Discussion About How
+Viruses are Spread
+
+   Samuel Peterson
+
+   Overview
+
+       · Disciplinary Literacy Skill: Interpret the parameters in a linear or
+           exponential function in terms of a context. (F-LE.B.5)
+
+       · Critical Literacy Skill(s): focusing on sociopolitical viewpoints
+       · Instructional Resources Needed:
+
+                 "How are Viruses Spread?" (NCTM.org)
+                 Pandemic Activity Handout
+                 Pandemic Activity Main Questions
+                 5 Practices Model
+                 Pandemic Applet
+
+Step by Step Instructions:
+
+ 1. I plan for this lesson to be done in two days (or one day under block
+      scheduling). At the end of the lesson before this, I will give a Pandemic
+      Activity Handout to students either on paper or electronically to give
+      them some background information before class. It is also good
+      information to have, so I want them to have access to their own copies.
+
+ 2. I will begin the lesson by dividing the class into small groups where they
+      will be for this whole activity. From there, I will go into the lesson and
+      the instructions. I will give the students a scenario for them to discuss
+      within their small groups. The scenario is "if one random person in this
+                                                                                                       | 51
+
+      school had a new virus with a 5% chance of transmission per contagious
+      interaction with others, how many people would get the virus within one
+      month?"
+ 3. I will have the students collaborate to create a mathematical model to
+      show and explain their thinking. There is no obvious answer to this
+      question. I want the students to get thinking and talking within the
+      context of mathematically modeling the spread of viruses.
+ 4. At this point, I will use the 5 Practices Model to have groups show their
+      work and explain their thinking so that other groups see the work of
+      others to expand their thinking on this question.
+ 5. I will introduce the students to this Pandemic Applet and have them
+      explore, using collaborative discussion, the effects of what happens
+      when they change the population size, days contagious, chance of
+      contracting virus per contagious contact, and number of contacts per
+      day to familiarize the students with the tool that we will be using.
+ 6. After this, I will introduce a series of questions (pandemic handout) for
+      students to collaborate to complete. I will individually help students that
+      are struggling with the technology, and verbally ask guiding questions
+      along the way to help students that are struggling to keep pace with
+      their group.
+
+About the Author
+
+Samuel Peterson
+
+Majors: Secondary Education and Mathematics
+
+I am from Walnut, Iowa which is a small town in Southwest Iowa. I am
+finishing my undergraduate degree in mathematics and education with the
+goal of becoming a high school math teacher. I plan on going to graduate
+school for math education. I strongly believe that shaping society begins in
+the classroom, so it is important to break away from traditional math settings
+and strive to make lessons more interactive and collaborative as math is used
+in the real world. Math is used to understand the world around you, so our
+lessons should be created in the same way.
+52 |
+
+Using Read-Write-Pair-Share to
+Discuss Housing Insecurity
+
+   Brianna Sander
+
+   Overview
+
+       · Disciplinary Literacy Skill: G-MG.A.3: Apply geometric methods to
+           solve design problems (e.g., designing an object or structure to satisfy
+           physical constraints or minimize cost; working with typographic grid
+           systems based on ratios).
+
+       · Critical Literacy Skill(s): Disrupting the commonplace
+       · Instructional Resources Needed:
+
+                 Anthony's Story
+                 Homeless Essentials
+                 Response Heuristics Chart
+                 Overall lesson: Creating a Tiny House
+
+Step by Step Instructions
+
+ 1. At the beginning of this mini-lesson, I will give each student the
+      Response Heuristic Chart. This chart asks students what items should
+      be included in the tiny homes they will build following this mini-lesson.
+      Students will write why they chose that item along with the items on the
+      chart and provide textual evidence to support their reasoning.
+
+ 2. As I give out the chart, I will number the students into two groups The
+      students in group one will read Anthony's Story, and the students in
+      group two will read the collection of stories on www.homeless-
+                                                                                                       | 53
+
+      essentials.com.
+ 3. As students read their given material, they will individually fill out the
+
+      chart provided.
+ 4. After the students have read their texts and completed their charts, I will
+
+      pair them with a student who read the same texts to compare their
+      items and explain why they chose them. These comparisons will be
+      based on the information that the students have put in their charts.
+ 5. After the pair discussions, I will create groups with a pair from each
+      reading. These groups will present their lists based on their readings
+      and discuss the items they chose, and why they chose them for the tiny
+      homes which they will build following this mini-lesson.
+
+The Read-Write-Pair-Share strategy promotes discussion and engagement
+among students. This strategy allows students to share their thoughts with
+other students and receive feedback before discussing in a bigger group, thus
+making students more comfortable discussing with the bigger group (Frey et
+al. 81-82).
+
+This mini-lesson disrupts the commonplace through students reading about
+and discussing items that students may take for granted in their everyday
+lives. It also exposes students to the reality of homelessness and allows
+students to look at and discuss the reality of social classes through the lens of
+homelessness.
+
+      Note: This mini-lesson is a part of a project students will complete
+      afterward. To view the outline of this project, see Overall lesson: Creating a
+      Tiny House. This mini-lesson meets the empathize and define steps of this
+      project.
+
+References
+
+Frey, Nancy, et al. 50 Instructional Routines to Develop Content Literacy. Pearson,
+2015.
+54 |
+
+"Hidden Homelessness: Youth Voices -- The Search for Home and Hope
+for the Future [Anthony's Story]." SchoolHouse in Session,
+https://schoolhouseconnection.medium.com/hidden-homelessness-youth-
+voices-the-search-for-home-and-hope-for-the-future-anthonys-
+story-75493cee006d. Accessed 16 November 2022.
+
+Homeless Essentials, https://www.homeless-essentials.com/. Accessed 16
+November 2022.
+
+About the Author
+
+               Brianna Sander
+
+                     Majors: Mathematics and Secondary Education
+
+I was raised in Manning, Iowa, where I graduated from IKM-Manning High
+School in 2019. After graduation, I went to Des Moines Area Community
+College in Carroll for two years before transferring to Iowa State University.
+Towards the end of my high school years, I realized that I wanted to go into
+education, particularly teaching high school math. I always enjoyed helping
+other students with homework, especially math homework. After graduating
+from Iowa State University, I plan on teaching high school math in West
+Central Iowa, close to home.
+                                                                                                       | 55
+
+Brave New World: Using the
+Character Anatomy in Critical
+Literacy
+
+   Elijah Strong
+
+   Overview
+
+       · Disciplinary Literacy Skill: Analyze how complex characters (e.g., those
+           with multiple or conflicting motivations) develop over the course of a text,
+           interact with other characters, and advance the plot or develop the theme.
+           (RL.9-10. 3) (DOK 2,3)
+
+       · Critical Literacy Skill(s):
+                 Interrogating multiple viewpoints
+                 Focusing on sociopolitical viewpoints
+
+       · Instructional Resources Needed:
+                 Brave New World, Audiobook by Steve Parker
+                 Character Anatomy worksheet
+
+Step by Step Instructions
+
+ 1. Students will be placed into four groups and given a character to
+      analyze.
+       a. Group 1: Bernard Marx
+       b. Group 2: John
+       c. Group 3: Lenina Crowne
+56 |
+
+       d. Group 4: Mustapha Mond
+ 2. Pass out Character anatomy sheet (One for each group).
+ 3. Students will record aspects of their assigned character and apply them
+
+      to its corresponding body-part located on the "Character anatomy
+      sheet." The goal is for students to analyze alternating, and sometimes
+      opposing viewpoints of the characters. What exactly do each of the
+      characters think of the position of government and, in turn, how does
+      that affect them?
+       a. By now, students should be on the 12th chapter in the novel.
+       b. As students are writing, walk around the classroom and offer
+
+            assistance to those who need it, as well as listening in on group
+            discussions to make sure students understand the assignment and
+            the material.
+ 4. Students will record their thoughts and components on the sheet for 15
+      minutes with their groups. After recording, students will be asked to
+      select a spokesperson for their group to share their findings with the
+      class.
+       a. Students will also be asked to record their favorite components of
+            their character analysis on the board. It will help to categorize the
+            character better and allow students to see what the main themes of
+            each character are.
+       b. One individual from each group will make sure each students' name
+            is written at the top of the "character anatomy sheet," and then turn
+            it in at the front of the class, before leaving.
+
+Giving students the opportunity to discuss characters' viewpoints in the novel
+will offer insight into the roles of government, hierarchy, and the general
+consensus of how the world inside of Brave New World works. The goal is for
+students to utilize this knowledge to create their own inferences toward the
+sociopolitical situations inside the novel, and hopefully in the real world.
+                                                                                                       | 57
+
+About the Author
+
+               Elijah Strong
+
+                     Major: English Education
+
+My name is Elijah Strong, I am an English Education major at Iowa State who
+has a strong passion for education and reading. I grew up in Indianola, Iowa
+and have always had a fascination with challenging myself in pursuit of my
+work. Growing up with three older siblings, for better or worse, I have always
+appreciated working with other people, and becoming a teacher has always
+seemed to be the ideal career choice. I want to educate others and expand
+upon my love for literacy, as well as general instructional fields. To be a part
+of this project is an important step in this goal, and I am more than thrilled to
+be included.
+

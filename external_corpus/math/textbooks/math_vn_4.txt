@@ -1,0 +1,114 @@
+MTH 105            Name ______________________________________
+
+                            2.4: Loan Payments, Credit Cards and Mortgages
+
+Example 1. Write the formula used and the inputs in proper syntax. Answer each question
+with a complete sentence, including units.
+1. You graduate with $25,000 in student loans and want to pay it off in 10 years. The interest
+
+    is 4.45%. What is your monthly payment?
+
+2. You have a credit card balance of $3,500 with 22% annual interest. If you want to pay it off
+    in 3 years, how much do you need to pay per month? (Assuming you do not charge any
+    more to the account.) How much interest would you have paid on this balance?
+
+Down Payments
+
+1. You are saving for your 3-year old child's college fund and you want to put in $2500 now
+    and make payments of $50 per month for 15 years at 5.2% interest. How much will you
+    have saved in 15 years? Show any calculations and Excel formulas used.
+
+2. You want to buy a car for $11,000 and you trade in your old car for $1500, which acts as a
+    down payment. The car loan interest rate is 2.74%. What will your monthly payments be if
+    you choose a 2-year, 3-year or 4-year loan? Show any calculations and Excel formulas
+    used.
+
+2-year:   3-year:  4-year:
+
+Cara Lee                    Page 1
+       MTH 105                          Name ______________________________________
+Credit Card Minimum Payments
+
+Azul's monthly minimum credit card payment is calculated by first applying a 16.99% APR
+which is compounded monthly to the outstanding credit card balance. Then they pay 2% of
+that figure or a minimum of $25. Currently, Azul has a balance of $2500.
+
+a. What will their monthly payment be?
+
+b. Assuming they only pay the minimum what will the new loan balance be?
+
+c. How much did their credit card balance decrease by?
+
+Cara Lee                                                Page 2
+MTH 105                                 Name ______________________________________
+                             2.5: Income Taxes
+
+1. Filing Status. Search online and read about each tax filing status below. Write a short
+description in your own words.
+
+Single -
+
+Married Filing Jointly -
+
+Married Filing Separately -
+
+Head of Household (with qualifying person) -
+
+Watch the videos and fill in the following information.  If your withholdings are less than
+2. Tax Calculation Formula (2018 and later):             your taxes due, you will
+
+         Gross Income                                    ____________________________________
+
+ - Adjustments                                           If your withholdings are more
+         (Above the Line Deductions)                     than your taxes due, you will
+
+ =                                                       ____________________________________
+
+ - The higher of the standard deduction or
+         itemized deductions
+
+ =
+
+         (Use tables to calculate taxes due)
+         Tax Amount from Tables
+
+ -
+
+ = Taxes Due
+
+Cara Lee                                                 Page 3
+MTH 105            Name ______________________________________
+
+3. Tax Calculation Example: (Using 2024 Tax Year Tables)
+
+                   Jamie and Jordan
+                         (1 child)
+
+Filing Status      Married Filing Jointly
+                          $106,000
+Adjusted Gross             $31,200
+Income (AGI)
+
+Itemized
+Deductions
+
+Standard
+Deduction
+
+Taxable Income
+
+Tax from Table
+
+ Tax Credits       $2000
+                   $7,120
+ Tax Amount after
+ Credits                                                  Page 4
+ Federal Taxes
+ Withheld from
+ Paychecks
+
+ Federal Tax Owed
+ or Refund
+
+Cara Lee
+

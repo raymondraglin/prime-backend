@@ -1,0 +1,33 @@
+{
+  "entry_id": "manual_test_entry_1",
+  "user_id": "raymond",
+  "tags": {
+    "domain": "philosophy",
+    "subdomain": "metaphysics",
+    "theme": "concept_id=metaphysics_free_will_and_determinism",
+    "user_label": "manual_test"
+  },
+  "task": {
+    "task_id": "test_task_1",
+    "natural_language_task": "Test metaphysics memory entry.",
+    "desired_output_kind": "explanation",
+    "domain_tag": "philosophy",
+    "subdomain_tag": "metaphysics",
+    "given_facts": [],
+    "assumptions": [],
+    "constraints": [],
+    "allowed_tools": []
+  },
+  "response": {
+    "task_id": "test_task_1",
+    "trace": {
+      "steps": [],
+      "overall_confidence": 0.5,
+      "detected_contradictions": [],
+      "notes": []
+    },
+    "key_conclusions": ["Test conclusion"],
+    "open_questions": ["Test question"]
+  },
+  "outcome_quality": "unknown"
+}

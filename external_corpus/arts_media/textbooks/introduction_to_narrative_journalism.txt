@@ -1,0 +1,2936 @@
+Introduction to Narrative Journalism
+      Introduction to
+  Narrative Journalism
+
+           Real Stories, Artfully Told
+
+       BENJAMIN WIELECHOWSKI
+
+       SKYLER ANDERSON; FAITH
+BILLINGER; ALLEN DILLARD; JENNA
+
+     ELDER; MATTHEW JOHNSON;
+       SHAZA MAATOUK; PATRICK
+
+    MASELL; BROOKE MADGWICK;
+    AUTUMN TASHMAN; MADELYN
+ VASBINDER; AND ZEENA WHAYEB
+
+                     UM-DEARBORN OPEN EDUCATION
+                                       DEARBORN, MI
+Introduction to Narrative Journalism Copyright © 2021 by Benjamin
+Wielechowski is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International License, except where
+otherwise noted.
+Contents
+
+Acknowledgements                 vii
+
+Table of Contents                viii
+
+Introduction                     1
+
+Part I. Main Body
+
+1. Ethics                        3
+
+2. Research                      8
+
+3. The Five Elements of Fiction  13
+
+4. Theme                         22
+
+5. Character                     31
+
+6. Setting                       53
+
+7. Plot                          57
+
+8. Point of View                 72
+
+9. Digital Storytelling          83
+
+Glossary                         89
+Acknowledgements
+
+This textbook would not have been possible without the
+support from the following:
+
+   Thank you to the UM-Dearborn OER Task Force for the
+support and funding made possible through the 2020 grant
+award. This includes Holly Sorscher, Associate Director,
+Mardigian Library (Chair), Alfonso Sintjago - Instructional
+Designer (Member), Antonios Koumpias, Assistant Professor of
+Economics (Member), Autumm Caines, Instructional Designer
+(Member), Christopher Casey, University Coordinator of Digital
+Education (Member), Raya Samet, Education, Health & Human
+Services Librarian (Member), and Sophia McFadden-
+Keesling, First Year Experience Librarian (Member).
+
+   I'd like to give an extra special thanks to Raya Samet and
+Autumm Caines for their consistent guidance and support
+throughout the process of creating this book. You provided
+encouragement and clarity at crucial points in the process, and
+though at a times a solitary process, it didn't always feel like
+one.
+
+   I also want to thank my former students who so graciously
+contributed their work to this textbook. This includes Shaza
+Maatouk, Madelyn Vasbinder, Matthew Johnson, Zeena
+Whayeb, Patrick Masell, Allen Dillard, Jenna Elder, Autumn
+Tashman, Brooke Madgwick, and Faith Billinger. Your
+exemplary work has always been the best pedagogical tools for
+me as a teacher, and without your work, this text couldn't exist.
+
+   Finally, I'd like to thank my partner, Holly, my son, Felix, and
+my dog, Murphy, for granting me the time and space to
+complete the text, even if it meant less `make-believe' time and
+fewer evening walks.
+
+                                                                     Acknowledgements | vii
+Table of Contents
+
+Acknowledgements
+   Introduction
+   Chapter 1: Ethics
+   Chapter 2: Research
+   Chapter 3: The Five Elements of Fiction
+   Chapter 4: Theme
+   Chapter 5: Character
+   Chapter 6: Setting
+   Chapter 7: Plot
+   Chapter 8: Point of View
+   Chapter 9: Digital Storytelling
+   Glossary
+
+viii | Table of Contents
+Introduction
+
+                "We tell ourselves stories in order to live."
+                                      - Joan Didion
+
+Welcome to Narrative Journalism! While this genre/craft/form
+of art goes by many names (i.e. Creative Nonfiction, Narrative
+Nonfiction, Literary Nonfiction, New Journalism, etc.), narrative
+journalism is most simply defined as the following: storytelling
+(narrative) through the use of primary and secondary research
+(journalism). Narrative journalism is ALWAYS concerned with
+nonfiction writing (true stories!), but what sets narrative
+journalism apart from say, history or news journalism, is that
+narrative journalism is hyper-focused on the craft of the story,
+often relying on literary techniques more often found in fiction
+writing. As a framework, these literary techniques will be
+explored through the five elements of fiction: theme,
+character, setting, plot, and point of view.
+
+   This textbook is largely organized around these five elements
+of fiction, though the first couple of chapters are concerned
+with foundational journalism concepts, including Ethics
+(Chapter 1) and Research (Chapter 2). Following these chapters
+on journalism basics, we then delve into what uniquely defines
+narrative journalism from other forms of journalism. Not only
+do the elements of fiction create some structure for the
+textbook, but we will also work through and explore a
+sequence of projects that engages with these various elements
+in creative and informative ways.
+
+   One of the most useful aspects of this text is the abundance
+of student examples featured within, examples that showcase
+the different projects and elements of fiction through inventive
+
+                                                                                  Introduction | 1
+and instructive ways. I've added commentary throughout each
+example to supplement the more explicit instruction found in
+each chapter.
+
+   As we set off on this journey into the world of narrative
+journalism and just how we integrate literary techniques into
+our journalistic endeavors, there are a few key terms of be
+mindful of as they will be referred to regularly throughout the
+text:
+
+   Primary Research
+   Secondary Research
+   Angle
+   Scope
+
+2 | Introduction
+1. Ethics
+
+ "If I were to offer any advice to young writers, it would be this:
+    be discriminating and be discerning about the work you
+    set for yourself. That done, be the untutored traveler, the
+   eager reader, the enthusiastic listener. Put what you learn
+
+  together carefully, and then write thoughtfully, with respect
+                  both for the reader and your sources."
+                                      - Barry Lopez
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To fully understand the four obligations that a
+             narrative journalist must navigate and how that
+             informs their work.
+          · To draw connections between these obligations
+             and the concept of `purpose' as it relates to a
+             narrative journalist and their work.
+
+This book begins with a chapter on ethics, because ethics
+should be a foundation of all that we do as narrative journalists.
+
+   Ethics are ALWAYS a concern and consideration for
+journalists, not least for narrative journalists. However, as much
+as we are concerned with ethical issues such as disclosure, on
+
+                                                                            Chapter 1: Ethics | 3
+and off the record, manipulating facts/quotes to fit our story,
+"fake news," and more, one of the most important ethical
+concerns for a narrative journalist comes down to what our
+`purpose' is for a story, how we realize that purpose, and what
+`ethically-suspect' actions we might take in service of that
+purpose.
+
+   Jacqui Banaszynski and Fernanda Santos explain it best in
+their panel discussion at the 2021 Power of Narrative
+Conference held at Boston University. Banaszynski explains the
+obligations we have as journalists: obligations to the profession,
+obligations to the story subject(s), obligations to the readers,
+and obligations to the truth ("or as close as we can get to it" -
+Jacqui Banaszynski).
+
+   The full discussion can be found below:
+
+                    One or more interactive elements has been
+                    excluded from this version of the text. You can
+        view them online here: https://oer.pressbooks.pub/
+        narrativejournalism/?p=5#oembed-1
+
+   Let's unpack these relationships further as they relate to
+ethics and our "purpose" for our stories. And, it is important
+to notice that Banaszynski does not mention anything about
+prioritizing what the journalist wants.
+
+  · Obligations to the profession: we as journalists represent
+      journalists everywhere, and when one of us makes self-
+      serving or suspect decisions ethically, it harms the entire
+      profession. If Donald Trump and his obsession with the
+      phrase "fake news" has taught us anything, it is that the
+      journalism profession has no status or influence without
+
+4 | Chapter 1: Ethics
+   the trust of the people, and so we must be that much
+   better, that much more honest and transparent and
+   thorough and humble, because there are forces working
+   against us. Regardless of what we want of our stories, our
+   obligations remain with the four-way relationship
+   Banaszynski described above.
+· Obligations to the story subjects: Fernanda Santos points
+   out an essential truth when it comes to reporting on our
+   story subjects:
+
+   "I say [to my story subjects], look, you have the power
+   because it's your story that I'm trying to tell. Help me tell
+   your story. And I'll always say, if there's anything I'm not
+   asking you, if there is anything you want to show me, that
+   you're embarrassed [of], please help me understand your
+   world. Don't paint a rosy picture if it's not rosy. I really want
+   to understand, because unless other people understand,
+   there is never going to be anything done to help improve
+   your life... but if I can use my megaphone to tell your story
+   to others that is truthful, that is touching, that is poignant,
+   that's compelling, then there is a possibility that
+   something will happen...[....]"
+
+   Our obligation to our story subjects is to tell their stories.
+   We are storytellers at our most fundamental level, and as
+   Fernanda Santos explains, our job is to tell stories in
+   'truthful,' 'touching,' `poignant,' `compelling' ways in order
+   to touch our readers, which leads us into the next
+   obligation.
+· Obligations to our readers: if you are a writer of narrative
+   nonfiction, your readers expect to read nonfiction. No
+
+                                                                         Chapter 1: Ethics | 5
+      matter how many literary devices we want to incorporate
+      or how talented we are at writing nonfiction in a way that
+      mirrors fiction, we are still telling true stories, and if we
+      break that trust, if we bend our stories to fit what we want
+      as writers, than we have broken one of the most
+      fundamental relationships we have as writers. In addition,
+      as mentioned above, we are nothing without the trust of
+      our readers, and what we do as narrative nonfiction
+      writers is of dire importance because there is far too much
+      information available, and it is up to us to provide full
+      stories, complete stories, insightful stories into the lives of
+      those around us.
+  · Obligations to the truth: I'm not sure there is too much
+      more to be said that hasn't already been covered in the
+      three bullet points above, but truth is the great unifier of
+      all of them. Truth is what grounds all of the other
+      obligations, and we must approach each of those other
+      relationships through a lens of truth. Banaszynski clarifies
+      "or as close as we can get to it," because truth in
+      journalism is not as clearcut as we might like to believe.
+      Truth means different things to different people, and our
+      story subjects might have a different truth to our readers
+      or even to others in our profession, and this can
+      complicate things as we strive to reflect truth in our
+      writing. But, as with any work of journalism, in the end it
+      comes through us, the writer, and the truth we see
+      emerging from our thorough and tireless research.
+
+The bottom line is this: always be mindful of the four
+obligations we have as narrative journalists and shrewdly make
+use of our two most valuable tools when it comes to ethics:
+honesty and transparency.
+
+   I will end this chapter with a short story about
+sensationalism and its potential impact when we do not fully
+consider the four-way relationship described above: in Julian
+
+6 | Chapter 1: Ethics
+Rubinstein's book, The Holly: Five Bullets, One Gun, and the
+Struggle to Save an American Neighborhood, a terrific piece
+of narrative journalism, Rubinstein tells the story of Terrance
+Roberts, a gang member turned anti-gang activist, while
+weaving in the history of gang violence and the police
+corruption spurring it on. He tells a complex and nuanced tale
+incorporating history, dynamic characters, and an expose that
+will make you question what you know and understand about
+the `boogeyman of gang violence' out in our streets. In stark
+contrast, Rubinstein details a National Geographic docuseries
+titled Drugs, Inc., in which one of the episodes focuses on the
+Park Hill neighborhood, the location of The Holly and Terrance
+Roberts' home. In the book, Terrance recounts his experience,
+one in which he advocated for his `camo movement,' an anti-
+gang effort, and he brought in some of the young Bloods to
+demonstrate the power of the movement and to illustrate that
+change is possible if the socioeconomic conditions could be
+addressed. When the episode aired, the Nat. Geo. production
+focused solely on the violence and the drugs, sensationalizing
+the stereotype, and completely neglecting Terrance Roberts,
+the camo movement, and the deeper systemic issues related
+to gang violence. This ended up being a catalyst for more
+violence in the neighborhood, pulling Terrance Roberts back
+into a life he worked so hard to remove himself from.
+
+                                                                            Chapter 1: Ethics | 7
+2. Research
+
+    "We can't write the beautiful narrative stories that we all
+ dream of unless we can get some things from the mouths of
+
+    our sources. They must be comfortable enough to tell us
+anything. In journalism school, no one called the interactions
+between journalists and sources relationships, but that's what
+
+                                        they are."
+                                   - Isabel Wilkerson
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To learn the difference between primary and
+             secondary research, and the function of each as it
+             relates to narrative journalism.
+          · To understand the various types of primary and
+             secondary research, and the tools and skills that
+             are available when conducting any form of
+             research.
+
+Research is EVERYTHING to a journalist, and though it sounds
+cliche, it is entirely true. Not only is research the foundation
+of any piece of narrative journalism and almost always drives
+the narrative, but it also informs the journalist and keeps the
+
+8 | Chapter 2: Research
+journalist honest. Regardless of the journalist's hopes or
+expectations for a story, the research is the most important
+piece, and this means the journalist has to listen to the research
+and follow the research.
+
+   For the sake of ease, we'll define research into two categories:
+1.) primary research, and 2.) secondary research.
+
+Primary Research:
+
+Primary research is the research that the journalist acquires
+first-hand, be it interviews, surveys, experiments, personal
+experience or observation, etc. This research gets us as close
+as possible to the source and the "moment" of a story. This is
+the sort of research that drives the story in a piece of narrative
+journalism.
+
+The Interview:
+
+The interview is the most crucial form of primary research for
+a narrative journalist. This is where we can get closest to the
+heart of any story, as nearly every story revolves around some
+aspect of the human experience, and well, people are, of
+course, the key to deepening our understanding the human
+experience. The interview is also the most challenging form
+of primary research, as it often takes a great deal of work to
+set-up and schedule interviews, as well as to document those
+interviews, be it with a recording device, note-taking, or some
+other method. In addition, meaningful interviews take
+time--like a long time--as the quote by Wilkerson attests to.
+Your subjects will only be invested in an interview if you are
+invested in them--who they are and what they have to say. "To
+complete an assignment" or "to ask a few questions" are not
+very compelling reasons for a story subject to open up to you.
+
+                                                                      Chapter 2: Research | 9
+   Because of the complexity of the interview format and the
+many factors that determine what is a "good" or "bad"
+interview, there is really no right way to conduct an interview.
+My advice is to find your feet by doing. Some basics, however,
+are as follows:
+
+   1.) Yes/No questions are not helpful.
+   2.) Silences are okay, even good at times (they often lead to
+our subjects revealing more).
+   3.) While prep questions can be helpful, don't be afraid to
+follow the conversation (adhering to a reformatted script will
+hinder the flow).
+   4.) The best "interviews" don't feel like interviews at all, but
+rather like conversations with close friends.
+
+Surveys:
+
+Surveys can be incredibly valuable as a way to gauge public
+opinion on anything. This can be as simple as a shared
+experience on a college campus, or something as complex as
+public policy and the impact on a certain neighborhood. With
+the prevalence of social media, surveys can be conducted
+remotely with ease, and this is an excellent method to get a
+`sense' of an issue's impact on groups of people.
+
+Experiments:
+
+While experiments often bring to mind laboratories and
+research in the sciences, experiments can also be invaluable
+to narrative journalists. For a journalist, experiments can be
+anything that the journalist partakes in to understand
+something on a more immediate, personal level. For example,
+I spent my first semester of graduate school experimenting
+with garbage waste production. My roommates and I had a
+competition of who could go the longest without creating a
+
+10 | Chapter 2: Research
+single item of garbage (i.e. something that couldn't be recycled
+or composted). This 'experiment' taught me an incredible
+amount about the drawbacks of our consumer culture and
+how much time and effort it takes to actually lessen our impact
+on the systems of waste disposal. I don't believe I could have
+learned any of that information, or at least not in the same way,
+without actually experimenting.
+
+Personal Observation:
+
+This might seem obvious having explored the various primary
+sources available to us, but your personal experience and
+observations can and should be drawn upon as you craft your
+stories. Not only does this apply to lived experience, but your
+own photographs, your video footage, and any other
+documentation of your first-hand experience helps to bring
+your readers into a story.
+
+Secondary Research:
+
+Secondary research is research that is acquired through
+previous publications, whether they be articles, books,
+databases, reviews, etc. This sort of research can be found in
+libraries, on the web, or any other place one might look for
+previously published work. This is the sort of research used to
+provide context surrounding the main storyline.
+
+Library Resources:
+
+Though it should go without saying, libraries are some of the
+best resources any journalist or researcher have available to
+them. Not only is there an abundance of sources in libraries,
+free of charge, but there are experts in libraries whose sole
+
+                                                                      Chapter 2: Research | 11
+job is to help you research more effectively. Seek out these
+resources!
+
+Web Resources:
+
+As everything seems to move online, so do our library
+resources, and everything that was once available in libraries
+can now be accessed from your home, as long as you have a
+computer and internet connectivity. While the `great big web'
+can be equally productive and counterproductive, it is often a
+good place to start your research, as a quick google search or
+database visit can provide a lot of direction.
+
+Archives:
+
+This is, in my opinion, the unsung hero of secondary sources.
+Historical archives are available, and though they often take
+more time and effort to locate and gain access to, the
+documents cataloged in archives are some of the most
+treasured pieces of research you will ever find. You can seek out
+actual physical archives in museums, etc., or you can visit the
+places of interest that have physical records--for example, tax
+records at your local township. If you like a good treasure hunt,
+archives might just be itch you've been waiting to scratch.
+
+   Both forms of research are essential to any piece of narrative
+journalism. Without the primary, the narrative suffers; without
+the secondary, the narrative can seem flimsy or superficial.
+Context is crucial for the reader to fully understand the angle
+and scope of a piece (see Chapter 4 for more on this).
+
+12 | Chapter 2: Research
+3. The Five Elements of
+Fiction
+
+                         "We are all born storytellers."
+                                  - Fernanda Santos
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To develop a basic understanding of the five
+             elements of fiction.
+          · To foster a deeper appreciation for literary
+             techniques applied to nonfiction work.
+
+   I often begin a course of Narrative Journalism with the
+question: What "elements" must all stories have for them to
+be 'stories'? What follows is a cascade of student responses
+that touch on character, setting, meaning and theme, conflict
+and events and terms used to describe the plot or story arc.
+And indeed, all stories must be about someone or something,
+and this someone or something will exist in some sort of
+environment, whether that be a concrete or abstract place.
+And yes, all stories should have meaning, and meaning that
+
+                                                    Chapter 3: 5 Elements of Fiction | 13
+we can connect with as human beings. Even with characters
+situated in a place, there must also be things happening (or
+deliberately not happening) to someone or something for any
+story to progress. The fifth element of fiction is more related
+to craft and technique rather than content, and while it is
+celebrated in fiction writing, it is equally useful in creative
+nonfiction--that element is point of view.
+
+   While Creative Writing scholars are not always in agreement
+about the elements of fiction, general consensus outlines five
+essential elements that feature in all stories: they are 1.) Theme,
+2.) Character, 3.) Setting, 4.) Plot, and 5.) Point of View.
+
+Theme:
+
+As described at the beginning of this chapter, we read stories
+to see ourselves revealed in them, to find meaning in them
+through a character's trials and tribulations. While much
+depends on the individual reader, a writer creates characters,
+places them in particular places, chooses a point of view (or
+more), and organizes events in a certain way in order to teach
+us something or show us something that means something.
+While theme often describes broad concepts like love or honor
+or vengeance or solidarity, most stories also carry with them
+a message, a more specific statement about the theme or
+themes. Without meaning, stories are forgettable. Meaning
+gives stories true life.
+
+Character:
+
+Character is perhaps the most important element of fiction, as
+things must happen to someone or something in order for a
+story to progress. Not only is this crucial for story development,
+
+14 | Chapter 3: 5 Elements of Fiction
+but as human beings, we read stories and enjoy stories
+because we can see ourselves in them, often through the
+characters. In order to understand this element of "character,"
+and how we as narrative journalists can more deliberately craft
+our stories, there are a few keywords that should be defined
+further:
+
+Protagonist:
+
+The protagonist is your main character, your lead, the character
+the story revolves around. Think Harry Potter or Anne of Green
+Gables or Pee Wee Herman or the Fresh Prince of Bel-Air.
+
+Antagonist:
+
+The antagonist is your `villain,' the character who often creates
+the most strife and struggle for the protagonist. While
+nonfiction doesn't always include characters that fulfill certain
+`roles,' it is important to think about relationships between
+characters, particularly relationships between your story
+subject (your protagonist) and others, whether they be central
+or peripheral characters.
+
+Round vs. Flat Characters
+
+Round versus Flat are terms used to describe character
+development. Round characters are fully developed, `human'
+characters, full of complexity and nuance. They have the
+capacity for the full range of human emotion, and they are
+capable of both right and wrong. Think Ted Lasso or Cersei
+Lannister from Game of Thrones. Flat characters are typically
+one-dimensional. They are stereotypes, essentially. Think
+Voldemort from Harry Potter, or Mr. Belding from Saved by the
+Bell.
+
+                                                    Chapter 3: 5 Elements of Fiction | 15
+Static vs. Dynamic Characters
+
+Static versus Dynamic are also terms used to describe
+character development. Static characters are characters who
+do not experience any sort of change throughout the story.
+Dynamic characters do experience change, often profound
+change, and this can be physical, mental, emotional, or
+spiritual. While there is space for both static and dynamic
+characters in stories (based on what the characters represent
+within the story), readers connect better with dynamic
+characters.
+
+Setting:
+
+As important as characters are, characters are both influenced
+by and hold influence over the places they inhabit and visit.
+In addition, the sequence of events (discussed in the next
+element below) are inextricably linked to "place." All that being
+said, "place" and "setting" deserve further description and
+definition:
+
+Place:
+
+When setting is concerned, there is a spectrum of both place
+and time. Place encompasses geographical location, of course,
+but also everything that plays a part of that mosaic. The people,
+the culture, the community, the politics, the weather, the
+physical landscape, the weather, the flora and fauna, all of it
+contributes to what a place is and how the characters interact
+with it. Think about a story taking place in the Arctic Circle
+versus a story on a remote desert island. Think about your
+hometown versus New York City or a small town out in rural
+
+16 | Chapter 3: 5 Elements of Fiction
+Tennessee. Place matters for more reasons than simple
+geography.
+
+Time:
+
+Likewise, time must be defined on a spectrum. Time can mean
+literal time of day, the season, the era, and all of these
+deviations of time will impact the characters and the story
+monumentally. Think about stories set at night versus in the
+day, summertime stories versus other seasons, stories that take
+place during WWII versus science fiction stories of the future.
+
+Plot:
+
+Plot (what I often refer to as narrative design) can be defined
+as the sequence of events in which the story plays out, but
+on a fundamental level, it encompasses much more than that,
+and in order to fully embrace the power of plot from the
+perspective of "craft", we must explore those elements. The
+traditional western plot structure follows what is called the
+inverted checkmark.
+
+                                                                                        Graphic
+                                                                                        depiction of
+                                                                                        the
+                                                                                        inverted
+                                                                                        checkmark
+                                                                                        plot
+                                                                                        structure.
+
+                                                   Chapter 3: 5 Elements of Fiction | 17
+The inverted pyramid plot structure follows the classic "hero
+quest," where the protagonist experiences struggle and
+conflict as the action rises, then the story reaches its tipping
+point, or climax, and in the falling action the protagonist
+experiences some sort of change, whether physical, mental,
+spiritual, etc. Some of the key terms to be aware of are the
+following:
+
+Exposition:
+
+Exposition is all the stuff included at the beginning of a story to
+provide context. Characters might be introduced. The setting
+might be described. Some sort of tension might appear. There
+isn't a lot of action in the exposition, but it sets everything up so
+that action can begin.
+
+Rising Action:
+
+The rising action is everything that happens leading up to the
+climax, including the conflict. This is when all of the tension
+builds, conflict rages, and we reach a breaking point in the
+story.
+
+Conflict:
+
+The conflict is often defined as the main struggle that the
+protagonist experiences. This could be physical, mental,
+emotional, spiritual, or a combination of these.
+
+Climax:
+
+The climax of the story is the turning point. This is when the
+conflict and tension reach their crescendo and typically the
+
+18 | Chapter 3: 5 Elements of Fiction
+most important scene or event takes place. Typically, the story
+begins to conclude after the climax.
+
+Falling Action:
+
+The falling action is everything that occurs following the
+climax. It takes us out of the story and winds everything down.
+
+Resolution:
+
+The resolution is the conclusion of a story, typically focusing on
+some change that the protagonist has experienced.
+
+While we can not invent events or plot points in a piece of
+nonfiction, we are in complete control of the narrative design
+and how those events are revealed to the audience. Techniques
+such as flashback, flash forward, and suspense are all
+extremely effective in narrative journalism.
+
+Point of View:
+
+Point of view is perhaps the unsung hero of literary devices.
+This element is inherent in any form of storytelling, and while it
+doesn't shout out to us and demand our attention as an aspect
+of craft because of how natural it is, it impacts everything in
+terms of how we experience a story. Below are the different
+types of point of view and the impact they can have in a story:
+
+First Person:
+
+First person point of view takes the form of the first person
+
+                                                   Chapter 3: 5 Elements of Fiction | 19
+pronoun "I," "me," "we." This point of view is very compelling as
+it brings us intimately close to the narrator, and while there is
+often a question of the narrator's reliability, first person is very
+engaging through its use of tone and voice.
+
+Second Person:
+
+Second person point of view takes the form of the second
+person pronoun "you." This is the least commonly used point of
+view, though it has its use in "choose your own adventure" style
+stories. This point of view puts the reader directly into the story,
+but it can often feel inauthentic and contrived.
+
+Third Person:
+
+Third person point of view takes the form of the third person
+pronouns, "he," "she," "they." This point of view is one of the
+most common, particularly in nonfiction, but it can be broken
+down further according to psychic distance from the
+characters (listed in order from most psychic distance to least).
+
+  · Objective: Objective 3rd person POV is fully removed from
+      the thoughts and feelings of the characters. With 3rd
+      person objective, we only hear words and see actions. This
+      the traditional point of view for stage plays.
+
+  · Limited (Omniscient): Limited omniscient 3rd person POV
+      delves into the thoughts and feelings of one character,
+      often the protagonist. With this point of view, we get into
+      the psyche of the character.
+
+  · Omniscient: Omniscient 3rd person POV delves into the
+      thoughts and feelings of all of the characters. There is no
+      psychic distance between the reader and the characters,
+      and this point of view can be used to set up dramatic
+      irony, where the characters don't understand one another,
+
+20 | Chapter 3: 5 Elements of Fiction
+      while the reader has insight into what motivates and
+      frustrates each character.
+
+Media Attributions
+
+  · Inverted Checkmark Graphic © Ben Wielechowski is
+      licensed under a CC BY-NC (Attribution NonCommercial)
+      license
+
+                                                   Chapter 3: 5 Elements of Fiction | 21
+4. Theme
+
+"There's a resurgence of narrative in the last few years, [...] and
+     maybe that's because we no longer in journalism have
+
+  information as our primary currency [...], so I think what we
+       have to do is look more and more for ways to provide
+                                       meaning."
+                                - Jacqui Banaszynski
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To draw connections between the element of
+             fiction, theme, and the strategies and techniques
+             available in narrative journalism.
+          · To understand the key concepts of `angle' and
+             'scope' as they relate to narrative journalism.
+
+As discussed in the previous chapter, oftentimes for us to be
+interested in stories, we must be able to find meaning in them.
+This can happen in a variety of ways, and considering how
+diverse and varied readership is of any piece of fiction or
+nonfiction, much of the extracted meaning of a story is
+dependent on the individual reader. That is not to say the
+journalist doesn't have a role in the "shape" of the meaning. On
+
+22 | Chapter 4: Theme
+the contrary, everything the journalist includes in the story will
+be for some purpose, and that purpose, though it may shift at
+different points in the creation process or even the story itself,
+that initial purpose or meaning is what provides the foundation
+of meaning for the entire story. This is often referred to as the
+"theme" and/or "message."
+
+   The difference between the two, theme and message, is an
+important one, however. Theme refers to general ideas about
+the human experience: love, jealousy, greed, beauty,
+vulnerability, etc. The message is what a writer wants to say
+about a particular theme through the vehicle of the story. In
+fiction, there are few rules in terms of theme and message and
+the author's purpose and manner of conveying that purpose.
+
+In narrative journalism, as has been discussed at length in
+Chapter 1: Ethics, we have more to consider than simply what
+we, the journalist, want to say and the meaning we want to
+impart. That being the case, I use the following two terms to
+discuss theme and message as they apply to narrative
+journalism: angle and scope.
+
+Angle and Scope:
+
+Angle:
+
+The angle is most simply defined as the journalist's perspective
+on the subject/story subject, or what exactly the journalist
+wants to communicate. Now this can manifest in a variety of
+ways, but as Fernanda Santos explains to her story subjects,
+"your story will filter through me, and will be constructed with
+other reporting beyond what you tell me, it will be constructed
+with who I am, with everything that I have lived, because all
+of that also influences the way we approach storytelling, the
+way we ask people and how much we listen and how we listen
+
+                                                                        Chapter 4: Theme | 23
+and how we put things together." This quote is completely tied
+into angle. We decide what information is important enough
+to put into a story, we choose the narrative structure, we find
+meaning in the stories we report on and in the people within
+those stories, and all of that put together influences our
+perspective, and that is what we put forth to our readers.
+
+Scope:
+
+Scope refers to the narrative scope of the article. How much
+narrative will be woven into your article is an important
+consideration because our stories come to life through the
+narrative, but we cannot reconstruct entire lives on the page
+for our readers. We must choose how much narrative to include
+based on what interactions we have with the story subject(s).
+The narrative scope should involve the journalist, as that sort
+of hands-on reporting is essential in bringing scenes and
+characters to life. The scope may differ depending on the
+project type and length. A classic character profile might have
+a narrative scope of a single meeting. Narrative journalists
+working on book length manuscripts might report for years,
+and those years of reporting form the narrative scope. For
+example, Adrien Nicole LeBlanc spent ten years reporting on a
+Puerto Rican family in the Bronx and their struggles in a small
+but intricately woven community in her book, Random Family.
+
+   Let's take a look at a couple of student examples and how
+they explore these concepts of angle and scope. In the first
+example, Shaza Maatouk presents us with a very compelling
+Humans of New York style character snapshot with a clear
+angle:
+
+     Example 1
+
+24 | Chapter 4: Theme
+        Shaza Maatouk
+
+                                                      "A talent is something
+                                                   you are born with. A skill
+                                                   is something you acquire
+
+                                                        over many years of
+                                                     training, practice, and
+
+                                                       hard work. I am not
+                                                      talented, I am skilled.
+      From a very young age, I knew that I wasn't very book
+     smart. I always wanted to enhance the creativity within
+       me and take it to a whole new level. After finding out
+      that magic was my passion, I decided that I was going
+       to become a magician. I didn't know how I was going
+      to do it or when that was going to happen but, before I
+     knew it, I was a so-called "beginner magician." It's been
+       13 years since I performed my first show. Fortunately,
+           this journey has taught me several things. Most
+         importantly, it taught me how to believe in myself
+        more than anyone else. So, hone your craft, do what
+               you love, and don't let anything stop you!"
+
+The image and the quote worked perfectly together to
+articulate a very specific aspect of the story subject. Shaza
+wants to communicate the story subject's passion for magic.
+The quote and the image capture this almost obsession for and
+devotion to this creative art form.
+
+   In the next example, Madelyn Vasbinder shares a character
+sketch of her mother:
+
+                                                                        Chapter 4: Theme | 25
+     Example 2
+
+        Madelyn Vasbinder
+        COMP 310
+        Professor Wielechowski
+        7 Feb 2021
+        Project 1B Revision
+        2007. The basement light was off over her head, just
+     the lamp over her desk stayed on, lighting up her work
+     space. It saved money in electricity, or so she thought.
+     She yawned, moving around the piece of fabric to find
+     the right positioning for it before she sewed it on. The
+     clock behind her head read 1:24. It wasn't the afternoon.
+     She had work in the morning, a paper due after that.
+     Dinner to make before that. But for right now, for this
+     mid-October evening, she had to sew. Sew little pieces
+     of clay onto tulle fabric, sew that tulle fabric onto the
+     skirt she'd made two days before. She'd baked the
+     pieces of clay yesterday, so they were cured now. On
+     her break at work, between bussing tables, she had
+     poked small holes into the tops of the clay pieces to
+     make it easier to sew them on. Still, she hoped they
+     looked like teeth. Who would the Tooth Fairy be
+     without teeth?
+        Her notes from sociology class were stacked on either
+     side of the old sewing machine she'd gotten from her
+     grandmother, her mémé. The most recent notes were
+     opened in front of her, just next to the sewing machine.
+
+26 | Chapter 4: Theme
+She read them as she sewed. She'd gotten home from
+class just after 10, cleaned up the mess from the dinner
+she hadn't been home to eat, and then began sewing.
+MercyMe's I Can Only Imagine played in the
+background as she worked. She hadn't even noticed the
+time and probably wouldn't until she was done with this
+part of the project. That was okay, though. It wasn't for
+her anyways. Her daughter wanted to be the Tooth Fairy
+for Halloween. And homemade costumes were better.
+
+_  _  _
+
+   2013. 10:45 at night. I'm in bed and I hear the front
+door close downstairs. I know who it is because I know
+her schedule, so I rush down to the kitchen. Her back is
+turned from me, she's wearing a cardigan with her
+black, curly hair up in a bun to keep it out of her face.
+She probably put it up around noon. She's wearing my
+winter boots, we've been the same size now for years
+even though I stand 3 inches taller than her at 5 foot 5.
+Her bags- filled with books, papers, her work laptop
+and her school laptop- are sitting on the kitchen island.
+She's sorting through the bags of food and I can smell
+the grease from across the room.
+
+"How was class?" I ask her.
+
+   "It was good. Busy, I'll tell you in a minute. What'd you
+ask for, again?" She responds.
+
+   I make my way over and grab the fries and milkshake
+I'd ordered. She picked it all up on her way home. My
+brothers are already sitting at the island eating. I sit
+down next to them, picking up fries as I turn to face her.
+Like usual, we all sit at the island on one side while she
+stands on the other side. We eat as she tells us about
+
+                             Chapter 4: Theme | 27
+her day. Getting our youngest brother- who is asleep
+upstairs- ready this morning, then work, stopping at her
+internship on her lunch break, and finally class in the
+evening. We respond with similar summaries of our
+days. And we chat like this for about thirty minutes
+before each of us slowly makes our way back up to bed.
+Starting, of course, with me and my brother who are
+both in our low teens. She tells me- years later- that she
+never slept right after these conversations, which were
+a verycommon occurrence, but instead would clean, do
+homework, or do regular work. She was always working
+overtime, at work, at home, at school.
+
+_  _                   _
+
+   2021. My mother was a single mother from the time I
+was 4. She always worked full time and yet she always
+made the time to care for her kids. She was always
+there to cook dinner and when she wasn't, she'd
+prepare food and leave it in the fridge for my older
+siblings to reheat. I never went without, none of my
+siblings ever went without. And she always thanked
+God.
+
+   Even now, sitting down to interview her for this
+project, she reminds me to thank God. Her diplomas,
+one from her Bachelor's degree- which she got when I
+was still young enough to trick or treat- and the other
+from her Master's degree, which she got when I was
+old enough to stay up past 10, sit on the shelves above
+her desk. We sit at her desk while we speak, as I ask
+my questions and as she gives her answers. We've just
+finished dinner. She made pasta and made the separate
+meal of gluten free pasta for her and I to split (I inherited
+Celiac from her, and she will always feel bad for this.
+
+28 | Chapter 4: Theme
+Gluten free cookies that she bought me sit next to me
+as I write this, I did not ask for them. I got home one
+day and she'd set them on my bed as a small surprise,
+though she does this at least once a month.). She cooks,
+even now, every single night. Or... most nights. I've
+convinced her over the years that she doesn't have to
+cook for her children every night, that as adults (or
+teenagers) we won't starve. She still isn't fully convinced,
+and really will only skip cooking if there are leftovers
+from something she'd made the night before still sitting
+in the fridge. Though there usually aren't.
+
+   And she still sews. She altered some pants for me just
+earlier this month. I bought them because they were on
+sale, couldn't try them on because the dressing rooms
+were closed, and when I got home, she asked to see
+them on. She revels in everything her children do, even
+to the point of still asking to see all the clothes I buy
+myself. So, I tried them on and they were slightly loose.
+She had me give them to her and she took in the waist.
+She also sews as a hobby, she spends most weekends
+in her sewing room (which is our former formal dining
+room). For Christmas each year, most everyone gets a
+homemade present (homemade is better). This year it
+was blankets. Last year it was stockings- custom made
+with our names embroidered on the cuff- to hang over
+the fireplace.
+
+   She also still works. Full time. But most of us, her
+children, are grown up now. My youngest brother, who
+is almost a decade younger than I am, is now almost
+a teenager. And she has remarried since, to my step
+father.
+
+   She's not quite as busy as she once was, and she's
+
+                                                                  Chapter 4: Theme | 29
+     no longer in school. But she still is every last bit the
+     hardworking mother she has always been, perhaps too
+     much, for her own sake. She still loves everything her
+     children do. And her children still love everything that
+     she does.
+
+Madelyn communicates a very clear angle about her story
+subject, which is captured in the final paragraph: her mother
+is a remarkably hardworking, devoted mother. What is
+particularly effective in this example is Madelyn's use of scope.
+While most character profiles revolve around a single
+encounter with the story subject, Madelyn has years to draw
+from. Yet in order to fully "show" her mother (we'll get into
+showing versus telling in the next chapter), Madelyn doesn't
+tell her mother's life story, but instead, she focuses on a couple
+of rich and vivid scenes that fully immerse us in narrative and
+bring her mother to life on the page. This is the power and
+beauty of well-crafted narrative scope.
+
+In the next chapter, we'll go into more detail about the
+interconnectedness of angle and scope with showing versus
+telling. Angle and scope, with the help of showing (and telling
+when necessary), are instrumental in the craft of narrative
+journalism.
+
+Media Attributions
+
+  · Portrait © Shaza Maatouk is licensed under a CC BY
+      (Attribution) license
+
+30 | Chapter 4: Theme
+5. Character
+
+    "To develop a character--whether a kid whose trip to the
+      wrong place triggered social change or an important
+
+    historical figure--we do two things: explore the subject's
+  complexity, and present that complexity through a series of
+
+                                      revelations"
+                                    - Stanley Nelson
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To develop a better understanding of the
+             character profile and the function of character as
+             a literary technique in narrative journalism.
+          · To appreciate the difference between "showing"
+             and "telling," while developing a deeper
+             understanding of when and how to use the
+             techniques.
+
+While chapter 3 went into detail about how we describe the
+element of "character," there is still the matter of how we use
+it in narrative journalism. For me, the best investigation of this
+element is through the character sketch or character profile.
+The character profile is one of the most common and
+
+                                                                    Chapter 5: Character | 31
+compelling forms of narrative journalism, and it should be no
+surprise, as human subjects are inherently interesting to us as
+humans.
+
+   Some of the best character profiles I've ever come across,
+which are really character profile vignettes, are artfully curated
+and crafted by photographer, Brandon Stanton, in his Humans
+of New York series.
+
+                    One or more interactive elements has been
+                    excluded from this version of the text. You can
+        view them online here: https://oer.pressbooks.pub/
+        narrativejournalism/?p=31#oembed-1
+
+Brandon began his project photographing random strangers
+on the streets of New York, and posting these portraits with a
+short quote or two. The underlying concept: All humans have
+a story to tell. This concept developed into what is now an
+international blog with numerous bestselling books.
+
+   The reason I find these character profiles so compelling and
+instructive is that they rely entirely on the element of character.
+These profiles are minimalistic: originally, they contained a
+single image and a quote from the subject. That was all. All
+of the human subjects were encapsulated in the following:
+physical features, surrounding, content of the quote, and
+manner of speaking. This is the epitome of "showing" as a
+narrative device.
+
+Showing vs. Telling
+
+The beauty of the "Humans of New York" form lies in its reliance
+on "showing" instead of "telling." While the photographer
+chooses the photo and the quote to include, the subject is
+
+32 | Chapter 5: Character
+clearly and plainly presented. And yet we come away with this
+deep and profound understanding of who these people are,
+their "essence," and we come away with a deeper connection
+to our shared humanity.
+
+   Let's take a look at a couple of student examples:
+
+     Example 1
+
+        Matthew Johnson
+        Professor Wielechowski
+        Composition 310
+        23 January 2021
+
+                                                       "For me, the software
+                                                   development path stems
+
+                                                     back to eighth grade,
+                                                   actually. I always wanted
+                                                   to make a video game. [I]
+                                                    was interested in game
+                                                   development and seeing
+         what went into that field of work. So, I would be at
+        home looking up game design, trying to see how to
+              make characters, add textures to characters,
+         animations to characters, and then I [finally] asked
+      myself: "How is this character going to know to move?"
+         That introduced me to code right then and there. I
+     liked just being able to type something out on a screen,
+                    and then watch it do as I expected."
+
+                                                                    Chapter 5: Character | 33
+While Matt simply presents an image and quote from the story
+subject, not only do we understand what motivates this story
+subject, but we also get some backstory, and we come away
+feeling a connection to the story subject. This is effective
+storytelling.
+
+     Example 2
+
+        Zeena Whayeb
+        Project 1A
+
+         "With baking, there's a
+         lot of science to it. In
+       America, they don't do
+
+            this enough, but
+           you're technically
+          supposed to go by
+      weight. When we made
+            the dough here,
+
+             everything was
+     weighed. When I first started, it used to be by cups, and
+
+       that's more of a volume kind of thing. And let me tell
+     you, that's very inconsistent because how you scoop up
+     flour can affect your end product. So, I switched over to
+
+         weight, and I felt it's a lot easier, too, because now
+     when I develop a new cookie recipe, I can just decrease
+
+        the weight--the grams of flour--and up something
+          else. There has to be a balance between your dry
+                   ingredients and wet ingredients, too."
+
+34 | Chapter 5: Character
+While Zeena presents the story subject almost matter-of-factly
+with this quote about baking, there is much more
+communicated through this short profile. There is an allusion
+to personal history, and there is humor and passion tucked
+neatly within the quote. Like in the previous example, we come
+away feeling connected to this story subject.
+
+   In both examples, there is no commentary from the authors
+of the text, and so, the only techniques available are to "show,"
+and to show exclusively through your story subject--their
+physical attributes, their facial expressions, their fashion, their
+environment, their words, their manner of speaking. This is a
+lesson in purely "showing" your story subject. Concrete detail,
+rich description, scene, and dialogue are all terrific techniques
+used in order to "show" your story subject in longer pieces of
+narrative journalism.
+
+   With all of the focus on "showing," this is not to say that
+the technique of "telling" should be avoided, because it too has
+its place within narrative journalism. At times "telling" can get
+us from point A to B, while "showing" should be used to fully
+immerse us in character and scene. When considering how
+much "telling" to include, we must be discerning with amount,
+as too much of it can feel overbearing and patronizing to your
+reader.
+
+ Character Profiles:
+
+   A traditional character sketch or profile should achieve the
+same result as a Humans of New York profile. However, the
+narrative journalist has more time and opportunity to "show"
+their subject. Considerations of angle and scope will come into
+play (see chapter 4), but more than that, the narrative journalist
+must decide just how to show their subject (and what balance
+of "telling" might be required). How do we tap into someone's
+essence? Yes, physical attributes and fashion and visual cues
+are very telling about a person. Behavior, mannerisms, ways
+of speaking, are also very telling. A person's relationships, their
+backstory, their interests, passions, talents, etc., they all matter
+
+                                                                    Chapter 5: Character | 35
+and mean something about who a person is. So what does a
+narrative journalist choose?
+
+   Character Profiles are not biographies, and the more
+backstory and history you try to pack into a profile, often the
+more distance we feel from the subject. Conversely, the smaller
+the narrative scope of the profile, the more focused our
+"viewing" of the subject is, often the sharper that focus is. And
+the effect of this is the story subjects come to life off of the
+page, as the following student examples illustrate:
+
+     Example 1
+
+        Matthew Johnson
+        Professor Wielechowski
+        Composition 310
+        27 January 2021
+
+                  The Software Developer with No Degree
+        Raymond had an interest in video game
+     development since the eighth grade. He would race
+     home from school, eager to open up Blender, and
+     begin crafting 3D models of weapons and characters
+     with the television on silent in the background. As a
+     child he took great pleasure in playing a variety of
+     games, from platformers like Sonic the Hedgehog,
+     action like Grand Theft Auto, and almost the entire Call
+     of Duty franchise, so developing games seemed like
+     the next best thing. He even planned on attending
+     college for 3D modeling and design so that one day,
+     he could see his titles on the store shelves. However,
+
+36 | Chapter 5: Character
+Raymond's dream of creating his childhood delicacies
+for the masses came to a screeching halt as he asked
+himself "How will these characters know to move?" An
+answer he would find in the field of software
+development.
+
+   You see, video game characters cannot move without
+code, and coding was an exercise that intrigued
+Raymond. His new favorite hobby in high school was to
+open up Visual Studio, and create basic programs and
+websites, of course, with the television on silent in
+the background. He enjoyed solving technical
+problems, so much so that he even said "I liked
+just being able to type something out on a screen, and
+then watch it do as I expected," as if he was a master of
+the trade. One could say that Raymond bit off a bit
+more than he could chew, as after he graduated from
+high school, he attended College of Creative Studies
+(CCS) to get his hands dirty in another skill, graphic
+design.
+
+   While he intended to learn another skill to be
+versatile in the job market, Raymond found his stay at
+CCS to be bland and unfulfilling. He created posters,
+critiqued typography, and made flyers. Although he
+knew his efforts were solving problems, he wasn't
+solving the technical problems that he had a passion
+for. Not to mention, CCS was expensive, costing
+$25,000 annually for tuition and housing. He may have
+had a scholarship to go there, but from every angle,
+Raymond could tell that path he'd chosen wasn't worth
+the money. And so, humbled by his own ambitions, he
+came back home, got a part-time job at Chipotle, and
+resumed coding.
+
+                                                              Chapter 5: Character | 37
+        Despite the fact that Raymond was not in a position
+     to return to school, he never thought that lacking a
+     college degree would prevent him from getting a job
+     in software development. "Quite frankly we're living in
+     a time where more fields are being considered as
+     trades and employers are worried about moving fast
+     and just hiring the right person to get the job
+     done. [This] took a great deal of stress off of me when I
+     decided to [take] the route that I did."
+
+        Nevertheless, Raymond spent the majority of his free
+     time building a portfolio that would allow him to stand
+     out from his collegiate peers. Over the span of nine
+     months, he taught himself to code, and created a
+     variety of websites (which utilized relevant
+     technologies, and demonstrated his knowledge of data
+     structures and algorithms). At one point, Raymond
+     even considered traveling down to Utah to enroll in
+     DevMountain, just to gain some type of certificate, but
+     due to his wealth of knowledge in the subject, the
+     teaching assistant denied him access to the bootcamp.
+
+        While Raymond exhibited the technical skills
+     necessary to get a job as a software developer,
+     interpersonal skills were just as important, and his past
+     experiences lent a hand establishing those. During
+     Raymond's time at Chipotle, he was promoted from a
+     team member to a kitchen manager, which improved
+     his leadership skills. "Once I became a kitchen
+     manager, I learned how to work under pressure, and
+     how to mentor my peers. In software
+     development, being able to communicate why one
+     solution is better in the long term than another is a key
+     skill to have." Additionally, Raymond's various jobs as a
+
+38 | Chapter 5: Character
+landscaper helped him to serve customers in the best,
+and most efficient way possible. "When you're coding,
+you're not only considering application speed, but also
+trying to ensure that the client gets the most
+functionality out of your program."
+
+   With a combination of technical and soft skills, the
+only thing Raymond had to do was get an interview.
+After traveling to multiple networking events, and
+getting in touch with several hiring managers, he
+finally received a call from Red Ventures Detroit. Due to
+his outstanding portfolio of work, and his desirable
+interpersonal nature, Raymond was hired on as a
+software developer with a starting salary of $85,000. At
+last, he acquired his dream job.
+
+   In his new position, Raymond gets satisfaction from
+the instant feedback he gets while building
+applications. He can solve complex problems in a few
+keystrokes, without having to carry the intense weight
+that similar engineers face on a daily basis. "On a bad
+day, I can afford to be messy where other types of
+engineers can't. I have the luxury to just mash random
+buttons into my terminal, and run test cases against a
+set of sample data to see if I get the
+expected outcome." However, Raymond understands
+that there is great responsibility required
+when completing his job, as he deals with sensitive
+customer information. "There's a great deal of trust [the
+customer] is making with our company and that trust
+is not meant to be broken."
+
+   Upon inquiring if there was anything Raymond
+would have done differently, he said no. He still wishes
+to pursue a degree in Computer Science, just to have
+
+                                                              Chapter 5: Character | 39
+     the knowledge. However, Raymond emphasized the
+     importance of specializing in one thing, and being the
+     best at it. He says, "Instead of being a jack-of-all-trades,
+     master of nothing, you should take one skill that
+     you enjoy, master it, and that will propel you in your
+     career." Following this advice is what got him as far as
+     he has today.
+
+        Currently, Raymond works at StockX, ensuring that
+     people are able to get their hands on sought after
+     goods that are authentically verified.
+
+Matt paints a broader, more detailed picture of the story
+subject in this traditional character profile, and he relies on
+a balance of "showing" and "telling." The entire framework of
+the profile utilizes "telling" and summary as Matt touches on
+some major points in Raymond's life, but this interspersed with
+direct quotes brings us into the narrative, as well as bringing
+Raymond to life on the page.
+
+   The next example by Zeena Whayeb takes a slightly different
+approach:
+
+     Example 2
+
+        Zeena Whayeb
+        Professor Wielechowski
+        Project 1B
+        01 February 2021
+
+40 | Chapter 5: Character
+                           Sara Treats You Batter
+   I entered the small bakery. A caramel latte scent
+diffused from a short cylindrical candle into the warm,
+cozy shop; the soft ambiance complemented the
+sweetness in the air. An aesthetic arrangement of
+cookies lined the counter, from the famous s'mores to
+the classic chocolate chip. I glanced to my left and was
+met with the large painted sign of the Detroit skyline
+atop a cookie. Above this logo were the words "Treat
+You Batter," a clever play on words Sara came up with
+from the Shawn Mendez song, "Treat You Better."
+   I met Sara's oldest brother, Mohammed, behind the
+cash register and ordered their newest drink: the iced
+mocha latte. Sara then entered through the back
+double doors and stood behind the curved glass
+counter, wearing her blue mask. Her floral hijab
+wrapped around her head neatly, and her eyes happily
+greeted me as she immediately went to make the iced
+coffee.
+   "I want you to tell me your honest opinion," she
+requested as she began mixing and pouring. Her
+second older brother, Ali, then came to help make the
+coffee, while she took a new customer's order. "I told
+her to tell us her honest feedback," she said to her
+brother as she moved away. Ali nodded in
+understanding and finished preparing the drink. After
+handing it to me, the pair of siblings watched me
+carefully as I took a sip. The flow of the iced coffee, with
+a tinge of bitterness and sweetness, made me sigh
+happily.
+
+                                                              Chapter 5: Character | 41
+        "It's really good," I reported honestly. "I like it better
+     than the caramel one."
+
+        "Would you say it needs more sugar? My friend
+     tasted it yesterday and told me to make it sweeter," Ali
+     said with uncertainty.
+
+        "No, no, I think it's good."
+        The siblings then spoke hastily about whether they
+     should add more sugar. Sara and I seemed to like the
+     way it was, but her brother was the perfectionist of the
+     family. Sara told me that he spent a month perfecting
+     their cuban latte drink.
+        "But you can taste the coffee," Ali said, still unsure.
+     Sara immediately reminded, "But it's an iced coffee .
+     You're supposed to taste it."
+        "People don't really like that," he shrugged.
+        "There are those who do." Sara countered, and I
+     nodded, sipping the coffee happily under my mask.
+        A few weeks ago, I was introduced to the bakery's
+     chocolate chip cookies. From then on, I became their
+     regular customer. The business has been growing in
+     popularity, and they've received coverage from
+     multiple media stations. One morning, I took the
+     opportunity to sit down with Sara and learn more
+     about her and her family's business. She was reluctant
+     to tell me about herself because she felt her older
+     brother, Ali, had more of a story to tell. However, I
+     assured her that she had one to tell, as well.
+        Sara, a Muslim woman in her late 20s, has always
+     liked baking, and she always sought new recipes to try.
+     Soon, she began to make her own recipes. She explains,
+
+42 | Chapter 5: Character
+"I remember always trying to figure out a really good
+chocolate chip recipe. I tried a bunch [of times] with
+brown butter, soft butter, whatever butter. Then, I
+found one that was closest to what I wanted it to be."
+Her younger brother, Abdullah, shared the idea of
+selling their cookies on Instagram. When the demand
+for their cookies continued to grow, the four siblings
+found it difficult to bake and carry out the orders in
+their small kitchen. This is when they took the grand
+step to open up their own bakery.
+
+   However, this was no easy decision for Sara. At the
+time, she had been working at Volkswagen for six years,
+and she was definitely no risk-taker, describing herself
+as "a play-it-safe, stay-in-my-lane person." The decision
+did eventually become clear when she noticed herself
+losing motivation, forcing her to contemplate if the
+corporate life was truly for her. "I like to say that I went
+through some type of quarter life crisis," she
+reminisces. "I really loved [working there] initially
+because it's a great place to work, but when you work
+corporate, your goal is to be promoted or find a better
+job and eventually work towards retirement. During my
+fourth year, I was getting very lethargic with the work,
+and for me, I feel really guilty if I'm not motivated to do
+something." She realized she will not be able to
+continue this type of work until her senior years,
+explaining that if this isn't the life for her, then "what's
+my purpose of just kind of doing it?"
+
+   After Sara was on board, the siblings began looking
+for several places, and they decided on a space Sara
+describes as a "white box," meaning it was completely
+empty of any design or interior walls: "There was
+
+                                                              Chapter 5: Character | 43
+     nothing here," she says, gesturing to the wall
+     separating the front from the kitchen. "You build these
+     walls, and you design everything," This complete
+     control over the customization of the interior space
+     attracted their attention, and they got the space.
+
+        Their excitement was immeasurable. However, the
+     work necessary to open one's business always turns out
+     to be more than anticipated. Sara encountered a major
+     issue merely a few days before the bakery's grand
+     opening: she couldn't bake the cookies. "I've never used
+     a commercial oven before," Sara explains. "We got
+     these trays that were basically almost end to end
+     within the oven. A week before, I would test bake, and I
+     kept testing every day. Every time, the cookies look fine
+     from the outside, but when you break it open, it's
+     straight raw." Anxiety settled uncomfortably on the
+     siblings as they tried to figure out the problem. Their
+     main baker, Sara, was at a total loss. Having little time
+     left, they pondered if they should make the cookies at
+     home and then drive them to the shop. However, this
+     idea was quickly dismissed; it simply wasn't feasible.
+
+        Sara began researching extensively and stumbled
+     upon a forum that instructed them to use a smaller
+     pan. Having tried everything else, she immediately
+     gave it a try. "The initial tray was too large. So, the
+     circulation of the heat in the oven was not evenly
+     distributed. When we used the half sheet trays, it
+     worked!"
+
+        Having overcome this obstacle, Sara and her three
+     brothers finally opened the bakery in early March--a
+     couple of days before COVID-19 caused a lockdown
+     order in Michigan. The rising concern of the pandemic
+
+44 | Chapter 5: Character
+did not deter the siblings from trudging forward. Sara
+referenced her brother's words, "My brother said when
+you go into business, you expect a lot of things, you
+have to set yourself up for failure and disappointment."
+She then continues jokingly, "But you set yourself up
+for a lot of things, you just never expected a pandemic
+to hit..."
+
+   The family noticed the gradual decline of their
+customers, and when the cases surged, they closed
+their storefront. Instead, they focused on deliveries.
+Weeks later, they changed to curbside pickup. Weeks
+after that, they opened the storefront back up.
+However, Sara explains that those weeks after the
+opening were crucial to building a customer base and
+utilizing the hype from the community. Because the
+initial hype was cut short, building a customer base
+and spreading the word took longer than it usually
+would. "It's fine, though," Sara says, showing her
+resilience, "We've learned a lot through the process,
+and adapting is the biggest thing."
+
+   Maintaining the bakery has been a lot of work, and
+Sara admits to me that it can sometimes be
+exhausting. However, she finds it very fulfilling and
+expresses her joy at working with her family: "I think it's
+easier for sure to work with family. When there are any
+arguments, you can be more straight up about things."
+In the bakery, Sara takes on the baking portion and
+most of the financial aspect, where she utilizes her
+math degree from the University of Michigan-
+Dearborn. Though working at the bakery does take up
+most of her time, Sara enjoys certain hobbies outside of
+
+                                                              Chapter 5: Character | 45
+     her work. Most notably, she loves to read--her favorite
+     book is The Outsiders --and watch sports.
+
+        For the present, Sara wants to continue to develop
+     and experiment with new menu items. She is currently
+     working on cakes and other cookie recipes. In the
+     future, she hopes to expand the bakery and possibly
+     pursue a master's degree in math.
+
+Rather than tell us about the story subject, Zeena immediately
+immerses us in scene. Through the use of sensory detail,
+dialogue, and her presence within the narrative, we get to
+experience the bakery and Zeena's interaction with Sara from
+the very beginning. This drives the narrative and the character
+profile. Like Matt, Zeena does rely on the technique of "telling"
+and summary when we get into the backstory of the story
+subject and her journey to where she is today. This
+combination and balance can be extremely effective.
+
+   Let's take a look at one final student example, one that I've
+chosen because of the strategies of characterization:
+
+     Example 3
+
+        Patrick Masell
+        Prof. Benjamin Wielechowski
+        COMP 310-001
+        22 Sept. 2019
+
+46 | Chapter 5: Character
+                           Essence and Anguish
+
+   The interview has come to an end. I turn off the
+recorder and she slumps back in her chair, finally
+relaxed. She takes hold of her large, black-framed
+eyeglasses and with a smooth gesture of her slender,
+delicate hand adjusts them in a fashion that reminds
+me of a librarian. We pause and take in the sounds of
+bustle during the mid-day rush that shuffles past the
+modest coffeehouse. Things hadn't gone smoothly. The
+coffeehouse had gotten crowded and noisy, the patio
+wasn't much better, and I often failed to keep the
+conversation flowing. But it was over. I was no longer
+interviewing Madison; now I was catching up with an
+old colleague, Maddie. It is here, I'm told, once the
+notebook is closed and your subject is no longer
+nervously twisting the sleeve around her coffee cup, is
+where you've reached the center of the onion. This is
+where the best revelation, the inner truth often
+emerges. What would Maddie's inner truth be?
+
+   "Do you see those two guys there?" she draws my
+attention to a pair of figures across the street. "The one
+with the dreads does my piercings." It's clear that
+Maddie keeps her piercer busy since she had gauges in
+both ears and a septum piercing. She remarks that the
+tattoo shop where she gets her work done is nearby. I
+ask her how many tattoos she has, but she has lost
+count. She then points out her latest piece, a single
+word in bold, black ink poking through an exposed
+hole in her distressed jeans. It reads: ESSENCE. She tells
+me that it has a mate printed on her other leg:
+ANGUISH, but it's hidden beneath the denim. "It means
+
+                                                              Chapter 5: Character | 47
+     that a person is born to be a certain way," Maddie
+     explains. A person's essential traits, their defining
+     characteristics are determined before their birth and
+     the individual should adhere to that function to be
+     satisfied.
+
+        "I was always considered a "college bound kid" in
+     high school," Maddie informs me. She attended
+     Whitmer High School in Toledo. "Honors and AP
+     classes, graduated ranked 12th in my class..." Good
+     grades came naturally to her, as did athletics and
+     friendships. She was also engaged in extracurricular
+     activities as well. Maddie seemed tailor made to pursue
+     higher learning both as a student and a teacher. This
+     isn't surprising given the fact that she came from a
+     family that valued higher education; many of them
+     were teachers, after all. Plato would probably argue
+     that fate willed Maddie into being accepted into
+     University of Toledo for a degree in secondary
+     education and, given her pedigree, it would be hard to
+     argue against him.
+
+        "Anguish is choice," Maddie explains to me. "People
+     are a balance of both." She goes on to tell me about
+     philosopher Jean-Paul Sartre, whom she discovered in
+     an unorthodox way. Maddie laughs and says, "Man, I'm
+     glad we aren't recording this!" before confessing that
+     she discovered Sartre because that was the stage
+     name taken by her favorite adult actress, Charlotte
+     Sartre. Sartre, the French philosopher and not the porn
+     star, believed "being precedes essence", or we create
+     meaning; it is not assigned for us. Choice is anguish
+     due to the implication that without a preordained
+
+48 | Chapter 5: Character
+existence, nothing is for certain. We are free and
+terrifyingly so.
+
+   Maddie had cried on orientation day, but she did not
+know why. After a semester at Toledo, she transferred
+to Michigan State and there she had the opportunity to
+teach. Instead of it being her calling, she struggled to
+find meaning in the work. She enjoyed it, but it did not
+allow her to be herself. Maddie was attempting to live
+up to the expectations that others had set instead of
+her own. As Sartre would describe it, she was living in
+`bad faith;' caught between essence and anguish. Much
+to the consternation of those who knew Maddie best,
+she dropped out of school entirely.
+
+   "I think people find me intimidating, but I only say
+that because its what I've been told from a few people.
+I think of myself as very sheepish and easily skittish and
+don't think I have much of a strong presence at all." I
+can confirm that Maddie can be intimidating at first,
+judging from personal experience. On the other hand, I
+would argue she has a much stronger presence than
+she would have you believe. Being around Maddie, one
+tends to notice the heads turning in her direction. Tall
+and willowy with a fair complexion, Maddie invokes the
+image of `Hollywood Gothic'; something like Elizabeth
+Taylor-by-way-of-Morticia Adams. I've always known
+her to be meticulous about her appearance. It occurs to
+me during the interview that it's a necessity; her
+appearance acts like a business card. It's part of her
+profession. Today she is more casual, but I still get the
+sense that there is something deliberate in the way she
+pulls her raven-hued hair into a haphazard bun. After
+dropping out of MSU, Maddie enrolled into the
+
+                                                             Chapter 5: Character | 49
+     Estheticians program. An esthetician performs
+     cosmetic skin treatments including facials, hair
+     removal, surface level massages and a plethora of
+     similar treatments.
+
+        Maddie's first exposure to esthetics came back at
+     university when friends visited her in her dorm room to
+     get their eyebrows waxed. She took an interest in skin
+     care and beauty; helping others take better care of
+     themselves keyed into her strong maternal instincts.
+     "Finding a career field that challenges me as well as
+     excites me was incredible," she recalls. Prior to
+     dropping out of school, however, she didn't consider
+     this passion to be a worthy profession. It took
+     recognition of this passion from others to convince
+     Maddie that learning to become an esthetician could
+     be a valid career path. "Know thyself," the Greek
+     aphorism goes. Sartre would call it `living authentically.'
+     To do so, Maddie would have to reject the belief that
+     her passion wasn't serious enough. "There might not
+     always be people that will take you seriously," she
+     explains, "but if you take yourself seriously others will
+     follow suit."
+
+        Maddie is in a period of flux, with many pieces of her
+     life shifting. We speak at length about her concerns.
+     She has a state licensing exam to take for esthetics, she
+     might carry the same gene that caused her mother's
+     breast cancer, and she recently broke up with her
+     girlfriend. On the upside, her older brother will be
+     getting married soon. She is planning on taking David
+     as her plus one to the wedding. David is Maddie's best
+     friend, perhaps more than that. She tells me that when
+     looking at him she sees, "everything I want to be." She
+
+50 | Chapter 5: Character
+     confesses that part of her hopes to rekindle a past
+     romance, but she has her trepidations. They had tried
+     dating several times, each leading to failure. Most
+     recently, things dissolved due to strong, opposing
+     opinions they have developed over the time they had
+     known each other. Opinions neither could acquiesce to
+     the other. She pauses briefly when discussing this and
+     stares at the table; brow furrowed. Her pained
+     expression tells me she's reliving a raw memory. I wish
+     to console her, but she has no need for tired platitudes.
+     Maddie is at a crossroads. She is not meant to be an
+     esthetician, she is not meant to be with David. Essence
+     is an illusion and all she has is the burden of choice that
+     weighs upon her countenance. Anguish. But there is
+     beauty to be found in anguish. Since nothing is pre-
+     ordained, she is free to define her life; to live
+     authentically.
+
+        Our meeting had ended. She collects her things, I
+     tuck my notebook under my arm, we embrace briefly, I
+     watch her walk away. I had known Maddie for over a
+     year and for the past two hours she answered every
+     question I thought to ask. However, I hadn't really
+     begun to understand her until she casually discussed
+     her tattoos. In these brief moments, I feel as though I
+     better understand myself, as well. I'm sad to see her go,
+     but I'm thankful for the time we've shared. It's okay to
+     be sad. It means our time together had value. I've
+     defined my truth and I know now where to find the
+     truth behind Madison Reynolds. It resides in the space
+     between essence and anguish.
+
+Like the two previous examples, Patrick utilizes a balance of
+
+                                                                    Chapter 5: Character | 51
+"showing" and "telling." The attention to detail, the description,
+and the natural, compelling dialogue put us front and center
+in the story. The commentary and summary help us move
+throughout the profile and give the story subject more depth.
+The angle is communicated through repetition of `essence' and
+`anguish,' with the title and the symbol of the tattoos acting
+as very effective literary devices. The characterization and the
+structure of the profile are worth dwelling on. Patrick focuses
+on what might be considered mundane details, like how
+Maddie twists the sleeve around her coffee cup when she's
+nervous, and within these details we learn a world about
+Maddie. The physical description and the exchange of dialogue
+are also extremely effective in bringing Maddie off of the page.
+Patrick also does something very clever here with the structure
+of the profile. Instead of organizing the profile around the
+interview, this profile begins at the end of the interview where
+we get to really "see" the story subject. The information gained
+through the interview is then revealed throughout in those
+moments of commentary. This has everything to do with
+narrative design, which will be discussed at length in Chapter
+7.
+
+Media Attributions
+
+  · PortraitRaymond © Matthew Johnson is licensed under a
+      CC BY-NC (Attribution NonCommercial) license
+
+  · PortraitSara © Zeena Whayeb is licensed under a CC BY-
+      NC (Attribution NonCommercial) license
+
+52 | Chapter 5: Character
+6. Setting
+
+"I think of the setting as a horizontal plane and the individual
+              as a vertical plane. The line created by their
+                     intersection--there lies the story."
+                                       - Tom Wolfe
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To further explore narrative journalism through
+             the element of fiction, setting, and the place-
+             profile.
+          · To better understand the function of setting
+             and its impact as a literary device in immersive
+             storytelling.
+
+Place-based journalism, or place profiles, shares similarities
+with the character profile. One of the big differences is the
+number and the prominence of the featured characters.
+Whereas a character profile is driven by a single (or perhaps a
+few) character(s), a place profile explores the issues of a place,
+and the people who are involved in a place, and so this follows a
+more traditional, longer piece of narrative journalism that relies
+
+                                                                        Chapter 6: Setting | 53
+on more immersive reporting and involves a variety of people
+and places.
+
+   For beginning narrative journalists, a piece of place-based
+journalism achieves two things: first, it allows a journalist to
+immerse themselves in "place," and, as described earlier,
+primary research is a crucial skill to develop. Second, place is
+grounding, and this allows the story to emerge from a place, as
+there are infinite opportunities for storytelling in every single
+place. All that being said, looking at a few examples might help
+to solidify the form while inspiring ideas for future pieces of
+place-based journalism.
+
+   Let's take a look a few student examples to help us better
+understand how `place' functions within narrative journalism
+and the ways in which these student journalists approach their
+topics:
+
+Place Profile:
+
+     Example 1
+
+                          One or more interactive elements has
+                          been excluded from this version of the
+              text. You can view them online here:
+              https://oer.pressbooks.pub/
+              narrativejournalism/?p=33#oembed-1
+
+54 | Chapter 6: Setting
+        By: Allen Dillard
+
+Allen's entire mini documentary revolves around a place
+known as the WIG. Through this focus on place, we get to meet
+the people involved in its development and the ways in which
+it has impacted the skating community and the surrounding
+neighborhood. The anchor of the entire piece is, of course, the
+place, and this allows Allen to fully immerse us in place, in this
+case, through visual imagery.
+
+   The next student example takes a different approach, not
+only in content and tone, but in presentation.
+
+     Example 2
+
+                          One or more interactive elements has
+                          been excluded from this version of the
+              text. You can view them online here:
+              https://oer.pressbooks.pub/
+              narrativejournalism/?p=33#audio-33-1
+
+        By: Matthew Johnson
+
+Matt weaves together personal narrative, interviews, scientific
+studies, audio clips, sound effects, and more to create a very
+dynamic podcast about video game addiction. Since the
+
+                                                                        Chapter 6: Setting | 55
+gaming world is virtual, this piece of place-based journalism
+does not have a concrete geographical location like the
+previous example, and yet, there is a culture and community
+that unites the characters within the story and those impacted
+by the story subject. Though the use of first person narration,
+along with the detailed interviews and audio clips, we feel
+completely immersed in `place' and in 'story,' while Matt takes
+us through the highs and lows of video game addiction.
+
+56 | Chapter 6: Setting
+7. Plot
+
+   "Narrative is chronology: This happens, that happens, the
+ other thing happens, and then something else happens. [....]
+
+    Story is something else: taking select parts of a narrative,
+ separating them from everything else, and arranging them
+  so they have meaning. Meaning is intrinsic to storytelling."
+
+                                      - Jon Franklin
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To explore the relationship between the
+             element of plot and the concept of "narrative
+             design."
+          · To better understand how genre impacts plot
+             and structure and how narrative journalists can
+             leverage this element of fiction across genres.
+
+While plot is a very instructive and accessible term as far as
+literary elements are concerned, I prefer the term narrative
+design for narrative journalism, as it prioritizes craft over
+storyline. And, as mentioned in Chapter 3, we cannot
+manipulate the storyline when writing nonfiction. We cannot
+invent events and we cannot delete events. We cannot
+
+                                                                             Chapter 7: Plot | 57
+rearrange how events occurred in a piece of nonfiction (as this
+creates monumental ethical violations). We can, however, play
+around with how the story is revealed to our reader, and this is
+why the element of plot is such a crucial and effective tool in
+narrative journalism.
+
+Often considered to be the "quintessential" text of narrative
+journalism, Truman Capote's In Cold Blood catalogs the
+murders of the Clutter family, a wealthy farming family located
+in a small town in Holcomb, Kansas, and while these stories
+of unnecessary violence were not new, the storytelling
+techniques Capote incorporated were rarely seen before in
+nonfiction. From dozens of hours of primary research, mainly
+interviews with the convicted murderers, Capote recreated the
+days leading up to, the night of the murders, and the weeks
+and months and years that followed including the manhunt,
+arrest, conviction, and eventual execution of the two convicted.
+Capote moves around in time, from before the murders,
+chronicling the movements of the Clutter family and the two
+would-be murderers, and then brings the stories together in a
+way that reads like fiction. The story is in and of itself "stranger
+than fiction," but Capote manages something far greater than
+a front page news story with his mastery of narrative design.
+
+Narrative Design:
+
+Narrative design has everything to do with the structure of
+a story. Yes, plot is involved with what happens first, second,
+third, etc., and how all of the events impact and influence one
+another, but narrative design takes a step back from the story
+in order to fully consider the reader experience (and not just
+what the characters are doing). What arrangement of the
+narrative will most powerfully impact the audience, and how
+best can we communicate our angle? For the most effective
+
+58 | Chapter 7: Plot
+narrative design, full consideration must be given to the reader
+and the reading experience. Let's take a look at a student
+example to analyze just how narrative design can be used to
+affect that reader experience:
+
+     Example
+
+        https://www.youtube.com/watch?v=Vy4NlpaH4KM
+        By: Jenna Elder
+
+Jenna begins this mini-documentary focusing in on her
+protagonist as she completes a Covid check-in before
+attending practice. This is an expert narrative device, as we are
+immediately immersed. The next sequence in the film provides
+national context for the covid pandemic. Then the focus
+returns to the protagonist and her experience and
+perseverance through the pandemic. The design choices to
+include multiple interviews that contrast the protagonist's
+experience only further emphasize the angle of the story.
+
+Narrative Design and Genre:
+
+In order to highlight the power of narrative design and the
+opportunities we have as journalists, let's compare and
+contrast a few different genres: narrative journalism, news
+journalism, and scriptwriting/graphica. Each require a specific
+design or structure in order to adhere to the conventions of the
+genre. Because of these differences, it is important to dissect
+the design to see how each genre works on a structural level.
+
+                                                                             Chapter 7: Plot | 59
+  · Narrative Journalism relies heavily on the elements of
+      fiction, and so, there is added attention to character,
+      setting, plot, point of view, and of course, theme. See how
+      these elements play out in the following example:
+
+     Example
+
+                          One or more interactive elements has
+                          been excluded from this version of the
+              text. You can view them online here:
+              https://oer.pressbooks.pub/
+              narrativejournalism/?p=35#audio-35-1
+
+        By: Autumn Tashman
+
+Autumn begins by with a short personal narrative, which
+engages us through the elements of character and point of
+view, as this piece is driven by first person narration. Autumn
+also explores this "alternate reality" of social media and the
+impact this "place" has on people who visit. The mix of personal
+narrative and interviews, complemented by important
+secondary research, creates for a thorough and compelling
+expose about the effects of social media.
+
+  · Traditional Journalism conversely, follows a very specific
+      form. The structure must follow the inverted pyramid,
+      which provides the entire story in the headline and lede of
+
+60 | Chapter 7: Plot
+the article.
+
+                                The lede should answer
+
+                                the who, what, where,
+
+                                when, how, and why. This
+
+                                plot structure relies on
+
+                                revealing the most
+
+                                information possible in the
+
+                                least amount of time,
+
+                                prioritizing the information
+
+The inverted pyramid structure  rather than  the story.
+typical of news journalism.     Narrative    journalism,
+
+                                conversely, does almost the
+
+exact opposite: story over information. See this student
+
+example by Autumn Tashman, one that focuses on the
+
+same content matter as the previous example, but look at
+
+how formulaic the structure is, from the headline, to the
+
+subheadline, to the lede (all telling the full story), then into
+
+the body of detail within the story, and finally the tail:
+
+Example
+
+ The Effect Upward Comparisons
+Have on Social Media Users
+
+  Comparisons amongst users on social
+
+                                                                       Chapter 7: Plot | 61
+    media who display the highlights of their
+    lives creates damaging effects on users.
+
+        (Image would usually be featured in this location
+     with caption)
+
+        Autumn Tashman
+        When users log onto their social media platforms,
+     they face comparing themselvesbased on human
+     nature for self-evaluationwith people who showcase
+     the highlights of their lives. This poses risk for users to
+     feel worse about themselves and lead to depression,
+     low self-esteem, and anxiety.
+        The Theory of Social Comparison that has been
+     proposed by psychologist Leon Festinger states that it
+     is "the proposition that people evaluate their abilities
+     and attitudes in relation to those of others in a process
+     that plays a significant role in self-image and subjective
+     well-being" according to the APA Dictionary. It is also
+     said that the three types of comparisons are
+     upward, downward, and lateral, where upward
+     comparisons are often seen in social media when
+     people compare themselves with someone perceived
+     to be better than him or her based on what this person
+     showcases on their pages.
+        According to a study published in 2016 where 881
+     female college students were evaluated, it was found
+     that "the more time teens spent on social media, the
+     more they compared their bodies with those of their
+     friends. Consequently, they felt more negative about
+
+62 | Chapter 7: Plot
+their bodies." Similarly, a study published in 2019 that
+investigated the effect "Instagram vs Reality"
+images had on 305 women found that body
+dissatisfaction increased when looking at the
+"ideal" images. While social media may not be to blame
+for human nature and their unavoidable nature to
+compare oneself with others for self-evaluation, what
+social media does is exacerbate this dilemma and
+create expectations for themselves where the baseline
+of these expectations is skewed to attract others.
+
+   The apps TikTok, Instagram, Snapchat, and Facebook
+are recommended for people ages 12 and up. For
+young adolescents, the ages of 12 to 13 are the years
+where body dysmorphia is first detected, according to
+a Help Guide article. It's also said in this article that a
+symptom for body dysmorphia is comparing oneself
+negatively to others, and by the Theory of
+Social Comparison, humans have this sort of
+inevitability to take part in evaluating their own worth
+by comparing themselves with others, and social
+media platforms are just one place where this can be
+achieved. More specifically, well over the majority of
+people who act as the basis of comparison have been
+edited in a way that would make themselves look
+better online, through the photoshop app Facetune
+(71% of people say they won't post a picture online
+without somehow touching it up). These 12-13 year old
+children have access to these types of photos that are
+intended to be appealing, which can lead to upward
+comparisons which in turn lead to low self-esteem and
+even symptoms of depression.
+
+   In a TedTalk, Bea Arthur, founder and CEO of The
+
+                                                                      Chapter 7: Plot | 63
+     Difference, a company that provides on-demand
+     access to therapy, addressed the possible effects that
+     Facebook has on people. She says, "Facebook started
+     out as a way to keep up with people that you like, but
+     it's slowly turned into a way to keep up with people
+     that you now kind of resent." Because people have
+     a tendency to compare themselves to whom they are
+     seeing online (that this friend just got married, or that
+     friend just landed a new job at a Fortune 500 company
+     for example), it creates this negative space where
+     people begin to downplay their own successes based
+     on the ones people choose to showcase online.
+
+        Anthropologist Bob Deutsch believes that "The very
+     nature of [social media] causes all of us to be fake," and
+     he supports this claim by saying "...With the right filter
+     and snappy status update can project an image of a life
+     far better than the one we authentically experience."
+     Jessica Stillman agrees with Deutsch's verdict, and
+     backs up her claim that "The more miserable you are,
+     the happier your social media posts" by using a Twitter
+     thread showing that social media harbors people's dark
+     sides in life. For example, one woman posted a joyful-
+     looking picture of her holding her smiling baby with
+     the caption, "This photo is of me and my daughter
+     (now almost 9) as a baby. I hadn't slept in months and
+     had RAGING postpartum anxiety. I loved her but mostly
+     wanted to run away. I was tired and angry and scared
+     all the time." What's seen on social media is only what
+     people want others to see, and in reality, viewers are
+     missing out on half, if not more, of the full story.
+
+        Doctor Steve Rose reported that "social media use
+     activates the same reward centers in the brain
+
+64 | Chapter 7: Plot
+triggered by addictions to chemical compounds." Every
+"like" that a person gets triggers the brain's reward
+center, creating this addictive effect to receive likes,
+and as a result, people will do what it takes to feel the
+reward of earning more likes on their posts. For many,
+this involves using photoshop, retaking a selfie dozens
+of times, finding the perfect lighting and angle for a
+pose, and more. While it's essentially impossible to
+prevent comparisons among users, understanding that
+what is advertised on social media most likely isn't the
+real-deal is a first step in canceling out the negative
+effects that may come with self-evaluation through
+others.
+
+   Sources:
+   How social media is increasing a person's exposure to
+body shaming and body image (indiatimes.com)
+   Rising dysmorphia among adolescents : A cause for
+concern (nih.gov)
+   Statistics -- Megan Meier Foundation
+   Body Dysmorphic Disorder (BDD) - HelpGuide.org
+   Comparison culture: impact of Instagram on our self-
+esteem (stylist.co.uk)
+   Social Comparison Therapy in Social Media | Newport
+Academy
+   `I Was Obsessed With Facetune': 71% Of People Won't
+Post A Picture Online Without Photoshopping It - That
+Needs To Change | Grazia (graziadaily.co.uk)
+   Gender differences in Mental Health - RAMH
+
+                                                                      Chapter 7: Plot | 65
+        Why Everyone and Everything on Social Media Is
+     Fake (entrepreneur.com)
+
+        The More Miserable You Are, the Happier Your Social
+     Media Posts, and This Twitter Thread Proves It | Inc.com
+
+        Why We Are Addicted To Social Media: The
+     Psychology of Likes | Steve Rose, PhD social
+     comparison theory - APA Dictionary of Psychology
+
+  · Scriptwriting and Graphica doesn't technically fall within
+      the genre of narrative journalism, but it can be extremely
+      insightful in how we negotiate our narrative design. Both
+      forms are very character and scene driven, and so we can
+      learn more about narrative design through exploring this
+      unique format. This format is also more directly connected
+      to fiction than are some of the other formats, and that
+      liberty in craft can also be instructive. When compared to
+      documentary, which is a classic form of narrative
+      journalism, scriptwriting and graphica are more
+      impressionistic, and by this I mean scriptwriters take an
+      event that has happened (rather than while it is
+      happening) and present a version of the event or issue
+      with some form of hindsight. This taps into our sense of
+      meaning, and so as writers, we have to think more deeply
+      about how scene and character can convey meaning
+      outside of a strict chronology of events. Let's take a look at
+      the following example by Autumn Tashman to see how
+      she tackles the same subject matter (effects of social
+      media) through this new format:
+
+66 | Chapter 7: Plot
+Student Example
+
+                                                        Autumn Tashman
+   Scene 1:
+   Three best friends, Alyssa, Jasmine, and Alex are
+hanging out at a sleepover get-together, scrolling
+through their TikTok feeds before getting ready for bed.
+Alyssa stumbles across a trending TikTok dance that
+she's been wanting to do for several days.
+   Alyssa: You guys have to do this TikTok dance with
+me! We could totally become famous off of this! We
+literally just have to stand in one spot and jump around
+a bit. Then BOOM! People will love us!
+   Jasmine: Eh, I'll pass on this one. You two go ahead.
+   Jasmine gives a smile of encouragement to her
+friends, Alyssa and Alex.
+   Alex: All right, fine. But Alyssa, if this blows up, I'll hate
+you forever; you know how bad I am at dancing!
+   Alyssa: Yeah yeah yeah. Come on!
+   Alyssa teaches Alex the dance, and they take a
+couple of tries to perfect it to the best of their abilities.
+Once they are satisfied, Alyssa uploads it onto her
+page.
+   Jasmine: You guys look great in this! You know
+Alyssa, even though you only have 200 followers, I think
+this video could be a real hit.
+   Alyssa: Thanks Jasmine! I hope you're right!
+
+                                                                       Chapter 7: Plot | 67
+        Scene 2:
+        The next morning, the three girls are asleep, but Alex
+     is rudely awakened by the sound of someone's phone
+     constantly buzzing. She comes to realize that Alyssa's
+     is the one that is making all the rukkus.
+        Alex: Hey, hey, Alyssa, wake up!
+        Alyssa: Why, what's wrong?
+        Alex: Your phone has been dinging for the past 30
+     minutes, it's driving me crazy!
+        Alyssa: What?! No way, it must be the video we
+     uploaded, let's check it out.
+        Alyssa checks her phone to realize that the video of
+     Alex and her dancing has 400k views and 30k likes.
+     Alex pulls out her own phone to look at the uploaded
+     video alongside Alyssa.
+        Jasmine: Wow, the video actually blew up! I was
+     kinda half-joking when I said that your video would get
+     famous cause I feel like that never happens, but look at
+     that, you go girls! What are the comments saying
+     about it?
+        Alex: Ummmm... You might not want to look at them
+     Alyssa.
+        Alyssa: (Beginning to tear up) Oh my god. These
+     comments are awful. How could anybody even think to
+     say something so rude?
+        Jasmine: What are they saying?
+        Alex: I mean, a lot of them are positive, but there are
+
+68 | Chapter 7: Plot
+a good amount of them that are comparing the two of
+us. Also, take a look at this one.
+
+   Alex hands Jasmine her phone, and Jasmine begins
+to read one of the comments.
+
+   Jasmine: "Why is the girl on the right shaped like
+that? I don't know what I'd do if I looked like her"...
+Alyssa, I'm so so sorry. The people commenting these
+things are so insecure about themselves that they find
+other people to hate on to make themselves feel better.
+
+   Alyssa: Maybe, but that comment alone had over 400
+likes. At this point, I don't even know if people are
+caught up in their own insecurities, or if they genuinely
+think I'm unattractive. I never should have posted this
+stupid video.
+
+   Alex: Alyssa, don't think like that! You look amazing in
+the video, and people just live for drama online. I know
+it's easier said than done, but try not to take these
+comments to heart.
+
+   Alyssa: Yeah... right.
+
+   Scene 3:
+   2 MONTHS LATER
+   The three best friends facetime each other for
+Christmas day. While they spend time apart, they are
+all curious to know what they all got under their trees.
+   Alex: Merry Christmas girlies! What did you all end up
+getting under your trees?
+   Jasmine: Just the usual! some clothes, makeup, and
+
+                                                                      Chapter 7: Plot | 69
+     nail polish. But I also got this super cute new pair of
+     shoes! What about you, Alyssa?
+
+        Alyssa: Nice! I've been wanting this new pair of shoes,
+     but I didn't have room to ask for them on my list. I
+     ended up getting this super cool high-end jump rope,
+     some protein powder, a set of weights, and some other
+     little things. I'm so excited to try them out.
+
+        Alex: That all sounds great, but Alyssa, it never
+     seemed like you were into the whole sporty-exercise
+     kinda thing. Are you doing this because of what people
+     said on that one video from a while back?
+
+        Alyssa: Honestly, that has a lot to do with it. I think it's
+     easier said than done, trying to ignore the hate, and a
+     lot of those comments really got to me. But man, do I
+     hate today's standards.
+
+        Jasmine: You could say that again. People expect so
+     much from us, and when we don't fit what people like
+     to see, we get hate. UGH! What a twisted reality.
+
+        Alyssa: Yeah, tell me about it.
+
+The first thing you may notice is the change is formatting. The
+italicized text is stage direction, the bold text identifies the
+characters in scene, and the standard text is the dialogue. This
+is a specific convention of the scriptwriting genre. Looking at
+the narrative design, you may notice that this form is heavily
+driven by the narrative storyline, and so Autumn immediately
+immerses us in scene as we see the three characters explore
+social media and the negative consequences of something
+perceived to be innocent and fun. By the end of the script, we
+feel this dramatic impact that the characters suffer due to the
+occurrence in Scene 1. This is in part due to the incredible
+
+70 | Chapter 7: Plot
+narrative design.
+
+Media Attributions
+
+  · Inverted-pyramid-in-comprehensive-form © Christopher
+      Schwartz is licensed under a CC BY-SA (Attribution
+      ShareAlike) license
+
+                                                                             Chapter 7: Plot | 71
+8. Point of View
+
+"We are trained as journalists to describe action secondhand,
+through quotes and observation. Skilled narrative writers put
+  the reader there and let her witness it, have the experience,
+feel it. That's much more powerful than a secondhand version
+
+                                        of reality."
+                                        - Jack Hart
+
+     Learning Objectives
+
+        The learning objectives for this chapter are as follows:
+          · To better understand POV as an element of
+             fiction as it relates to narrative journalism.
+          · To gain skills is using POV across multiple
+             genres in order to impact the reader experience.
+
+Point of view is a quirky element of fiction when applied to
+narrative journalism because of preconceptions. News
+journalism prides itself on 3rd person objective reporting
+where there is no hint of a narrator or author telling the story.
+Fiction plays around with point of view so wildly that we can
+have a dozen narrators in a single novel. Nonfiction does not
+have the same freedoms with point of view as does fiction,
+but thorough research and reporting can give us tremendous
+
+72 | Chapter 8: POV
+opportunity. It all comes down to how we craft and include
+our research into a piece of writing. The gold standard for
+nonfiction is to adhere to the facts of a story, and what our
+sources experience and say and feel are legitimate facts of the
+story (if those sources check out of course). For example, if you
+have an interview that reveals how a character "felt" during an
+event, you can recreate that scene while commenting on the
+feelings of the character, as that is authentic to the story.
+
+   For example, in Truman Capote's In Cold Blood, he puts us in
+the vehicle of the two murderers as they drive to the Clutter
+household, and we can listen to their conversations and peer
+inside their minds. This is possible due to an extraordinary
+number of interviews with the subjects. In Random Family,
+Adrien Nicole LeBlanc lived on and off with her story subjects,
+experiencing their lives for almost ten years. When she writes
+what they thought and felt, she knew them intimately, and
+conveys those thoughts and feelings using the subject's own
+words. If your story subject tells you they "felt scared," you can
+write, "So and so felt scared," and that is honest and true
+reporting, and yet the point of view is now from the story
+subject rather than you, the narrator and author of the story.
+These slight shifts in POV are extremely effective in storytelling,
+but let's look at some student examples to see just how this
+element can be executed:
+
+Point of View and Genre
+
+  · Narrative Journalism is often driven by the 1st person POV
+      (as has been discussed at length in Chapter 5) as the
+      journalist reflects on and recounts personal experience
+      involving the story subject(s). While this is very effective, as
+      Isabel Wilkerson demonstrates masterfully in both Caste:
+      The Origins of Our Discontents, and The Warmth of Other
+      Suns: The Epic Story of America's Great Migration, as she
+      catalogs her experiences and interactions as she conducts
+
+                                                                            Chapter 8: POV | 73
+      her research, it is not the only POV available to us. Let's
+      look at this student example to see what we might learn
+      about point of view and genre:
+
+     Example
+
+        By: Patrick Masell
+
+Patrick makes some very creative and sophisticated decisions
+in terms of point of view, and so this example gives us plenty to
+explore. The introduction page begins in 1st person, as Patrick
+invites us into his research process as he explores the
+hauntings of Greenfield Village. In the fourth paragraph,
+Patrick introduces Macy, one of the story subjects, and yet, it
+is as if Macy is telling us her story. This is credit to Patrick's
+incredible research and creatively with using 3rd person limited
+omniscient point of view (delving into the psyche of one
+character). In addition, you can see him moving effortlessly
+between these points of view. This is beauty and power of point
+of view when applied to narrative journalism.
+74 | Chapter 8: POV
+· Traditional Journalism celebrates itself for its 3rd person
+   objective reporting. The narrator (journalist) should not
+   appear at all, and all that matters is the facts of the story.
+   This is useful as far as POV is concerned because it is very
+   easy to identify and to recreate. See the student example
+   by Skyler Anderson below:
+
+  Example
+
+   What we can learn from online
+ queer communities
+
+    As COVID-19 restrictions turn one year old,
+  what can we learn from communities that
+  were organized online before the
+  pandemic?
+
+     (Image would usually be featured in this location
+  with caption)
+
+     Skyler Anderson
+     Student at University of Michigan - Dearborn
+     March 24, 2021
+     Over the course of the past year, the world has been
+  grappling with the COVID-19 Pandemic. In this time in
+  person interactions have had to be dramatically
+
+                                                                         Chapter 8: POV | 75
+     reduced to stop the spread of the novel coronavirus.
+     With the stopping of physical interactions it is a good
+     idea to look towards communities that are used to
+     interacting with each other in a primarily virtual way.
+
+        LGBTQ+ communities have often found themselves
+     primarily interacting online long before the pandemic
+     had started. This online interaction had come about
+     out of necessity as queer people often find themselves
+     put into situations where they are unable to be
+     themselves in public facing ways for one reason or
+     another. This has led to vast and extensive online
+     communities with meaningful relationships of many
+     kinds being built up within them. Perhaps the world at
+     large can learn from these communities in these
+     troubling times.
+
+        First and foremost online queer communities show
+     that it is possible to build meaningful and fulfilling
+     connections with other people without ever physically
+     meeting them. With the advent of instant messaging
+     between people conversations can be had with people
+     all across the globe in real time. These conversations
+     can be through text, voice, and even video. What can
+     be taken away from this is that non physical
+     communication can be used for much more than just
+     classes or jobs. They can be used to keep in touch with
+     people you already know or even be used to meet new
+     people. With these connections people are able to
+     interact and discuss interests, talk about what is
+     happening in their lives, and even create lifelong bonds
+     with people.
+
+        In the modern era there is much more to do than just
+     talk online. It is incredibly easy to interact with others
+
+76 | Chapter 8: POV
+     through online multiplayer games by hopping into a
+     call and playing a few rounds of a game with some
+     friends in a community game night. There's much
+     more than action shooter games too. There are all sorts
+     of websites where you can play internet adaptations of
+     various board and party games. In addition, there are
+     also ways of watching movies and shows together
+     online seamlessly, such as through browser extensions
+     like WatchParty or websites like caracal.
+
+        Another big way of interacting with others is through
+     online concerts. While they gained massive popularity
+     in the past year due to lockdown restrictions they
+     began much earlier than that. One particular example
+     is Coalchella, which is a yearly online edm festival that
+     uses Minecraft as a virtual world to host the festival.
+     While not inherently LGBTQ many acts who took part
+     in the festival have queer members.
+
+        There is often talk of online connections being "less
+     real" than physical relationships. Yet when the
+     pandemic hit and the isolation and loneliness of being
+     stuck without any physical interactions began it
+     became clear that humans need interactions in some
+     other way. The queer communities that have existed
+     for years online show that there is another way of
+     achieving this essential human interaction without
+     ever physically being next to someone.
+
+Skyler maintains a distance from the material, and she
+presents the information clearly and without any subjectivity
+(it doesn't matter how the journalist feels about the content
+matter, as the story is prioritized). Still, it is worth mentioning
+that angle is still present, because Skyler has chosen what
+
+                                                                            Chapter 8: POV | 77
+information to include in the article and what the central story
+of the article is (captured in the headline and lede).
+
+  · Scriptwriting and Graphica also rely heavily on 3rd person
+      objective point of view, but in a very different way, and to a
+      much different effect. Both forms are all about "showing,"
+      and so there is no commentary/influence from the
+      narrator/journalist. Unlike news journalism, however, the
+      point of view is directly linked to meaning and theme,
+      whereas news journalism is more interested in revealing
+      information. This difference is useful in understanding just
+      how a single point of view can be used and to what effect.
+      See the student example by Skyler Anderson below,
+      focused on the same content matter as the example
+      above.
+
+     Example
+
+     A Welcoming Community
+
+        by: Skyler Anderson
+        STAGE DIRECTION
+        The set consists of 5 rooms with a door on the back
+     wall. Each room will have lights that light up whenever
+     a person's message is sent. Rather than reading lines,
+     each line will be played using text-to-speech unless
+     otherwise stated to signify that it is a text message.
+     Each room should have a distinct style. Nyx's room is a
+
+78 | Chapter 8: POV
+punk style with deep purple lights and a trans flag on
+the wall. Dawn's room is a pastel style with cyan lights
+with an ace flag on the wall. Jo's room is in a country
+style with red lights and a lesbian flag on the wall.
+Aera's room should have a celtic style with deep green
+lights with the rainbow flag on the wall. Sierra's room
+will change with each scene.
+
+SCENE I - NEW MEMBER
+
+   Everyone is in their room except for Sierra. Nyx and
+Jo will be laying on their beds on their phones, while
+Aera and Dawn will be at their desks. Sierra's room
+should be furnished with IKEA furniture, have white
+lights, and no flags on the wall.
+
+   Sierra enters scene by entering room and sitting at
+desk.
+
+SIERRA  Hello, my name is Sierra!
+
+JO Welcome Sierra, what brings you here?
+
+SIERRA  Well I've begun to question my gender
+
+identity so I wanted to join an LGBTQ server to meet
+
+some other people and understand myself more.
+
+   JO I hope you enjoy this place, it's really friendly.
+What pronouns would you like us to use?
+
+SIERRA  For now any are fine.
+
+JO Alright well I hope you enjoy it here!
+
+   NYX Sierra if you have any questions feel free to ask
+me!
+
+SIERRA  Thanks, I don't have any at the moment,
+
+but everything is just really confusing for me right now.
+
+                                   Chapter 8: POV | 79
+   AERA I get that, I've spent a lot of time thinking
+about my own identity too.
+
+DAWN                 Well if you ever need anything feel free
+
+to ask, I'm always happy to help a new queer person in
+
+need!
+
+(end scene)
+
+SCENE II - VENTING
+
+   A few weeks have passed since the previous scene.
+Sierra's room now has a nonbinary flag uP and the
+lights are yellow. The IKEA furniture still remains. Aera
+and Jo are not in the scene, while Sierra, Nyx, and
+Dawn are.
+
+SIERRA               Folks, I am really going through a lot
+
+right now and could really use some help.
+
+NYX Aww what's wrong Sierra?
+
+SIERRA               It's just that I came out to my family and
+
+they are having a hard time accepting me. I'm not in
+
+any danger or anything, but they're really not
+
+supportive of me.
+
+   NYX I've been there. Listen, it doesn't matter what
+anyone thinks. Your gender identity is valid and you'll
+get through this.
+
+SIERRA               It's just so hard, and it feels like people
+
+struggle with using they/them for me.
+
+SIERRA               I wish I lived in a more accepting house,
+
+in a more accepting area.
+
+DAWN                 You'll get there eventually. Just
+
+remember that we're here for you, and will help you
+
+80 | Chapter 8: POV
+through this. We're a community and we stick together
+through tough times.
+
+SIERRA       Thanks, I really needed to hear that.
+
+(end scene)
+
+SCENE III - GAME NIGHT
+
+   This scene takes place a few weeks later than the
+previous. All the actors should be at their desks. Sierra's
+room is now more vibrant and has a lot of plants. The
+light color should still be yellow.
+
+SIERRA       What game are we playing tonight?
+
+NYX Skribbl.io
+
+SIERRA       ooo, What's that?
+
+NYX It's a lot like pictionary, but it's online
+
+SIERRA       Sounds fun!
+
+DAWN         It is! I'm really good at it!
+
+   JO  Dawn, you lost the last three games we played
+:p
+
+DAWN         Shhhh I am trying to be cool
+
+JO Try ice.
+
+AERA Alright ready to begin?
+
+ALL Yeah
+
+   A few rounds go by, actors should improvise actions
+and actually play the game for effect. Screen should
+be added to the stage so the audience can watch the
+game as it happens.
+
+                                            Chapter 8: POV | 81
+SIERRA               That was really fun! We should do it
+
+again sometime!
+
+   AERA Yeah! We try to organize them on every Friday,
+but we fell out for a bit. Since everyone enjoys them, I'll
+try to organize them a lot more.
+
+SIERRA               Alright! I really like hanging out with y'all
+
+   JO We really like hanging out with you too, I'm
+glad you decided to join our community. I'm sure the
+others think much the same.
+
+(end scene)
+
+Again, the point of view here is 3rd person objective, and yet,
+the effect is completely different. The focus is, of course, on
+the characters in the story, and while we don't delve into the
+psyches of these characters, we do understand their thoughts
+and feelings through there words and actions. This is a credit to
+Skyler's scene and character development. In this way, point of
+view complements all of the other elements of fiction in order
+to heighten the reader experience.
+
+Media Attributions
+
+  · Screen Shot 2021-08-31 at 12.08.47 PM
+
+82 | Chapter 8: POV
+9. Digital Storytelling
+
+   "Don't get too comfortable with the present. Journalism is
+ ever-changing, more so than many other fields. Solid writing
+
+   skills, flexibility and curiosity go a long way in helping one
+                                         adapt."
+
+                                      - Sally Banner
+
+     Learning Objectives
+
+        Type your learning objectives here.
+          · To gain familiarity with the new frontier of
+             digital storytelling.
+          · To more deeply appreciate the use of
+             multimedia in storytelling.
+
+If we look back through the history of journalism, we've come
+full circle. Historically, journalism was narrative by nature. This
+all changed with the advent of the telegraph, as the speed
+that information travelled increased exponentially, as did the
+volume of stories the general reader had at their fingertips. This
+changed the nature of news journalism and unfortunately, the
+purpose of it. Information was valued over story. Now, we find
+that the meaning is lost without the story, and so the narrative
+
+                                                      Chapter 9: Digital Storytelling | 83
+framework and longform journalism has reestablished a more
+prominent role in major networks and publications.
+
+   With the advent of the internet and digital media, we have
+an abundance of new tools and methods for storytelling, and
+documentaries, podcasts, etc. are incredible vehicles for
+narrative journalism. As digital platforms get more
+sophisticated, so do the ways in which storytelling takes place.
+Now we have VR, interactive, storymaps, and social media
+stories that include multiple forms of media and engage us in
+never-seen-before ways. In doing so, there is a larger diversity
+of voices and stories from all corners of the world. This is the
+future of narrative journalism, and it would behoove any
+aspiring narrative journalist to immerse themselves in this new
+format of digital storytelling. The Online Journalism Awards
+archives is the perfect place to start, but let's look at a few
+student examples, two of which take the form of websites, and
+one that is presented through Instagram:
+
+     Example 1
+
+        By: Brooke Madgwick
+
+84 | Chapter 9: Digital Storytelling
+Brooke's piece of digital storytelling focuses on the future of
+education, and it incorporates a strong balance of primary and
+secondary research, and it wonderfully integrates multimedia
+sources in order to tell a more complete and engaging story.
+
+     Example 2
+
+        By: Autumn Tashman
+Autumn's piece highlights the use of visual media while
+embracing the blog format to draw the reader in and allow
+them to connect to the human experience situated in place.
+This piece nicely draws together elements of digital storytelling
+and place-based journalism to inspire us to explore more of the
+state of Michigan.
+
+     Example 3
+
+                                                      Chapter 9: Digital Storytelling | 85
+        By: Faith Billinger
+
+Faith's piece of digital storytelling in an incredible artistic
+sequence of character profiles all put together through the
+social media platform, Instagram. Not only does this appeal to
+a new generation of readers, but it allows Faith to reflect her
+personality and style through the angle and scope of the piece,
+and in doing so, we not only learn about the story subjects
+and their style, but more general trends of expressionism and
+fashion popular with Generation Z in 2020.
+
+   All of these examples speak to the creativity and opportunity
+that exist within digital storytelling. As pieces of narrative
+journalism, all of the same concepts and strategies still apply:
+the philosophy of ethics, the importance of thorough primary
+and secondary research, the role of angle and scope, and the
+possibilities that exist for your own storytelling when applying
+the elements of fiction to narrative nonfiction work.
+
+86 | Chapter 9: Digital Storytelling
+Media Attributions
+
+  · Screen Shot 2021-08-31 at 12.17.10 PM
+  · Screen Shot 2021-08-31 at 12.17.27 PM
+  · Screen Shot 2021-08-31 at 12.19.51 PM
+
+                                                      Chapter 9: Digital Storytelling | 87
+88 | Chapter 9: Digital Storytelling
+Glossary
+
+Angle
+
+      Angle refers to the author's perspective on the story
+      subject (i.e. what, specifically, the author is trying to
+      communicate).
+Flash Forward
+
+      Flash forward is a technique used in storytelling to leap
+      forward in time from the chronological progression of the
+      story.
+Flashback
+
+      Flashback is a technique used in storytelling to leap back in
+      time from the chronological progression of the story.
+Genres
+
+      Genre is a term used to define a category or type of creative
+      expression sharing similar style, form, or subject matter.
+Primary Research
+
+      Primary research is any research that you, the journalist,
+      collects through first-hand experience (i.e. interviews,
+      surveys, experiments, personal observations, etc.)
+Psychic Distance
+
+      Psychic distance refers to the proximity the reader is to the
+      characters' psyches. The closer the psychic distance, the
+      more the reader knows about internal thoughts, emotions,
+      etc.
+
+                                                                                      Glossary | 89
+Scope
+      Scope refers to the `narrative' scope of an article (i.e. how
+      much narrative coverage (scene/dialogue/etc.) is included
+      in an article).
+
+Secondary Research
+      Secondary research is any research that someone else has
+      collected first-hand (or second-hand) and that you access
+      through libraries, databases, archives, etc.
+
+Stage Direction
+      Stage direction refers to the descriptive content that helps
+      the audience (and performers) visualize the stage setting
+      and arrangement of characters.
+
+Suspense
+      A literary technique used to create tension in a story by
+      withholding crucial information or playing around with
+      mood, setting, etc.
+
+90 | Glossary
+

@@ -1,0 +1,490 @@
+Introduction to
+
+ Biosystems
+ Engineering
+Introduction to
+
+ Biosystems
+ Engineering
+
+                                                Edited by
+
+   Nicholas M. Holden, Mary Leigh Wolfe,
+   Jactone A. Ogejo, and Enda J. Cummins
+
+          A free version is available online at: https://doi.org/10.21061/IntroBiosystemsEngineering
+
+                                                                
+
+          American Society of Agricultural and Biological Engineers and Virginia Tech Publishing
+                                       St Joseph, MI and Blacksburg, VA, USA
+Copyright © 2020 American Society of Agricultural and Biological Engineers (collection)
+
+Authors retain copyright of their individual contributions.
+
+This work is licensed with a Creative Commons Attribution 4.0 license: https://creativecommons.org/licenses/by/4.0.
+For more information, see p. page xv.
+
+The work is published jointly by the American Society of Agricultural and Biological Engineers (ASABE) and Virginia Tech
+Publishing.
+
+ASABE, 2950 Niles Rd., St. Joseph, MI 49085-­9659 USA.
+phone: 269-­429-­0300 fax: 269-­429-­3852 e-­mail: hq@asabe.org
+www.asabe.org
+
+Virginia Tech Publishing, University Libraries at Virginia Tech, 560 Drillfield Drive,
+Blacksburg, VA 24061, USA. publishing@vt.edu
+publishing.vt.edu
+
+Virginia Tech is a member of the Open Education Network.
+
+Suggested citation: Holden, N. M., Wolfe, M. L., Ogejo, J. A. & Commins, E. J. (Eds.) (2020) Introduction to Biosystems
+Engineering. ASABE in association with Virginia Tech Publishing, Blacksburg, Virginia.
+Available from https://doi.org/10.21061/IntroBiosystemsEngineering
+
+Use of ASABE and Virginia Tech Publishing logos is authorized for this edition only.
+
+ASABE is an educational and scientific organization dedicated to the advancement of engineering applicable to
+agricultural, food, and biological systems.
+
+ASABE is not responsible for statements and opinions advanced in its meetings or printed in its publications. They
+represent the views of the individual to whom they are credited and are not binding on the Society as a whole.
+
+Peer Review: This book has undergone editorial peer review.
+
+Accessibility Statement: Virginia Tech Publishing is committed to making its publications accessible in accordance with
+the Americans with Disabilities Act of 1990. The screen reader-­friendly ePub version of this book is tagged structurally
+and includes alternative text which allows for machine-­readability.
+
+Publication Cataloging Information
+International Standard Book Number (ISBN) (PDF): 978-­1-­949373-9­ 7-­4
+International Standard Book Number (ISBN) (Print): 978-­1-­949373-9­ 3-­6
+Digital Object Identifier (DOI): https://doi.org/1 0.21061/IntroBiosystemsEngineering
+
+Cover images:
+Harvest [Public Domain] https://unsplash.com/photos/l_5MJnbrmrs
+Crossing [Public Domain] Ricardo Gomez Angel https://unsplash.com/photos/TbwnUGV4kok
+Sorting raspberries Frozen red raspberries in sorting and processing machines © Vladimir Nenezic, used under license
+from Shutterstock.com
+Aerial view over Biogas plant and farm in green fields. Renewable energy from biomass. Modern agriculture in Czech
+Republic and European Union © Kletr, used under license from Shutterstock.com.
+
+Copy editing by Peg McCann
+
+Cover design: Robert Browder
+Contents
+
+Preface
+Editorial Team
+Features of This Open Textbook
+
+ Energy Systems
+
+   Bioenergy Conversion Systems
+   Biogas Energy from Organic Wastes
+   Biodiesel from Oils and Fats
+   Baling Biomass: Densification and Energy Requirements
+
+ Information Technology, Sensors, and Control Systems
+
+   Basic Microcontroller Use for Measurement and Control
+   Visible and Near Infrared Optical Spectroscopic Sensors for Biosystems
+   Engineering
+   Data Processing in Biosystems Engineering
+
+ Machinery Systems
+
+   Traction
+   Crop Establishment and Protection
+   Grain Harvest and Handling
+   Mechatronics and Intelligent Systems in Agricultural Machinery
+
+ Natural Resources and Environmental Systems
+
+   Water Budgets for Sustainable Water Management
+   Water Quality as a Driver of Ecological System Health
+   Quantifying and Managing Soil Erosion on Cropland
+   Anaerobic Digestion of Agri-­Food By-­Products
+   Measurement of Gaseous Emissions from Animal Housing
+
+                                                                                                                                                                    v
+                                     Plant, Animal, and Facility Systems
+
+                                               Plant Production in Controlled Environments
+                                               Building Design for Energy Efficient Livestock Housing
+
+                                     Processing Systems
+
+                                               Freezing of Food
+                                               Principles of Thermal Processing of Packaged Foods
+                                               Deep Fat Frying of Food
+                                               Irradiation of Food
+                                               Packaging
+
+vi ·Contents
+Preface
+
+The discipline of Biosystems Engineering emerged in the 1990s from the tradi-
+tional strongholds of Agricultural Engineering and Food Engineering. Biosystems
+Engineering integrates engineering science and design with applied biologi-
+cal, environmental, and agricultural sciences. This book is targeted at 1st-­and
+2nd-­year university-l­evel students interested in Biosystems Engineering but
+not yet familiar with the breadth and depth of the subject. It is designed as a
+coherent educational resource, available as hard copy and for download as
+individual digital chapters.
+
+   The origins of the book date back to 2012, when a group of universities, led
+by University College Dublin (Ireland) in the European Union (EU) and Virginia
+Tech in the United States (US), began working on an EU-­US Atlantis Programme
+project called Trans-­Atlantic Biosystems Engineering Curriculum and Mobility
+(known as TABE.NET). One of the project activities was to explore the meaning
+of Biosystems Engineering. An important output of the work was the framework
+for an introductory course focused on Biosystems Engineering. This detailed
+how students might best be introduced to the subject and formed the basis for
+this textbook. The preparation of the textbook was supported by the American
+Society of Agricultural and Biological Engineers (ASABE) Harold Pinches and
+Glenn Schwab Teaching Materials Fund, intended for projects that "facilitate
+development or effective distribution of ASABE teaching materials, including
+textbooks," and the Virginia Tech University Libraries' Open Education Initiative
+(https://guides.lib.vt.edu/oer/grants). The writing and editing were provided
+as voluntary service by the authors and editors, and the ASABE funding sup-
+ported the publication process so the online version of the book can be made
+freely available around the world (ASABE.org/BE).
+
+   The chapters are intended to stimulate interest and curiosity across the
+breadth of Biosystems Engineering and provide an international perspective.
+The goal of each chapter is to introduce the fundamental concepts needed to
+understand a specific topic within the discipline of Biosystems Engineering; it
+is not intended to provide complete coverage of the topic. The scope of each
+chapter is narrow enough to be addressed in one week.
+
+   All chapters follow the same structure: Introduction, Outcomes, Concepts,
+Applications, and Examples. Following a brief introduction, the learning out-
+comes state what the reader should be able to do after studying the chapter.
+The outcomes are consistent with expectations for a student engaging with
+the topic for the first time, and include being able to describe basic principles,
+
+                                                                                                                                                                   vii
+               complete fundamental calculations, and explain how the concepts are used in
+               industry or by researchers. The concepts section covers basic principles and
+               explains terminology, referencing commonly used sources and using interna-
+               tionally accepted units. Once the concepts have been described they are put
+               into the context of applications in industry and research to help bring them
+               to life. All chapters conclude with worked examples drawing on the concepts
+               so that the reader can see how the information provided can be used to solve
+               basic problems in Biosystems Engineering. The chapter structure used by this
+               textbook could also be used to develop advanced textbooks delving deep into
+               any topic relevant to Biosystems Engineering.
+
+                  The inaugural chapters are aligned with six ASABE technical communi-
+               ties: Energy Systems; Information Technology, Sensors, and Control Systems;
+               Machinery Systems; Natural Resources and Environmental Systems; Plant,
+               Animal, and Facility Systems; and Processing Systems.
+
+                  The Energy Systems section focuses on energy from biomass. The section
+               places emphasis on feedstock and anaerobic digestion, but considers a wider
+               range of technologies from a systems perspective. Specific topics addressed
+               in this edition are densification of biomass; energy from organic wastes, fats
+               and oils; and bioenergy systems analysis. There is scope for future chapters on
+               other topics relevant to this community such as electrotechnology, feedstocks,
+               and renewable power.
+
+                  The Information Technology, Sensors, and Control Systems section focuses on
+               processing optical sensor data and basic control. The section places emphasis
+               on statistical methods as well as practical applications. Specific topics include
+               use of optical sensors, multivariate data processing, and microcontrollers.
+               Future chapters in this area could focus on topics such as automation, biosen-
+               sors, robotics, sensors, and wireless technology.
+
+                  The Machinery Systems section features agricultural technologies used for
+               field crops, placing emphasis on the fundamental principles of equipment design.
+               Current chapters focus on traction and mechatronics, which are topics that are
+               relevant to multiple machinery systems, and on machinery systems for crop
+               establishment and grain harvesting. Topics for future chapters could include
+               automation, hydraulics, ISO bus, precision agriculture, and other machinery
+               systems.
+
+                  The Natural Resources and Environmental Systems section highlights the
+               management, protection, and improvement of environmental resources includ-
+               ing soil, water, and air. This section places emphasis on field, laboratory, and
+               modeling studies related to environmental systems. Specific topics addressed
+               are the measurement of gaseous emissions, water budgeting, water quality, soil
+               erosion, and management of agri-­food by-p­ roducts using anaerobic digestion.
+               Examples of technical areas for future chapters relevant to this community are
+               drainage, irrigation, soil and water remediation, wetlands restoration, and sus-
+               tainable land management.
+
+                  The Plant, Animal, and Facility Systems section focuses on indoor plant and
+               animal production. The current chapters emphasize mass and heat transfer
+               for design and operation of agricultural buildings. Specific topics include plant
+               production in controlled environments and energy efficiency for livestock
+
+viii ·Preface
+housing. Future chapters relevant to this community could include topics such
+as grain handling, design of animal production structures, milk handling, manure
+management, feed storage and management, and aquaculture.
+
+   The Processing Systems section focuses on the safe processing and distri-
+bution of foods. This section places emphasis on heat and mass transfer and
+delivery of safe food to consumers. Specific topics addressed are food packaging,
+frying, and preservation by freezing, thermal processing, and irradiation. There
+is scope for future chapters on other topics relevant to this community such as
+food engineering, bioprocessing, bioconversion, drying, and unit operations.
+
+   While each chapter is placed in a single section, many of the topics are
+relevant to more than one section, or technical community. The "Anaerobic
+Digestion of Agri-­Food By-­Products" chapter in the Natural Resources and
+Environmental Systems section nicely illustrates the overlap between technical
+communities. Anaerobic digestion is both an environmental technology for the
+management of wastes and an energy technology for the provision of renew-
+able energy. The chapters in the Plant, Animal, and Facility Systems section also
+overlap with the Energy Systems technical community because of the role of
+energy, or heat transfer, management in indoor plant and livestock production.
+The mechatronics chapter in Machinery Systems overlaps with the Information
+Technology, Sensors, and Control Systems community.
+
+   There is scope for contribution of introductory level chapters from the other
+ASABE technical communities, Applied Science and Engineering (e.g., forest
+engineering, fermentation, engineering and biological fundamentals), Education,
+Outreach, and Professional Development (e.g., ethics and professional conduct),
+and Ergonomics, Safety, and Health (e.g., vibration, farm safety, ergonomic design,
+health and safety training) for the ongoing development of the ASABE digital
+education resources.
+
+   Our ambition is for this textbook to continually evolve, with the addition of
+new online chapters every year and periodic publication of hard copy volumes.
+Each new chapter will follow the standard structure described above and focus
+on a specific topic. We believe that in time the textbook will provide a founda-
+tional resource used all over the world by students learning about Biosystems
+Engineering for the first time.
+
+   In parallel with the preparation of this book, the editors, with the support
+of the ASABE Initiative Fund, have been developing the Biosystems Engineer-
+ing Digital Library (BEDL). This resource will support instructors by providing
+additional teaching and learning materials for use in the classroom and for
+assignments. While the library will not be limited to the scope of this book,
+from the outset it will be used to support both instructors and students who
+use this book. We believe this textbook combined with the BEDL will provide
+a global digital teaching resource for Biosystems Engineering for many years
+(ASABE.org/BE).
+
+                                                                                                                                        Preface · ix
+Editorial Team
+
+Editors-­in-­Chief
+
+The editors-i­n-­chief have overall responsibility for the book, including approval
+of content and editing. They established the team of technical community edi-
+tors (listed below).
+
+   Nicholas M. Holden is Professor of Biosystems Engineering and Head of Teach-
+ing and Learning in the School of Biosystems and Food Engineering at University
+College Dublin, where he has worked for the last 25 years. His research is focused
+on the environmental impact and sustainability of agriculture, and food systems.
+He teaches life cycle assessment, precision agriculture, and green technology
+project modules and is the Programme Director of the BAgrSc Agricultural Sys-
+tems Technology programme. He has been an ASABE member for over 20 years.
+
+   Mary Leigh Wolfe is Professor in the Department of Biological Systems Engi-
+neering (BSE) at Virginia Tech. After serving on the faculty at Texas A&M Univer-
+sity for over six years, she moved to Virginia Tech in 1992. Recently, she served
+as head of the BSE department for over eight years. Her research and teaching
+has focused on hydrologic modeling, nonpoint source (NPS) pollution control
+strategies, and decision support tools for NPS pollution control and watershed
+management. She has also conducted research related to engineering educa-
+tion. She is a Fellow, past president, and life member of ASABE.
+
+   Jactone A. Ogejo is an Associate Professor in the Department of Biologi-
+cal Systems Engineering (BSE) at Virginia Tech. His research and extension
+programs focus on improving the management and use of bioresidues from
+production agriculture and food processing. His work encompasses recover-
+ing value-­added products from bioresidues, agricultural air quality, and, more
+importantly, advancing knowledge to increase the acceptance and adoption of
+technology for manure management on animal production farms. He has been
+an ASABE member since 1992.
+
+   Enda J. Cummins is a Professor and Head of Research, Innovation and Impact
+in the School of Biosystems and Food Engineering at University College Dublin.
+His main research area is food safety, risk assessment, and predictive modelling,
+with a particular focus on implications for human health and environmental
+contamination. He teaches quantitative risk assessment, food physics, and
+research and teaching methods. He is Programme Director for the Masters
+of Engineering Science in Food Engineering at UCD. He has been an ASABE
+member since 2002.
+
+                                                                                                                                                                   xi
+                      Chapter Editors
+
+                      The chapters were developed with the support of:
+
+                      Amy Kaleita, Department of Agricultural and Biosystems Engineering, Iowa
+                         State University, USA
+
+                      Aoife Gowen, UCD School of Biosystems and Food Engineering, University Col-
+                         lege Dublin, Ireland
+
+                      Colette Fagan, Department of Food and Nutritional Sciences, University of
+                         Reading, UK
+
+                      Elena Castell-­Perez, Department of Agricultural and Biological Engineering,
+                         Texas A&M University, USA
+
+                      Fionnuala Murphy, UCD School of Biosystems and Food Engineering, University
+                         College Dublin, Ireland
+
+                      John Schueller, Department of Mechanical & Aerospace Engineering, University
+                         of Florida, USA
+
+                      Ning Wang, Department of Biosystems and Agricultural Engineering, Oklahoma
+                         State University, USA
+
+                      Panagiotis Panagakis, Department of Natural Resources Management and Agri-
+                         cultural Engineering, Agricultural University of Athens, Greece
+
+                      Qin Zhang, Department of Biological Systems Engineering, Washington State
+                         University, Prosser Campus, USA
+
+                      Ronaldo Maghirang, Department of Agricultural and Biological Engineering,
+                         University of Illinois at Urbana-­Champaign, USA
+
+                      Ruihong Zhang, Department of Biological and Agricultural Engineering, Uni-
+                         versity of California--­Davis, USA
+
+                      Tom Curran, UCD School of Biosystems and Food Engineering, University Col-
+                         lege Dublin, Ireland
+
+                      Contributors
+
+                      Bedoi, Robert, University of Zagreb, Croatia
+                      Both, A.J, Rutgers University, USA
+                      Calvet, Salvador, Universitat Politècnica de València, Spain
+                      Capareda, Sergio, Texas A&M University, USA
+                      Castell-­Perez, M. Elena, Texas A&M University, USA
+                      osi, Boris, University of Zagreb, Croatia
+                      Costantino, Andrea, Politecnico di Torino, Italy
+                      Dui, Neven, University of Zagreb, Croatia
+                      El Mashad, Hamed, University of California--­Davis, USA, Mansoura University,
+
+                         Egypt
+
+xii · Editorial Team
+Fabrizio, Enrico, Politecnico di Torino, Italy
+Feng, Yao-­Ze, Huazhong Agricultural University, China
+Gates, Richard, Iowa State University, USA
+Gorretta, Nathalie, University of Montpellier, France
+Gowen, Aoife A, University College Dublin, Ireland
+Hassouna, Mélynda, French National Institute for Agricultural Research, France
+Hayes, Enda, University of the West of England, UK
+He, Brian, University of Idaho, USA
+Hutchinson, Stacy L, Kansas State University, USA
+Krometis, Leigh-­Anne H, Virginia Tech, USA
+Moreira, Rosana G, Texas A&M University, USA
+Morris, Scott A, University of Illinois at Urbana-­Champaign, USA
+Nuñez, Helena, Universidad Técnica Federico Santa María, Chile
+Oberti, Roberto, University of Milano, Italy
+Pryor, Scott, North Dakota State University, USA
+Puksec, Tomislav, University of Zagreb, Croatia
+Qiu, Guangjun, South China Agricultural University, China
+Queiroz, Daniel M, Universidade Federal de Vicosa, Brazil
+Ramírez, Cristian, Universidad Técnica Federico Santa María, Chile
+Rovira-­Más, Francisco, Universitat Politècnica de València, Spain
+Saibandith, Bandhita, Kasetsart University, Thailand
+Saiz-­Rubio, Verónica, Universitat Politècnica de València, Spain
+Schrade, Sabine, Agroscope, Switzerland
+Schueller, John K, University of Florida, USA
+Schulze Lammers, Peter, University of Bonn, Germany
+Shelford, Timothy J, Cornell University, USA
+Shi, Yeyin, University of Nebraska-­Lincoln, USA
+Simpson, Ricardo, Universidad Técnica Federico Santa María, Chile
+Sokhansanj, Shahab, University of Saskatchewan, Canada
+Stombaugh, Tim, University of Kentucky, USA
+Uusi-­Kämppä, Jaana, Natural Resources Institute, Finland
+Wang, Ning, Oklahoma State University, USA
+Yamsaengsung, Ram, Prince of Songkla University, Thailand
+Zhang, Ruihong, University of California--­Davis, USA
+Zhang, Qin, Washington State University, USA
+
+                                                                                                                              Editorial Team · xiii
+                               Publishing Team
+
+                                           Managing Editor: Anita Walz
+                                           Production Manager: Corinne Guimont
+                                           Production Assistant: Sarah Mease
+                                           Cover Design: Robert Browder
+                                           Copyeditor: Peg McCann
+
+xiv · Editorial Team
+Features of This
+Open Textbook
+
+Additional Resources
+
+   The following resources are available at:
+       http://hdl.handle.net/10919/93254
+
+Free downloadable PDF of the book
+Free downloadable chapter-­level PDFs
+Print edition ordering details
+Link to the Biosystems Engineering Digital Library (BEDL)
+Links to additional resources
+Errata
+
+Tell Us About Your Use--­Review / Adopt / Adapt /
+Build upon / Share
+
+Are you an instructor reviewing, adopting, or adapting this textbook? Please help
+us understand your use by completing this form: https://b it.ly/IBSE_feedback
+
+This work is licensed with a Creative Commons Attribution 4.0 International
+License. You are free to copy, share, adapt, remix, transform, and build upon the
+material for any purpose, even commercially, as long as you follow the terms of
+the license: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You must:
+
+Attribute--­You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but
+not in any way that suggests the licensor endorses you or your use.
+
+   Suggested citation: Adapted by _[your name]_ from (c) Holden, N. M., Wolfe,
+M. L., Ogejo, J. A., and E. J. Cummins. (2020) Introduction to Biosystems Engi-
+neering, ASABE in association with Virginia Tech Publishing. https://doi.org/
+
+                                                                                                                                                                   xv
+                                           10.21061/IntroBiosystemsEngineering, CC BY 4.0, https://creativecommons
+                                           .org/licenses/by/4.0
+
+                               You may not:
+
+                                           Add any additional restrictions--­You may not apply legal terms or technological
+                                           measures that legally restrict others from doing anything the license permits.
+
+                                               If adapting or building upon, you are encouraged to:
+                                               Incorporate only your own work, works with a CC BY license, or works
+
+                                                  free from copyright.
+                                               Attribute all added content. If incorporating text or figures under an
+
+                                                  informed fair use analysis, mark them as such, including the country of
+                                                  the fair use exemption you're claiming, and cite them.
+                                               Include a transformation summary that describes changes, additions,
+                                                  accessibility features, and any subsequent peer review.
+                                               Have your work peer reviewed.
+
+                             Suggestions for creating and adapting:
+
+                                               Create and share learning tools and study aids.
+                                               Add or modify problems and examples.
+                                               Translate, transform, or build upon in other formats.
+                                               Annotate using Hypothes.is http://web.hypothes.is
+                                               Modify an Open Textbook: https://press.rebus.community/otnmodify
+                                               For further ideas, contact a member of the Open Textbook Network
+
+                                                  https://open.umn.edu/otn
+
+                             Feedback
+
+                                           Submit suggestions and comments https://bit.ly/IBSE_feedback
+
+xvi · Features of This Open Textbook
+

@@ -1,0 +1,3112 @@
+Katherine A. Seaton
+LA TROBE EBUREAU
+La Trobe University, Melbourne, VIC 3086, Australia
+library.latrobe.edu.au/ebureau/
+
+Published in Australia by La Trobe University
+� La Trobe University 2023
+First published 2018
+Updated edition (v1.01) published 2023
+Copyright Information
+Copyright in this work is vested in La Trobe University. Unless otherwise
+stated, material within this work is licensed under a Creative Commons
+Attribution-Non Commercial-Share Alike License.
+
+CC BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Don't Cheat Yourself: Scenarios to clarify collusion confusion
+Katherine A. Seaton
+ISBN978-0-6484681-0-3
+DOI https://doi.org/10.26826/1009
+
+Other information
+Designed by La Trobe eBureau
+Edited by Hilary Cadman
+Cover designed by Evi O. Studio
+This etextbook has been peer reviewed
+
+Enquiries: eBureau@latrobe.edu.au
+Contents
+
+Preface to the revised first editionI  Scenario  V42
+About the AuthorII                     Scenario  W 43
+Acknowledgements III                   Scenario  X44
+Interactivity IV                       Scenario  Y45
+Glossary TermsIV                       Scenario  Z46
+AnnotationIV                           Scenario  VL47
+                                       Scenario  XIX 48
+Introduction  1                        Scenario  XL49
+
+Chapter 1                              Chapter 3
+Mathematics and                        Issues raised by the scenarios  50
+Academic Integrity 6
+                                       Scenario  A51
+1.1 Mathematics - It's clear cut,      Scenario  B51
+    isn't it?7                         Scenario  C52
+                                       Scenario  D53
+1.2 Themes in studies of               Scenario  E54
+    academic integrity10               Scenario  F55
+                                       Scenario  G56
+1.3 Learning about maths from          Scenario  H57
+    non-text disciplines13             Scenario  I 58
+                                       Scenario  J59
+1.4 Discussion and definitions         Scenario  K60
+    of the behaviours16                Scenario  L61
+                                       Scenario  M 62
+Plagiarism and copying16               Scenario  N63
+Collaboration and collusion 18         Scenario  O64
+                                       Scenario  P65
+Chapter 2                              Scenario  Q66
+The scenarios 20                       Scenario  R67
+                                       Scenario  S67
+Scenario  A21                          Scenario  T68
+Scenario  B22                          Scenario  U69
+Scenario  C23                          Scenario  V70
+Scenario  D24                          Scenario  W 71
+Scenario  E25                          Scenario  X72
+Scenario  F26                          Scenario  Y73
+Scenario  G27                          Scenario  Z74
+Scenario  H28                          Scenario  VL75
+Scenario  I 29                         Scenario  XIX 76
+Scenario  J30                          Scenario  XL77
+Scenario  K31
+Scenario  L32                          Glossary 78
+Scenario  M 33                         Reference List 81
+Scenario  N34
+Scenario  O35                          Version history86
+Scenario  P36                          Accessibility checklist87
+Scenario  Q37
+Scenario  R38
+Scenario  S39
+Scenario  T40
+Scenario  U41
+                                                                                                                                                                        I
+
+Preface to the revised first edition
+
+By the time that the first edition of this e-book became available in late 2018, some two
+years after the project that led to it began, awareness of contract cheating as another
+threat to academic integrity in all disciplines, including mathematics, was growing.
+The nature of much mathematics assessment, each assignment or online exam being
+comprised of a set of shorter questions, meant that patchy work with wide variation
+in quality and accuracy between items on the same submission was at first puzzling to
+assessors, and then recognized as a possible sign of unpermitted outsourcing of some
+or all items (TEQSA, 2021).
+
+The original Scenarios J, K, M, T and W refer to posting assessment items to online
+forums and accessing other students' work from peer-to-peer file sharing sites
+(Rogerson & Basanta, 2016). Like collusion, the original focus of the book, that these
+actions could be academic misconduct might possibly be unclear, since to some
+extent they resemble permitted forms of help seeking. However, blatant commercial
+contract cheating was not directly addressed in the first edition. The various forms that
+assessment took during the Covid-19 lockdown periods of 2020-2021, and the isolation
+and pressures experienced during those times, were exploited by commercial providers
+of cheating services (Lancaster and Cortalan, 2021). During 2020, I wrote several new
+scenarios in which commercial contract cheating and the pandemic circumstances
+featured. As with the original scenarios, these are informed by direct experience as
+an assessor, and by published literature about the manipulative commercial contract
+cheating industry.
+
+The actor names and the names of the new scenarios reflect the times in which
+they were written. Roman numerals for 19 (XIX) and 40 (XL, quaranta in Italian) - the
+once traditional length of a quarantine - have been used. VL is not a Roman numeral,
+although it resembles one; it is based on an abbreviation for `Virtual Learning'.
+
+This revised first edition enables these new scenarios to be made available to students
+and to other mathematics educators alongside the original 26, all of them now covered
+by a different creative commons license which permits adaptive re-use. There have also
+been a small number of minor corrections to the original text.
+
+Katherine Seaton, February 2023.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                            II
+
+About the Author
+
+Katherine Seaton is an Associate Professor
+in the Department of Mathematics and
+Statistics at La Trobe University.
+
+She has a Bachelor of Science (Honours)
+and Ph. D from the University of
+Melbourne, and a Graduate Certificate in
+Higher Education (Curriculum, Teaching
+and Learning) from La Trobe.
+
+Katherine has published articles in the
+areas of mathematical physics, maths
+applications, tertiary mathematics
+education and mathematics and the arts.
+
+Her particular interest in mathematics
+
+education is in assessment. Katherine        PHOTO BY LA TROBE UNIVERSITY PHOTOGRAPHY USED WITH PERMISSION
+has over twenty-five years' experience in
+
+tertiary mathematics teaching, recognised by several La Trobe teaching awards, and is
+
+a passionate communicator of mathematics both to La Trobe students and in outreach
+
+activities.
+
+Her hobbies include fibre arts and reading.
+
+DON'T CHEAT YOURSELF                         KATHERINE A. SEATON
+                                                                                                                                                                      III
+
+Acknowledgements
+
+This book could not have come into being without:
+
+- funding from the La Trobe University College of Science, Health and Engineering
+   Teaching and Learning Internal Grants Scheme, which made the scenario writing
+   possible, and paid for the valuable and meticulous research assistance of Dr Stacey
+   Mendan
+
+- helpful conversations during that project
+
+   � in person with La Trobe colleagues Prakash Veeraraghavan (Computer Science),
+       Robert Ross and Andrew Martchenko (Engineering) and Robyn Yucel (La Trobe
+       Learning and Teaching)
+
+   � by telephone with Professor Shelley Yeo (Curtin University)
+   � by email with Judithe Sheard (Monash University)
+
+- feedback from participants at the workshops where the scenarios were trialled
+
+   � Show your working. Your working, First Year in Maths 2016, and Australian
+       Association of Mathematics Teachers Conference 2017
+
+   � Integers, Integration and Integrity, Australian Conference on Science and
+       Mathematics Education 2017w
+
+   � Don't cheat yourself: Clarifying collusion confusion, La Trobe University School of
+       Engineering and Mathematical Sciences Teaching and Learning Workshop 2017
+
+   � Academic integrity for non-text tasks, La Trobe University Scholarship of Learning
+       and Teaching (SOLT) seminar, 2018
+
+- the Shut Up and Write group convened by the Research Education and Development
+   (RED) team at La Trobe University
+
+- the relevant insights I have gained from working with my colleagues in Mathematics
+   and Statistics, and on the University Appeals Committee.
+
+Thank you all.
+
+This book is dedicated to my parents, who developed my mathematics, writing and
+character; and to my family - John, Laura and Millie.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      IV
+
+Interactivity
+
+This etextbook has multiple interactive elements that extend and expand upon the
+content. It is recommended that Adobe Acrobat be used to utilise these interactive
+elements.
+
+Glossary Terms
+
+Look out for Glossary Terms in bold throughout the text; when clicked these terms
+link to the glossary at the end of the etextbook. (Use the command Alt + Left Arrow to
+return to your place in the PDF).
+
+Annotation
+
+Annotating this etextbook is a useful tool and is great for taking notes on the pages.
+The easiest way to add comments is to use the sticky note tool in Adobe Acrobat. For
+more information and instructions on how to annotate PDF's there is a tutorial on the
+Adobe website.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Introduction
+INTRODUCTION                                                                                          2
+
+In the growing body of literature about undergraduate academic integrity, both
+instructional and analytical, there is a gaping hole. Mathematics is `missing in action'.
+This gap has been pointed out, for example, by Simon (2016, p. 778) and by Gilmore,
+Maher, and Feldon (2016, p. 734). As a mathematics student, the dearth of information
+that is of immediate relevance to the situations in which you find yourself might make
+you feel confused and sometimes stumbling, as if you are in a maze or an obstacle
+course. (For mathematicians assessing student coursework, the issue is not only a gap
+in the literature, but an elephant in the room.)
+
+Dick et al. (2003) give a good summary of the harm done
+by students when their behaviour circumvents them
+developing their own competence. Incompetent
+graduates damage the reputation of their institution,
+their degree and their profession, and could
+endanger others in their professional practice.
+During their studies, students who take
+proscribed shortcuts affect themselves by
+missing out on learning; they also damage
+the educational environment and use up
+their teachers' time, which
+should be spent more
+positively; and they gain
+unfair advantage over
+other students.
+
+So, given that academic misconduct is
+harmful, and under-examined in the maths
+context, what should we do about it?
+
+East (2006) found that abstract instruction, given
+
+ahead of any tasks and given only once, is not an
+
+effective way to learn about academic integrity.
+
+Students need reiterated advice, within the specific
+
+context of the types of tasks they actually have
+
+to do (Riedesel et al., 2012). They need to acquire
+
+a procedural rather than a purely theoretical         `ELEPHANT POLYGON' FROM PIXABAY USED UNDER CC0
+
+knowledge of what constitutes academic integrity.
+
+In their first year, mathematics or computer science students do not generally have to
+
+read and cite primary sources. Hence, it is unreasonable to expect them to extrapolate
+
+from abstract instruction about paraphrasing, referencing and direct quotation, how
+
+the principles of academic integrity apply to solving unseen or even routine problems.
+
+DON'T CHEAT YOURSELF                                     KATHERINE A. SEATON
+INTRODUCTION                               3
+
+Yet this sort of general, `one-size-fits-all' instruction, immediately after first enrolling,
+has often been the only kind that students experience (Simon & Sheard, 2015, 2016).
+
+This book was developed in response to the need for a customised resource for
+mathematics educators and students. Its format was inspired by the work of Yeo (2006,
+2007) undertaken with Australian science students. She used sentence-long science-
+specific scenarios to gauge student and staff understanding of actions and interactions
+that may or may not be acceptable. Based on her findings, Yeo proposed that students
+should also learn about academic integrity through scenarios. Scenarios have also been
+used as a tool in the research of Sheard and her numerous collaborators in computer
+science, and in the work of Barrett and Cox (2005) and O'Malley and Roberts (2012). The
+longer, story-like scenarios of Riedesel et al. (2012), which they linked to the computer
+science industry's code of conduct, were also an important influence on this book.
+
+Chapter 1 outlines major themes in the literature about academic integrity that are
+pertinent to this book, and explores the nature of mathematics assessment. Because
+the landscape in which we all function has changed so much in the past 15 years
+- thanks to technology, social media, computational platforms and text-matching
+software - older literature has not been included. It also defines and discusses forms of
+academic misconduct; the definitions are summarised in the Glossary.
+
+Chapter 2 presents the 26 scenarios that form the core of this book. They are intended
+to promote thoughtful discussion among students, and between students and their
+teachers. Each is described in one or two paragraphs, presented on a single page,
+accompanied by suggested questions. In some cases, there is additional information
+about how the scenario unfolds, to direct the discussion or to raise new issues; the
+extra information is followed by one or more further questions.
+
+Chapter 3 summarises the issues that may be raised by each of the scenarios in
+Chapter 2. It also refers to the academic integrity research literature, so that interested
+readers can explore the issues further. The possible outcomes discussed, in terms
+of any consequences for behaviour, refer to the policies and procedures of La Trobe
+University at the time of writing.
+
+The scenarios and discussion questions were developed in a 2016 project, titled Don't
+cheat yourself: Clarifying collusion confusion, funded by the La Trobe University
+College of Science, Health and Engineering Teaching and Learning Internal Grants
+Scheme. The name of the project was carefully chosen to indicate that shortcuts in
+learning ultimately short-change the individual. Clearly, breaches of academic integrity
+also offend against the assessor, the institution and community standards of behaviour
+(Borg, 2009); however, abstract ideals may not be as compelling as personal ones
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+INTRODUCTION                                                                             4
+
+                                            (Ashworth, Bannister, & Thorne, 1997).
+
+"Today I am going to give you               This project title has been adapted for the
+two examinations, one in trig-              book.
+
+onometry and one in honesty. I              The title also acknowledges that as a
+hope you will pass them both,               student you may sometimes genuinely be
+but if you must fail one, let it be         unaware of what is an acceptable amount
+trigonometry...for there are many           of interaction with others in producing
+good [people] in this world today           answers or responses to assessment
+who cannot pass an examination              tasks, particularly when interactions in
+in trigonometry, but there are no           class are encouraged (McGowan, 2016).
+good [people] in the world who              Where does discussion end and collusion
+cannot pass an examination in               take over? East (2006) argues that the
+honesty."                                   conventions of Australian academic
+                                            culture may have been learned implicitly,
+- Madison Sarratt (1891-1978), Dean,        or may be taken for granted by its
+
+Vanderbilt University
+
+                                            members; East advocates for discussion
+
+                                            between students and lecturers, rather
+
+than a simple list of blanket instructions or rules, so that questions can be explored and
+
+concerns raised. Riedesel et al. (2012) noted that a lack of intentional thought can result
+
+in a failure to act with academic integrity; indeed, stimulating intentional thought is
+
+precisely what this book is intended to do. Although individuals can work through the
+
+scenarios, they are primarily intended to be used as discussion starters in lectures,
+
+tutorials or online forums. The start of a subject or shortly before an assessment task
+
+is assigned are suitable times to consider one or two of them. Sutton and Taylor (2011)
+
+found that students wanted to discuss academic integrity in tutorials with a tutor, not
+
+just be informed about it via a handout or a booklet. This book contains a large enough
+
+collection to allow a single cohort of students to discuss fresh scenarios as they
+
+progress through subjects and year levels.
+
+Most of the scenarios in this resource are mathematical; however, some of them refer
+more generally to assignments, and others refer specifically to computer laboratory
+work or programming assignments, which arise in computer science or engineering
+as well as in maths and statistics. Some of the scenarios are also suitable for use by
+secondary school students and their teachers. They do not feature forms of conduct
+that are unambiguously proscribed and deceptive, such as impersonation and the
+most blatant forms of contract cheating. Also, they do not feature supervised, timed
+examinations, given that the integrity of a student's work in such exams is generally
+assured by the same means for all disciplines (e.g. effective supervision, exclusion of
+technology and unseen questions). Some of the scenarios feature misconduct, whereas
+others describe behaviour that is actually fine, because it is important for students
+
+DON'T CHEAT YOURSELF                        KATHERINE A. SEATON
+INTRODUCTION                               5
+
+to know what is allowed and what is not in order to come to a clearer understanding
+(Riedesel et al., 2012). Sutherland-Smith (2013) notes that students want to know about
+acceptable practice as well as unacceptable practice.
+
+Stepp and Simon (2011) asked computing students to write their own scenarios for class
+discussion; they were to illustrate student-to-student collaboration that was at the
+boundary of inappropriate. The resulting scenarios often lacked precision. Although
+the study participants saw this as a fault, the authors noted that it opened up the
+possibility for discussion. In reality, the interactions between human beings are often
+imprecise and subject to interpretation, which is exactly why the scenarios given here
+may leave you unsure of whether there is a `right' answer (as those who trialled the
+scenarios found). East (2006) had a similar experience with the scenarios she used in
+her practice. Realising that one's actions and motives may be construed differently by
+another, or that what is clear to one person may be obscure to someone else, will be
+helpful as students and their assessors grapple together with the difficult problem of
+academic misconduct.
+
+As they say in the movies, the scenarios in Chapter 2 are inspired by true events, but
+all characters are fictitious and no identification with actual persons is intended. The
+names used in the scenarios have been made up, with no intention of assigning to them
+a particular gender or nationality.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1
+Mathematics
+and Academic
+Integrity
+Chapter 1                                  7
+
+1.1 Mathematics - It's clear cut,
+    isn't it?
+
+Ah, what did people do before Turnitin? Text-matching software is now almost
+universally applied to prose text assessment in universities, both by students (before
+submission) and by assessors (as part of the assessment process). Such software has
+found little or no application in mathematics or statistics assignments. In a discussion
+of plagiarism in science education, O'Malley and Roberts (2012) point out that, unlike
+constructed prose in essays, the working for calculations in chemistry and physics,
+and for simple problems in mathematics generally, does not bear the signature style
+of individual students. It is not always possible to customise maths tasks to create
+responses that can be differentiated (Barrett & Cox, 2005). As with computer science,
+in mathematics and statistics, the `deliverables tend to have somewhat uniform
+structure, making similarity detection more difficult' (Simon, Cook, Sheard, Carbone,
+& Johnson, 2014). (Indeed, some students and academics believe that the correct
+responses in these disciplines are formulaic or must be identical (Simon & Sheard,
+2015); in my opinion, this is an over-simplification.) Fraser (2014) points out that, owing
+to the nature of computer science, the best answers will be highly similar, the compiler
+being `a relentlessly unforgiving arbiter of correctness' (Roberts, 2002). And it is not just
+the answers that are confined; Stepp and Simon (2011) have described the constraints
+on the types of tasks arising in introductory programming assignments.
+
+Clearly, if students were put to the trouble of typesetting their maths calculations so
+that they could be electronically scanned for identical combinations of characters,
+high levels of matching would need to be considered, most of which would actually be
+recognised as reasonable. Furthermore, typesetting mathematics is time-consuming,
+and is not necessarily a skill that needs to be learned for many of the careers to which
+first- or second-year students of maths may be headed; it would be an inefficient and
+inauthentic (and thus highly unpopular) activity for them. It adds unnecessarily to the
+cognitive load (Rowlett, 2014). Hence, submitting handwritten assignments is still a
+common experience for mathematics students across Australia.
+
+Simon and Sheard (2016) and Dick et al. (2003) found that manual detection of
+misconduct by computer science academics is commonplace (more so than automated
+techniques). This detection involves, for example, noticing similarities in code, uneven
+quality or sudden improvement in a student's work, or the incorporation of content
+that is beyond the scope of the course. What, then, makes a maths lecturer begin to
+wonder whether the work on which they are providing feedback (positive or negative)
+has been created by the person whose name is on that piece of work, and whether it
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  8
+
+is a true reflection of that person's understanding? At the time of writing, there are no
+published studies of academic integrity in tertiary mathematics assessment. We must
+speculate, based on anecdotal evidence.
+
+Perhaps the working is incorrect or incomplete, but somehow it manages to `result' in
+the correct final answer.
+
+Maybe a cluster of students submit work that is almost identical, and that contains unusual
+mistakes (rather than common errors seen across the cohort) or the same misinterpretations
+(e.g. not only is the answer incorrect, it is the wrong kind of mathematical object).
+
+PHOTO BY JONATHON NEWMAN.
+
+Or a student submits nonsense working that seems to have come from transcribing
+without reflection or understanding; for example, a z turns into a 2 then turns back
+into a z later on, a colon becomes an equals sign over the course of a few lines, or the
+paragraph spacing and line breaks match those of another student, even though the
+size of the handwriting is quite different.
+
+Perhaps the language and form of the answers are more sophisticated than the current
+level of instruction, suggesting that the student has consulted an outside source (paid
+or unpaid) rather than the course notes; for example, early in the first semester, a first-
+year student uses the term `affine subspace' to interpret a set geometrically, whereas at
+this level students simply use the term `line'.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  9
+
+Possibly the form of the answer is unusual or unexpected, suggesting that it came from
+a technological source without any critical interpretation (e.g. an answer is expressed
+in hyperbolic functions, which have not yet been taught, rather than in exponential
+functions, which have). Biddle (2017) suggests that such responses result from students
+relying on computer algebra system (CAS) calculators, mathematical software and
+online resources such as Wolfram|Alpha.
+
+You may think that there is no problem with the last two cases - if a student gives
+a right answer in any form, it is right, end of story. But that is to misunderstand
+the purpose of assessment. Assessment is not simply a transaction, wherein the
+marker is keen to see good answers (however they are produced) for which a
+correspondingly high mark will automatically be given in return (Fraser, 2014). Rather,
+coursework assessments are a key part of the learning experience, with the end goal
+being deepened understanding (Barrett & Cox, 2005). It is the process (procedural
+understanding), as well as the product, that must be under the student's control
+(McGowan, 2016). The value of the experience is lost if one simply procures the answer
+(Roberts, 2002).
+
+There will be more comments about the nature of mathematics assessment in Section
+1.3, but we next consider what the experts say about undergraduate academic
+misconduct and explain how it relates to this book.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  10
+
+1.2 Themes in studies of
+    academic integrity
+
+The extensive, and growing, literature in academic integrity can be broken into at least
+six loose strands.
+
+Many studies estimate how much problematic behaviour is occurring and whether
+this has changed over time. Others investigate whether particular student groups
+(by demography or discipline) are more likely than others to engage in it. These two
+strands in the literature, which are largely quantitative, do not directly inform this
+book, apart from affirming the need for it!
+
+The next two strands were fundamental in developing the scenarios of Chapter 2 and
+discussion of them in Chapter 3. They are the reasons or rationalisations that students
+give for academic misconduct, and the understanding that students and academics
+have of what comprises acceptable or unacceptable behaviour. Largely, these strands
+have been investigated by surveys, focus groups and interviews.
+
+A fifth strand of discussion concerns ways to reduce problematic behaviour. Sheard
+and Dick (2012) identified four types of strategies suitable in different situations:
+prevention, education, detection and consequence. This book is primarily educative;
+however, detection and consequence do inform the scenarios and discussion items in
+Chapters 2 and 3. Prevention initially referred to implementing assessment regimes
+(including scaffolded or customised tasks) that reduce the perceived need of or the
+ready opportunity for misconduct. More recently, Sheard et al. (2017) have elaborated
+on what prevention looks like in practice; that is, discouraging cheating, reducing its
+benefits and making it more difficult, as well as (more positively) empowering and
+supporting students. Hence, this book can be seen also as preventive, taking a proactive
+approach by equipping students to act with integrity through improved understanding
+of collusion.
+
+Picking up on the theme of support and empowerment, the idea is emerging in the
+literature that enhancing other aspects of the teaching and learning environment,
+rather than focusing only on improving instruction about what constitutes misconduct,
+can prevent misconduct. To date, this idea seems to be coming mainly from Australian
+authors. The students interviewed by Devlin and Gray (2007) voiced the opinion that
+being underprepared or frustrated with the quality of teaching led to some misconduct.
+Simon and Sheard (2015) reported that struggling to do work unaided but finding it
+difficult to source permitted help is a factor (though it is not necessarily a justifying
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                                                                                                    11
+
+one) in students seeking out unauthorised `help'. McGowan (2005) promoted the idea of
+enabling students to develop their academic skills as a response to some misconduct,
+rather than giving them an automatic penalty. Following a recent, large study, Bretag
+et al. (2018) encapsulated this idea nicely in their recommendation that fostering
+`personalised teaching and learning relationships' with students is something that
+university staff can do in the face of the problem of outsourcing behaviours.
+
+Although the terms necessarily pervade all the strands of discussion, definitions and
+taxonomies of categories into which specific behaviours can be classified -- plagiarism,
+copying, collusion, patch-writing, cheating -- form a distinct strand in the literature.
+We establish the definitions to be used in this book later in this chapter (see Section
+1.4), and summarise them in the Glossary.
+
+For the most part, those writing about academic integrity either gloss over
+mathematics or fail to acknowledge it. Even in the important and recently published
+Handbook of academic integrity (Bretag, 2016), which runs to more than 1,000 pages,
+there is so little about mathematics that it can be reproduced here in its entirety:
+
+In mathematics it is sometimes the case that there is only one correct answer to
+a given question, even if that answer is many lines long. A mathematical proof,
+for example, is far more constrained in its form than a computer program or
+a musical composition. Markers will therefore expect all correct answers to be
+close to identical. In these circumstances, neither plagiarism nor collusion can
+be suggested by measures of similarity - except where two or more students have
+submitted assessment items displaying the same egregious error. This might help to
+explain why no literature has been found on academic integrity or its breaches in
+mathematics education.
+
+                                                                                                       (Simon, 2016, p.778)
+
+The occurrence of academic integrity violations appears to be surprisingly
+understudied in the field of mathematics, at least at the college level. From a student
+and even instructor perspective, mathematics can be seen as unchangeable in
+content and preoccupied with student mastery of algorithmic procedures.
+
+                                                                                              (Gilmore et al., 2016, p.734)
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  12
+
+And that is it! As stakeholders, we (students and teachers) cannot deal with the
+elephant in the (class) room simply by shrugging our collective shoulders.
+Some of the other non-text disciplines are beginning to receive coverage in the
+literature. Computer science, in particular, has developed an extensive body of writing
+on academic integrity, the information otherwise available falling so wide of the mark.
+Simon et al. (2014) undertook a comparative study of perceptions regarding non-text
+(coding and visual design) tasks and essays, and recommended that context-specific
+issues be considered both in disciplinary processes and in education about academic
+integrity. For those who are not experts, it is difficult to appreciate how unlikely it is
+that certain subtle correspondences between students' work have arisen by chance
+(Roberts, 2002; Simon & Sheard, 2016). Just as different academic disciplines can have
+their signature pedagogies, they may have distinctive assessment tasks; this means that
+idiosyncratic forms of academic misconduct can arise (Borg, 2009), which overarching,
+generic university policies can barely address.
+
+In the next section, we look at what we can abstract and apply to mathematics from
+what has been written about other disciplines.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  13
+
+1.3 Learning about maths from
+    non-text disciplines
+
+If you are a mathematician or mathematics student, at this point you might want to
+argue that the communication of mathematics in symbols organised in conventionally
+recognisable and meaningful structures is text, albeit text that is expressed in the
+symbols of a language not spoken in everyday conversation. But, as already mentioned,
+symbolically dense mathematical writings that address the same task can be highly
+similar (in contrast to written pieces in a natural language). Moreover, sketched
+diagrams are frequently required in mathematics - in a geometric argument, to
+illustrate the relationships between objects in a word problem, or to depict the
+properties of functions. Diagrams can help both the problem solver's thinking and the
+marker's assessment of it. Given that the conventional understandings of misconduct
+that are applied to prose text (or diagrams adapted from other sources) are of little use,
+we cast our net wider to find help from some surprising disciplines.
+
+McGowan (2016) argues that showing someone how to do calculations similar to those
+required on an assignment is a form of working together, which can result in that
+other person then being able to do the actual assessable calculation independently,
+using understanding that they now possess for themselves. This is a reasonable
+description of the demand of mathematical tasks (as opposed to research for a prose
+essay or report), but it is still limited in application. It does not transfer to tasks such
+as constructing a proof, given that few proofs follow a template, and each requires at
+least one key, critical insight. This feature also arises when the question contains the
+`answer' (such as those that begin with the familiar phrase `Show that ...'). Addressing
+such a task is akin to constructing a legal argument. In a study of what he termed `local
+plagiarisms', Borg (2009) noted the strong emphasis placed on individual student work
+(as opposed to collaboration) in law studies. His summary can almost be taken as a
+description of the purpose of a mathematics task:
+
+       Much of the work at this level was both routine and critical. There was only one
+       correct solution to the task, and each student had to demonstrate that they could -
+       individually - find that solution. Discussion, as much as `plagiarism', undermined
+       that demonstration.
+
+                                                                                                                   (Borg, 2009, p.421)
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                                                                            14
+
+Writing solutions to mathematical problems is, simultaneously, both creative and
+imitative. Undergraduates do not produce entirely new mathematics, but neither is
+mathematical understanding displayed by answering the same problem repeatedly,
+with just the numbers changed! One skill that universities seek to teach and assess is
+that of realising what existing or known components can be used in solving a particular
+problem, then combining them in a suitable way. This skill is also needed in computer
+science (Simon & Sheard, 2016), where code recycling and use of source-code libraries
+can be contested practices. You might be surprised to realise that a similar tension
+between novelty and imitation arises in fashion design, which makes visual and cultural
+references, or `invoke[s] a persona - whether athletic, formal or casual - based on a
+repertoire of existing models (i.e. both previously existing clothing and purposes to
+which they have been used)' (Borg, 2009). The same is true of other design areas, such
+as architecture.
+
+In the visual and performing arts,
+
+practices such as homage, pastiche,
+
+parody and appropriation are forms of
+
+legitimate practice (Porter, 2010), as they
+
+are in creative writing. Learning skills and
+
+understanding genre by copying existing
+
+works is standard, in much the same
+
+way as proving well-known results for
+
+and by oneself is part of learning to be a
+
+mathematician. There are conventional
+
+forms of expression to adopt. In the          `WOMAN PAINTING IN MUSEUM' FROM PXHERE USED UNDER CC0
+
+absence of any accepted referencing
+
+conventions for visual objects or performances, the main deterrents to crossing
+
+the line to plagiarism are pride in one's own creativity and the associated desire to
+
+establish an independent artistic identity, together with scrutiny of work in progress
+
+or documentation such as sketchbooks. Valuing their own learning and achievement is
+
+one reason students give for why they do not plagiarise (Devlin & Gray, 2007).
+
+Bardini and Pierce (2015) have studied how the ability to read fluently and write
+meaningfully in its concise and symbol-based language (in contrast to mastery of
+concepts, which has been more frequently studied) affects students' transition to
+tertiary maths. Thus, the literature concerning additional language acquisition becomes
+relevant. In a discussion of packing ideas into formal academic prose, McGowan (2005)
+pointed out that the instruction to `use your own words' is not particularly useful until
+a student has developed sufficient word power; in mathematics, this would be adequate
+mastery of symbols.
+
+DON'T CHEAT YOURSELF                          KATHERINE A. SEATON
+Chapter 1                                  15
+
+Borg (2009) noted that although language lecturers agree that native speakers are
+a resource that can be consulted, they usually draw the line at such expert users
+correcting a learner's translation or composition. Similarly, asking a classmate to
+help debug computer code (the language understood by a machine) can seem quick
+and harmless when the bulk of it was individually written; this approach is common
+practice in a team-based workplace, but is potentially problematic in assessment (Joy,
+Cosma, Sinclair, & Yau, 2009). Students recognise this danger. In the study of Stepp and
+Simon (2011), students articulated questions such as `What if the assistance reaches
+the point of improving the work beyond the capacity of the originator?' and `What if
+the person who checks your work actually steals it?'. These are relevant considerations
+when students need help to improve the quality of their mathematical communication.
+What is appropriate does not necessarily go without saying (East, 2006). Having
+good model answers available is helpful, because all of us enrich our language by
+reading (McGowan, 2005); however, it is not used optimally if it results in slavish (and
+meaningless) copying, as observed in a study of the use of template reports in physics
+(Jones & Freeman, 2003).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                  16
+
+1.4 Discussion and definitions
+    of the behaviours
+
+Cheating, copying, collusion, patch-writing, questionable practices, learning
+dishonesty - there are many terms, some blunter than others, used to describe
+behaviour during assessment that damages individuals, professions and institutions.
+Frequently `plagiarism' is used as an umbrella term, but this is potentially confusing
+since it has a particular meaning. In this book academic misconduct is used as the
+overarching term. (`Cheating' is another generic term that we do not use in the book,
+in part because it is used in the North American literature to refer more specifically
+to behaviour during in-class tests, and in popular parlance for infidelity; saying that
+someone has cheated is particularly fraught terminology.)
+
+An important thing to note about the definitions that follow is that although they may
+invoke intentionality, none of them refer to reasons or justification for the behaviours.
+While that may affect the consequence (educative as opposed to some form of penalty),
+it does not change what they are.
+
+Plagiarism and copying
+
+In this book, plagiarism should be taken to mean the use of another person's words
+or ideas or diagrams that could have been attributed to that person to remove the
+misconduct. Generally, this is the work of a person not personally known to the user
+(Simon et al., 2014). It does not include asking or paying someone else to do an assignment
+(contract cheating), or copying from a classmate because, in those cases, acknowledging
+the source would not make such words acceptable. It is not necessarily helpful to refer to
+plagiarism as a form of theft (which implies depriving the owner of an object) or copyright
+infringement (which suggests financial harm) (Fishman, 2009). Educational training to
+prevent unintentional plagiarism often focuses on becoming familiar with the discipline's
+referencing conventions, including when it is not possible to identify the original author
+(e.g. information on the internet), and on learning to paraphrase or summarise. (Note that
+plagiarism in mathematics research, including theses, is not an issue we consider here.)
+
+Self-plagiarism occurs when you re-use your own words or ideas. Even though they
+originated with you, their re-submission may be inappropriate if fresh words are
+expected. Unless permission is obtained to submit work for which credit has already
+been given, the expectation is that what a student submits has been created expressly
+for the current task. (This is why the re-use of code in computer science, which is
+common industry practice, needs to be explicitly discussed in university assessment.)
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                                                                              17
+
+Copying is used here to refer to the use of someone else's words (or calculations, code
+or diagrams) that can't be put down to poor attribution and is intentional - such as
+using published text or text from the internet verbatim, pasting in a diagram or using
+a classmate's work without their knowledge. Cosmetic modification does not make the
+work one's own. Being careless with one's work (e.g. leaving drafts lying around or in a
+bin in a public place, or not logging out of a computer when going to grab a coffee), so
+that it becomes available to be copied, is considered to be misconduct. Patch-writing
+is a form of copying that strings together phrases from multiple sources so that no one
+particular source is immediately identifiable.
+
+In any act of plagiarism or copying, there are two actions (obtaining words or ideas,
+and presenting them for assessment), and three parties (the originator, the submitter
+and the assessor). The assessor always expects that the work is the product of the
+submitter only, unless it has been made clear that certain forms of collaboration are
+allowed. This may not be stated on each assignment sheet, but it is the default position
+(at La Trobe University and in academia generally).
+
+A helpful visual representation of plagiarism or copying, adapted from Yeo (2006), is
+given below.
+
+Originator  Obtaining  Submitter  Presenting  Assessor
+
+Figure 1 - Plagiarism or copying involves one more person (a separate originator) and one more action
+(obtaining that person's words) than the assessor permits.
+
+`THE PROCESS OF PLAGIARISM ADAPTED FROM YEO (2006) USED WITH PERMISSION
+
+What about things that you do not need to look up? Can you just use them? What
+does, or does not, need attribution in written work depends on the accepted common
+knowledge for the discipline. Taught techniques in mathematics, such as those found
+in an undergraduate textbook or course notes, are not usually referenced. Yeo (2007)
+describes minimal or no need of referencing as a feature of assessment in most first-
+year science subjects. As Barrett and Cox (2005) point out, collusion is the more
+common problem in such disciplines: an easy trap to fall into, difficult to define, and
+often only coming to light when odd, incorrect or unusual similarities are noted.
+
+DON'T CHEAT YOURSELF                          KATHERINE A. SEATON
+Chapter 1                                  18
+
+Collaboration and collusion
+
+Collaboration means interacting in a way that is permitted. It is not misconduct.
+Collaborative forms of working in class are normally encouraged in modern pedagogy
+(an educational philosophy called socio-constructivism), and they develop skills in
+teamwork and communication. Even when assignments are intended to be done
+individually, general discussion of the topic is a permitted form of interaction.
+Collaboration has a positive connotation, whereas collusion is a negative term.
+Collusion involves two or more persons interacting in a way that misrepresents to the
+assessor the understanding or contribution of the person who submits a piece of work,
+or misleads the assessor as to the origin of work. Permitting someone else to copy
+your work would be one example of collusion; enabling someone else's misconduct is
+still misconduct, even if the work you personally submit is your own. Correcting the
+mistakes in someone else's work, or asking someone to do this for you, is also collusion.
+
+Collusion also includes students working together - on paper or whiteboards or
+through electronic exchanges - on specific aspects of a task that should have been
+completed individually, even if the contributions are more or less equal and they
+agree to share their work. Dividing up between people what should be an individual
+assignment is also collusion, as is to misrepresent in group work the contribution of an
+underperforming group member.
+
+Barrett and Cox (2005) studied staff and student attitudes to collusion, and discovered
+that both groups found it to be harder to define, and somehow less ethically
+problematic, than plagiarism. Students felt there was a `hazy line' (as they put it)
+between collaboration and collusion; staff felt there was some mitigation because `at
+least they're learning'. Sutherland-Smith (2013) found that students called that same line
+`thin' or `mythical'; working in groups in class or on some assessments just continues
+naturally to other tasks. Learning together, helping one another, sharing - these are all
+good, right?
+
+It may not be that simple. Scrimpshire, Stone, Kisamore, and Jawahar (2017) found that
+students with the personality traits of desiring social connection (a high `sociability'
+score) and being impulsive (a low `prudence' score) are more often asked by other
+students to help them inappropriately. That is, when students engage in collusion, they
+target who they approach. However, Sutton and Taylor (2011) found that students could
+identify, and did actively practise, strategies that would protect them from collusion
+while still cooperating to a degree they felt comfortable with. (Some of these protective
+strategies are discussed in Chapter 3.)
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 1                                                                                                19
+
+It may be helpful to think of acceptable ways of learning together as being those that
+occur at a separate place or time from the production of work to be submitted for
+assessment, and in which each participant is responsible for their own note taking.
+However, as Barrett and Cox (2005) point out, there is no simple `one-size-fits-
+all-assessments' way to distinguish the line between legitimate collaboration and
+collusion. As with plagiarism, it is possible for collusion to be unintentional if students
+do not reflect on what they are doing. That is why a discussion of realistic scenarios
+(such as those in Chapter 2) is so important.
+
+The following diagram illustrates how, in collusion, the origin of the work submitted is
+unclear or misrepresented.
+
+COLLUDING
+
+              Person 1
+
+Person 3                ?  SUBMITTER  PRESENTS TO                                              ASSESSOR
+
+           Person 2
+
+Figure 2 - In collusion, the origin of the work being submitted is unclear or misrepresented.
+
+`THE PROCESS OF COLLUSION' BY KATHERINE SEATON
+
+As in the plagiarism diagram, the assessor is part of the picture, and wants to assess
+the understanding of the individual, not a collective. The diagram also shows that
+not everyone involved in the collusion is necessarily required to submit the task. This
+definition follows that of McGowan (2016), which intentionally excludes reciprocity as
+being a required element of collusion, and thus includes other types of unauthorised
+assistance.
+
+Contract cheating is used here as the term for a person asking someone else to
+produce part or all of the work submitted for an assessment task. Payment is frequently
+involved if the work is produced by a stranger, usually contacted online, but if a friend
+or relative produces the work as a favour, that is still called contract cheating. We
+also use this term when the submitter of the work did not directly request it, but
+nevertheless has obtained unfair advantage by using a relevant answer outsourced by
+someone else. Contract cheating cannot be explained away as general `help'; if someone
+does work for you that relates directly to an assessment task, this is a very serious form
+of misconduct and it attracts the most severe penalties.
+
+The terms defined and discussed in this section are collected and summarised in the
+Glossary.
+
+DON'T CHEAT YOURSELF                               KATHERINE A. SEATON
+Chapter 2
+The scenarios
+Chapter 2                                                                                                              21
+
+Scenario A
+
+Aly is struggling with an individual
+assignment and knows that Miki has
+finished it. Aly asks Miki for help, and Miki
+gets out the finished work and shows it to
+Aly. Aly asks to make notes on a tablet and
+Miki, although not really happy about this,
+feels that saying no would be awkward.
+
+After the assignments are marked,
+
+Miki gets a letter saying that the work        `TABLET AND NOTEBOOKS' FROM PEXELS USED UNDER CC0
+
+submitted is very similar to another
+
+student's and that Miki has to write a response to an academic integrity adviser, then
+
+attend an interview.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. The work that Miki handed in is Miki's own work, so has Miki done anything that
+      goes against the academic integrity rules?
+
+2. Aly reasons that because Miki agreed to share the work with Aly, Aly cannot
+      have done anything wrong. Is this correct?
+
+MORE INFORMATION
+
+The work is actually similar because Aly used the tablet's camera to take a photo of the work
+while Miki was distracted. Aly could tell that Miki was uncomfortable and wanted to be quick. Aly
+then referred to Miki's work to finish the assignment.
+
+FURTHER QUESTIONS FOR DISCUSSION
+
+3. Has Aly engaged in academic misconduct? If so, is it plagiarism, copying or
+      collusion? (Note: it can be more than one of these.)
+
+4. What could happen to Miki now?
+5. In the final exam, do you think that Aly will be prepared for questions relating to
+
+      the topic of this assignment?
+
+DON'T CHEAT YOURSELF                                                                              KATHERINE A. SEATON
+Chapter 2                                                                              22
+
+Scenario B
+
+In a mathematics assignment worth only 5%, there is a question that assesses basic
+skills, including index laws and differentiation. Billi has a lot of other assignments due
+that are worth more marks, and knows that using an online maths tool will save time
+in completing the maths assignment and will guarantee the right answer. So Billi uses
+this tool to complete the assignment, putting in some steps and the correct answer.
+Billi does not get the assignment back with the rest of the class, and is asked to see the
+tutor privately. At that meeting, the tutor points out that the working Billi gave does not
+match the final correct answers.
+
+QUESTIONS FOR DISCUSSION
+
+1. What do you think the purpose of the assignment is?
+2. Will Billi get full marks?
+3. What could happen next to Billi? Could Billi be referred for academic
+
+      misconduct?
+4. What is likely to happen when Billi has to use these skills in the technology-free
+
+      exam (which is worth 60% of the subject's mark)?
+5. Billi argues with the tutor that the answers are correct and that, since the
+
+      work had to be completed at home, no one can prove or prevent the use of
+      technology. What might the tutor do in response to this argument?
+6. Billi explains (instead) about time pressures and having used CAS and other
+      technology extensively in the past. What might the tutor do in response to this
+      explanation?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                                                        23
+
+Scenario C
+
+In practice classes and tutorials, students are encouraged to discuss the problems with
+other students sitting near them. Charlie sits with the same group for a few different
+subjects - they work well together and contribute fairly equally to the discussion.
+When it comes to their assignments, they use this same style of working, in a space in
+the library. They scribble ideas on bits of paper that are passed around or write them
+on a whiteboard, and they have a lot of fun. When Charlie hands in the assignments,
+there is a `student statement of responsibility' to complete, which Charlie signs without
+a thought.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. Is working together in class academic misconduct?
+2. Have Charlie's group of classmates collaborated on the assignments? Is this
+
+      OK?
+3. Have Charlie's group of classmates colluded on the assignments? Is this OK?
+4. One group member offers to write up notes from the discussion and from the
+
+      whiteboard, and email it to the group. What should happen next?
+
+MORE INFORMATION
+
+One of the normal group members, Yolli, is away for a few days, and asks to see Charlie's notes
+made at one of these study sessions. Since Yolli always contributes to the discussions, and has
+a sick parent, Charlie is happy to help.
+
+FURTHER QUESTIONS FOR DISCUSSION
+
+5. If Charlie provides the notes, is this wrong?
+6. What could happen next to Charlie?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                      24
+
+Scenario D
+
+Dannie finds that the standards for writing maths answers at university are very
+different from those at school. At school, only minimal working was expected, certainly
+not words or sentences, and Dannie does not really know when to use symbols such
+as , which the school teacher never seemed to use. However, each class has model
+answers supplied for the problems covered, and so Dannie bases the responses for the
+assignment exactly on these. Dannie is astonished when a letter arrives, saying that the
+work submitted is almost identical to several other students', and is asked to explain.
+
+QUESTIONS FOR DISCUSSION
+
+1. Has Dannie copied?
+2. Has Dannie plagiarised?
+3. What should Dannie do now?
+4. What could happen to Dannie?
+5. Going forward, what should Dannie do?
+
+DON'T CHEAT YOURSELF                      KATHERINE A. SEATON
+Chapter 2                                                                                               25
+
+Scenario E
+
+Enzi hardly ever writes by hand anymore, and has become really good at directly
+typesetting technical work in a special editor. When a friend asks for help with an
+assignment, Enzi sits with this friend Nat, laptop open in front of them, and suggests
+Nat looks at the work, as this will be quick and easy for them both.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. Has Nat done anything so far that goes against the academic integrity rules?
+2. Has Enzi done anything so far that goes against the academic integrity rules?
+
+MORE INFORMATION
+
+Nat asks if Enzi could email the file, just for another look, as they are both in a hurry; Enzi has to
+leave for work and Nat has a three-hour lab to get to. Enzi agrees; after all, Nat is a mate.
+
+FURTHER QUESTIONS FOR DISCUSSION
+
+3. What could happen next?
+4. The worst possible thing happens, as far as Enzi is concerned. Nat pastes parts
+
+      of Enzi's work into a new document and submits it. Now what could happen
+      next?
+5. When it comes to questions on the same topic in the exam, which is all
+      handwritten, is Enzi well prepared?
+6. When it comes to questions on the same topic in the exam, is Nat well
+      prepared?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                                                                 26
+
+Scenario F                                 `PAPER PILE' FROM PIXABAY USED UNDER CC0
+
+Two years ago, Fran's older cousin Perry
+did the subject that Fran is now doing.
+Perry gives Fran all the notes, including
+Perry's own assignments and the solutions
+provided back then. Fran soon realises
+that the same assignment questions
+are being used by this year's lecturer,
+and writes out solutions based closely
+on Perry's and the former lecturer's.
+Fran submits the solutions through the
+electronic portal, which requires Fran
+to click an authorship statement box upon
+submission.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. Who, of Fran, Perry and the current lecturer, is not following the academic
+      integrity guidelines?
+
+2. What have they done, exactly? (Plagiarised, copied, colluded, enabled
+      misconduct?)
+
+3. What could happen next to Fran?
+4. Suppose that Fran's tutor doesn't notice and gives Fran full marks. What is likely
+
+      to happen to Fran in the final exam?
+
+MORE INFORMATION
+
+The tutor becomes suspicious after the first assignment, and pays very careful attention to
+similarities when marking subsequent assignments. Fran's second assignment submission
+results in an academic misconduct investigation.
+
+A FURTHER QUESTION FOR DISCUSSION
+
+5. What could happen to Perry? What if Perry has already graduated?
+
+DON'T CHEAT YOURSELF                                                                 KATHERINE A. SEATON
+Chapter 2                                                                                          27
+
+Scenario G
+
+Gul believes that Otta is more competent than Gul in one particular subject. Gul asks
+Otta to go through the answers on Gul's assignment before it is handed in, and point
+out any mistakes. Otta says no, but is willing to hear Gul explain the methods used. Gul
+thinks that Otta is showing off and trying to embarrass Gul, because Gul won't be as
+good at this as Otta would be.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. Is Gul's request reasonable?
+2. Is Otta's response reasonable?
+3. What could Gul do instead?
+4. What could Gul ask instead?
+5. What could Otta offer instead?
+
+MORE INFORMATION
+
+It turns out that, although Otta is more outwardly confident, and very articulate, Gul is just as
+good at the work or perhaps even better.
+
+A FURTHER QUESTION FOR DISCUSSION
+
+6. What could happen if Gul does explain the methods Gul has used to Otta?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  28
+
+Scenario H
+
+Hani and Quin knew each other before uni, and they haven't made any new friends
+at uni yet. They are a bit overwhelmed and rely a lot on each other. In fact, they are
+inseparable. They do everything together, including attending or skipping the same
+lectures, and they do their assignments together. Their first assignments are identical,
+including the same errors, which no one else has made. Hani is happy enough at uni,
+but finds that Quin's mood is dragging them both down.
+
+   INITIAL QUESTIONS FOR DISCUSSION
+
+    1. What could happen when the tutor sees the assignments?
+    2. What could Hani do next?
+    3. What could Quin do next?
+    4. What could happen as they move into the semester?
+
+   MORE INFORMATION
+
+    Two months later, nothing much has changed and again their assignments are the same and
+    contain identical but highly unusual errors.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    5. What is likely to happen this time?
+    6. What is the most likely result for Hani and Quin for this subject?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                                                             29
+
+Scenario I                                  `CELLPHONE SKYPE ON PHONE' BY TIRZA VAN DIJK ON UNSPLASH
+
+Ioni, Rohan and Sami have an idea to
+speed up their weekly assignments. They
+will divide the assignment into three
+parts, and each of them will work out how
+to do one of the parts. Two days before it
+is due, they will meet up and teach each
+other how to do their part. Then, each
+person will write up their own individual
+assignment, in their own handwriting.
+
+INITIAL QUESTIONS FOR DISCUSSION
+
+1. Is this academic misconduct? If so, what kind?
+2. What dangers are there in this model of dividing up the workload?
+
+MORE INFORMATION
+
+It turns out that Ioni can't meet the others physically, so they meet on Skype.
+
+ANOTHER QUESTION FOR DISCUSSION
+
+3. Now what could go wrong?
+
+MORE INFORMATION
+
+Rohan either couldn't or didn't prepare the nominated part, but can't let the others down. So
+Rohan posts the question to an online forum and gets an answer that Rohan shares with Ioni
+and Sami, instead of an explanation. Ioni is worried that Rohan's answer uses methods and
+language not familiar from the subject's classes, but doesn't have time now to look into it, so
+uses this answer.
+
+FURTHER QUESTIONS FOR DISCUSSION
+
+4. Has Rohan committed academic misconduct?
+5. Has Ioni committed academic misconduct?
+6. What could happen next?
+7. Will Ioni, Sami and Rohan be well prepared for an end-of-semester exam, which
+
+      could potentially cover any topic from any task on the assignments?
+
+DON'T CHEAT YOURSELF                        KATHERINE A. SEATON
+Chapter 2                                                                 30
+
+Scenario J
+
+Jan likes subjects such as statistics, computing and maths, because they rely on using
+specific methods and the answers can be checked to be correct or not. Jan wants high
+marks, in order to get a job in innovation, developing cutting-edge new products, so
+right answers are what it is all about for Jan. Jan uses code from a code library in an
+assignment; the program compiles perfectly and gives the expected output. Jan tries
+changing some things like variable names in the code, but then it won't compile, so Jan
+submits the first version. The lecturer said not to copy from another student, but did
+not explicitly mention the use of code libraries. Jan submits the assignment through
+the university's learning management system (LMS), which requires Jan's assent to the
+authorship statement.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What is the likely purpose of the assignment?
+    2. Has Jan done the right thing?
+    3. What could happen to Jan next?
+    4. What could happen to Jan at an interview with an academic integrity adviser?
+    5. Do you think Jan would be good at developing new products?
+
+`COMPUTER CODE CLOSE UP' FROM PEXELS USED UNDER CC0  KATHERINE A. SEATON
+
+DON'T CHEAT YOURSELF
+Chapter 2                                  31
+
+Scenario K
+
+Kit feels panicked - there is so much to do at uni and at home, and things are feeling
+pretty grim. Kit knows that other students take shortcuts. It is too late to withdraw
+from this semester's subjects without incurring a debt and a fail grade. Kit goes onto
+a website that comes up when Kit puts key words from the latest assignment into
+Google. Kit has to pay a small membership fee, but then gets unlimited access to
+homework solutions from many sources. Kit does not use them for this assignment, but
+does go back to the site for the next assignment. This second time, Kit finds a directly
+relevant solution on the website and incorporates it into the submitted work. Kit feels
+bad, but otherwise could fail.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What could happen to Kit?
+    2. Has Kit paid for the material used in the second assignment?
+
+   MORE INFORMATION
+
+    Kit gets a letter saying that academic misconduct is suspected, and is asked to submit an
+    explanation in writing.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    3. How could this have happened?
+    4. What is the likely result for Kit in this subject?
+    5. Could Kit be excluded from uni?
+    6. What could Kit have done differently?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  32
+
+Scenario L
+
+Lee needs to earn money to stay at uni. Lee tutors three students in the year below for
+payment. Tam, a friend of these three students, is in one of Lee's classes and offers to
+pay Lee for tutoring. Lee agrees, but then realises that Tam just wants answers to the
+assignments and not actual tutoring.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Is it OK to tutor other students for money, if they are in a lower year?
+    2. Is it OK for Lee to tutor Tam, in a subject they do together, if it is not done for
+
+           money?
+    3. What if Tam wants to pay?
+    4. What could Lee say to Tam?
+
+   MORE INFORMATION
+
+    Lee helps Tam with the assignment, but not for money. Later, Tam does a better oral presentation
+    than Lee - and in the end, they get the same mark for the subject. Then the three students that
+    Lee tutors from the year below are asked for an interview with an academic integrity adviser,
+    because their assignments are very similar.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    5. What could happen to Lee?
+    6. Is it fair that Lee and Tam got the same mark?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                                                            33
+
+Scenario M
+
+Moz is surprised to be asked to do a careful proof on an assignment, of what seems
+to be an obvious fact. Moz is unsure, though, how to set out a proof, and posts the
+question to an online forum. Someone replies straight away, saying that the proof is
+common knowledge and giving the answer. Moz writes the proof out by hand and
+submits it, signing the authorship statement.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What is the point of being asked to do something obvious in a formal way?
+    2. Has Moz achieved the purpose of the question?
+    3. Has Moz breached the academic integrity guidelines?
+
+   MORE INFORMATION
+
+    Moz is surprised not to get a good mark for the proof. The tutor explains that Moz has not used
+    correct symbols. In fact, Moz has written ticks  in place of square roots , and has written
+    `loge' instead of log. The tutor is not convinced that Moz has understood what has been
+    written.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    4. How could this have happened?
+    5. Is this low mark fair?
+    6. What should Moz do?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  34
+
+Scenario N
+
+Some work that Nic did on an assignment last year is directly relevant to an assessment
+task in a different subject this year. Nic uses last year's work as the basis for this year's
+assignment, with some additions and modifications. Nic does ask another student if
+this will be OK, and is told `Everyone always does that - it's your work'. Nic signs the
+student responsibility statement with no hesitation - of course all the work is Nic's, and
+you can't cheat off yourself!
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Has Nic received good advice?
+    2. What's the best source of advice regarding a subject?
+    3. Has Nic committed academic misconduct?
+    4. Nic is in third year. What could happen to Nic?
+
+   MORE INFORMATION
+
+    Suppose instead that Nic dropped out of a subject due to ill health last year, and is repeating the
+    subject. The work completed last time before dropping out is directly relevant again, and Nic can
+    improve it because it was marked last time.
+
+   A FURTHER QUESTION FOR DISCUSSION
+
+    5. Can Nic submit this work again?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                                                                                      35
+
+Scenario O
+
+There is a classroom with whiteboards on
+
+all the walls, which students are welcome
+
+to use as a study space when it is not
+
+being used by a class. This classroom
+
+is popular with students, because they
+
+can work on the whiteboards as they do
+
+in pairs in class, more easily correcting
+
+errors they spot in their work than they
+
+can on paper. Olan sits down in this
+
+room to work on an assignment. Looking     PHOTO BY JONATHON NEWMAN USED WITH PERMISSION
+
+around, Olan notices that someone
+
+has been there earlier on - all over the whiteboard are the worked solutions to the
+
+problems from the assignment. It is not possible to tell whose work it is, because it is a
+
+shared study space, sometimes used by staff for student help sessions. Olan is not sure
+
+what to do; after all, the teaching staff do help students with their work, and they know
+
+that students use the room for group and personal study, and it's not Olan's fault that
+
+someone left their work on the boards.
+
+QUESTIONS FOR DISCUSSION
+
+1. If this were you, what would you do? Why?
+2. Does using these solutions give Olan an unfair advantage?
+3. What could go wrong if Olan uses these solutions?
+4. Did the person who left their calculations on the whiteboards breach academic
+
+      integrity guidelines?
+
+DON'T CHEAT YOURSELF                                                                      KATHERINE A. SEATON
+Chapter 2                                  36
+
+Scenario P
+
+Pip and Tusi are really finding uni hard because, at school, the Year 12 coordinator
+checked up on them regularly. Pip's email isn't working and Tusi has never used an LMS
+before. They know the lectures are recorded and they finally watch the first lecture at
+the end of Week 2. They find out that an assignment on the first two weeks' work is due
+in Week 3! Pip goes to see the tutor on Monday morning and makes extensive notes,
+but Tusi has to go to work. Pip takes a photo of the notes and sends them to Tusi.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What is the likely point of the assignment?
+    2. Is it OK for Pip to share the notes with Tusi?
+
+   MORE INFORMATION
+
+    Tusi then shares the notes with Eli, but doesn't tell Pip. Pip and Eli (but not Tusi) get a letter,
+    telling them that the lecturer suspects academic misconduct.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    3. Has Tusi done anything wrong?
+    4. Has Eli done anything wrong?
+    5. What is the likely outcome for Pip, Tusi and Eli?
+    6. What do you think Pip and Tusi learned in the first three weeks of uni?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  37
+
+Scenario Q
+
+Quentin has an Excel assignment to do, but has missed a bit of uni lately and needs
+some tutorial materials that a friend has. The friend lends Quentin a USB with the
+materials on it. Quentin opens a spreadsheet labelled with the date, but it is the friend's
+assignment, not the class material. Quentin knows that someone else copied a friend's
+assignment and it seemed as though nothing happened as a result - the lecturer either
+didn't care or didn't notice. Quentin copies the file, changes the order of some columns
+and the column headings, and then submits it.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Has Quentin's friend followed the academic integrity guidelines?
+    2. Do you think that students who receive academic misconduct penalties spread
+
+           this news around?
+
+   MORE INFORMATION
+
+    The lecturer asks Quentin to explain one of the formulas used in the spreadsheet, saying that it is
+    a non-standard method.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    3. Do you think that Quentin can explain the spreadsheet formula?
+    4. What could happen to Quentin?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  38
+
+Scenario R
+
+Ru has done a series of calculations on an assignment. Ru's friends have asked each
+other what methods they used, and they all agree about them. However, the final
+question asks, `Hence explain in your own words why the curve found in part (d) is
+called the parabola of safety'. Ru googles `parabola of safety' and finds out that the
+definition of parabola of safety is the `envelope of ballistic trajectories'. This definition,
+from Wikipedia, uses language not used in the subject and, although Ru does not
+understand it, Ru thinks that the lecturer will be impressed with its technicality.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Is talking about methods with friends, as described above, academic
+           misconduct?
+
+    2. Is it academic misconduct to google an unfamiliar term?
+    3. Has Ru answered the final question?
+    4. Has Ru achieved the intention of the final question?
+    5. What is the likely result for Ru on this assignment?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      39
+
+Scenario S
+
+Steen is running late for work and asks Jools to hand in an assignment, which has to be
+put in a pigeonhole on the other side of campus. Jools notices that Steen has included
+something in the assignment that Jools didn't think of. Since the latest possible
+submission time is in about an hour, Jools has time to write a new response to one part
+of the assignment, based on Steen's answer. The assignments are marked to a rubric
+or standard (not adjusted to lie `on the curve') so Steen's mark will not go down. Jools
+figures that no one is getting hurt.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Has Jools broken the academic integrity guidelines?
+    2. Has Steen broken the academic integrity guidelines?
+    3. What should Steen have done?
+    4. What is Jools' behaviour called? (Collusion, plagiarism, collaboration or
+
+           copying?)
+    5. What could happen to both Steen and Jools when the tutor sees the work?
+    6. What are the longer-term likely outcomes for Jools?
+
+PHOTO BY JONATHON NEWMAN USED WITH PERMISSION  KATHERINE A. SEATON
+
+DON'T CHEAT YOURSELF
+Chapter 2                                  40
+
+Scenario T
+
+There are standard libraries of data that are freely available for a variety of educational
+and research purposes. For a coursework assignment, Tip needs to locate a specified
+dataset and perform particular statistical analyses on it. When Tip googles the dataset,
+what comes up is not only a link to the dataset, but also links to some of the research
+papers that have used it, and links to assignments from other universities as well. Tip
+browses through them, and realises that the analyses being asked for have been done
+numerous times on this data and, with one more click of the mouse, the results of the
+analyses are on the screen! Tip is annoyed at being asked to do something for which the
+results are so well established, and therefore puts minimal work into the assignment,
+making extensive use of some of the analyses found as a result of the search.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Why do you think Tip and the rest of the class are being asked to do analyses
+           that have been done before?
+
+    2. Is it OK to google aspects of an assigned task, as Tip has done?
+    3. Is it OK for Tip to use the results of the search in the assignment submission?
+
+           What if Tip attributes them?
+
+   MORE INFORMATION
+
+    Tip thinks that it would not be appropriate to use the published analyses in preparing the
+    assignment submission, because this work clearly belongs to someone else. However, copies of
+    assignment answers from other universities seem like a grey area - the work is out there on the
+    internet visible to anyone, but not attributed.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    4. Does Tip have this the right way around? Does it matter whose work you
+           consulted, and whether it can be identified?
+
+    5. What should Tip do in a confusing or frustrating situation like this?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      41
+
+Scenario U
+
+Uda knows that Zan is more confident than Uda in one particular subject. Uda asks
+Zan to go through Uda's assignment answers before they are handed in, and point out
+any mistakes. Zan says no, and just wants to tell Uda the answers. Uda thinks Zan is
+showing off but, since Uda is the one who needs help, Uda feels there is no choice but
+to agree. Uda uses the answers and tries to work backwards towards the question.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Is Uda's request reasonable?
+    2. Is Zan's response reasonable?
+    3. What could Uda do instead?
+    4. What could Zan offer instead?
+    5. Has anyone committed academic misconduct?
+    6. What could happen to Uda next?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      42
+
+Scenario V
+
+Vee creates a private Facebook group for each assignment, and invites other students
+from the class to join. They post links to useful videos they have found and to
+highlighted parts of the course materials relating to particular items on the assignment.
+
+   QUESTION FOR DISCUSSION
+
+    1. Is this academic misconduct?
+
+   MORE INFORMATION
+
+    Alex accidentally posts a link to Alex's own assignment answers, instead of the resource
+    intended. Vee quickly alerts Alex and deletes the link, but not before two other students access
+    the file. Alex changes all the parts of the answers that can be changed, such as the wording of
+    the written explanations and the names of variables, before submitting the assignment.
+
+    The other two students face an academic misconduct investigation because their work is too
+    similar to each other's. They reveal Vee's role as the one who set up the private Facebook group
+    and identify Alex's work as the source for their common answers.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    2. Who has broken the academic misconduct rules?
+    3. What could happen to Vee?
+    4. What could happen to Alex?
+    5. Unfortunately, back in first year, Alex was warned for academic misconduct in
+
+           another subject due to poor referencing. Does this change your answer to the
+           previous question?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      43
+
+Scenario W
+
+Win has no idea what the statistics assignment question means. Win asks a classmate,
+but this person refuses to help Win at all, saying that it is an individual assignment and
+they cannot talk about it. Win posts the question to an online discussion forum and
+someone posts a reply, breaking the question down and explaining it.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Is the classmate correct?
+    2. Is posting the question to a free forum OK?
+    3. What could Win do instead?
+
+   MORE INFORMATION
+
+    Win checks the forum again the next day. Another person has actually answered the question,
+    rather than just explaining it.
+
+   A FURTHER QUESTION FOR DISCUSSION
+
+    4. Would it be academic misconduct to use this answer?
+
+   MORE INFORMATION
+
+    Win writes up the assignment, modifying the answer provided on the forum, because the
+    intention was really to do the work. Two other students are lurking in the forum and they use this
+    answer. These other two students and Win are all asked to see an academic integrity adviser.
+
+   A FURTHER QUESTION FOR DISCUSSION
+
+    5. What could happen next?
+
+   MORE INFORMATION
+
+    It turns out that the answer was written by a person who hangs around these forums, and posts
+    plausible, but incorrect, answers out of outrage that cheating online is so easy! Win's actions,
+    and those of the other students, have come into question because they contain similar errors.
+
+   A FINAL QUESTION FOR DISCUSSION
+
+    6. Has Win achieved the purpose of the assignment?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+                                                                                                                                                                      44
+
+Scenario X
+
+Xanda finds a diagram that is perfect for an assignment solution. Xanda scans the
+image and incorporates it into the assignment. The assignment runs through text-
+matching software and shows no issues. Later, Xanda is sent a letter saying that the
+assignment appears to contain the work of another person without attribution.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. In a subject where text-matching software is used, what rules apply to non-text
+           material?
+
+    2. In a subject where text-matching software cannot be used, what rules apply to
+           diagrams?
+
+    3. If Xanda found the image in a book or a journal, what could Xanda have done?
+    4. If Xanda found the image online, could Xanda use it?
+    5. If Xanda found the image on a printout in a recycling bin near a printer or
+
+           scanner on campus, could Xanda use it?
+    6. If Xanda found the image on a USB left in a computer in a learning space, could
+
+           Xanda use it?
+    7. If Xanda re-drew the diagram and then incorporated it, would Xanda need to
+
+           supply attribution?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  45
+
+Scenario Y
+
+Big expectations are riding on Yve's success at uni. Yve joins a study group, whose
+members work together a lot. Yve really relies on this group, and their editing of some
+of Yve's work to make it clearer and to correct the use of symbols. Yve feels that things
+are going quite well, and the assignment marks that Yve is getting back this up. Yve
+looks back over these assignments in preparing for the exam. However, the exam is a
+nasty shock. The questions seem sort of familiar, but even so, they are confusing. Yve
+can't get the ideas to come out on paper, and fails the subject.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What are the possible dangers of relying on a group?
+    2. Is it OK to let someone else edit your individual work?
+    3. What is the likely purpose of the assignments?
+    4. What could Yve have done differently?
+    5. Yve's behaviour has not resulted in an academic misconduct investigation, but
+
+           has it helped Yve?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  46
+
+Scenario Z
+
+Zsa and some friends are doing a laboratory class, in which they have to get their code
+signed off in stages, during the class. When one of them, Oki, is signed off, Oki then
+emails the code to all the others in the group of friends, so that they can be signed off,
+too. They use personal Gmail addresses, not their student email accounts. When Zsa
+goes to be signed off, the demonstrator asks Zsa a question about the code, and what a
+particular line in it will do. Zsa cannot answer. The demonstrator notices the Gmail tab
+at the bottom of the computer screen and asks Zsa to open it. The email is from Oki,
+and is clearly labelled with the question items. The demonstrator takes a photo of the
+email open on the screen.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. Why do you think that Zsa and Oki and the others do this?
+    2. Is this group of students achieving the point of the lab?
+    3. What kind of misconduct is this?
+    4. What could happen to Oki?
+    5. What could happen to Zsa?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  47
+
+Scenario VL
+
+Etomer is astonished at what is in the LMS forum. Someone has logged in as the
+student Onlin, a student who posts regularly in the forum, but has written "I am not
+Onlin. I have been doing their posts and quizzes all semester and have not been paid
+what was agreed." The post disappears shortly afterwards, but not before someone took
+a screenshot and posted it to social media. Etomer has never met any classmates in real
+life, because this subject is offered with flexible and asynchronous alternatives.
+
+   QUESTIONS FOR DISCUSSION:
+
+    1. What is the most likely explanation for the situation? What is this called?
+    2. Apart from academic integrity rules, have other university rules been broken?
+
+   MORE INFORMATION:
+
+    The lecturer draws the attention of the class to online educative materials about academic
+    integrity and to university policies not only about academic misconduct but also responsible
+    use of computer facilities, and copyright. They are reminded that if they did not complete the
+    academic integrity training at the start of semester, that they should do so.
+
+Etomer previously shared course materials on a peer-to-peer file sharing site, as well
+as some marked assignments and screen shots of questions taken during an online
+exam. The site encouraged upload to help other students and to obtain greater access
+to what other students were sharing, and to online tutors, without paying a fee.
+Etomer also got access to an online maths problem solver through this website. Up to
+now, Etomer has not actually needed to use materials shared by other students and has
+not accessed the tutorial service. Previously Etomer assumed that because no money
+changed hands, this was not contract cheating, and that the materials were OK to share
+or the site would have rejected them. But having read the educative materials more
+carefully, doubts creep in.
+
+   MORE QUESTIONS FOR DISCUSSION:
+
+    3. Was Etomer correct that posting course-related materials to external file-sharing
+           sites is not a form of academic misconduct?
+
+    4. Who owns the copyright in university teaching materials?
+    5. What should Etomer do now?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  48
+
+Scenario XIX
+
+Accessing materials online without the hassle of the commute seemed really flexible
+at first. But with lots of people all at home, getting the peace and quiet and structure
+to really get on with study has been hard, and the others need support and help with
+things all day long. Now Divoc realises that there's a lot to do before even starting the
+next assessment task, to prepare for it adequately, and the days have somehow all
+blurred into one, and it is due in just two days. Divoc really needs help, and absent-
+mindedly types "maths assignment help" into the phone search engine, while watching
+a lecture recording on the laptop. There are lots of sites offering help, and one of
+them has photos of students wearing hoodies which have a logo like the one of the uni
+that Divoc is enrolled at! Divoc follows links at a few of the sites and ends up finding
+someone who will do the assignment for a payment, and who promises a good grade.
+According to the site, this person has glowing ratings from many students. Not exactly
+the help Divoc was looking for originally, but perhaps one time-saver like this, and then
+Divoc can get back on top of things. Divoc does order the assignment, receives it in
+time and submits it. These are unusual circumstances for anyone to find themselves in.
+
+   QUESTIONS FOR DISCUSSION:
+
+    1. If Divoc pays someone to do the assignment, what is this called? What if Divoc's
+           uncle, say, did the assignment without asking for money?
+
+    2. Given the nature of the business they are in, should Divoc trust the claims of the
+           website?
+
+    3. What could happen next?
+
+   MORE INFORMATION:
+
+    In due course, the work is marked, and Divoc is not happy with the feedback received. The
+    problems don't get good marks at all. There was a question asking Divoc to suggest an
+    application, and apparently the application is too simplistic. Divoc decides not to pay. But then
+    Divoc gets a message from the website saying that they will report him to the uni unless the
+    payment is made.
+
+   QUESTIONS FOR FURTHER DISCUSSION:
+
+    4. Suppose Divoc pays now. What is there to stop them asking for more payment?
+    5. Divoc has lost a lot of sleep over this, and now there is another assignment
+
+           looming! Is Divoc back on top of things, and well-prepared for this next task?
+    6. What could Divoc have done differently at the beginning? What about now?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 2                                  49
+
+Scenario XL
+
+Pan shares a house with two others. Pan can't always seem to manage to access help
+from uni when it's available, and starts to worry about all the assignments that will soon
+be due. Antine suggests that Pan posts them to Chuberlogg, which Antine does, saving
+lots of time and hassle. Antine says it's like getting help from a tutor or friend. Iso, their
+other housemate scoffs at this idea. Iso is an amateur sports player, and says that saving
+time by not actually doing the assignments is like catching a taxi and telling the coach
+you did a 5km run. It's not about the destination, it's the process.
+
+   QUESTIONS FOR DISCUSSION
+
+    1. What does University policy call the time-saver that Antine is suggesting?
+    2. Is it always OK to get help from a friend or private tutor with an assignment as
+
+           Antine says?
+    3. What is the purpose of assessment? What is the purpose of going to uni?
+
+   MORE INFORMATION:
+
+    Iso again tries to talk Pan out of using Chuberlogg, saying it's more like getting someone else to
+    wear your fitbit, and kidding yourself you did the steps. You won't be match ready. Or ordering a
+    meal to be delivered and telling your date it's homecooked by you. Antine and Iso have a huge
+    fight about it, and Iso moves out. The rent share goes up, Pan tries to pick up some more work
+    shifts, and things get even worse in terms of time pressures. A few weeks later both Pan and
+    Antine are investigated for contract cheating.
+
+   FURTHER QUESTIONS FOR DISCUSSION
+
+    4. Are Iso's descriptions of using "Chuberlogg" good ones?
+    5. Why might Pan and Antine have been suspected of outsourcing?
+    6. What could happen to Pan and Antine, if they are found to have outsourced
+
+           assessment tasks?
+    7. What could Pan have done instead?
+    8. Suppose that they were not investigated, but they had taken such a shortcut.
+
+           How prepared would they be for future assessment? Or for their careers?
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3
+Issues
+raised by the
+scenarios
+Chapter 3                                  51
+
+Scenario A
+
+Peer or social pressure is a factor that can cause students to agree to things they are
+not entirely comfortable with, such as showing their work to another student (Simon &
+Sheard, 2015). Also, when asking for inappropriate help, students are more likely to ask
+a friend who is impulsive, than someone cautious who they know less well (Scrimpshire
+et al., 2017). Nevertheless, all students are required to take reasonable precautions to
+ensure that copying of their work cannot happen, whether knowingly or carelessly.
+As a guide, if Miki's assessable work is open in front of another student, that is not
+collaboration, it is collusion. Academic integrity relates to a relationship between
+three parties, not just two; the third party is the assessor, who has not agreed that the
+work can be jointly produced and who is being deceived about its origins (Yeo, 2006).
+As the further information for this scenario shows, Aly went even further than collusion
+(without Miki's knowledge), and engaged in copying, using technology to make an
+electronic copy. Plagiarism refers to passing off someone else's ideas as one's own
+without correct attribution, but attributing the work to Miki would not have corrected
+the breach of integrity.
+
+Miki is probably the better-prepared student for future assessment. Studies show
+that students achieve better overall outcomes if they focus on learning, rather than
+on getting marks or having correct answers by whatever means (Ashworth et al., 1997;
+Palazzo, Lee, Warnakulasooriya, & Pritchard, 2010).
+
+Scenario B
+
+The purpose of the assignment appears to be to diagnose whether students can reliably
+perform certain fundamental mathematical tasks, which they will need to do in the final
+technology-free exam; that is, it is formative or diagnostic assessment. Billi has not
+taken up this learning opportunity and does not seem to understand the purpose of the
+task; perhaps it has not been clearly explained (Bretag et al., 2018; Fraser, 2014).
+By making up working, Billi has attempted to mislead the assessor; however, there is
+no actual reportable misconduct in this scenario. The tutor probably wants to alert
+Billi to the need to take advantage of learning opportunities, and of what is needed in
+terms of skills going forward. If Billi explains about time pressure and not being sure
+about differences between previous and current expectations - two common reasons
+for students to take shortcuts (Ashworth et al., 1997; East, 2006) - the tutor will be able
+to point Billi to some resources or student services that could help. Mutually respectful
+relationships with teaching staff lead to lower incidences of student misconduct
+(Bretag et al., 2018). If Billi is arrogant about the behaviour (Devlin & Gray, 2007), this is
+not constructive (Riedesel et al., 2012) and the advice Billi needs may not be received.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  52
+
+Scenario C
+
+Working together cooperatively or collaboratively in class is encouraged, but this has
+muddied the water about expectations when it comes to individual assessment (Barrett
+& Cox, 2005; Simon & Sheard, 2015; Sutherland-Smith, 2013). Students who would never
+copy another student's work in an exam may not think twice about what happens when
+they are doing homework or assignments (Ashworth et al., 1997). In principle, study
+groups are a good thing. Whether Charlie and the other students in this scenario have
+colluded will depend on what they are actually writing down. For example, if they are
+writing down things like `this looks like the example from last Thursday' or `try method
+X for this one', then they are collaborating (McGowan, 2016). However, if one of them
+starts to write down and share specific details of an answer, then the door for copying
+and collusion is opened. As a rule of thumb, talking is generally OK, but once work
+is open in front of other students and notes are being made from it, the line is being
+crossed. If each student makes their own notes from a group discussion, direct copying
+can't happen.
+
+In the second part of this scenario, the matter of altruism or loyalty to peers comes
+up. Students frequently regard being helpful, especially when things are tough, as a
+higher good than the abstract principle of academic integrity (Ashworth et al., 1997;
+McGowan, 2016; Scrimpshire et al., 2017; Sheard & Dick, 2012). Getting notes from
+friends is not the only way to get support. Yolli could ask for an extension and for
+help from the lecturer or tutor. The worst-case scenario is that Yolli uses Charlie's
+notes inappropriately, in which case Charlie could end up involved in a misconduct
+investigation. This might have serious consequences for both Yolli and Charlie, as well
+as for their friendship and engagement with other students (Sutherland-Smith, 2013).
+`It's not my fault how it got used' is not an acceptable defence once your work is shown
+to someone else.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                                53
+
+Scenario D
+
+Dannie seems to have used the provided answers a little too closely; they are models
+and are indicative of the expected standard, not a proforma (Jones & Freeman, 2003).
+When responding to the letter, Dannie can explain the huge adjustment that is
+underway, and that it is the provided answers, rather than other students' work, that
+have been consulted. Instances of similar work early in first year generally result in
+counselling and advice, rather than penalty, as Dannie will find by reading the relevant
+policies. Dannie has not copied or plagiarised, in the way that these terms are
+understood in the academic integrity policy (or as defined in Chapter 1 or the
+Glossary). Learning the style and vocabulary of mathematical communication is like
+learning an additional language (Bardini & Pierce, 2015), and referring to model answers
+is a good way to develop an understanding of how to write in this new language (East,
+2006). Over time, Dannie must develop fluency, and along the way may make mistakes
+(as one makes when speaking a language one is learning). Lack of confidence or fear of
+errors is a documented explanation for why students do not use their own words
+(McGowan, 2005). It is also possible (although the scenario does not specify this) that
+Dannie has used symbols or phrases from the model answers that do not apply to the
+assigned work; this is described as occurring in physics reports by Jones and Freeman
+(2003). The scenario indicates that there is learning to be done, and perhaps that
+Dannie needs to ask for help with some things not yet understood.
+
+`DICTIONARY DEFINITION' FROM PEXELS USED UNDER CC0  KATHERINE A. SEATON
+
+DON'T CHEAT YOURSELF
+Chapter 3                                  54
+
+Scenario E
+
+Asking a friend for help, as Nat has done, is not wrong in itself. If Enzi had talked about
+the work in general terms, that would be fine. However, showing someone else your
+typeset work is not appropriate, because the expectation is that students will not
+knowingly make copying possible. As this scenario indicates, sharing electronic work is
+very easy, and time and workload pressures make shortcuts tempting (Franklyn-Stokes
+& Newstead, 1995). However, once a file is shared, the originator loses control over how
+it is used or misused. Nat and Enzi have each breached the academic integrity policy,
+and there is both collusion and copying in this scenario. Nat and Enzi's friendship is
+likely to be badly damaged by the ensuing investigation (Sutherland-Smith, 2013).
+
+Since exams are handwritten, Enzi should maintain that skill, which is somewhat
+different from typesetting (with spellchecking and the possibility to quickly undo
+errors). Some students report not actually being able to write quickly for the whole of
+the allotted time! Typesetting mathematics is time-consuming and adds to the load
+of what has to be learned, and thus is generally not required in first or second year.
+The expectation is that study time will be spent on coming to grips with the content
+(Rowlett, 2014). Had Enzi handwritten this assignment, this e-sharing would not have
+happened. Nat has certainly not prepared well for the final assessment by pasting work
+from another student into the assignment, rather than doing it individually; in this
+respect, Enzi is better prepared. A published study showed that students who cheat
+on (physics) coursework problems perform significantly worse on the final exam than
+students with similar prior knowledge who do not cheat (Palazzo et al., 2010).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  55
+
+Scenario F
+
+University academic integrity policy requires staff and students to take actions
+that will reduce the possibility for misconduct, which includes lecturers varying the
+assessment tasks from year to year. Cynicism about lecturers' level of care, both in
+designing assessment and deterring misconduct, is a justification that students give
+for their misconduct (Ashworth et al., 1997; Simon & Sheard, 2015). All three people in
+this scenario may be breaching the guidelines. Both the lecturer and Perry are making
+misconduct possible, and Perry may also be colluding (but this is unclear, because Perry
+may not have known that the former assignments would be directly relevant). Fran is
+copying, and this would not be considered plagiarism, because correct attribution
+would not rectify the conduct.
+
+It is possible that Fran will be asked to explain the assignment's similarity to other
+students' work; after all, the answers were quite easy to get hold of and others may
+have them, too. Fran will not have engaged in the kind of learning activities that were
+intended, and that would help prepare for the final exam, so Fran may not do well in it
+(Palazzo et al., 2010).
+
+Universities have revoked degrees where they believe that they were not properly
+obtained; this does not seem to apply in this scenario, because there is no evidence to
+indicate that Perry engaged in misconduct as a student. Some authors would suggest,
+however, that Perry has undermined the assessment, thus damaging the academic
+enterprise and the value of Perry's own degree (Dick et al., 2003; Fishman, 2009).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  56
+
+Scenario G
+
+By asking Otta to correct mistakes in Gul's work, Gul is asking Otta to contribute to it
+and thus engage in collusion (McGowan, 2016). On first glance, Otta may be displaying
+the kind of pride that Devlin and Gray (2007) identified as sometimes giving rise to
+an arrogant form of misconduct. Or Otta's response may not be showing off; Otta
+may be clumsily trying to find an appropriate way to help without doing the wrong
+thing (Sutton & Taylor, 2011). Gul could ask Otta to have a more general chat about the
+assignment, or could seek help from the lecturer or tutor. Otta could have suggested
+either of these things, or mentioned helpful resources to focus on.
+
+Just because a student appears confident, it does not mean they have all the answers.
+Similarly, just because a student is having to work really hard, it does not mean they are
+not making progress; learning new things can be hard. In fact, in the twist at the end of
+this scenario, it seems that Gul could be taken advantage of, if Otta finds out what Gul's
+hard-won ideas are (Stepp & Simon, 2011). Gul could take Otta's strange suggestion as
+a warning not to trust Otta. Breaking trust with fellow students was considered (by
+students) to be more serious than the breach of an abstract `right' and `wrong' in the
+study of Ashworth et al. (1997).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                    57
+
+Scenario H
+
+In some disciplines, particularly those involving calculations, what alerts tutors that
+copying or collusion is occurring is pairs or clusters of students with identical and
+unusual errors (Simon, 2016). As students new to university study, Hani and Quin
+will probably get a warning about their work being too similar, along with academic
+counselling, which will give them a chance to talk to someone about their transition
+to uni and their academic difficulties. Hani and Quin need to ask for help when they
+each need it, and become more independent, both in writing up their answers and in
+general. Joining a club or extending their circle of friends in some other way would be
+good for them both. It seems that Quin may need some more help in adjusting to uni,
+such as counselling. Universities have such help available.
+
+A subsequent instance of misconduct is not dealt with by warnings and counselling.
+Penalties begin to be imposed; generally, penalties are reduced marks or zero marks for
+items of work. Coupled with the fact that Hani and Quin are still making identical
+idiosyncratic errors (which suggests they are not accessing reliable help), their outlook
+in this subject is not good.
+
+`TWO SHEEP' FROM PXHERE USED UNDER CC0  KATHERINE A. SEATON
+
+DON'T CHEAT YOURSELF
+Chapter 3                                  58
+
+Scenario I
+
+There is certainly a danger that Ioni, Rohan and Sami could be colluding, or even
+copying. This will depend on exactly what happens when they meet up to `teach' each
+other. Explaining ideas to other students can be a great way to learn the material
+yourself and to test the completeness of your understanding (Alcock, 2013). But if
+the three students are actually showing one other exactly how to do the assigned
+questions, then this is certainly misconduct (McGowan, 2016). Even if they manage to
+speak in general terms, and resist the temptation to write out the solutions in front of
+each other, the risk is that one of them will not do their share, and leave the others with
+time pressures in meeting the deadline for the assignment. Time pressures contribute
+to misconduct (Franklyn-Stokes & Newstead, 1995). The possibility for the kind of
+idiosyncratic errors and uneven quality that trigger academic concerns about collusion
+or copying is very high (Simon, 2016).
+
+Once the communication becomes captured by technology, the possibility for copying
+is increased. For example, screenshots or a recording from a Skype meeting could
+easily be made without the consent or knowledge of the other participants. Those
+participants would still have contributed to misconduct, because they have made
+copying possible through carelessness.
+
+In the second part of the scenario, by outsourcing the problem to an online forum,
+even if there is no charge, Rohan has breached the academic integrity guidelines.
+Since specific help for an assessment task has been obtained, this is contract cheating
+(Bretag et al., 2018). The later part of the scenario makes it clear that what is going
+on is not `teaching', but collusion and copying. Over-sophisticated language, and the
+incorporation of ideas beyond the scope of the student's expected knowledge for the
+subject, again raise flags of concern for the person marking the assignment (Dick et al.,
+2003). Ioni, Rohan and Sami could well be asked to respond to a report of suspected
+misconduct, and receive a penalty (e.g. zero for one or all assignments) if it is found that
+they have colluded. If contract cheating is found to have taken place, exclusion from
+the university is a possible penalty. Asking students to explain submitted work is a way
+that lecturers check whether the student actually produced it (Simon & Sheard, 2016).
+If these students do not fully understand the questions taught to them by the others,
+then they will not have used the assignments formatively as a way to prepare for the
+final assessment, which is generally the purpose of low-stakes work assigned during
+the semester. The purpose of assessment is not handing in a correct set of solutions; it
+is demonstrating one's own understanding and mastery of the topic (Fraser, 2014; Yeo,
+2007).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  59
+
+Scenario J
+
+The purpose of asking students to do simple or routine tasks for themselves, even
+though the answers can be looked up, is to make sure they can `walk before they run',
+as part of their development of skills. The fact that Jan thought it was necessary to
+modify the code indicates that Jan suspected it was not appropriate to use it; this is not
+open and honest behaviour (Riedesel et al., 2012). The fact that Jan can't successfully
+modify simple aspects of the code indicates poor understanding of how it works. Code-
+similarity detection software (e.g. MOSS - measure of software similarity) is routinely
+used for programming assignments, rather than text-matching software (such as
+Turnitin) and, by giving assent to the authorship statement, Jan has given consent for
+the work to be checked electronically. What will happen following an interview with an
+academic integrity adviser will depend on Jan's level of experience - whether this is the
+first assignment in first year, or a large item in a later year. It is possible that Jan needs
+only a warning and an explanation of what is expected going forward. At this point, Jan's
+behaviour does not indicate the deep level of understanding of basic principles that is
+required to become independent and innovative in product design. Jan should focus
+on learning and understanding, not simply on getting high marks (Palazzo et al., 2010).
+When Jan is in doubt, either about a task or whether an action is permitted, asking the
+lecturer is the best course of action.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                                                           60
+
+Scenario K
+
+Kit is experiencing many of the time and financial pressures that students give as
+
+reasons for resorting to academic misconduct (Franklyn-Stokes & Newstead, 1995).
+
+Students also use their perception that their classmates take proscribed shortcuts to
+
+justify such behaviour. Kit could certainly
+
+be found to have committed contract
+
+cheating, by using specifically relevant
+
+material from a site with a membership
+
+fee (Bretag et al., 2018). The timeline of
+
+exactly when the fee was paid does not
+
+change this fact, nor does the fact that
+
+someone else has requested (contracted)
+
+this particular solution. Kit's conduct may
+
+have come to light because other             `BUOY LAUNCHED AT SEA' BY JAMETLENE RESKP ON UNSPLASH
+students are using the same website,
+
+giving rise to a similarity match, or the
+
+lecturer may have also accessed it. Universities monitor such sites, both to see whether
+
+their copyrighted materials are being uploaded and to see whether solutions to their
+
+assignment questions are being posted (O'Malley & Roberts, 2012). Kit could have
+
+requested an extension, or asked a tutor for help. If Kit felt overwhelmed, there are
+
+other services available, such as study skills or counselling. Even withdrawing late from
+
+one subject may have been a wiser decision than the one Kit made. Receiving zero for a
+
+subject, or suspension or exclusion, are possible penalties for major misconduct.
+
+DON'T CHEAT YOURSELF                         KATHERINE A. SEATON
+Chapter 3                                  61
+
+Scenario L
+
+Tutoring for payment, when it is actually teaching and does not involve writing answers
+for students to submit, is fine. Being paid by a classmate to show them answers to
+assessment tasks is not - it would be contract cheating by both parties, whatever
+they chose to call it (Bretag et al., 2018). Tam may be taking advantage of Lee's difficult
+financial situation (Devlin & Gray, 2007), but this would not exonerate Lee. Lee could
+point out what help is available from the uni, offer Tam the chance to join a cooperative
+study group, or offer to explain the general ideas that Tam is struggling with (which
+seems to be what happens). This could fairly result in them both getting the same mark,
+because they have different strengths. Perhaps Tam could give Lee tips about oral
+presentation, and thus they could be helping each other. Or Lee could choose not to
+get involved with Tam (Sutton & Taylor, 2011). Lee feeling social pressure, because Tam
+knows Lee's other students, is not a good enough reason to do something Lee does not
+want to do (Ashworth et al., 1997).
+
+If Lee's three students produce work that is similar enough to trigger an academic
+progress hearing, this may be because they work together (collude) at other times,
+without Lee. On the other hand, if it is found that Lee provided them with solutions,
+even though Lee is not being assessed for that task, Lee could be found to have
+committed academic misconduct. Since Lee is not actually enrolled for that subject,
+mark reduction is not possible, and Lee's penalty would have to be drawn from other
+possible penalties in the schedule. If Lee is found to have been the contracted party in
+contract cheating, as a student of the same university, Lee could be excluded.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  62
+
+Scenario M
+
+The purpose of being asked to set out a formal argument for a simple result was
+probably to learn how to do a proof, beginning with a simple one, the intent being
+for Moz to develop skills in that area (Alcock, 2013). Misconduct includes presenting
+the words or ideas of others when there is the expectation that the words or ideas
+should be one's own. So yes, by using an answer provided in an online forum, even if
+the answer was not directly requested, Moz has missed out on developing essential
+reasoning skills (Borg, 2009) and has breached the academic misconduct guidelines.
+This is contract cheating, because the work was done by a third party, seemingly as a
+favour (Bretag et al., 2018).
+
+Typesetting mathematics, particularly online, is not straightforward, so details such as
+subscripts and special symbols can be missing or garbled. If Moz had understood the
+mathematics, the proof would not have contained these tell-tale errors. These types of
+flag-raising mistakes, which indicate poor understanding and suggest copying, can also
+arise when students base their work on other students' handwritten work. A low mark
+is a fair reflection of Moz's learning, and if the tutor finds evidence of Moz's interaction
+in the online forum the mark could be reduced to zero, or a worse penalty may be
+imposed.
+
+The best places to start looking for help, or to ask any question about an assessment
+task, are with the teaching staff of the subject and in the subject resources. Moz
+still needs to develop the skills from this assignment, and to develop better learning
+strategies.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  63
+
+Scenario N
+
+Although the work and ideas are Nic's, credit has already been given for them in Nic's
+degree. University policy requires students to check with the subject coordinator
+whether it is permissible to re-use work completed for another subject. Asking other
+students what they think, or relying on `common sense', is not the best way to establish
+what is allowed; it may or may not be. Nic should carefully read the statement that
+must be signed with the submitted work, and the policy. Text-matching software will
+identify matches to any student's previously submitted work, including self-plagiarism,
+so Nic could well find that an explanation for potential misconduct will be required.
+Responsibility lies with the student, and students in the later years of a degree are
+generally expected to have a deeper understanding of academic integrity than
+students submitting their first pieces of work or new to the Australian university
+context. Thus, the fact that Nic is in third year would influence any decision made
+about this conduct. Not knowing, or not having thought to ask, is not behaviour
+consistent with Nic's level of experience (Riedesel et al., 2012).
+
+Students repeating a subject, who have already received feedback on work, should
+ask the subject coordinator before resubmitting that work, even in part. Subject
+coordinators may view formative tasks (i.e. those designed to inform the student about
+their learning and where to go with it) differently from summative tasks (i.e. those
+intended to sum up a student's total learning). Similarly, the weighting of the task may
+be a factor in the coordinator's opinion about resubmitting work.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  64
+
+Scenario O
+
+Possible things you might do are to walk away and work somewhere else because
+you want to do the work for yourself; erase the working on the boards; photograph
+the work on the boards and then check your own work against it later; or attempt to
+understand what is on the boards, but then write up the work for yourself. Or you
+might simply decide to use what is on the boards. You might think that you can hardly
+be blamed for using something that is essentially lying around and seems to belong to
+no one or everyone. But as Yeo (2006) points out, the assessor is expecting to see your
+work. You might have a strong opinion about this, and this question is intended for both
+reflection and discussion (possibly lively!) about what assigned work is for, and what it
+means to `own' it. Adopting the definition of Riedesel et al. (2012), acting with academic
+integrity means being open, honest and constructive, not just doing whatever you can
+get away with. Satisfaction in one's own learning and pride in one's own behaviour are
+given as motivations by students for doing work for themselves (Ashworth et al., 1997).
+One possible danger of using these solutions too closely would be that Olan does not
+actually master the mathematics in a way that can be reproduced in another context
+(e.g. an exam or in later years), even if it results in a short-term unfair advantage. The
+solutions may contain idiosyncrasies or errors that Olan may not recognise if using
+them uncritically. Possibly Olan and the originator, and maybe other students who have
+used the room, will submit work that is too similar and that will trigger an academic
+misconduct investigation. In that case, saying that the work came from a classroom
+board would not be a satisfactory response. The person who wrote up these answers
+and did not rub them off has also carelessly made misconduct possible.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  65
+
+Scenario P
+
+Early assessment tasks, generally low-stakes in weighting, are formative assessments,
+intended to see whether students have found their feet at uni and in the subject.
+Clearly, Pip and Tusi haven't found their feet. In large classes of hundreds of students,
+communication is generally via email and the LMS; this may seem impersonal at first,
+but it does mean that there is always a record to refer back to. However, it only works if
+it is set up correctly. Going to see the tutor was a good step. Hopefully, the tutor would
+realise that there were some settling-in issues, perhaps even more so than academic
+ones, to address.
+
+Sharing notes made in class or from a consultation is not proscribed behaviour, but it
+has potential pitfalls, as this scenario makes clear (Sutherland-Smith, 2013). Pip trusted
+Tusi, but did not know that the notes would end up with Eli (Ashworth et al., 1997). Tusi
+could not control how they were subsequently used. Neither Tusi nor Eli knew exactly
+what was said along with the notes in the consultation, so they could misinterpret
+them.
+
+The most likely outcome here is a warning and, if Pip is honest about how confusing
+everything is at first, probably some advice about finding help to get set up with
+email, LMS and so on. If Pip and Tusi take this chance to get a few more aspects of
+uni life sorted out, then they have made good progress in their first three weeks at
+uni, and the early assessment task has achieved its purpose for them. Knowledge in
+some disciplines is to a large extent cumulative, and it is imperative to not fall behind
+(Roberts, 2002).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                                                                66
+
+Scenario Q
+
+Quentin's friend has carelessly made copying possible, which is academic misconduct.
+There is no defence to say that it was a mistake, or that the USB shared was the wrong
+one, or that Quentin had used a file that the friend did not intend to share. Even if
+Quentin is honest (which may not happen), the friend will receive the same kind of
+questions from an integrity adviser as Quentin does.
+
+Quentin may have the impression that academic misconduct goes unpunished. In
+studies of misconduct, some students mention perceived staff indifference as a
+reason for taking shortcuts (Devlin & Gray, 2007); other students report the social
+or psychological consequences of being found out to be a deterrent. Guilt and
+embarrassment are mentioned; when students with this disposition do receive
+penalties for misconduct, they are unlikely to make this known, so this secrecy skews
+Quentin's impression of the situation (Ashworth et al., 1997). Universities do not make
+known the identities of students who have been reported for misconduct, or who have
+received penalties. However, some professional registration bodies mandate graduates
+to reveal misconduct, and graduates can be deregistered if they are subsequently found
+to have concealed it. Some of the bodies who require this information are the Legal
+Services Board of Victoria, Society of Certified Practising Accountants and Institute
+of Chartered Accountants; note that this is not an exhaustive list. Other bodies expect
+that undergraduates are educated in their code of conduct (e.g. Australian Computer
+Society and Engineers Australia).
+
+Quentin is unlikely to be able to explain formulas developed by someone else (Simon &
+Sheard, 2015, 2016), particularly since the relevant classes were missed (which was the
+reason all this happened). Unusual correct answers also attract attention from markers,
+as has happened in this case. Possible outcomes for both Quentin and the friend are
+zero for the work or for the subject.
+
+(Although this scenario resembles one
+found in Riedesel et al. (2012), it is actually
+based on the author's own knowledge
+of an event, with modifications to key
+details.)
+
+                      `LAPTOP WITH A USB STICK' BY BRINA BLUM FROM WIKIMEDIA COMMONS USED UNDER CC0 1.0
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  67
+
+Scenario R
+
+Talking with friends about methods in general terms is not misconduct; in fact, these
+kind of cooperative interactions are beneficial and encouraged (Alcock, 2013; McGowan,
+2016). It is also not misconduct to look up unfamiliar terms, whether in a text or online
+source. But Ru has only read half of the question and has neither answered it nor
+achieved its intention. There are two key phrases that Ru has ignored: `hence' and `in
+your own words'. `Hence' indicates that the answer given should interpret, or build
+a conclusion on, the calculations that have gone before, which a Wikipedia entry in
+unfamiliar terminology cannot satisfy. The use of language that is beyond the scope
+of the subject and does not specifically answer the question will alert the marker to
+Ru's work; if the assignment is put through text-matching software or even manual
+inspection it will be clear that these words are not Ru's own (O'Malley & Roberts, 2012).
+Ru will not get a good mark for the final question, even if all the preceding calculations
+are correct, and may even face a hearing with an academic integrity adviser for
+copying. The penalty could be that a zero grade is given for the whole assignment. The
+lecturer or a demonstrator could have been consulted about what was required - they
+would have pointed out the key terms of `hence' and `own words' (and, in this case,
+`parabola' and `safety').
+
+Scenario S
+
+Jools has used Steen's answers without Steen's consent to obtain an unfair advantage.
+Jools has broken Steen's trust (Ashworth et al., 1997). Certainly, Steen has carelessly
+enabled misconduct, whether or not discernible misconduct actually happens. It is
+not plagiarism, because an attribution would not fix the issue, and it is not collusion
+or collaboration, because Steen was not knowingly involved. Jools has misled the
+assessor as to the origin of the ideas in the submitted work. This behaviour doesn't fit
+neatly into any category, but it most closely fits copying. If both students are involved
+in a subsequent misconduct investigation, Steen's explanation of how Jools got access
+to the work would not be a compelling one. Steen could have emailed the lecturer to
+request late or alternative submission, and needs to work on time management to avoid
+panicky situations like this (Alcock, 2013). This scenario suggests that Jools had done
+most of the work, but learning for oneself is what is needed long term. (This scenario is
+based on one in Riedesel et al. (2012)).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  68
+
+Scenario T
+
+Cynicism about the value of assessment, or about lecturers appearing to put little effort
+into creating tasks, are justifications that students give for taking shortcuts (Devlin &
+Gray, 2007). However, these factors do not justify misconduct. Perhaps the lecturer
+could have explained the purpose of the task better (Roberts, 2002). Tip could have
+asked the lecturer about why the work had been assigned, and what was supposed
+to be learned by doing it. Bretag et al. (2018) found that a learning environment that
+includes the interactive discussion of tasks is one in which misconduct is less likely to
+occur.
+
+Whether the work has been published or not makes no difference to the fact that work
+found on the internet is not Tip's to present as original, and the assessor expects to see
+Tip's own thinking (Yeo, 2006). The point of the exercise is not the result of the analyses
+(which obviously the lecturer too could have googled, or done themselves), but Tip and
+the rest of the class members acquiring and demonstrating analytical skills (Yeo, 2007).
+Attributing the results handed in to a third-party source might avoid a misconduct
+allegation, but it would not result in a good mark, which is presumably what Tip hoped
+for.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                                   69
+
+Scenario U
+
+Uda's request and Zan's response are both inappropriate - showing someone else their
+assignment working to correct, or telling someone all the answers, are both actions
+that cross the line from collaboration to collusion (McGowan, 2016). Uda could have
+asked to discuss the work in general terms or, if Zan was not willing to do this, Uda
+could have asked the teaching staff from the subject for help (Sutton & Taylor, 2011).
+Checking ideas verbally with another student can be helpful to both students' learning
+if they then engage in some collaborative discussion (Alcock, 2013). However, to tell
+another student the answer to every question on an assignment is an action that is
+significant in scope (a factor considered in academic misconduct determinations). Zan's
+arrogant behaviour resembles that of a small minority of confident students described
+by Devlin and Gray (2007).
+
+The scenario suggests that Uda may not be able to reach the correct answers reliably
+and, in this case, may well be reported for misconduct. Incorrect working that purports
+to lead to correct answers intends to deceive, and will alert the marker to a problem
+with the work. By using Zan's answers, Uda has copied and colluded; by supplying them,
+Zan has colluded.
+
+`FEET BETWEEN YELLOW LINE' FROM PXHERE USED UNDER CC0  KATHERINE A. SEATON
+
+DON'T CHEAT YOURSELF
+Chapter 3                                  70
+
+Scenario V
+
+Vee's actions, in immediately removing the link and alerting Alex to the issue, indicate
+that Vee genuinely intended the group to be for convenient electronic collaboration,
+and not to promote misconduct (Barrett & Cox, 2005). Doing this outside the
+discussion tools supplied by the university through the LMS was possibly unwise, but
+was not misconduct. Vee needs to be honest if asked to attend a misconduct hearing,
+but may not be asked to do so.
+
+There are several possible reasons for the two students who accessed the file having
+overly similar work. They may have acted separately and each copied closely, or they
+may have colluded, producing similar work based on Alex's. They may not even have
+really used the file, but they have raised the website and the file in their misconduct
+hearing, believing this will either help their case or muddy the waters. Being accused of
+misconduct leads to mistrust and destroys student relationships (Ashworth et al., 1997;
+Sutherland-Smith, 2013). Frustratingly for academics, getting to the truth becomes
+hard when it is `everyone for themselves' rather than `we're all in this together'.
+Alex has been careless. Modifying the work was not intended to deceive, but rather
+to make it distinctive again, realising that others could have accessed it. Being honest
+during the academic misconduct investigation is imperative, particularly since this is
+the second occasion Alex has been involved in one, and any penalty, if imposed, would
+be more severe. Vee and Alex could have alerted the subject coordinator to what
+happened before any students submitted work. Unlike the other two students, Alex
+should be able to produce drafts of the work, with earlier dates for file creation.
+Students can become caught up in someone else's misconduct unwittingly (Devlin &
+Gray, 2007; Sutton & Taylor, 2011), but should not then attempt to cover up what they
+did in good faith, or attempt to mislead. Keeping copies of rough notes, drafts and
+emails is a good idea; academic misconduct investigations find it suspicious if a student
+cannot show drafts or notes, or cannot provide evidence of conversations they claim to
+have had (such as Vee alerting Alex).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  71
+
+Scenario W
+
+Talking about an assignment in general terms is not misconduct. Students are
+permitted to be collaborative with one another, and the other student could have
+talked to Win, within boundaries. Win wanted to know what the question meant, and
+did not ask for the answer. However, some students choose to protect themselves
+from any whiff of misconduct, either because they don't understand what is allowed,
+or because that is their choice (Sutton & Taylor, 2011). Alternatively, they may have
+been accused of misconduct previously and are now distrustful or ultra-cautious
+(Sutherland-Smith, 2013). As this scenario shows, online forums are not safe places
+to look for help for a number of reasons. Win can access help from the teaching staff
+in the subject during their consultation hours; these people know where to stop with
+their assistance.
+
+If Win uses the answer provided by the second person who responds in the forum,
+this is contract cheating, despite the fact that no payment was made (Bretag et al.,
+2018). Win has also made the misconduct of the other students possible, by posting
+the exact question in the forum. Enabling misconduct is also misconduct. (Universities
+also regard the posting of their intellectual property, in this case the words of an
+assessment task, to an external site as a breach of rules.) All three students could
+receive a penalty for misconduct, such as zero for the task. It does not matter that they
+used incorrect work that would have received a low mark. They have fallen into what is
+called a `cheat trap' (O'Malley & Roberts, 2012).
+
+Win has learned so little in doing the assignment that the incorrect work was not
+recognised! The purpose of assessment is always to enable learning (formative
+assessment) or to measure it (summative assessment), so Win has not achieved the
+purpose of the assignment.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  72
+
+Scenario X
+
+Text-matching software can be used to detect similarities between an assignment's
+text and other work but, on its own, it does not define what is and is not acceptable
+(Simon, 2016). Non-text material (e.g. diagrams, designs, photographs, computer
+code and handwritten calculations) is subject to similar principles as text. It can be
+considered to be plagiarised or copied if inappropriately incorporated into what should
+be a person's own work (Porter, 2010).
+
+If the figure that Xanda wants to use comes from a book or printed source, Xanda must
+reference that source to avoid plagiarism. If Xanda re-draws the diagram, it should
+still be referenced as being based on the source; it is not Xanda's original idea, even if
+it is improved, simplified or modified in some way (e.g. see the modified and attributed
+figure in Chapter 1). Although it sometimes seems that everything on the internet is
+common knowledge, or belongs to no one or everyone, internet sources for ideas or
+diagrams should also be referenced. The consequences for not correctly attributing the
+figure would depend on how much experience Xanda has, and whether this has been
+explicitly covered in learning guides. It may be just a warning.
+
+That being said, some diagrams might fall into the category of general knowledge for a
+discipline, such as a basic circuit design, a flow chart or the graph of a parabola. Since
+Xanda received a letter about the diagram, this does not seem to be the case in this
+scenario. Students should become familiar with the discipline's conventions, and if in
+doubt, should ask.
+
+If Xanda comes across another student's work by accident, through that person's
+carelessness, and uses it, this is copying. In this case, Xanda would not be able to
+satisfactorily explain the origin of the figure, and could receive zero for the assignment,
+even if the only copied part is the figure. And even if `it's only a graph', as a student was
+quoted as saying (Yeo, 2006), students are expected to produce their own work, not
+someone else's, for assessment.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  73
+
+Scenario Y
+
+Yve faces pressures to succeed, which many students do, either from their family, from
+their own expectations, or because they want to qualify for another program after the
+current one (Devlin & Gray, 2007). By relying on group support, it seems that Yve has
+not become independently competent. The assignments were formative assessments,
+and by getting help from the group to get good marks, the level of progress Yve has
+made is being misrepresented to the marker. The teaching staff in the subject do not
+have a clear idea of what Yve can and can't do, and neither does Yve. It seems that a
+different kind of help is needed, the kind that would support the development of Yve's
+own skills and personal understanding, but neither Yve nor the teaching staff realise
+this.
+
+Although in this scenario it doesn't appear that any advantage was taken by the other
+students who saw Yve's work, not all students are as fortunate as Yve in this regard,
+particularly in competitive environments (e.g. getting into graduate programs) (Stepp
+& Simon, 2011). Improving one another's work by editing the symbols, like debugging
+one another's programs, could cross the line to collusion. Accessing university services,
+such as learning support, is unlikely to result in academic misconduct, and these
+services will discourage over-dependence by supporting a student's skill development.
+Yve's focus on, and satisfaction with, good marks for coursework has not provided
+adequate learning and preparation for summative assessment in this subject, or in the
+future. Using a study group to bounce around ideas and to keep motivated and on track
+can be great, but each group member is ultimately accountable for their own learning
+(McGowan, 2016).
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                                                                          74
+
+Scenario Z
+
+This seems like immature behaviour and, possibly, this group just thought it was funny
+to trick the demonstrator in this way. Scrimpshire et al. (2017) found a correlation
+between academic misconduct and the personality characteristics of being impulsive,
+irresponsible and venturesome (low `prudence' scores) and being compulsively socially
+interactive (high `sociability' scores). Rebellion, or seeing what can be got away with,
+has been identified as leading to a small amount of academic misconduct (Simon &
+Sheard, 2015); disappointment in the learning environment is another factor in non-
+constructive behaviour (Ashworth et al., 1997). Perhaps the students in this scenario
+considered that the labs were not particularly important, or they all just wanted to get
+finished sooner, or perhaps some of them were struggling and they wanted to help
+each other out so that no one was embarrassed in class. This way of interacting may be
+the norm in their group (McGowan, 2016) and refusing to join in will lead to social
+isolation, or worse. None of this is an adequate justification and neither is it helpful to
+any group member who, like Zsa, actually can't write the code.
+
+Zsa might not be able to explain the code
+for a number of valid reasons, such as
+having got it to work by tweaking or trial
+and error, or being better at writing code
+than with verbal expression (Simon &
+Sheard, 2016), but the Gmail message that
+the demonstrator has seen belies this.
+
+This is blatant misconduct, both collusion
+
+and copying, and the demonstrator has
+
+evidence of it. Both Oki and Zsa, plus the  `UNIVERSITY COMPUTER LAB' FROM PIXABAY USED UNDER CC0
+
+group of friends on the email distribution
+
+list, are likely to be reported for misconduct. For a first offence, if they are honest and
+
+take the misconduct process seriously, they will probably get a warning and some
+
+corrective instruction.
+
+DON'T CHEAT YOURSELF                        KATHERINE A. SEATON
+Chapter 3                                  75
+
+Scenario VL
+
+The most likely explanation for the post made in Onlin's name is impersonation. That
+is, Onlin has given confidential information about how to access the LMS to another
+person, intending that person to do the work instead. The post could have been
+taken down by Onlin or the impersonator, or archived and hidden by the lecturer.
+Impersonation is a form of contract cheating which may take place on the whole-of-
+course or whole-of-subject scale, as in this scenario. Enabling someone who does not
+have the right to a university's computer facilities to access them is a breach of other
+policies, and in many universities would add general misconduct to the academic
+misconduct, although they may be investigated together. Using social media to release
+information that is potentially damaging or bullying to another student is also a form of
+general misconduct. Commercial contract cheating services are exploitative both of the
+customers and of the "experts" they use (Bailey, 2020).
+
+Peer-to-peer file sharing sites try to suggest that they are simply repositories or
+services that enable students to help one another (Rogerson and Basanta, 2016;
+Rowland et al., 2018). They state in their terms and conditions that the onus lies
+with the person posting to only upload materials for which they hold the rights.
+The copyright for course materials resides with the university. As well as breaching
+copyright, enabling other students to cheat, by uploading marked assignments and
+exam questions, is a form of academic misconduct. Contract cheating does not have to
+involve actual money, and in this case Etomer has used files of information to obtain
+access to a potentially advantageous package of services, which are a deliberately
+confusing mixture of legitimate and illegitimate help. Etomer has also lost all control
+over how work produced honestly and individually might be used or shared further.
+Etomer should check in the website information how to get the materials taken down.
+There are other ways to help fellow students (e.g. university peer support programmes)
+and there are legitimate methods of obtaining help should that be needed later on.
+If the website is obstructive about taking down the materials, Etomer could ask the
+university to help with this, as institutions can issue take-down notices, also. Hoping
+that nothing will happen is not a good option; students have been blackmailed and
+degrees revoked years after misconduct, when even more (such as a job) is at stake.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  76
+
+Scenario XIX
+
+Whether Divoc pays someone contacted by an online service (or even a paper notice
+on campus) to do a piece of work, or a family member or friend does it as a favour, this
+is called contract cheating. This term was introduced by Clarke and Lancaster (2006),
+who coined it in the context of coding assignments put out to tender. In text-based
+disciplines the suppliers may be called essay mills or ghost-writers. Dawson (2021, p.
+39) points out that cheating services go looking for students. Commercial suppliers of
+these illicit services place advertisements in social media feeds, and their websites can
+deceptively mirror legitimate websites, using pirated institutional logos to create an
+impression of legitimacy or trustworthiness. They may suggest that they are supportive
+and caring for students under pressure, or they may suggest that using their services
+leaves more time for other activities. However, unlike a help site authorised by a
+student's university, they will also feature testimonials, pricing, an order button and will
+request financial details (Rowland et al. 2018).
+
+Even before legislation was passed to make advertisement and supply of such services
+in New Zealand, Australia and the UK illegal, this was an industry that helped people
+cheat. Since students do not want their use of such services known, they are open to
+coercion and blackmail. A diagram (Figure 1, Yorke et al., 2022) shows the pathway to
+such blackmail, and the study in that paper shows that the majority of students were
+not aware of this possibility (certainly, Divoc was not). Bailey (2020) lists seven different
+ways in which this industry is exploitative.
+
+There is no quality control, and little come-back for dissatisfied students when the
+supplied work is sub-standard (Sutherland-Smith and Dullaghan, 2019). Work produced
+by third parties can often be detected because it is not directly relevant to the task
+assigned within the context of the class itself, as Divoc has found.
+
+During the pandemic, with isolation and the adjustment to online learning and
+assessment, requests to one such commercial contract cheating site rose steeply
+(Lancaster and Cotarlan, 2021). So too did the number of students reported for their
+use. On-line and flexible arrangements, which require discipline in self-organisation,
+have continued since campus closures have relaxed. Accessing university learning
+support (available flexibly) and requesting additional time for tasks are things Divoc
+could have done. Making the institution aware of the blackmail will be painful, but
+Divoc will find that universities want to report and shut down such services that prey
+on their students and undermine the quality of their degrees.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Chapter 3                                  77
+
+Scenario XL
+
+Antine is suggesting that Pan access a commercial contract cheating service, which
+may also offer other services which resemble on-line tutoring. Getting assistance
+from a friend on a task which is intended to be done individually could be collusion or
+contract cheating. Private tutoring, rather than accessing the support and tutorials
+provided by the university, can also be contract cheating if the tutor works directly
+on the student's task (Lancaster & Clarke, 2016). University-supplied services provide
+learning help and advice about tasks which is of an appropriate and permitted kind.
+Antine may in fact be an agent for Chuberlogg, either being paid to promote it or
+receiving its services at a reduced rate for recruiting other students as customers.
+Legislation limits the capacity of these services to openly advertise.
+
+As Iso tries to make clear by using analogies, ultimately graduates need to know and be
+able to do certain things in the workplace. Degree certificates should attest to genuine
+qualification. Iso's comparisons highlight competence, accountability, and trust.
+Healthcare workers, policy makers, teachers, financial advisors - it's hard to think of a
+job in which being incompetent does not endanger others (Dawson, 2021, p. 141).
+The quality and nature of the work supplied to Antine, and possibly to Pan, may have
+prompted an investigation (Sutherland-Smith and Dullaghan, 2019). Universities
+can also use tools to search for online answers to their assessment tasks. Although
+these services suggest that they supply bespoke answers, they make them available
+to other students doing the same task, and matches within the class may have been
+noted. Alternatively, it is possible that Iso has acted as a whistle-blower, alerting the
+institution to Antine's attempts to encourage Pan to cheat.
+
+If Pan and Iso are found to have engaged in contract cheating, there will be serious
+penalties as specified in the university policies. If they are permitted to finish their
+course, this finding may have to be disclosed when seeking professional registration,
+and the consequences for not doing so are severe. If Antine is an agent for Chuberlogg,
+this would also breach the laws that ban the promotion of contract cheating, which are
+enforced by TEQSA in Australia. If contract cheating takes place but is not penalised
+during the course of study, graduates have been threatened with exposure to their
+employer by the commercial contract cheating provider, or have had their degrees
+revoked by their institution.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Glossary
+GLOSSARY                                                                             79
+
+Academic integrity    The expected form of behaviour in assessment. It means
+                      acting in a way that is honest, fair, open and constructive.
+
+Academic misconduct   An overarching term for all types of behaviour that result
+                      in an unfair advantage in assessment, including contract
+                      cheating, collusion, copying and plagiarism. It also covers
+                      behaviours such as being careless with your work so that
+                      copying becomes possible, or deliberately enabling copying,
+                      and any other dishonest or unconstructive behaviour in the
+                      context of assessment.
+
+Collaboration         Interacting with other students in a way that is permitted.
+                      Even when assignments are intended to be done individually,
+                      general discussion of the topic is a permitted form of
+                      interaction. Collaboration has a positive connotation.
+
+Collusion             Two or more persons interacting in a way that misrepresents
+                      to the assessor the understanding or contribution of
+                      the person who submits a piece of work, or misleads the
+                      assessor as to the origin of the work. Collusion is a negative
+                      term.
+
+Common knowledge      Ideas or terms that are well known to members of a
+                      discipline and do not need attribution in the context of that
+                      discipline.
+
+Contract cheating     A situation in which a person asks someone else to produce
+                      part or all of the work, which they then submit for an
+                      assessment task. Payment does not have to be involved.
+
+Copying               The use of someone else's words (or calculations, code or
+                      diagrams) that can't be put down to poor attribution and is
+                      intentional.
+
+Formative assessment  Tasks intended to give information to students about their
+                      progress and current level of understanding, usually making
+                      only a small numerical contribution to the final mark for a
+                      subject.
+
+Impersonation         One person fulfilling the course or attendance requirements
+                      for another, from a single quiz to all requirements of a
+                      subject or programme of study; a particular form of contract
+                      cheating.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+GLOSSARY                                                                                                                                 80
+
+ Plagiarism           The use of another person's words or ideas or diagrams that
+                      could have been attributed to that person to remove the
+ Self-plagiarism      misconduct; without that attribution, it appears that you are
+ Summative            claiming them as your own.
+ assessment           The re-use of your own words or ideas, when fresh work is
+                      expected.
+                      Tasks used to determine the overall or final level of
+                      achievement of a student in a subject.
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+Reference
+List
+REFERENCE LIST                             82
+
+Alcock, L. (2013). How to study for a mathematics degree: Oxford University Press.
+Ashworth, P., Bannister, P., & Thorne, P. (1997). Guilty in whose eyes? University
+
+       students' perceptions of cheating and plagiarism in academic work and
+       assessment. Studies in Higher Education, 22(2), 187-203. doi:10.1080/03075079712
+       331381034
+Bailey, J. (2020). 7 ways the contract cheating industry is exploitative. Plagiarism Today.
+       Retrieved from https://www.plagiarismtoday.com/2020/09/22/7-ways-the-
+       contract-cheating-industry-is-exploitative/
+Bardini, C., & Pierce, R. (2015). Assumed mathematics knowledge: the challenge
+       of symbols. International Journal of Innovation in Science and Mathematics
+       Education (formerly CAL-laborate International), 23(1). Retrieved from https://
+       openjournals.library.sydney.edu.au/index.php/CAL/article/view/8485
+Barrett, R., & Cox, A. L. (2005). `At least they're learning something': The hazy line
+       between collaboration and collusion. Assessment & Evaluation in Higher
+       Education, 30(2), 107-122. doi:10.1080/0260293042000264226
+Biddle, P. (2017). AI is making it extremely easy for students to cheat. Wired. Retrieved
+       from https://www.wired.com/story/ai-is-making-it-extremely-easy-for-
+       students-to-cheat/
+Borg, E. (2009). Local plagiarisms. Assessment & Evaluation in Higher Education, 34(4),
+       415-426. doi:10.1080/02602930802075115
+Bretag, T. (Ed.). (2016). Handbook of academic integrity. Singapore: Springer Science +
+       Business Media.
+Bretag, T., Harper, R., Burton, M., Ellis, C., Newton, P., Rozenberg, P., et al. (2018).
+       Contract cheating: A survey of Australian university students. Studies in Higher
+       Education, 1-20. doi:10.1080/03075079.2018.1462788
+Clarke, R., & Lancaster, T. (2006). Eliminating the successor to plagiarism? Identifying
+       the usage of contract cheating sites. Proceedings of 2nd International Plagiarism
+       Conference (pp. 19-21). Northumbria Learning Press.
+Dawson, P. (2021) Defending assessment security in a digital world: Preventing
+       e-cheating and supporting academic integrity in higher education. Routledge.
+Devlin, M., & Gray, K. (2007). In their own words: A qualitative study of the reasons
+       Australian university students plagiarize. Higher Education Research &
+       Development, 26(2), 181-198. doi:10.1080/07294360701310805
+Dick, M., Sheard, J., Bareiss, C., Carter, J., Joyce, D., Harding, T., & Laxer, C.
+       (2003). Addressing student cheating. ACM SIGCSE Bulletin, 35(2), 172.
+       doi:10.1145/782941.783000
+East, J. (2006). The problem of plagiarism in academic culture. International Journal for
+       Educational Integrity, 2(2). Retrieved from https://ojs.unisa.edu.au/index.php/
+       IJEI/article/view/88
+Fishman, T. (2009). "We know it when we see it" is not good enough: Toward a standard
+       definition of plagiarism that transcends theft, fraud, and copyright. Wollongong,
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+REFERENCE LIST                             83
+
+       4th Asia Pacific Conference on Educational Integrity, Australia.
+Franklyn-Stokes, A., & Newstead, S. E. (1995). Undergraduate cheating: Who does what
+
+       and why? Studies in Higher Education, 20(2), 159-172. doi:10.1080/0307507951233
+       1381673
+Fraser, R. (2014). Collaboration, collusion and plagiarism in computer science
+       coursework. Informatics in Education, 13(2), 179-195. doi:10.15388/infedu.2014.01
+Gilmore, J., Maher, M., & Feldon, D. (2016). Prevalence, prevention, and pedagogical
+       techniques: Academic integrity and ethical professional practice among STEM
+       students. In T. Bretag (Ed.), Handbook of academic integrity (pp. 729-748).
+       Singapore: Springer Science + Business Media. doi: 10.1007/978-981-287-098-
+       8_45
+Jones, A. A., & Freeman, T. E. (2003). Imitation, copying, and the use of models: Report
+       writing in an introductory physics course. IEEE Transactions on Professional
+       Communication, 46(3), 168-184. doi:10.1109/tpc.2003.816790
+Joy, M. S., Cosma, G., Sinclair, J., & Yau, J. Y.-K. (2009). A taxonomy of plagiarism in
+       computer science. Proceedings of the EDULEARN 09, Barcelona, Spain. Retrieved
+       from http://wrap.warwick.ac.uk/47530/
+Lancaster, T., & Clarke, R. (2016). Contract cheating: The outsourcing of assessed
+       student work. In T. Bretag (Ed.), Handbook of academic integrity (pp. 639-654).
+       Singapore: Springer Science + Business Media. doi: 10.1007/978-981-287-098-
+       8_17
+Lancaster, T., & Cotarlan, C. (2021). Contract cheating by STEM students through a
+       file sharing website: A Covid-19 pandemic perspective. International Journal of
+       Educational Integrity, 17(3). doi: 10.1007/s40979-021-00070-0
+McGowan, S. (2016). Breaches of academic integrity using collusion. In T. Bretag (Ed.),
+       Handbook of academic integrity (pp. 221-248). Singapore: Springer Science +
+       Business Media. doi: 10.1007/978-981-287-098-8_45
+McGowan, U. (2005). Does educational integrity mean teaching students NOT to `use
+       their own words'? International Journal for Educational Integrity, 1(1), 11. Retrieved
+       from https://www.ojs.unisa.edu.au/index.php/IJEI/article/view/16
+O'Malley, M., & Roberts, T. S. (2012). Plagiarism on the rise? Combating contract
+       cheating in science courses. International Journal of Innovation in Science and
+       Mathematics Education (formerly CAL-laborate International), 20(4), 16-24.
+       Retrieved from https://openjournals.library.sydney.edu.au/index.php/CAL/
+       article/view/5803
+Palazzo, D. J., Lee, Y.-J., Warnakulasooriya, R., & Pritchard, D. E. (2010). Patterns,
+       correlates, and reduction of homework copying. Physical Review Special Topics -
+       Physics Education Research, 6(1). doi:10.1103/physrevstper.6.010104
+Porter, M. (2010). A consideration of academic misconduct in the creative disciplines:
+       From inspiration to imitation and acceptable incorporation. Emerge, 2, 1-16.
+       Retrieved from http://nrl.northumbria.ac.uk/12099/
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+REFERENCE LIST                             84
+
+Riedesel, C. P., Clear, A. L., Cross, G. W., Hughes, J. M., Simon, & Walker, H. M. (2012).
+       Academic integrity policies in a computing education context. Proceedings of
+       the Innovation and Technology in Computer Science Education 2012 working
+       groups in ITiCSE-WGR '12, New York, NY, USA. Retrieved from http://dx.doi.
+       org/10.1145/2426636.2426638
+
+Roberts, E. (2002). Strategies for promoting academic integrity in computer science
+       courses. Paper presented at the 32nd Annual Frontiers in Education, Boston,
+       Massachusetts, USA. Retrieved from http://dx.doi.org/10.1109/fie.2002.1158209
+
+Rogerson, A. M., & Basanta, G. (2016). Peer-to-peer file sharing and academic integrity
+       in the internet age. In T. Bretag (Ed.) Handbook of Academic Integrity (pp.
+       273-285). Singapore: Springer Science + Business Media. doi: 10.1007/978-981-
+       287-098-8_55
+
+Rowland, S., Slade, C., Wong, K.-S., & Whiting, B. (2018). `Just turn to us': The persuasive
+       features of contract cheating websites. Assessment & Evaluation in Higher
+       Education, 43(4), 652-665. doi: 10.1080/02602938.2017.1391948
+
+Rowlett, P. (Ed.). (2014). Development and evaluation of a partially-automated approach
+       to the assessment of undergraduate mathematics: British Society for Research
+       into Learning Mathematics. Retrieved from http://shura.shu.ac.uk/10945/
+
+Scrimpshire, A. J., Stone, T. H., Kisamore, J. L., & Jawahar, I. M. (2017). Do birds of
+       a feather cheat together? How personality and relationships affect student
+       cheating. Journal of Academic Ethics, 15(1), 1-22. doi:10.1007/s10805-016-9267-5
+
+Sheard, J., & Dick, M. (2012). Directions and dimensions in managing cheating and
+       plagiarism of IT students. Proceedings of the Fourteenth Australasian Computing
+       Education Conference-Volume 123 Retrieved from https://dl.acm.org/citation.
+       cfm?id=2483737
+
+Sheard, J., Simon, Butler, M., Falkner, K., Morgan, M., & Weerasinghe, A. (2017).
+       Strategies for maintaining academic integrity in first-year computing courses.
+       Proceedings of the 2017 ACM Conference on Innovation and Technology in
+       Computer Science Education - ITiCSE `17, New York, NY, USA. Retrieved from
+       http://dx.doi.org/10.1145/3059009.3059064
+
+Simon. (2016). Academic integrity in non-text based disciplines. In T. Bretag (Ed.),
+       Handbook of academic integrity (pp. 763-782). Singapore: Springer Science +
+       Business Media. doi:10.1007/978-981-287-098-8_61
+
+Simon, Cook, B., Sheard, J., Carbone, A., & Johnson, C. (2014). Academic integrity
+       perceptions regarding computing assessments and essays. Proceedings of the
+       Tenth Annual Conference on International Computing Education Research - ICER
+       `14, New York, NY, USA. Retrieved from http://dx.doi.org/10.1145/2632320.2632342
+
+Simon, & Sheard, J. (2015). In their own words: Students and academics write about
+       academic integrity. Proceedings of the 15th Koli Calling Conference on Computing
+       Education Research - Koli Calling `15, New York, NY, USA. Retrieved from http://
+       dx.doi.org/10.1145/2828959.2828977
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+REFERENCE LIST                             85
+
+Simon, & Sheard, J. (2016). Academic integrity and computing assessments. Proceedings
+       of the Australasian Computer Science Week Multiconference - ACSW `16,
+       Canberra, Australia. Retrieved from http://dx.doi.org/10.1145/2843043.2843060
+
+Stepp, M., & Simon, B. (2011). Introductory computing students' conceptions of illegal
+       student-student collaboration. Proceedings of the 41st ACM Technical Symposium
+       on Computer Science Education - SIGCSE `10, Milwaukee, Wisconsin, USA.
+       Retrieved from http://dx.doi.org/10.1145/1734263.1734365
+
+Sutherland-Smith, W. (2013). Crossing the line: Collusion or collaboration in university
+       group work? Australian Universities' Review, 55(1), 51-58. Retrieved from https://
+       eric.ed.gov/?id=EJ1004398
+
+Sutherland-Smith, W. & Dullaghan, K. (2019). You don't always get what you
+       pay for: User experiences of engaging with contract cheating sites.
+       Assessment & Evaluation in Higher Education, 44(8), 1148-1162. doi:
+       10.1080/02602938.2019.1576028
+
+Sutton, A., & Taylor, D. (2011). Confusion about collusion: Working together and
+       academic integrity. Assessment & Evaluation in Higher Education, 36(7), 831-841.
+       doi:10.1080/02602938.2010.488797
+
+Tertiary Education Quality and Standards Agency (TEQSA). (2021). Substantiating
+contract cheating for symbol-dense, logical responses in any discipline, particularly
+
+       mathematics: A guide for investigators. Retrieved from https://www.teqsa.gov.
+       au/sites/default/files/substantiating-contractcheating-for-symbol-dense-
+       logical-responses.pdf?v=1634700092
+Yeo, S. (2006). Science and engineering students' beliefs about plagiarism:`It's only
+       an assignment'. Proceedings of the The Australian Conference on Science and
+       Mathematics Education (formerly UniServe Science Conference) Retrieved from
+       https://openjournals.library.usyd.edu.au/index.php/IISME/article/view/6409
+Yeo, S. (2007). First-year university science and engineering students' understanding
+       of plagiarism. Higher Education Research & Development, 26(2), 199-216.
+       doi:10.1080/07294360701310813
+Yorke, J., Sefcik, L., & Veeran-Colton. T. (2022). Contract cheating and
+       blackmail: A risky business?, Studies in Higher Education, 47(1), 53-66. doi:
+       10.1080/03075079.2020.1730313
+
+DON'T CHEAT YOURSELF  KATHERINE A. SEATON
+VERSION HISTORY                                                                        86
+
+Version history
+
+Version  Date         Change                                      Further notes
+v1.01    08/03/2023
+                      Author included several new scenarios (VL,
+                      XIX, XL) that feature commercial contract
+                      cheating and the pandemic circumstances.
+
+                      Published under a CC-BY-NC-SA which
+                      permits adaptive re-use.
+
+DON'T CHEAT YOURSELF                                              KATHERINE A. SEATON
+ACCESSIBILITY CHECKLIST                                                                              87
+
+Accessibility checklist
+
+We believe that education should be available to everyone, which means supporting the
+creation of free, open, and accessible educational resources. We are actively committed
+to increasing the accessibility and usability of the textbooks and resources we produce.
+Below is a short accessibility assessment of eight key areas that have been assessed
+during the production process of this text.
+
+While we strive to ensure that this resource is as accessible and usable as possible, we
+might not always get it right. We are always looking for ways to make our resources
+more accessible. If you have problems accessing this resource, please contact us to let
+us know so we can fix the issue.
+
+Category    Item                                                                          Status
+            Content is organised under headings and subheadings                           (Y / N)
+Organising
+Content                                                                                   Y
+Organising
+Content     Headings and subheadings are used sequentially (e.g. Heading 1, Heading Y
+Images      2, etc.)
+
+Images      Images that convey information include Alternative Text (alt-text)            Y
+
+Images      descriptions of the image's content or function
+
+Images      Graphs, charts, and maps also include contextual or supporting details in Y
+            the text surrounding the image
+Tables
+Tables      Images, diagrams, or charts do not rely only on colour to convey important Y
+Tables      information
+Tables
+Weblinks    Images that are purely decorative contain empty alternative text              Y
+
+Weblinks    descriptions. (Descriptive text is unnecessary if the image doesn't convey
+
+Weblinks    contextual content information)
+
+Embedded    Tables include column headers, and row headers where appropriate              Y
+Multimedia
+            Tables include a title or caption                                             Y
+
+            Tables do not have merged or split cells                                      Y
+
+            Tables have adequate cell padding                                             Y
+
+            The weblink is meaningful in context, and does not use generic text such Y
+            as "click here" or "read more"
+
+            Externals weblinks open in a new tab. Internal weblink do not open in a       Y
+
+            new tab.
+
+            If a link will open or download a file (like a PDF or Excel file), a textual  N/A
+
+            reference is included in the link information (e.g. `[PDF]').
+
+            A transcript has been made available for a multimedia resource that           N/A
+
+            includes audio narration or instruction
+
+DON'T CHEAT YOURSELF                                                            KATHERINE A. SEATON
+ACCESSIBILITY CHECKLIST                                                                       88
+
+Embedded    Captions of all speech content and relevant non-speech content are         N/A
+Multimedia
+            included in the multimedia resource that includes audio synchronized with
+Embedded
+Multimedia  a video presentation
+Formulas
+Formulas    Audio descriptions of contextual visuals (graphs, charts, etc.) are included N/A
+            in the multimedia resource
+Font Size
+Font Size   Formulas have been created using MathML                                    N/A
+Font Size
+            Formulas are images with alternative text descriptions, if MathML is not an N/A
+            option
+
+            Font size is 12 point or higher for body text                              N
+
+            Font size is 9 point for footnotes or endnotes                             N/A
+
+            Font size can be zoomed to 200%                                            Y
+
+Copyright note: This accessibility checklist is adapted from USQ's Accessibility
+Assessment, and licensed under a CC BY 4.0 licence.
+
+DON'T CHEAT YOURSELF                                        KATHERINE A. SEATON
+library.latrobe.edu.au/ebureau/
+

@@ -1,0 +1,2854 @@
+Writing for Strategic Communication Industries
+Writing for Strategic Communication
+                Industries
+
+                       JASMINE ROBERTS
+
+                                         THE OHIO STATE UNIVERSITY
+                                                   COLUMBUS, OHIO
+Writing for Strategic Communication Industries Copyright © 2016 by Jasmine Roberts-Crews is licensed under a Creative
+Commons Attribution-NonCommercial 4.0 International License, except where otherwise noted.
+Contents
+
+About the Author                                                    ix
+
+CC BY (Attribution)
+
+Acknowledgments                                                     xi
+
+Part I. Chapter 1: Defining Strategic Communication
+
+1. What is strategic communication?                                 2
+
+2. Five tenets of strategic communication                           3
+
+3. Skills needed in the strategic communication profession          7
+
+4. Jobs in strategic communication                                  9
+
+5. References                                                       10
+
+Part II. Chapter 2: Media Writing--Conventions, Culture, and Style
+
+6. The role of media in American society                            12
+
+7. Media culture and work environment                               13
+
+8. The role of writing in strategic communication                   16
+
+9. Media writing skills and characteristics                         17
+
+10. References                                                      19
+
+Part III. Chapter 3: Strategic Communication Ethics
+
+11. Ethics case study                                               21
+
+12. Code of ethics                                                  23
+
+13. Defamation, Slander, and Libel                                  24
+
+14. Conflict of interest                                            26
+
+15. Plagiarism                                                      27
+
+16. Lack of transparency                                            28
+17. Misleading advertisements                                29
+
+18. Corporate social responsibility                          30
+
+19. References                                               31
+
+Part IV. Chapter 4: News Value
+
+20. News value and the strategic communication professional  33
+
+21. News value types (Part 1)                                34
+
+22. News value types (Part 2)                                36
+
+23. References                                               37
+
+Part V. Chapter 5: News Writing Basics
+
+24. News story objective                                     39
+
+25. Types of news stories                                    40
+
+26. Summary lead                                             41
+
+27. Headlines                                                43
+
+28. Inverted pyramid style                                   45
+
+29. Attribution                                              46
+
+30. Body of the article                                      48
+
+31. References                                               49
+
+Part VI. Chapter 6: Feature Writing
+
+32. The purpose of feature writing                           51
+
+33. Feature writing versus traditional news writing          52
+
+34. Feature leads                                            53
+
+35. Feature article organization                             54
+
+36. Feature writing devices                                  55
+
+37. References                                               56
+
+Part VII. Chapter 7: Public Relations Industry
+
+38. What is public relations?                                58
+
+39. Four models of public relations                          59
+40. Why do companies need public relations?                           61
+
+41. Public relations versus marketing versus advertising              62
+
+42. General roles in public relations                                 64
+
+43. References                                                        65
+
+Part VIII. Chapter 8: Public Relations Writing
+
+44. The role of writing in public relations                           67
+
+45. News writing versus public relations writing                      68
+
+46. The press release                                                 69
+
+47. Writing the press release                                         70
+
+48. Press release structure and format                                71
+
+49. Press kit materials                                               72
+
+50. References                                                        75
+
+Part IX. Chapter 9: Media Relations
+
+51. What are media relations?                                         77
+
+52. Working with journalists                                          78
+
+53. Pitching to the media                                             79
+
+54. References                                                        83
+
+Part X. Chapter 10: Social Media--Uses and Messaging
+
+55. What are social media?                                            85
+
+56. Factors to consider before posting                                86
+
+57. The impact of social media in strategic communication industries  88
+
+58. Social media characteristics                                      89
+
+59. Creating social media messages                                    90
+
+60. References                                                        93
+
+Part XI. Chapter 11: Advertising Industry
+
+61. The role of advertising in society                                95
+
+62. Job responsibilities in advertising                               96
+63. Advertising campaign model: Social marketing        97
+
+64. Creative brief                                      99
+
+65. Copywriting                                         102
+
+66. References                                          103
+
+Part XII. Chapter 12: Creating a Writing Portfolio
+
+67. Why create a writing portfolio?                     105
+
+68. Other important points about the writing portfolio  106
+
+69. Online versus hardcopy portfolios                   107
+
+70. Writing portfolio content                           108
+
+71. References                                          109
+About the Author
+
+      Jasmine Roberts-Crews ( formerly Jasmine Roberts) is a strategic communication lecturer in the School
+of Communication at The Ohio State University, where she teaches public relations writing, digital
+activism and campaign strategy. Professor Roberts-Crews earned her bachelor's degree in communication
+studies and Spanish at the University of Michigan and her master's degree in communication at the
+University of Illinois at Urbana-Champaign. She has worked in the marketing and public relations fields
+for nonprofit, entertainment, and banking industries in the United States and Spain.
+
+   Along with her communication expertise, Professor Roberts-Crews is also a renowned open
+
+                                                                                                                                                              About the Author | ix
+education leader. She has delivered numerous keynote presentations across the country on the topics
+of social justice in open education and has a TEDx talk titled "I'm tired of talking about race." She has
+provided consulting to several open education organizations on how to dynamically embody social
+justice and equity in practice. In her spare time, she loves to connect with her wife, fur babies (2
+dogs), and green babies (40 plants total).
+
+x | Writing for Strategic Communication Industries
+Acknowledgments
+
+This project would not be possible without the assistance and support of many people.
+   I cannot express enough how grateful I am for The Ohio State University Office of Distance
+
+Education and eLearning. Thank you for offering a grant that enables instructors to create openly
+licensed materials. I appreciate the department's commitment to affordable learning and access to
+quality higher education.
+
+   To Lynne Bonenberger, my editor: You are very gifted in your craft! Thank you for sharing your
+talents with me. Your feedback and revisions were invaluable to the quality of the textbook. You have
+made me a better writer in our time working together.
+
+   To Ashley Miller and Michael Shiflet, members of the Affordable Learning Exchange team: Thank
+you for being there to help with the creation of the book's materials and answer questions about
+digital and open education resources.
+
+   A special thank you to Cheryl Brilmyer, my former project manager. You are amazing! You
+demonstrated a genuine desire to help with the project through your organizational skills. You played
+a key role in keeping me on track and completing this book. Thank you, thank you, thank you!
+
+   To the faculty reviewers, Dr. Susan Kline, Alyson Moses, Dr. Gerald Kosicki, and Dr. Felicia Ross:
+Thank you for the constructive feedback on the book content.
+
+   To Dr. Daniel McDonald, former department head of The Ohio State University School of
+Communication: Thank you for supporting my various career endeavors and acknowledging my
+contributions to the department. I appreciate your dedication to lecturers and our undergraduate
+students.
+
+   Thank you to the industry experts who came to The Ohio State University campus to record the
+videos that are presented in conjunction with the textbook. I am confident that those using this
+resource will appreciate a real-world perspective on writing.
+
+   Thank you to my family and friends who were willing to listen to me talk about my passion for
+creating this textbook (and making sure I didn't work too hard).
+
+   To my students: You are the reason why I love my job. Thank you for challenging me as an educator
+and making my job fun. It's an honor and privilege to hold such a great responsibility. You all matter
+so much to me. I am so blessed to wake up each morning and have passion for my job. This book is an
+extension of my love for education.
+
+                                                                                                                                                            Acknowledgments | xi
+PART I
+
+CHAPTER 1: DEFINING STRATEGIC
+COMMUNICATION
+
+1 | Writing for Strategic Communication Industries
+1. What is strategic communication?
+
+   Scholars and communication professionals have
+adopted strategic communication as an umbrella
+term meant to include a variety of communication-
+related professions, such as public relations, brand
+communication, advertising, and more. Although
+the term is not new, scholars have only recently
+examined it as a cohesive paradigm. Hallahan et al.
+(2007) defines strategic communication as "the
+purposeful use of communication by an
+organization to fulfill its mission" (p. 3). It is
+multidisciplinary in that it draws from a variety of
+methods and subject areas.
+
+According to Paul (2011), creating clear goals and
+understanding "how a certain set of audience "Strategic Planning" by Stefano Senise from
+attitudes, behaviors, or perceptions will support Thinkstock is licensed under CC BY 2.0.
+those objectives" is what makes communication
+strategic (p. 5). In strategic communication, message development, or the process of creating key
+points or ideas, requires high levels of planning and research. These messages are targeted, or
+created with a specific audience in mind, and help to position an organization's communication
+goals with its structural goals. As the world becomes increasingly interconnected through new
+forms of communication, the role of strategic communications is to help organizations
+understand how to effectively deliver their message to key audiences.
+
+                                                                                                                                       What is strategic communication? | 2
+2. Five tenets of strategic communication
+
+Although the tactics of strategic communication methods may vary, the purpose and the general
+characteristics of strategic communication are similar across related industries (Hallahan et al.,
+2007). In 2008, the U.S. Department of Defense's Strategic Communication Education Summit
+considered these similarities and created a list of principles (Hastings, 2008). The following tenets
+of strategic communication are informed by these principles as well as arguments from Paul (2011).
+
+Intentional message design
+
+Strategic communication involves a great deal of thought, planning, and analysis. It does not
+mean simply designing a clever advertisement or sending a tweet without thinking about its
+implications. To create an intentional message, you must begin with a realistic communication
+goal for what you're trying to achieve. This reinforces Paul's (2011) argument about what
+constitutes strategic communication. Do you want to cultivate positive associations with the
+organization's brand? Raise awareness of a new product? Connect with key stakeholders in a
+meaningful manner? Whatever your goal, you must begin with a well-defined purpose and
+continue to keep it at the forefront throughout the process of creation and implementation.
+
+   Additionally, you must be sure that the communication goal goes hand-in-hand with the
+organization's goal. Let's say that an organization wants to create and maintain a socially
+responsible image. You might achieve that by developing a philanthropic communication strategy,
+such as teaming up with a local nonprofit organization for a benefit concert or publicizing a
+promotion to help a popular charity.
+
+The correct platform(s)
+
+   There's a saying in public relations, marketing, and even journalism: go where your audience
+is. A large part of this involves choosing the right platform to communicate to your key publics
+or audiences. This can be challenging. Gone are the days when only a few major news stations,
+magazines, and radio stations controlled the message content for the masses. Today's audiences
+have plenty of choices when it comes to media, making it even more difficult for your message to
+be seen or heard.
+
+   If you can determine the audience's general media consumption preferences, you can more
+effectively place your message. Let's say you are trying to increase the brand visibility of a new
+vegan restaurant among men who strongly support healthy living. In this case, if the targeted
+audience frequently reads a local, health-centered magazine, you might place a feature article in
+the magazine to raise awareness of the new restaurant.
+
+3 | Writing for Strategic Communication Industries
+Calculated timing
+
+All of your planning, analysis, and creative efforts may be wasted if your message is not
+communicated at the right moment. In 2014, Malaysia Airlines launched a marketing/public
+relations campaign with a variety of prizes, including free airline tickets for potential customers in
+Australia and New Zealand. The problem? The campaign, titled "My Ultimate Bucket List," invited
+people to talk about places they would like to go and activities they would like to do before dying
+(Barber, 2014).
+
+   The timing of the campaign was imprudent. Earlier that year, two Malaysia Airlines flights had
+crashed, resulting in more than 500 deaths. Although the goal of the campaign was to recreate
+a positive brand image after the tragedies, the use of the term "bucket list," given its association
+with death, proved to be inappropriate. Airline executives faced a backlash from audiences, many
+of whom claimed that the message was insensitive. The executives admitted their error and soon
+ended the campaign.
+
+   As this example shows, the success of any strategic message is highly predicated on when the
+audience will be most likely to receive it and when the interference of external factors, such as a
+major crisis, is at a minimum.
+
+Audience selection and analysis
+
+Some audiences are more important to a message's goal than others. Audiences for internal
+communication messages include employees, investors, and managers. Audiences for external
+communication messages include customers, influencers, and the news media.
+
+   It is important to always keep the message goal in mind so that you can choose the correct
+audiences that will help you meet the goal. Taking a broad approach and targeting everyone is not
+the best way to succeed. Practice audience segmentation, that is, the division of a large group into
+subcategories based upon attitudes, demographics, and media use.
+
+                                                                                                                                Five tenets of strategic communication | 4
+                                                                                                                              "2014 Social Media
+                                                                                                                              Age Demographics
+                                                                                                                              Stats" by
+                                                                                                                              Automotive Social is
+                                                                                                                              licensed under CC
+                                                                                                                              By 4.0
+
+Once you've selected your main audience, analyze it. This involves deep examination of attitudes,
+values, and beliefs toward the message topic, with the goal of giving the audience what they want
+and need. Generally speaking, people are inclined to pay attention to a message that is relevant
+to them. It increases their level of involvement and engagement with the message (Wang, 2006;
+Cacioppo et al., 1986).
+
+Desired impact
+
+During the planning stage of a message, clearly define what a successful campaign will look like to
+the organization. How will the strategic communication team measure success? Are you hoping
+to increase sales? Are you aiming to increase attendance at promotional events? Are you trying to
+minimize negative media coverage about your client or company?
+
+   In 2015, shortly after a series of racially tense incidents across the country, the coffee chain
+Starbucks launched an initiative called "Race Together" that encouraged customers and employees
+to have conversations about race relations. The company's CEO, Howard Schultz, told the
+Huffington Post: "Our intent is to try to elevate the national conversation" (Baertlein & Rigby, 2015).
+
+   However, the initiative provoked a huge backlash on social media. Many people thought the
+campaign's goal was unrealistic--why would Starbucks coffee shops be appropriate venues to
+begin healing the country's racial wounds? Others said the campaign was hypocritical, pointing
+out that the company's leadership team is predominantly white and/or male. Some baristas
+reported feeling uncomfortable with initiating conversations (Sanders, 2015; Baertlein & Rigby,
+2015).
+
+5 | Writing for Strategic Communication Industries
+                                                                                                                              Twitter reaction to
+                                                                                                                              Starbucks' "Race
+                                                                                                                              Together"
+                                                                                                                              campaign.
+
+The failure of "Race Together" shows how communication executives neglected to carefully
+consider how they planned to define success and how important it is to select the correct platform
+and spokespersons in order to achieve the desired effects.
+
+   Together, the five tenets of strategic communication help to create effective messages. Be
+mindful of these tenets as you're writing for various audiences.
+
+                                                                                                                                Five tenets of strategic communication | 6
+3. Skills needed in the strategic
+
+communication profession
+
+Many students who are interested in pursuing a career in strategic communication ask, "What
+can I do in order to be successful in my internship?" or "What skills do I need by the time I
+graduate?" The answers often depend on the specific role. However, employers expect job-seekers
+to demonstrate several general transferable skills:
+
+  · Writing ability: Writing is at the center of what many strategic communication professionals
+      do. They might be required to write a press release, develop marketing copy, create an
+      annual report, or manage a Twitter account. Regardless of the specific task, writing clear,
+      concise, and relatable messages is a vital skill in any communication-related role. To quote
+      from an interview with Carol Merry, senior vice president of corporate communication at
+      Fahlgren Mortine, one of the nation's largest independent marketing and communications
+      agencies:
+
+       "Writing has defined my career. Being able to write well has led to opportunities
+       and provided hard-to-achieve credibility with executive management, clients, legal
+       partners, and others. Today's corporate communications practitioners need to be able to
+       sift through material to develop clear, crisp communications. The written word has not
+       been abandoned in the business world." (C. Merry, personal communication, May 27, 2016).
+
+  · Oral communication/presentation skills: Oral communication or skill in public speaking is
+      critical to achieving success in a strategic communication career. You may have to deliver a
+      presentation to pitch new business to a potential client or discuss campaign ideas and
+      results with a current client. Successful presentations demonstrate a solid understanding of
+      how to connect with the audience in a compelling and persuasive manner.
+
+  · Analytic ability: Strategic communicators use analytic skills to examine industry trends,
+      audiences, and message design. They also use these skills to manage organizational needs,
+      solve complex problems, conduct research, come up with creative ideas and communication
+      tactics, and conceptualize realistic and effective messaging goals. They also may use metric-
+      driven programs such as Google Analytics or Kissmetrics.
+
+  · Ability to work under pressure: Strategic communication often involves working against tight
+      deadlines and being expected to deliver results under pressure. In the event of a crisis or a
+      stressful organizational situation, you want to be able to craft an effective response and
+      shape the narrative going forward. In a less negative situation, such as promoting the grand
+      opening of a store, you will still need to create messages quickly in order to get them out to
+      audiences.
+
+7 | Writing for Strategic Communication Industries
+· Proactive mindset: Many people think that strategic communication is reactive because they
+   associate it with crisis communication. But many areas of strategic communication are
+   proactive; that is, they involve finding unique opportunities to communicate with key
+   audiences before competitors do. Having a proactive mindset will help you distinguish your
+   messages from the thousands of others that your audiences encounter daily.
+
+· Adaptability: Work schedules sometimes may change abruptly in order to meet the needs of
+   an organization. You might be called on to be part of a project at the last minute. Having an
+   open mind and being ready to help when needed will set you apart from others who are not
+   as flexible.
+
+· Diverse talents: Being able to perform diverse tasks will make you more marketable as a
+   communication professional, whether you're asked to develop an infographic for a brochure,
+   create a video for a marketing campaign, deliver a presentation to a client, or conduct a
+   focus group for market research. Instead of pigeonholing your professional growth, learn as
+   much as possible to leverage your personal brand, and then develop a specialty in something
+   that interests you.
+
+   Further Reading
+
+      · Advice for the next generation of PR Pros
+      · USC "7 Skills Every PR Specialist Needs"
+      · Strategic Writing: Multimedia writing for public relations, advertising, and more. Charles Marsh, David
+
+          W. Guth, and Bonnie Poovey Short.
+      · Writing that works: How to communicate effectively in business. Kenneth Roman and Joel Raphaelson.
+
+                                                                                                    Skills needed in the strategic communication profession | 8
+4. Jobs in strategic communication
+
+A degree in strategic communication or a related subject--such as marketing, communication
+studies, and public relations--can equip you to fill a variety of roles.
+
+   Below is a list of jobs in strategic communication as well as links to descriptions of each:
+  · Community relations specialist
+  · Communication specialist
+  · Brand journalist
+  · Press secretary
+  · Copywriter
+  · Public relations specialist
+  · Social media manager
+  · Event planner
+  · Marketing manager
+  · Media buyer
+  · Speechwriter
+
+9 | Writing for Strategic Communication Industries
+5. References
+
+Baertlein, L. & Rigby, B. (2015). Starbucks `Race Together' campaign brews backlash. Huffington
+
+Post.     Retrieved  from: http://www.huffingtonpost.com/2015/03/18/starbucks-race-
+
+Backlash_n_6898324.html
+
+Barber, E. (2014). Malaysia Airlines asked for travelers' `bucket lists' in ill-advised contest. TIME.
+
+Retrieved from: http://time.com/3254363/malaysia-airlines-mas-my-ultimate-bucket-list-
+
+branding-marketing-disaster/
+
+Cacioppo, J.T., Petty, R.E., Kao, C.F., Rodriguez, R. (1986). Central and peripheral routes to
+
+persuasion. Journal of Personality and Social Psychology, 31, 1032-1043.
+
+Hallahan, K., Holtzhausen, D., van Ruler, B., Vercic, D., Sriramesh, K. (2007). Defining strategic
+
+communication. International Journal of Strategic Communication, 1(1), 3-35.
+
+Hastings, R. (2008). Principles of strategic communication. Retrieved from: http://www.au.af.mil/
+
+info-ops/documents/principles_of_sc.pdf
+
+Paul, C. (2011). Strategic communication: Origins, concepts, and current debates. Westport, CT:
+
+Praeger.
+
+Sanders, S. (2015). Starbucks will stop putting the words `Race Together' on cups. NPR. Retrieved
+
+from: http://www.npr.org/sections/thetwo-way/2015/03/22/394710277/starbucks-will-
+
+stop-writing-race-together-on-coffee-cups
+
+Wang, A. (2006). Advertising engagement: A driver of message involvement on message effects.
+
+Journal of Advertising Research, 46(4), 355-368.
+
+                                                                              References | 10
+PART II
+
+CHAPTER 2: MEDIA
+WRITING--CONVENTIONS, CULTURE,
+AND STYLE
+
+11 | Writing for Strategic Communication Industries
+6. The role of media in American society
+
+The function of media in society has evolved in recent years, especially due to the digitization of
+
+messages. Audiences in the past had to rely heavily on mainstream messages that were generated,
+
+sent, and controlled by institutions such as corporations and large media outlets. These
+
+institutions determined which issues and stories were newsworthy, thus influencing the public's
+
+perception of what was important.
+
+The emergence of social media has affected
+
+communication patterns in that audiences are now
+
+message creators. They also play a more active role
+
+in determining which issues are important to cover
+
+from a news perspective. However, the basic
+
+function of mass media remains the same: to
+
+provide audiences with information they need and
+
+want to know, for both informative and
+
+entertainment purposes.                              "Camera crews at the joint Press Conference given
+   Communication professionals still rely on the     by the Congress and the ODIHR" by Kober (talk) is
+                                                     licensed under CC BY 2.0
+media to distribute their company's news to large
+
+audiences. Unlike marketing or promotional
+
+messages sent directly from an organization, information from news media can have a "third-party
+
+endorsement" effect, which enhances its perceived credibility. The media also influence our
+
+attitudes, how we think, and even our behaviors.
+
+As a strategic communication professional, be aware that you hold great responsibility when
+
+writing material that will land in the media. More than ever, strategic communicators are
+
+influencing public discourse and shaping conversation. You must seize opportunities to positively
+
+integrate your organization or client into media coverage or risk being excluded from the dialogue.
+
+Watch the video below of Chris Davey, former assistant vice president for media and public
+
+relations for The Ohio State University. He discusses the function of media in society and writing
+
+for the media.
+
+One or more interactive elements has been excluded from this version of the text. You can view them online here:
+https://ohiostate.pressbooks.pub/stratcommwriting/?p=66#oembed-1
+
+                                                     The role of media in American society | 12
+7. Media culture and work environment
+
+It's important to be aware of the culture and work environment of media organizations and
+content publishers. Understanding the expectations of those who have a tremendous influence
+on the coverage of your organization can better inform your media strategy. The following points
+elaborate on the work environment and culture of media outlets.
+
+Fast-paced environment
+
+Corporate media organizations compete with one another to break stories or report on events.
+Being the first to deliver a story brings a media outlet prestige and credibility. Furthermore, being
+the first to publish often results in a higher search engine ranking, which results in more clicks
+and stronger viewership.
+
+   The onset of cable television in the 1980s changed the media landscape. One of the most notable
+results is what we refer to as the 24-hour news cycle. Audiences in the past had to wait until
+specific broadcast times--usually at noon and in the early and late evening--to hear the latest
+about current events.
+
+   Today, many media outlets disseminate news constantly, every hour of the day. This immediacy
+of news coverage seeks to meet the audience's demand to have essential information quickly.
+Furthermore, media outlets compete not only against each other but against the Internet. In this
+fast-paced environment, media professionals are expected to provide quality news stories to the
+masses even as they find it more difficult to gather and report facts accurately and responsibly.
+
+Strict deadlines
+
+The 24-hour news cycle places high demands on journalists and news media professionals to work
+against tight deadlines while being the first to break news. Strict deadlines are not isolated to
+the newsroom; public relations professionals also are expected to produce under pressure. For
+example, if your organization has an unanticipated product recall, audiences will expect some
+type of official announcement quickly. Furthermore, you often get only one chance to create the
+right message, one that has its intended effect. However accuracy (explained below) is still very
+important under strict deadlines. It is better to be "second" to put out accurate information than
+be the "first" to put out inaccurate information. Effective strategic communication professionals
+learn to meet tight deadlines while producing credible content.
+
+13 | Writing for Strategic Communication Industries
+Internal competition
+
+The internal culture of the media has become more competitive over the years. Given the pressure
+to be the first to break a story, journalists increasingly feel the need to market themselves as
+trustworthy news sources. Those who work for the same media outlet may compete with one
+another. Journalists are expected to create a likeable personal brand. They are rated not only on
+viewership, but on social media likes, shares, personal appearances, and so on.
+
+   Journalists can no longer hide behind their byline; they must put their best face forward and
+work to increase followers. It is important for you to realize this when pitching a news story to a
+journalist. These topics will be covered in depth later in the book.
+
+Accuracy of information
+
+Fact-checking and pursuing the truth are paramount in the strategic communication industries.
+As Pulitzer Prize journalist and MacArthur Fellow, Nikole Hannah Jones explained in a NPR
+podcast, "journalism is not stenography. The role of journalism is getting at the truth and providing
+context and analysis so that audiences know what the [story] means." In the age of "fake news" and
+low media literacy, it is becoming increasingly difficult for consumers to decipher the accuracy
+of information. Therefore, the role of strategic communication professionals, journalists, and
+publicists, is to ensure the integrity of information they are responsible for disseminating to
+the broader public. To verify the accuracy of information, strategic communication professionals
+should verify sources and whether there is a conflict of interest (explained later in Chapter 3). Try
+to use primary sources and corroborate the information with secondary sources. Additionally, the
+Newmark J-School Research Center encourages writers to ask themselves the following questions
+when determining the accuracy of information:
+
+  · "Who says?"
+  · "How do they know?"
+  · "Are they biased?"
+  · "What don't I know?"
+
+It is worth taking the additional time to verify the credibility of the information you're using in
+your content. This is particularly important as some industries report an increased reliance on AI
+tools to create content. While using AI tools can be make the work process more efficient, the
+information produced from these tools are not always accurate. A writer runs the risk of damaging
+their own reputation or the reputation of their organization if there is over reliance on tools that
+may produce inaccurate information.
+
+                                                                                                                                 Media culture and work environment | 14
+Efficiency
+
+Effective strategic communication professionals write for simplicity and clarity. Minimize the use
+of academic jargon, clichés, or complex sentence structure to avoid confusion. Using active voice
+writing rather than passive voice writing helps achieve dynamic and clear writing so that your
+consumers understand your content. Have a clear organizational structure and flow.
+
+15 | Writing for Strategic Communication Industries
+8. The role of writing in strategic
+communication
+
+Writing is a fundamental business skill that can greatly affect the credibility and success of an
+organization. A recent survey conducted by the National Association of Colleges and Employers
+(2024) found that 70 percent of employers look for evidence of strong writing skills in recent
+college graduates.
+
+   Styles of writing vary with the medium, the type of message being communicated, and the
+audience.
+
+   Media writing as discussed here differs from
+academic writing, which most higher
+education audiences are accustomed to using.
+Media writing is clear, straightforward,
+accurate, and appealing to the target audience.
+It is active and dynamic, and it allows an
+organization to engage with its key audiences
+and clearly communicate ideas and goals. It
+should also influence the target audience's
+perceptions and/or behaviors. Word choice,
+tone, and message packaging are some of the
+techniques you will need to master in order to
+be a strong communicator.
+
+   As with any skill, you have to consistently practice writing and be open to suggestions in order to
+improve. Because there is a perceived--if sometimes unjustified--association between intelligence
+and writing ability, you may misinterpret constructive feedback as criticism. However, one of the
+best ways to learn whether you're clearly communicating through your writing is to get a third-
+party audience to read and react honestly to it.
+
+   In this video, Carol Merry, former senior vice president with Fahlgren Mortine, discusses the
+importance of strong writing skills in the workplace and provides practical tips to improve your
+writing.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=315#oembed-1
+
+                                                                                                                    The role of writing in strategic communication | 16
+9. Media writing skills and characteristics
+
+Writing for the media can be difficult, especially for beginners. Practicing the following skills will
+help you improve the quality of your work.
+
+Knowledge of AP Style
+
+Most media outlets use AP style--the style established and constantly updated by the Associated
+Press--as the foundation for basic news and media writing. AP style provides consistency in
+writing across media outlets and publications. You should purchase the latest edition of the AP
+stylebook and familiarize yourself with it because you will be required to write in this manner for
+messages intended for media outlets. The stylebook is available both online and in hard copy. In
+general, AP style has evolved to ensure that media writing is accurate, impartial, and clear to the
+audience.
+
+Knowledge of grammar and punctuation
+
+Audiences hold media and strategic communication professionals to a high standard when it
+comes to knowledge of grammar and punctuation. To assist you in learning how to write for the
+media, here are a few basic grammar and punctuation rules:
+
+  · Use simple sentences that follow the subject, verb, object order (example: Maria attended the
+      press conference).
+
+  · Use active, not passive voice. Active voice helps with clarity and concise writing. (Passive
+      voice: The press release was completed by Brian. Active voice: Brian completed the press
+      release.)
+
+  · Understand word choice and meaning:
+         affect, effect
+         its, it's
+         they're, their, there
+         accept, except
+
+  · Be aware of comma uses:
+         Set off modifiers (words or clauses that provide further description)
+
+17 | Writing for Strategic Communication Industries
+            The publicist, who works for Ogilvy, arrived late to the meeting.
+         Separate an introductory phrase or word
+
+            While studying, I listened to music.
+         Before a conjunction
+
+            I want to go, but I have to study.
+         When writing a series of items (three or more)
+
+            She bought shoes, food, and a movie.
+Watch the video below of Jenny Patton, senior lecturer in the English department at The Ohio
+State University. She discusses common grammatical errors and tips to improve your writing.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=75#oembed-1
+
+                                                                                                                               Media writing skills and characteristics | 18
+10. References
+
+Hare, K. (2013). Keller, Greenwald debate whether journalists can be impartial. Poynter. Retrieved
+   from: http://www.poynter.org/2013/keller-greenwald-debate-whether-journalists-can-be-
+   impartial/227386/
+
+National Association of Colleges and Employers. (2024). Job outlook 2025: Attributes employers
+   want to see on new college graduates' resumes. Retrieved from: naceweb.org/s11182015/
+   employers-look-for-in-new-hires.aspx
+
+Society of Professional Journalists. (2014). SPJ Code of Ethics. Retrieved from: http://www.spj.org/
+   ethicscode.asp
+
+Wemple, E. (2014). New York Post settles `bag men' defamation suit. The Washington Post. Retrieved
+   from: https://www.washingtonpost.com/blogs/erik-wemple/wp/2014/10/02/new-york-
+   post-settles-bag-men-defamation-suit/
+
+19 | Writing for Strategic Communication Industries
+PART III
+
+CHAPTER 3: STRATEGIC
+COMMUNICATION ETHICS
+
+                                                                                                                        Chapter 3: Strategic Communication Ethics | 20
+11. Ethics case study
+
+The issue of ethics is important in the strategic communication profession. Creators of content
+should heavily rely on a code of ethics when carrying out various tasks. Using ethical reasoning,
+whether you're designing a campaign or writing a newspaper article, demonstrates basic
+understanding of the influence of messages on audiences. Ethical communication also helps an
+organization avoid dilemmas and compromising situations.
+
+   Several cases covered in the press highlight the ramifications of failure to use ethical and honest
+standards in communication efforts. The case study below demonstrates this.
+
+Case study: Ryan Holiday, media manipulation, and the rise of the Tucker
+Max brand
+
+Media strategist Ryan Holiday made a career of controlling the media to achieve public relations
+goals. A few years ago, he became a PR specialist for Tucker Max, a controversial blogger and
+author who garnered attention for his lewd writing and explicit discussions of his sexual
+adventures with countless women. Holiday played an essential role in a campaign for Max's book
+I Hope They Serve Beer in Hell. Pretending to be someone who hated Max's writings, Holiday
+contacted influencers, bloggers, and television stations about the social controversy caused by the
+brand. Soon Max's book received widespread attention from national media outlets and writers all
+over the blogosphere (Ariely & Melamede, 2015).
+
+   Filmmakers later created a movie based on the book. Holiday used some of the same tactics
+to promote the film. He emailed college organizations across the country, again pretending
+to be someone who was disgusted with the Tucker Max brand. He included photos of fake
+advertisements that were offensive to women (which Holiday himself had created), and said that
+the advertisements were used to promote the film (Ariely & Melamede, 2015). He told campus
+leaders, bloggers, and other influencers to urge people not to see the film.
+
+   Holiday was intentionally trying to create protests to generate media coverage and public
+awareness about the film and the Tucker Max brand in general (Ariely & Melamede, 2015). He used
+deceptive measures and some aspects of controversy--strong opinions on a topic, social backlash,
+and a hated public figure--as leverage. And he was very successful: organized groups across the
+country held protests against the film, furthering the widespread attention on Tucker Max. In this
+situation, the saying "any press is good press" worked to his advantage.
+
+21 | Writing for Strategic Communication Industries
+   Cases such as this raise several concerns related
+to the field of strategic communication. Most
+important, the Tucker Max situation calls into
+question the ethics Holiday used to control the
+media. How far should one go to promote an
+organization or brand? The perception exists that
+strategic communication professionals, specifically
+those in public relations, are expert spin doctors
+and media manipulators; because of this, the
+profession's credibility has been damaged. In order
+to reclaim the trustworthiness of the field, strategic "Photo of Author, Ryan Holiday" is licensed under
+communication professionals must abide by strong CC BY-SA 2.0
+ethics in their decision-making processes.
+
+   The majority of strategic communication professionals promote their client or organization
+in an honest and straightforward manner. One case study that demonstrates this comes from
+a Columbus-based public relations agency, Geben Communication. In 2014, the agency helped
+promote a small catering business, Two Caterers. It used a targeted media relations strategy and
+pitched to several local publications and news stations (Geben Communication, 2016) in order to
+enhance brand awareness. The pitches contained factual information, and those working on the
+account did not use manipulative tactics to achieve their goal.
+
+   Geben Communication's promotional effort had positive results. Local publications wrote
+several articles on Two Caterers, and a television station invited the small business to do a
+cooking demonstration for a morning segment. Furthermore, Two Caterers received accolades
+and recognition from small business associations and magazines.
+
+                                                                                                                                                             Ethics case study | 22
+12. Code of ethics
+
+Ethics is a moral code that serves as a compass for individual or societal behavior. Engaging in
+unethical behavior or messaging can be particularly damaging for business brands. Countless
+businesses have been involved in scandals and crises stemming from unethical behavior and
+judgment. Recovering from these instances is difficult, and the effects are sometimes irreversible.
+
+   Most subfields related to the broader strategic industry have what is called a code of ethics or
+a collection of rules and values that play a foundational role in conduct and the decision-making
+process. The links below explain the code of ethics for marketing, public relations, journalism, and
+advertising:
+
+  · Marketing
+  · Public relations
+  · Journalism
+  · Advertising
+
+23 | Writing for Strategic Communication Industries
+13. Defamation, Slander, and Libel
+
+Defamation
+
+Compromising the code of ethics may have legal consequences, depending upon the situation.
+One of the most common ethical problems that occur in court cases is defamation. Defamation
+is intentional damage done to one party's reputation by another party. Although it is not a crime,
+it is considered a civil suit in a court of law. Individuals or organizations with particularly high
+stakes attached to their reputation (for example, celebrities, public figures, renowned educators,
+or popular businesses) are more inclined to sue for defamation.
+
+   A recent example is the defamation cases filed by comedian Bill Cosby. In 2015, Cosby faced
+allegations of sexual assault from more than 50 women, resulting in civil lawsuits and criminal
+investigations against him. The tremendously negative effect on his reputation resulted in the
+rescinding of several honorary degrees he had received as well as the cancellation of reruns of his
+popular TV program from the 1980s and early '90s, The Cosby Show. In response to the damages,
+Cosby sued some of the women for defamation, but the cases were later dismissed. The allegations
+continue to have an impact on Cosby's image and legacy.
+
+Slander and Libel
+
+There are two categories of defamation: slander and libel. Slander is the spoken version of
+defamation, when something is said verbally that harms another party's reputation. Libel is the
+written version of defamation, when something is published that damages a party's reputation.
+Because this textbook focuses on writing, libel will be discussed in greater detail. Libel includes
+both print and online publications; even social media posts and Youtube videos can be grounds for
+a libel suit.
+
+   In 2019, rapper Cardi B, whose real name is Belcalis Almánzar filed a defamation case and
+lawsuit against Latasha Kebe, a YouTuber who goes by Tasha K. Cardi B not only sued Tasha K for
+defamation, but also invasion of privacy, and intentional infliction of emotional distress, alleging
+that Tasha K made false and damaging claims about her in multiple YouTube videos. The videos
+reached millions of viewers and gained a large amount of attention.
+
+   Those falsehoods claimed that Cardi B was a former prostitute, used illegal drugs, and engaged
+in lewd behavior around her child. Cardi B testified in court that these lies had caused her
+significant emotional distress, anxiety, and even suicidal thoughts. Later in 2022, Cardi B won the
+case and Tasha K was ordered to pay the rapper $4 million, which included costs for general and
+punitive damages as well as legal fees.
+
+   This case is important because it set a significant precedent for how public figures can fight
+
+                                                                                                                                          Defamation, Slander, and Libel | 24
+online defamation, especially against influencers and content creators who profit from spreading
+falsehoods. The case also serves as a cautionary tale and reminder that free speech does not
+protect defamatory speech. Finally, it also highlighted the legal risks for online gossip and celebrity
+commentary channels.
+
+   Click here for more information on the case and its implication.
+   Winning a libel suit is difficult. Five elements have to exist in order to render a statement as
+libelous (Harrower, 2012):
+  1. The statement was published.
+ 2. The statement is conveyed as a fact, not an opinion.
+ 3. The statement is false.
+ 4. The statement is identifiable with or made about the plaintiff.
+ 5. The statement was published with intentional negligence or malice.
+The last element is particularly challenging to prove. Many libel suits are dismissed because the
+plaintiff fails to provide evidence for the existence of each element.
+   The possibility of defamation is of great concern to every strategic communication professional.
+Careful information gathering and rigorous fact checking are vital in order to avoid defamatory
+communication. Double-checking quotes and sources helps minimize the risk of publishing
+libelous statements.
+
+25 | Writing for Strategic Communication Industries
+14. Conflict of interest
+
+     Reflection Point
+
+        Before reading the section on conflict of interest, think about the following situation:
+        Should a newspaper travel writer accept a free hotel stay, airline ticket, meals, and so on from a resort as an
+     enticement to get the writer to do a story? Does this produce real or perceived bias in the resulting reporting? Is
+     this arrangement disclosed to readers? What if the only way the newspaper could afford to have a travel writer
+     was to accept such free offers? What kinds of conflicts, real or perceived, need to be considered?
+
+Conflict of interest is "a clash between a person's self-interest and professional interest or public
+interest" (Business Dictionary, 2016). Communication professionals should try to eliminate any
+action that may compromise their impartiality or the interests of their organization. That includes
+separating personal interests from the organization's goals.
+
+   The definition seems straightforward, but real-life situations can be murky. As a professional
+working at an advertising agency, should you take on two clients who are competitors? Most
+within the industry would say that you should inform both parties of the situation and let them
+decide if they want to proceed. However, let's say your agency takes on a client who has a history
+of using unethical labor practices, something that you staunchly oppose. How do you remain
+impartial in this situation? How do you write material that benefits your client when your personal
+opinions may affect the content? Or, should you, as a journalist, accept a small gift from a source
+(for example, a five-dollar Starbucks gift card) before or after an interview? Most journalists would
+say no, because accepting a gift from a source, no matter how small, could affect your feelings
+toward the individual, which could be reflected in your writing.
+
+   There are several ways to avoid a conflict of interest. Gather as much information as you can
+about the potential conflict in order to make an objective decision (or as objective as possible).
+Firms should have formal rules, and conflicts should be disclosed to supervisors. To safeguard your
+career and reputation, it's important to always uphold high ethical standards and conduct yourself
+in a manner above reproach. You may want to ask colleagues or supervisors for advice. Also, be as
+upfront as possible with the parties involved.
+
+                                                                                                                                                          Conflict of interest | 26
+15. Plagiarism
+
+Plagiarism is an issue in both academic and professional situations. The term refers to using
+another person's work without proper credit or attribution. Plagiarism is a very serious offense
+in the strategic communication field, and is particularly egregious in journalism. In 2011, a
+Washington Post journalist, Sari Horwitz, was accused of directly copying content from the Arizona
+Republic while covering the shooting of congresswoman Gabrielle Giffords. The Post issued an
+apology and suspended Horwitz for three months (Memmott, 2011). Horwitz also expressed her
+remorse and released a statement as reported by NPR:
+
+       "I am deeply sorry. To our readers, my friends and colleagues, my editors, and to the paper
+       I love, I want to apologize. ... Under the pressure of tight deadlines, I did something I have
+       never done in my entire career. I used another newspaper's work as if it were my own. It
+       was wrong. It was inexcusable. And it is one of the cardinal sins in journalism" (Memmott,
+       2011, para. 2).
+Plagiarism is not committed primarily by students or those new to the field. Horwitz was an
+experienced journalist who had received the Pulitzer Prize three times.
+   A highly publicized case of plagiarism involved a speech given at the 2016 Republican National
+Convention by Melania Trump, wife of the party's presidential nominee, Donald Trump. Soon after
+she delivered the speech, some took to social media to point out similarities to a speech given by
+Michelle Obama at the 2008 Democratic National Convention. News media outlets later reported
+that parts of the speech were lifted directly from Obama's speech (Horowitz, 2016). Meredith
+McIver, Melania's speechwriter and an employee of the Trump organization, took responsibility
+for the incident and stated that it was a mistake (Horowitz, 2016). McIver was not fired, and many
+outraged observers questioned the integrity of the Trump campaign.
+
+27 | Writing for Strategic Communication Industries
+16. Lack of transparency
+
+Most crisis communication experts agree that transparency is key to maintaining or regaining the
+public's trust. Lack of transparency can have devastating effects that sometimes leave a permanent
+stain on a company or brand's image. Brands cannot thrive without the public's trust.
+
+   A recent case that demonstrates the negative outcomes of failing to be transparent is the
+emissions scandal at Volkswagen. In 2015, news outlets reported that the German car company
+used a "defeat device" in many of its cars as far back as 2009 to cheat on several emissions tests
+conducted by the Environmental Protection Agency. These devices were able to detect when tests
+were being conducted and help reduce toxic emissions during the procedures. In reality, the
+vehicle emissions were well above the levels permitted by the EPA.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=85#oembed-1
+
+                                                                                                                                                        Lack of transparency | 28
+17. Misleading advertisements
+
+Similar to public relations agencies, advertising firms often have a reputation for using
+manipulative tactics at the expense of the consumer. This is largely due to consumers' experiences
+with misleading advertisements, or promotions that exaggerate claims or misinform audiences.
+The goal of an advertisement is to emphasize the benefits of a product or service over any
+drawbacks or shortcomings.
+
+   However, agencies should not create deceptive advertisements at the expense of consumers,
+or those that "raise health and safety concerns ... and those that cause economic injury" (Federal
+Trade Commission, "Division of Advertising Practices," 2016, para. 1). By law, claims in
+advertisements have to be truthful and supported by evidence. Going back to the Volkswagen
+emissions scandal, the company also faced legal troubles for falsely advertising that its cars had
+low emissions. The Federal Trade Commission filed a complaint against Volkswagen in federal
+court, arguing that the company deceived its consumers through unsubstantiated claims and
+corrupt evidence.
+
+   Learn more about false advertising scandals.
+   FTC consumer protection laws vary from state to state. These laws ensure that consumers are
+not misled and that agencies provide fair communication to their target audiences. The FTC can
+determine whether an advertisement is deceptive. The criteria for deception are as follows:
+  · The advertisement should have a high probability to mislead the average, reasonable
+
+      consumer; and
+  · Advertisement claims should cause the consumer to buy the product or service based on
+
+      misinformation.
+If consumers report an advertisement to the FTC, the organization then goes through a series of
+steps to decide whether the ad is truly deceptive. You can find a list of the steps here.
+
+29 | Writing for Strategic Communication Industries
+18. Corporate social responsibility
+
+                                                      Numerous companies are taking measures
+
+                                                      to create an ethical brand image. One strategy
+
+                                                      is through corporate social responsibility,
+
+                                                      which is a business model or practice that
+
+                                                      seeks to benefit the greater society. More and
+
+                                                      more consumers support businesses that
+
+                                                      create initiatives to help communities.
+
+                                                      Corporate social responsibility can take a
+
+                                                      variety of forms, from making charitable
+
+                                                      donations to local causes to underwriting
+
+                                                      beneficial projects in developing countries. For
+
+"Close up of a keyboard with a Volunteer concept" by  example, firms including Amazon, Whole
+Duncan_Andison from Thinkstock is licensed under CC   Foods, Eddie Bauer, and Kroger have high-
+BY 2.0.                                               profile programs that allow consumers to
+
+                                                      direct a portion of their money spent to a
+
+charity of their choice (50+ companies that donate, 2016). Apple has been a leader in making
+
+large investments in environmentally friendly practices such as using renewable power and
+
+recycling in its offices.
+
+There are several benefits to demonstrating and promoting corporate social responsibility.
+
+Organizations that do so tend to have a better public image. Furthermore, studies show that
+
+consumers are willing to spend more on a product if they know that their purchase benefits
+
+a charitable cause or addresses a social or environmental need (Matching gift statistics, 2016).
+
+Strategic communication professionals play a key role in branding businesses as socially conscious
+
+through message design and brand management. Their efforts help to spread awareness of these
+
+initiatives and make them a part of the organization's brand identity and core values.
+
+                                                      Corporate social responsibility | 30
+19. References
+
+Ariely, D. & Melamede, Y. (2015). (Dis)Honesty [motion picture]. United States: Salty Features.
+
+Business Dictionary. (2016). Definition of conflict of interest. Retrieved from:
+
+http://www.businessdictionary.com/definition/conflict-of-interest.html
+
+Double the Donation. (2016). 50+ companies that donate to nonprofits. Retrieved
+
+from: https://doublethedonation.com/companies-that-donate-to-nonprofits/
+
+Double the Donation. (2016). Matching gift and corporate giving statistics. Retrieved
+
+from: https://doublethedonation.com/matching-grant-resources/matching-gift-statistics/
+
+Federal Trade Commission. (2016). Division of Advertising Practices. Retrieved
+
+from: https://www.ftc.gov/about-ftc/bureaus-offices/bureau-consumer-protection/our-
+
+divisions/division-advertising-practices
+
+Geben Communication. (2016). Two Caterers: Local PR. Retrieved
+
+from: http://gebencommunication.com/portfolio/two-caterers-local-pr/
+
+Harrower, T. (2012). Inside Reporting. New York, NY: McGraw-Hill Education.
+
+Horowitz, J. (2016). Behind Melania Trump's cribbed lines, an ex-ballerina who loved writing. The
+
+New York Times. Retrieved from: http://www.nytimes.com/2016/07/21/us/politics/melania-
+
+trump-speech-meredith-mciver.html
+
+Memmott, M. (2011). Pulitzer Prize-winning reporter apologizes for plagiarizing. NPR. Retrieved
+
+from:  http://www.npr.org/sections/thetwo-way/2011/03/17/134620598/pulitzer-prize-
+
+winning-reporter-apologizes-for-plagiarizing
+
+31 | Writing for Strategic Communication Industries
+PART IV
+
+CHAPTER 4: NEWS VALUE
+
+                                                                                                                                                     Chapter 4: News Value | 32
+20. News value and the strategic
+communication professional
+
+While watching or listening to a major media network, you may occasionally find yourself thinking,
+"Why is this story considered news?" Audiences assume that the role of the media is to provide
+them with the most important information about issues and events happening locally, nationally,
+and worldwide. Therefore, media outlets send an indirect message to audiences about a story's
+perceived importance through selection and how much time and exposure they give the story.
+
+   A story's newsworthiness is largely determined by its news value, a standard that determines
+whether an event or situation is worth media attention. News value is referred to as "criteria used
+by media outlets to determine whether or not to cover a story and how much resources it should
+receive" (Kraft, 2015). Journalists and reporters are likely to spend their limited time and resources
+on a story that has many news values.
+
+   Strategic communication professionals who understand what constitutes newsworthy content
+will increase their chances of gaining media coverage for their brand or organization. In fact, there
+is a saying that "the most successful public relations professionals are those who think and act like
+reporters" (Caruso, 2011, para. 1). Because journalists are more interested in stories that will appeal
+to their readers or listeners, understanding the news value of your messages will help to enhance
+your company's media relations and general coverage.
+
+33 | Writing for Strategic Communication Industries
+21. News value types (Part 1)
+
+In the 1960s, researchers Johan Galtung and Mari Holmboe Ruge examined news stories
+worldwide to determine their similarities (Galtung & Ruge, 1965). Their seminal study created the
+first news value list, which is still referred to today by journalists and strategic communication
+professionals. (See the University of Oxford's paper on Galtung and Ruge's research for more
+information.) News values have evolved over time, and there is much debate over whether
+journalists should consider other criteria to select newsworthy content. (See Dr. Meredith Clark's
+article on considering a new set of news values.) Currently, eight values are used to determine
+a story's newsworthiness (Kraft, 2015). Some of the values' names may differ slightly in other
+sources, but their meaning is the same.
+
+Immediacy/Timeliness
+
+Events or stories that have recently taken place or will happen in the immediate future have
+immediacy or timeliness. Breaking news stories or stories about unexpected events that are
+developing are good examples. Media gatekeepers deem these stories so important that they
+often interrupt regular television schedules to immediately give audiences the information. Recent
+happenings typically carry more news value than less timely events.
+
+   Timeliness also takes into consideration factors such as seasonal events, commemorations, and
+holidays. A strategic communication professional may pitch an activity that connects with this
+type of timeliness--for example, a fundraiser that distributes toys to low-income children during
+the holiday season.
+
+Proximity
+
+Proximity considers the location of the event in relation to the target audience of the media outlet.
+Audiences are more likely to pay attention to stories that take place in their local communities.
+For example, a news station in Ohio usually wouldn't cover day-to-day events at the Indiana State
+Fair. However, happenings at the annual Ohio State Fair always get daily coverage in central Ohio
+news outlets.
+
+                                                                                                                                                  News value types (Part 1) | 34
+Human interest
+
+Stories that are emotionally compelling capture the audience's attention and appeal to their
+attitudes and beliefs. Feature articles often are good examples of human interest stories when
+they depict a person, organization, or community in a way that triggers an emotional connection
+between the audience and the characters. Other examples are a behind-the-scenes look at the life
+of an athlete or the story of a person struggling to overcome an obstacle.
+
+   An example of a human interest story that contains strong emotional elements is that of Leah
+Still, daughter of National Football League player Devon Still. Leah captured the hearts of many
+when news outlets began to cover her battle with cancer in 2015, when she was four years old.
+Many people admired Leah's positive attitude and determination to beat her illness. Now cancer-
+free, Leah continues to be an inspiration to thousands of people. For more information about this
+story and its human interest elements, take a look at this video:
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=95#oembed-1
+
+35 | Writing for Strategic Communication Industries
+22. News value types (Part 2)
+
+Prominence
+
+Stories that feature well-known individuals or public figures such as politicians and entertainers
+carry news value. News outlets covered the story when model Tyra Banks completed a
+management program at Harvard's School of Business in 2012. Banks's celebrity profile raised the
+news value of a story that would have received little or no attention had it involved just about
+anyone else.
+
+Impact
+
+The United Kingdom's vote to exit the European Union in June 2016 had global implications, and
+many media outlets in the U.S. and abroad reported the story. However, British news stations
+such as BBC News and Sky News covered the event more extensively than American media did
+because the decision impacts Britain's economy and citizens much more so than Americans.
+Generally, people are more likely to care about stories that directly affect their lives; therefore,
+media gatekeepers often devote more time and resources to stories that have implications for
+their respective audiences.
+
+Novelty
+
+Stories that are odd, unusual, shocking, or surprising have novelty value. An example would be a
+story about an unusual animal friendship, such as that between a dog and a deer. Because such a
+friendship is not a normal occurrence, it sparks the curiosity of audiences. In 2015, CNN covered
+a story about a weatherman who was able to correctly pronounce the extremely long name of a
+Welsh village. Take a look at this clip of the story:
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=452
+
+                                                                                                                                                  News value types (Part 2) | 36
+23. References
+
+Caruso, D. (2011). What makes a good PR pro: A degree or a journalism background? Ragan.com.
+
+Retrieved       from:                                http://www.ragan.com/Main/Articles/
+
+What_makes_a_good_PR_pro_A_degree_or_a_journalism_43397.aspx
+
+Galtung, J. & Ruge, M.H. (1965). The structure of foreign news: The presentation of the Congo,
+
+Cuba and Cyprus crises in four Norwegian newspapers. Journal of Peace Research, 2(1), 64-90.
+
+Kraft, N. (2015, August 12). COMM 2221-News Value [YouTube video file]. Retrieved
+
+from: https://www.youtube.com/watch?v=akgY46ejiQY
+
+37 | Writing for Strategic Communication Industries
+PART V
+
+CHAPTER 5: NEWS WRITING BASICS
+
+                                                                                                                                         Chapter 5: News Writing Basics | 38
+24. News story objective
+
+While the structure of news stories has changed over time, the overall purpose remains the same.
+News writing informs and entertains readers and listeners. News stories give citizens information
+about events happening both in their communities and around the world and therefore play an
+essential role in shaping their viewpoints and general ideas. We can know what is happening in
+a foreign country without traveling there, or develop an opinion about a public figure without
+meeting the person.
+
+   Strategic communication writers produce material that they hope will find its way into the news
+stream. They provide information that helps explain their clients' facts, framing of a controversy,
+or opinions. Producing the material in a format that makes it easier for journalists to adapt to their
+own purposes is very important. Alissa Widman Neese, a Columbus Dispatch reporter, discusses
+the nature of news writing in the video below.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=97
+
+39 | Writing for Strategic Communication Industries
+25. Types of news stories
+
+Straight news/Hard news
+
+Stories that report only the most essential information in a concise and impartial manner are
+referred to as straight or hard news stories. This type of story typically follows the inverted
+pyramid style, which organizes information by descending order of importance or places the most
+newsworthy information at the beginning of the article. This style will be discussed in more detail
+below. Examples of hard news stories include those about political topics and crime.
+
+Features
+
+The primary difference between a feature story and
+a straight news story is the style. A feature article is
+more in-depth than a traditional hard news article
+and uses the types of storytelling devices and
+details that you might find in novels. Feature stories "Newspapers B&W" by Jon S is licensed under CC
+are considered soft news and do not focus merely BY 2.0
+on the basic facts.
+
+   Writers typically have more flexibility to use a wider range of formats, provide rich descriptions,
+and include scene-setting anecdotes. Features often are given more space on the page and are
+accompanied by pictures, illustrations, graphics, maps, and other visual components. A profile of
+an athlete or a political figure is an example of a feature article. The characteristics of feature
+writing will be explained further in the next chapter.
+
+Editorial
+
+Although journalistic ethical standards call for general news writing to be objective in content
+and tone, newswriters also have the opportunity to communicate personal points of view about
+current events and topics. The editorial is a type of news story used to develop an argument about
+an issue and even sway readers' opinions. The essay also represents the official view of an editorial
+board that determines what views to share after some kind of deliberative process.
+
+   Click here for an example of an editorial.
+
+                                                                                                                                                       Types of news stories | 40
+26. Summary lead
+
+A summary lead concisely tells the reader the main idea of the story or conveys its news value.
+Most journalists and editors believe that the lead should come in the first sentence or first few
+sentences of a hard news article. Reporters use the term "burying the lead" or "delayed lead" to
+describe one placed later in an article. A buried lead may give the impression that the writer wasn't
+able to determine what the real newsworthy material was, and can therefore reflect poorly on
+his or her journalistic judgment. In features or other soft news stories that use more dramatic
+storytelling techniques, the lead sometimes is buried in order to increase suspense or add an
+element of surprise.
+
+   A summary lead should address the following questions:
+
+  · Who is the story about? orWho is involved?
+
+  · What is the story about? or What happened?
+
+  · When did the event take place?
+
+  · Where did the event take place?
+
+  · Why did the event take place?
+
+  · How did the event happen?
+
+Keeping the 5Ws and H in mind when writing a news story will help you organize the content
+and find a focus for the article. News judgment consists of figuring out the organization of these
+aspects of the content and prioritizing them in terms of their importance. It's not necessary to
+cram the 5Ws and H into one sentence for the lead; however, the lead usually should contain
+information about the Who and What.
+
+   Take a look at the lead in this article from WOSU News.
+   Now, let's answer the 5Ws and H for the lead:
+
+  · Who? Greater Columbus Arts Council
+
+  · What? $4 million in grants paused
+
+  · When? July 23, 2025
+
+  · Where? Columbus Metro Area
+
+  · Why? Cuts from government funding
+
+41 | Writing for Strategic Communication Industries
+  · How?
+In this case, the How of the story is not addressed in the summary lead or nut graph. Still, the
+reader can easily understand the main idea of the article. When you're practicing writing summary
+leads, remember to keep the sentence(s) relatively concise, with no more than 30 words.
+
+                                                                                                                                                                 Summary lead | 42
+27. Headlines
+
+A headline concisely states the main idea of the story and is further elaborated on in the lead.
+It should clearly convey a complete thought. Headlines have become increasingly important in
+today's society; people tend to look only at headlines rather reading complete stories, especially
+online. An effective headline encourages the reader to take the time to read the article.
+
+Print versus web headlines
+
+   Print headlines tend to be concise (using
+fewer than six or seven words) and
+straightforward. Online headlines tend to be
+longer and use catchy language. Images,
+captions, and subheadlines are more common
+with print headlines than web headlines (Davis
+& Davis, 2009).
+
+   Web headlines usually appear as links that
+lead the reader to the actual article. Given the
+acceleration of media consumption, many
+readers simply want to know the basic
+information about an event. The headlines
+used with web publications give readers
+enough information to understand what is
+happening without reading the story.
+
+How to create a headline
+
+Writing headlines take practice. You need to
+
+select words carefully and use strong writing
+
+in order to entice the audience to read the
+
+article.
+
+   Create the headline after you finish writing      This print news headline includes a subheadline and an
+the article so that you have complete                image that provides context, and uses an
+understanding of the story. Focus on how you         attention-grabbing phrase. "The Globe and Mail,
+can communicate the main idea in a manner            Toronto, ON Canada" by Cliff is licensed under CC BY
+that will capture the reader's attention. Also       2.0
+
+focus on key words and do not include articles such as a, an, and the. Use present-tense verbs for
+
+43 | Writing for Strategic Communication Industries
+headlines about events in the past or present. For events in the future, use the infinitive form of
+the verb: for example, "Local store to open new location."
+
+                                                                                                                                                                       Headlines | 44
+28. Inverted pyramid style
+
+In general, news stories are organized using the inverted pyramid style, in which information is
+presented in descending order of importance. This allows the audience to read the most crucial
+details quickly so they can decide whether to continue or stop reading the story. From an editing
+perspective, using the inverted pyramid style makes it easier to cut a story from the bottom, if
+necessary. Invented more than a century ago, the inverted pyramid style remains the basic formula
+for news writing (Scanlan, 2003).
+
+                                    "Inverted pyramid in comprehensive form" by Christopher
+                                    Schwartz is licensed under CC BY-SA 3.0
+
+It is important to note that some news stories do not strictly follow the inverted pyramid style,
+although the lead for a hard news piece always does. Furthermore, not everyone in the journalism
+field embraces the style; some detractors believe it is an unnatural way to engage in storytelling
+and present news to the public. Yet, proponents believe it is an efficient way to organize and share
+information in a fast-paced society (Scanlan, 2003). Therefore, it's important for students to learn
+the style; one good way to do so is to regularly read hard news stories and pay attention to how
+the leads are structured. The lead (also known as the summary lead) and the body of the inverted
+pyramid style are discussed in the next sections.
+
+45 | Writing for Strategic Communication Industries
+29. Attribution
+
+Attribution is the process of indicating the source(s)/origin of the information presented in the
+article. It serves a similar purpose as formal citations in an academic paper; however it is not
+formatted in the same fashion. A story's major information should be attributed, through phrases
+such as "she said" or "according to a recent Pew Research report." Furthermore, attribution for a
+news article or press release takes the form of paraphrases as well as direct and indirect quotes.
+
+   Attribution is very important in media writing, as it helps to establish an objective tone and adds
+credibility to an article (Harrower, 2012). Attribution also explains how the writer retrieved the
+information and why a particular source was quoted.
+
+   Attribution can be placed at the beginning of a sentence to introduce information or added after
+a statement. Pay close attention to verb tense and choice when attributing sources. For example,
+the most common verbs used for attributing human sources are "said," "stated," and "asked." For
+records or documents, use "reported," "claimed," and "stated." Direct quotes should be surrounded
+by quotation marks and include the source's exact words. Paraphrased statements and indirect
+quotes should not be placed in quotation marks.
+
+   Here are examples of attributed statements:
+
+  · "The libraries are usually crowded and filled with students around this time in the semester,"
+      said Laura Sykler, a sophomore at The Ohio State University.
+
+  · National Weather Service officials said a heavy cloud of smog hung over the city
+      Wednesday.
+
+  · The president will announce his pick for the vacant Supreme Court seat on Monday,
+      according to a statement from the White House.
+
+When initially referencing a human source, include the person's full name. Use only the last name
+for subsequent references. Click on this WOSU Article for an example.
+
+   Include important qualifiers with the first reference to demonstrate that the source has
+expertise on the topic. For example:
+
+  · "Using Mentimeter in the classroom actually enhances student engagement," Jasmine
+      Roberts-Crews, strategic communication lecturer at The Ohio State University, said.
+
+Notice that the direct quote with attribution uses the qualifier "strategic communication lecturer
+at The Ohio State University" to indicate the source's credibility.
+
+   Qualifiers are also used to explain a source's relevance to the topic. The following example might
+be used in a news article reporting on a crime.
+
+  · "It was just complete chaos in the store. The police were trying very hard to catch the
+
+                                                                                                                                                                     Attribution | 46
+      shoplifter," eyewitness Angela Nelson said.
+The qualifier "eyewitness" helps to establish Nelson's relevance to the narrative.
+
+   Finally, attribution should flow well within the story. Avoid using long qualifiers or awkward
+phrases.
+
+47 | Writing for Strategic Communication Industries
+30. Body of the article
+
+Once you've created the lead, give the reader more information in the body of the article. This
+is your opportunity to elaborate on what else you know about the story. In keeping with the
+inverted pyramid style, present the information in decreasing order of importance, not necessarily
+in chronological order. The least important details should appear at the end of the article, where
+they could be omitted by an editor if necessary.
+
+   Use direct and indirect quotes from sources to tell the reader the origin of the information
+(there is more about this below), and remember to maintain an objective tone. Use the third
+person; avoid pronouns such as I, me, you, or us that are more suited to opinion pieces.
+Use short, simple sentences and organize them into paragraphs of no more than three or four
+sentences.
+
+                                                                                                                                                           Body of the article | 48
+31. References
+
+Davis, S. & Davis, E. (2009). Think like an editor: 50 strategies from the print and digital world.
+   Boston, MA: Cengage Learning.
+   Harrower, T. (2012). Inside reporting. New York, NY: McGraw-Hill Education.
+
+Scanlan, C. (2003). Writing from the top down: Pros and cons of the inverted pyramid. Poynter.
+   Retrieved from: http://www.poynter.org/2003/writing-from-the-top-down-pros-and-cons-
+   of-the-inverted-pyramid/12754/
+
+49 | Writing for Strategic Communication Industries
+PART VI
+
+CHAPTER 6: FEATURE WRITING
+
+                                                                                                                                               Chapter 6: Feature Writing | 50
+32. The purpose of feature writing
+
+In the previous chapter, we touched on using the news media as an informational tool to achieve
+your organization's communication goals. One useful writing material is a feature article. Features
+are more in-depth than traditional news stories and go beyond providing the most important
+facts. The purpose of these stories is to provide a detailed description of a place, person, idea, or
+organization.
+
+   Although reporters and editors classify features as news stories, they are not necessarily
+structured using the inverted pyramid style. Instead, features use storytelling devices to help
+the reader connect with the overall narrative and its central characters. Features are particularly
+common in magazine writing, although they frequently appear in other mediums.
+
+   Profiles or personality features that give insight into a person's role, experience, or background
+are one type of feature. Among the most common subjects of profiles are celebrities, athletes,
+individuals who overcome challenges, and high-profile executives.
+
+   Click here for more information on the different types of features.
+   It is important to understand the circumstances that warrant a feature piece from a strategic
+communication perspective. Communication professionals write feature articles to provide in-
+depth exposure for their client or organization. A feature can increase a client or company's
+visibility and even help find new key audiences.
+   If you need to quickly get information about your client or organization to the media, a feature
+article may not be the best tool because it typically is longer than a traditional news story.
+However, you could write a feature article on, for example, your company's new CEO to provide
+more background information to key audiences. Feature stories are also used in an organization's
+internal communications, such as newsletters and magazines.
+   Overall, feature articles use an informative tone while incorporating creative and descriptive
+devices in order to increase audience appeal. Here is an example of a feature article from Vogue
+magazine.
+
+51 | Writing for Strategic Communication Industries
+33. Feature writing versus traditional news
+writing
+
+There are several important differences between feature articles and traditional news stories.
+Features typically are longer. Also, while traditional stories use a summary lead, feature stories
+use delayed leads or begin with an anecdote. The writing style is different. Traditional news
+articles tend to paraphrase information rather than state it verbatim, while feature articles use
+many quotes and emotional cues, focusing more on showing the reader what's going on instead
+of telling. In this video, Chris Davey, assistant vice president for media and public relations at The
+Ohio State University, summarizes some of the differences between traditional news stories and
+feature stories and provides general tips for news writing.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=115
+
+                                                                                                                   Feature writing versus traditional news writing | 52
+34. Feature leads
+
+Unlike the traditional summary lead, feature leads can be several sentences long, and the writer
+may not immediately reveal the story's main idea. The most common types used in feature articles
+are anecdotal leads and descriptive leads. An anecdotal lead unfolds slowly. It lures the reader in
+with a descriptive narrative that focuses on a specific minor aspect of the story that leads to the
+overall topic. The following is an example of an anecdotal lead:
+
+       Sharon Jackson was sitting at the table reading an old magazine when the phone rang. It
+       was a reporter asking to set up an interview to discuss a social media controversy involving
+       Jackson and another young woman."Sorry," she said. "I've already spoken to several reporters
+       about the incident and do not wish to make any further comments."
+Notice that the lead unfolds more slowly than a traditional lead and centers on a particular aspect
+of the larger story. The nut graph, or a paragraph that reveals the importance of the minor story
+and how it fits into the broader story, would come after the lead. There will be more on the nut
+graph later in this chapter.
+   Descriptive leads begin the article by describing a person, place, or event in vivid detail. They
+focus on setting the scene for the piece and use language that taps into the five senses in order to
+paint a picture for the reader. This type of lead can be used for both traditional news and feature
+stories. The following is an example of a descriptive lead:
+       Thousands dressed in scarlet and gray T-shirts eagerly shuffled into the football stadium as
+       the university fight song blared.
+For each article below, identify whether it uses a descriptive or anecdotal lead:
+  · A thin line of defense
+  · Pediatric patient
+  · Inside Jay Z's Roc Nation
+
+53 | Writing for Strategic Communication Industries
+35. Feature article organization
+
+The content in a feature article isn't necessarily presented as an inverted pyramid; instead,
+the organization may depend on the writer's style and the story angle. Nevertheless, all of the
+information in a feature article should be presented in a logical and coherent fashion that allows
+the reader to easily follow the narrative.
+
+   As previously stated, the nut graph follows the lead. This paragraph connects the lead to the
+overall story and conveys the story's significance to the readers (Scanlan, 2003).
+
+   The nut graph comes from a commonly used formula for writing features, known as the Wall
+Street Journal (WSJ) formula (International Center for Journalists, 2016). The formula was named
+after the well-known and respected publication, which created the term "nut graph" and mastered
+feature news writing (Rich, 2016).
+
+   The formula consists of beginning the story with feature-style leads to grab the reader's
+attention, followed by the nut graph (Scanlan, 2003). After this comes a longer body of the story
+that provides the usual background, facts, quotes, and so on. The formula then specifies a return
+to the opening focus at the end of the story using another descriptive passage or anecdote, also
+known as the "circle kicker" (Rich, 2016). This could be, for example, an update on what eventually
+happened to the main character or how the event or issue turned out.
+
+                                                                                                                                              Feature article organization | 54
+36. Feature writing devices
+
+Literary Devices
+
+Feature writers use a particular style of writing to convey the story's message. The use of literary
+devices helps in this task. These devices include similes and metaphors, onomatopoeia (use of
+words that mimic a sound), imagery (figurative language), climax, and more. Here are a few
+examples of onomatopoeia and imagery:
+
+   Onomatopoeia: The tires screeched against the concrete as she hit the pedal.
+   Imagery: The apartment smelled of old cooking odors, cabbage, and mildew; . . . a haze of dusty
+sunlight peeked from the one cobwebbed, gritty window.
+   Click here for more information on literary devices, including specific examples.
+
+Descriptive Writing
+
+A good feature writer uses plot devices and dialogues that help move the story forward, while
+focusing on the central theme and providing supporting information through descriptive language
+and specific examples. You want to show readers what's happening, not simply tell them. They
+should be able to visualize the characters, places, and events highlighted in the feature piece.
+
+   Show versus tell
+   Tell: Friends describe Amariah as a generous and vibrant person who was involved in several
+nonprofit organizations.
+   Show: Tracey proudly recalls her friend's generosity. "Amariah is usually the first person to
+arrive at a volunteer event, and the last to leave. She spends four hours every Saturday morning
+volunteering at the mentoring center. It's rare to not catch her laughing, flashing her perfect smile.
+She's just a burst of positive energy."
+   It's often tempting to end a feature piece with a summary conclusion. Instead, use an anecdote,
+passage, or compelling quote that will leave a lasting impression on your readers.
+
+55 | Writing for Strategic Communication Industries
+37. References
+
+International Center for Journalists. (2016). Use these tools for the story structure. Retrieved
+   from: http://www.icfj.org/resources/who%E2%80%99s-running-company-guide-reporting-
+   corporate-governance/use-these-tools-story-structure
+
+Literary Devices Editors. (2013). What are literary devices? Retrieved from:
+   http://literarydevices.net/
+   Rich, C. (2016). Writing and reporting news: A coaching method. Cengage Learning: Boston, MA.
+
+Scanlan, C. (2003). The nut graf, Part I. Poynter. Retrieved from: http://www.poynter.org/2003/
+   the-nut-graf-part-i/11371/
+
+                                                                                                                                                                     References | 56
+PART VII
+
+CHAPTER 7: PUBLIC RELATIONS
+INDUSTRY
+
+57 | Writing for Strategic Communication Industries
+38. What is public relations?
+
+The Public Relations Society of America (PRSA) defines public relations as "a strategic
+communication process that builds mutually beneficial relationships between organizations
+and their publics" (2016, para. 4). Simply put, public relations helps to influence an audience's
+perceptions by building relationships and shaping public conversations about a client or company.
+These public conversations often take place through mass media and social media, which is why
+public relations professionals need to understand how to work with and write effective messages
+for the media. Click here for more information on what you can expect in a public relations career.
+
+   Public relations professionals are in charge of a wide range of communication activities that may
+include increasing brand visibility and awareness, planning events, and creating content. Some of
+them also deal with crisis communication and help to salvage a brand's integrity and reputation
+during a negative event.
+
+   Click on this video from Tayah Frye, a young PR professional, explains what it is like to work at a
+public relations agency.
+
+                                                                                                                                                  What is public relations? | 58
+39. Four models of public relations
+
+Grunig and Hunt (1984) developed four models of public relations that describe the field's various
+management and organizational practices. These models serve as guidelines to create programs,
+strategies, and tactics.
+
+         "Four Models of PR" by Michael Shiflet and Jasmine Roberts is licensed under CC BY 2.0
+
+59 | Writing for Strategic Communication Industries
+In the press agent/publicity model, communications professionals use persuasion to shape the
+thoughts and opinions of key audiences. In this model, accuracy is not important and
+organizations do not seek audience feedback or conduct audience analysis research. It is a one-
+way form of communication. One example is propagandist techniques created by news media
+outlets in North Korea.
+
+   The public information model moves away from the manipulative tactics used in the press agent
+model and presents more accurate information. However, the communication pattern is still one-
+way. Practitioners do not conduct audience analysis research to guide their strategies and tactics.
+Some press releases and newsletters are created based on this model, when audiences are not
+necessarily targeted or researched beforehand.
+
+   The two-way asymmetrical model presents a more "scientifically persuasive" way of
+communicating with key audiences. Here, content creators conduct research to better
+understand the audience's attitudes and behaviors, which in turn informs the message strategy
+and creation. Still, persuasive communication is used in this model to benefit the organization
+more so than audiences; therefore, it is considered asymmetrical or imbalanced. The model is
+particularly popular in advertising and consumer marketing, fields that are specifically interested
+in increasing an organization's profits.
+
+   Finally, the two-way symmetrical model argues that the public relations practitioner should
+serve as a liaison between the organization and key publics, rather than as a persuader. Here,
+practitioners are negotiators and use communication to ensure that all involved parties benefit,
+not just the organization that employs them. The term "symmetrical" is used because the model
+attempts to create a mutually beneficial situation. The two-way symmetrical model is deemed
+the most ethical model, one that professionals should aspire to use in their everyday tactics and
+strategies (Simpson, 2014).
+
+   Some experts think of public relations more broadly. For instance, they may argue that political
+lobbying is a form of public relations because lobbyists engage in communication activities and
+client advocacy in order to shape the attitudes of Congress (Berg, 2009). However, this book
+focuses on a public relations approach based particularly on writing for the media. Furthermore,
+the goal is to disseminate communication based on the two-way symmetrical model presented by
+Grunig and Hunt (1984).
+
+     Discussion Point
+
+        Do you think the two-way symmetrical model is plausible? Consider this example from Dr. William Sledzik,
+     associate professor of journalism and mass communication at Kent State University:
+
+        "Can we realistically serve multiple stakeholders whose needs conflict? For example, can we represent the
+     interests of loyal employee groups while our shareholders demand layoffs in favor of low-cost offshore
+     suppliers?"
+
+                                                                                                                                         Four models of public relations | 60
+40. Why do companies need public
+relations?
+
+There was a time when many companies did not see the value of public relations, unless a
+crisis happened. Even now, some public relations professionals face challenges in convincing key
+executives of their value to the function of the company.
+
+   With the abundance of information readily available to audiences worldwide, companies are
+more vulnerable than ever to misinformation about their brand. An audience's attitudes and beliefs
+about a company can greatly influence its success. Therefore, the public relations professional
+helps to monitor and control conversations about a company or client and manage its reputation
+in the marketplace. Viewing public relations as a key management function of a business or an
+essential strategy to manage one's individual reputation will help accomplish important goals such
+as establishing trust among key publics, increasing news media and social media presence, and
+maintaining a consistent voice across communication platforms.
+
+   For more on the impact of reputation on business success, take a look at this article from The
+Entrepreneur.
+
+61 | Writing for Strategic Communication Industries
+41. Public relations versus marketing versus
+advertising
+
+Many people confuse public relations with marketing and advertising. Although there are
+similarities, there also are key differences.
+
+   Probably the most important difference between marketing, public relations, and advertising is
+the primary focus. Public relations emphasizes cultivating relationships between an organization
+or individual and key publics for the purpose of managing the client's image. Marketing
+emphasizes the promotion of products and services for revenue purposes. Advertising is a
+communication tool used by marketers in order to get customers to act. The image below
+outlines other differences.
+
+                                                                                                            Public relations versus marketing versus advertising | 62
+"The difference between marketing, public relations, and advertising" by Jasmine Roberts and Michael Shiflet is
+licensed under CC By 2.0.
+
+For more information on the differences between marketing, public relations, and advertising,
+read the following articles:
+
+  · US Chamber: Difference between marketing and public relations
+  · The real difference between public relations and advertising
+
+63 | Writing for Strategic Communication Industries
+42. General roles in public relations
+
+According to Smith (2013), public relations practitioners can be placed in two groups based
+on responsibilities: communication managers and communication technicians. Communication
+managers assist in the strategic planning of an organization's communication efforts. The broad
+term "communication manager" includes several similar public relations positions: expert
+consultant, problem-solving facilitator, and communication liaison. Expert consultants develop
+a specific communication plan to help achieve organizational goals. Problem-solving facilitators
+provide crisis management to an organization during an obstacle. Liaisons speak on behalf of the
+brand and facilitate communication between the organization and its key publics.
+
+   Before entering a managerial role, most public relation practitioners begin their career as a
+communication technician. This can refer to a variety of entry-level positions, including public
+relations specialist, communication assistant, and junior account executive. Communication
+technicians write press releases, pitches, feature articles, and other communication materials and
+assist in event planning. Together, communication managers and technicians play a vital role in
+relationship building and the management of a brand.
+
+                                                                                                                                        General roles in public relations | 64
+43. References
+
+Berg, K. (2009). Finding connections between public relations, lobbying, and advocacy. Public
+
+Relations Journal, 3(3), 2-19.
+
+Grunig, J. & Hunt, T. (1984). Managing public relations. New York: Holt, Rinehart and Winston.
+
+Public Relations Society of America. (2016). About public relations. Retrieved
+
+from: https://www.prsa.org/aboutprsa/publicrelationsdefined/#.V7S9x4HF_Hc
+
+Simpson, E. (2014). The four models in Grunig's and Hunt's PR theories. Linkedin.com. Retrieved
+
+from:  https://www.linkedin.com/pulse/20140611205435-83891954-the-four-models-in-
+
+grunig-s-and-hunt-s-pr-theories
+
+Smith, R. (2013). Strategic planning for public relations. New York, NY: Routledge.
+
+65 | Writing for Strategic Communication Industries
+PART VIII
+
+CHAPTER 8: PUBLIC RELATIONS
+WRITING
+
+                                                                                                                                    Chapter 8: Public Relations Writing | 66
+44. The role of writing in public relations
+
+Public relations professionals at all levels need to have solid writing skills. White (2016) says,
+"To succeed as a PR pro, it's vital to have a passion for writing and communication, and to
+be committed to excelling in both. You're bound to fail if you don't" (para. 9). Public relations
+professionals are responsible for developing communication materials intended to influence the
+attitudes and/or behaviors of key publics. Many employers require candidates for public relations
+positions to complete a writing test and provide a writing sample to demonstrate proficiency in
+this skill. Therefore, it is critical to understand how to craft effective messages through written
+communication.
+
+   Here are some of the many materials and messages that public relations professionals have to
+write:
+
+  · Press/News releases
+  · Fact sheets
+  · Feature articles
+  · Social media messages
+  · Blog posts
+  · Speeches
+  · PowerPoint presentations
+  · Brochures
+  · Media pitches
+  · Statements
+  · Website messages
+
+67 | Writing for Strategic Communication Industries
+45. News writing versus public relations
+writing
+
+Effective public relations writing draws from news writing principles, because the news media
+is one of the preferred channels for promoting products and services. However, news writing
+and public relations writing differ in terms of audience, tone, and media channels. News writing
+should be objective in tone, with the purpose of presenting information to educate an audience
+about newsworthy events. On the other hand, public relations writing advocates for the client. It
+is informative, but it should also influence key publics' perception of the organization. Some would
+also argue that public relations writing is even more concise than news writing.
+
+   Reporters usually write for one audience: readers or listeners of the respective media outlet.
+Public relations professionals may have to write for a variety of audiences, including internal
+audiences (such as employees, shareholders, and distributors) and external audiences (such as
+the media, customers, volunteers, and bloggers). News writing uses one primary communication
+channel, the news outlet (which can be a newspaper or a television or radio broadcast). Although
+journalists are increasingly using social media to post their articles, this usually entails posting a
+link that directs the audience to the news outlet's primary website. Public relations professionals
+use a variety of channels to distribute their messages, including news media, social media,
+advertisements, blogs, press kits, and many more.
+
+                                                                                                                       News writing versus public relations writing | 68
+46. The press release
+
+The press release or news release is one of the most common communication materials written
+by public relations professionals. Press releases are sent to outlets such as newspapers, broadcast
+stations, and magazines to deliver a strategic message from an organization that the media ideally
+will publish or broadcast. The primary audience for the press release is reporters and editors,
+although some organizations publish press releases on their own websites for audiences to view.
+This may be done due to shrinking newsroom staffs and insufficient resources to develop original
+content.
+
+   Journalists use press releases as a reporting tool, relying on them to provide essential
+information and therefore make it easier for them to cover a variety of events. With the increase in
+media channels and demand for social content, some view press releases as an uninteresting way
+to distribute information and connect with audiences (Galant, 2014). Others see them as a concise
+and straightforward way to communicate to key publics.
+
+   Although the emergence of digital media has challenged public relations professionals to think
+of nontraditional ways to garner publicity, the use of press releases is still widespread in the
+profession. Therefore, public relations practitioners should know how to write an effective press
+release.
+
+69 | Writing for Strategic Communication Industries
+47. Writing the press release
+
+Traditionally, press releases use the inverted pyramid style, which makes it easy for journalists
+and editors to receive the most essential information first. This means the news hook should
+be revealed in the headline and lead of the release. Journalists will not take your press release
+seriously if the content is not newsworthy and it is not written in an accepted style, such as AP
+style. Make sure that the press release contains attributed information with proper sources and is
+error free.
+
+   Before writing the release, ask yourself the following questions:
+  · Is the announcement or event newsworthy? Does it appeal to the media outlet's audience?
+
+      Some announcements do not warrant a press release and can simply be posted on the
+      company website.
+  · What is the key message? What should the reader take away?
+  · Who is the target audience for the release? Although you're writing the release for the media,
+      you need to keep in mind the kind of readers or listeners you hope to attract.
+In this video, Gina Bericchia, former senior media strategist at Nationwide Children's Hospital,
+discusses proper press release writing.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=601#oembed-1
+
+                                                                                                                                                  Writing the press release | 70
+48. Press release structure and format
+
+The release should be written on the company letterhead, with the words "Press Release" or
+"News Release" at the top left corner of the page. Below this, indicate when the information is
+available for publication. The term "immediate release" means the information is ready to publish
+and can be used by journalists as soon as they receive it. Occasionally, you might want more time
+to gather other information, or would prefer that the journalist publish the announcement at a
+later date. In this case, use the term "under embargo until" followed by the embargo date, which
+is when you will allow the journalist to publish the information. Put the press release date below
+the "immediate release" or "under embargo until" statement. Always include contact information
+for the journalist's reference, preferably at the top right corner.
+
+   Write the body of the press release using news writing techniques and style. Be sure to include
+a headline; you also may include a subheadline. Provide a dateline, followed by the summary lead.
+
+   Be sure to use the inverted pyramid to organize the information throughout the press release.
+Include at least two quotes, one from the company or organization and another from a third party
+(example: customer, volunteer, current or former attendee at the event). After you've finished with
+the body, put the boilerplate at the end of the document. The boilerplate provides information
+about the company or organization, similar to the "About Us" section that you might find on a
+company website.
+
+   The press release should be as concise as possible and ideally no longer than one page. If it
+exceeds one page, do not split paragraphs. Instead, put the word "more" at the bottom center of
+the first page to indicate to the reader that there is more content on a second page. Include three
+pound signs (###) or "-30-" at the bottom of the press release to indicate the end.
+
+   These sample press releases contain some of the basic elements:
+
+  · U.S. Attorney's Office Southern District of Ohio
+  · The Ohio State University
+  · St. Jude Children's Research Hospital
+
+     Further Reading
+
+         · This article from Ragan's PR Daily provides suggestions to improve your public relations writing.
+         · An additional article from Ragan's PR Daily explains common press release mistakes.
+
+71 | Writing for Strategic Communication Industries
+49. Press kit materials
+
+Press kits or media kits are packages or website pages that contain promotional materials and
+resources for editors and reporters. The purpose is to provide detailed information about a
+company in one location. Although a press kit delivers more information than a press release, the
+overall goal is similar: to secure publicity for a company or client.
+
+   Major events or stories that require more information than is typically included in a press
+release warrant a press kit. Examples include a company merger, the launch of a new product, a
+rebranding campaign, or a major change in organizational leadership. Press kits can be hard copy
+or digital. Hard-copy press kits use folders with the company logo, whereas digital press kits use
+a website page or are sent in a zip file via email.
+
+   The following materials are found in a press kit:
+
+  · Backgrounder
+  · Press release
+  · Fact sheet
+  · Publicity photos or list of photo opportunities
+  · Media alerts
+
+Click here for information on how to assemble a press kit.
+
+Backgrounder
+
+A backgrounder contains the history of a company and biographies of key executives. The purpose
+is to supplement the press release and explain the company's story or event, products, services,
+and milestones. It is in paragraph format and relatively brief (one to two pages). Click here
+for a sample corporate backgrounder from GainSpan, a semiconductor company (creator: Javed
+Mohammed).
+
+Fact Sheet
+
+A fact sheet provides a summary of an event, product, service, or person by focusing only on
+essential information or key characteristics. It is more concise than a backgrounder and serves
+as a quick reference for reporters. However, the fact sheet is not meant for publication. The
+headings of a fact sheet vary; the creator of the document chooses how to categorize major
+information. The most common type of fact sheet is the organizational profile, which gives basic
+
+                                                                                                                                                            Press kit materials | 72
+information about an organization. This includes descriptions of products or services, annual
+revenues, markets served, and number of employees.
+
+   The standard fact sheet contains a company letterhead and contact information. The body is
+single-spaced, with an extra space between paragraphs and subheadings. Although the fact sheet
+is typically one page, put the word "-more-" at the bottom of the first page to indicate additional
+pages. Similar to the press release format, include three number signs or "-30-" at the bottom of
+the document to indicate the end. To make it easy to read, group similar information together and
+include bulleted items if appropriate.
+
+   Click here for an example of a fact sheet. Keep in mind that the subheadings/categories used in
+this example may not be used in another one. Writers have some flexibility in the categories they
+choose in a fact sheet.
+
+Media Alert
+
+There are times when announcements do not require the distribution of a press release, but rather
+a concise notice to the media. This is called a media alert or advisory. Media alerts are memos to
+reporters about an interview opportunity, press conference, or upcoming event. They use the 5Ws
+and H format to quickly deliver information.
+
+   The illustration below explains the key differences between a press release and a media
+advisory:
+
+73 | Writing for Strategic Communication Industries
+                             &quot;News Release vs. Media Advisory&quot; by Alyson
+                             Moses and Mary Sterenberg is licensed under CC BY 2.0
+
+                            "News Release vs. Media Advisory" by Alyson Moses and Mary
+                            Sterenberg is licensed under CC BY 2.0
+
+Here is an example of a media alert:
+         Economic Policy Institute
+
+                                                                                                                                                            Press kit materials | 74
+50. References
+
+Galant, G. (2014). The end of the press release? PR Say: The Voice of Public Relations. Retrieved
+   from: http://prsay.prsa.org/2014/05/22/the-end-of-the-press-release/
+
+White, R. (2016). 13 PR truths--how many do you believe? PR Daily. Retrieved
+   from: http://www.prdaily.com/Main/Articles/0eb7ac16-f3f1-4fc5-a467-32d56b4ba7f4.aspx
+
+75 | Writing for Strategic Communication Industries
+PART IX
+
+CHAPTER 9: MEDIA RELATIONS
+
+                                                                                                                                               Chapter 9: Media Relations | 76
+51. What are media relations?
+
+A large part of the public relations profession
+
+involves working with the media. Public
+
+relations seeks to garner publicity that benefits
+
+a client. Mass media is the preferred channel
+
+for reaching out to the public because
+
+audiences view media coverage as more
+
+credible than traditional advertising or
+
+promotional efforts. Therefore, learning how to
+
+develop and manage relationships with
+
+reporters and editors is critical to your
+
+outreach strategy.
+
+Media relations refer to the mutually
+
+beneficial relationship between journalists and      "News Reporters and a TV Cameraman" by Digital
+public relations professionals. One of the           Vision is licensed under CC BY 2.0.
+biggest benefits for journalists is the easy
+
+access to story ideas and sources. As previously discussed, reporters spend a large amount of time
+
+and effort gathering information in order to write a story. Working with public relations
+
+professionals cuts down on the time needed to look for sources and other information to validate
+
+an article's content. Public relations practitioners benefit from media relations because it secures
+
+free publicity and promotion for a client. By using media as a promotional tool, they are able to
+
+reach a large audience without high costs.
+
+77 | Writing for Strategic Communication Industries
+52. Working with journalists
+
+As with any professional relationship, there are do's and don'ts to be aware of when developing
+relationships with journalists. Take the time to research reporters or content creators to identify
+those who will help you achieve your organization's publicity goals. Once you've found an
+appropriate journalist or blogger, think carefully about how you plan to pitch your story to the
+individual. Avoid gimmicky or hyped-up press releases; they may catch the reporter's attention,
+but for the wrong reason. Also avoid jarring language such as "urgent," "must read," or "extremely
+important," even if you need to secure media coverage quickly.
+
+   In general, developing a rapport with journalists takes time, strategy, skill, and practice. For
+more information on what you can do to develop a good working relationship with the media, take
+a look at this video with Alissa Widman Neese, a journalist at the Columbus Dispatch. She discusses
+her experiences working with public relations professionals and some of the factors that made
+them positive.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=134#oembed-1
+
+                                                                                                                                                   Working with journalists | 78
+53. Pitching to the media
+
+Simply contacting the media will not guarantee coverage for your client. You have to persuade
+the journalist that your story idea is newsworthy. Public relations professionals typically pitch to
+reporters, editors, bloggers, and social media influencers. Pitches can take place via email, phone
+calls, and increasingly through Twitter. The channel you choose for your pitch depends upon the
+intended individual's preference.
+
+   Pitching is a skill that requires creative thinking, persuasive communication skills, and knowing
+how your story idea benefits the reporter and the audience. Your pitching skills can improve with
+time and practice. You will feel more confident reaching out to reporters if you write pitches
+regularly.
+
+Before pitching
+
+Before you send an email pitch or call a reporter, it is important to have a solid understanding of
+your key audience. Carefully examine the interests, preferences, media consumption behaviors,
+and key demographic information associated with that group. Then you can more accurately
+select which media outlet will help reach the target audience.
+
+   Go where your audience is located. For example, as you conduct research about your target
+audience, you might learn that members read blog posts more than news articles. Therefore,
+reaching out to bloggers could be more beneficial than targeting news reporters. Place your
+message or story in media outlets that your intended audience frequently visits or reads.
+
+   One of the most common complaints from journalists about public relations pitches involves the
+use of mass emails. Generic pitches sent out to anyone and everyone come across to reporters and
+bloggers as careless and can compromise your credibility among media professionals. Remember,
+reporters are going to look at how your story will appeal to their specific readers; therefore,
+your pitch needs to be strategic. Failure to keep this in mind may result in a rejected pitch or no
+response at all.
+
+   Before you pitch to a particular media outlet, be sure to research which specific writer within
+the organization can help you target your audience. Each reporter covers a different topic, or
+"beat." Reading some of a reporter's previous stories will give you an indication of whether he
+or she is the right person to cover your story. Let's say your client is a restaurant that wants to
+publicize the opening of a new location. A reporter who covers food topics and brands, lifestyle
+topics, or the restaurant industry would be the most logical choice to write your story.
+
+79 | Writing for Strategic Communication Industries
+Writing the pitch
+
+Now that you've done your homework on the audience, media outlet, and specific writer, pay close
+attention to how you craft your pitch message.
+
+   The subject line is especially important if you're using email. It needs to be creative enough to
+catch the attention of the writer; however, avoid exaggerated phrases or visual gimmicks such as
+all capital letters. Do not use generic headlines such as "Story Idea" or "Cool Upcoming Event." Try
+to create a headline similar to one the journalist might use in writing the story.
+
+   Next, address the reporter or blogger by name and begin the body of the pitch. State why you're
+writing, and provide some information about yourself and the company or client you represent.
+Next, summarize the lead of the story. Writing in this manner resonates with some reporters, as
+it is the style they are accustomed to. You also can start the email with a catchy line that will
+hook the journalist, but be careful not to overdo this. Reporters and editors do not like flowery
+or gimmicky language because it sounds more like a hard sales pitch than a public relations
+pitch. Continue with the pitch by providing important details about the story and talking about
+why it would be interesting to the media outlet's audience. Doing this indicates that the story has
+news value, which is very important in pitching. Toward the end of the email pitch, state when you
+would like a response, indicate when you plan to follow up if necessary, and offer specific help. Be
+sure to thank the reporter or blogger for his or her time.
+
+                                                                                                                                                       Pitching to the media | 80
+from "How to Bootstrap Your PR Like a Boss" by Kate Finley
+
+Don't feel discouraged if the person does not respond immediately. Journalists are extremely busy,
+and sometimes they simply overlook emails. If necessary, send a reminder email by the follow-up
+date you mentioned in the first communication.
+
+   This date depends on when the story should hit the press. If you pitched a story that needs to
+be published relatively quickly, you may want to follow up no later than two days after sending the
+initial pitch. If there's more flexibility in the desired publication date, you may indicate that you
+will follow up within a week. If the person still does not respond to your pitch, move on to another
+outlet, reporter, or blogger who can help you accomplish your publicity goals. It is important to
+also consider timing; for example, do not make a follow-up call at 4:55 p.m. on a Friday when the
+journalist may be getting ready to head home for the weekend.
+
+   Grammar, punctuation, tone, and spelling are important when writing email pitches. Some
+journalists have admitted to not responding to a pitch that contains grammatical and spelling
+errors. Reread your message several times to check for errors. Here are more articles that discuss
+media relations, proper etiquette, and tips on gaining media exposure:
+
+81 | Writing for Strategic Communication Industries
+· Surprising tips to get the media's attention
+· Best practices for pitching
+
+                                                                                                                                                   Pitching to the media | 82
+54. References
+
+Finley, K. (2014). How to bootstrap your PR like a BOSS. Retrieved
+   from: http://www.thinkbelle.com/resources/
+
+83 | Writing for Strategic Communication Industries
+PART X
+
+CHAPTER 10: SOCIAL MEDIA--USES AND
+MESSAGING
+
+                                                                                                                   Chapter 10: Social Media--Uses and Messaging | 84
+55. What are social media?
+
+Social media are online communications platforms that allow people to share content. The phrase
+typically brings to mind sites such as TikTok, Instagram, LinkedIn, and Facebook; however, there
+are many other forms of social media where people share photos, text, videos, podcasts, music,
+discussions, and ideas. Social media also include a range of professional communication forums,
+online review sites (for example, Yelp and Rotten Tomatoes), and microblogging (for example,
+Twitter or Instagram's "Threads").
+
+   Social media have increasingly become everyday communication tools. Many brands use social
+media to leverage their marketing and public relations efforts. Specifically, organizations can use
+social media to enhance brand awareness, roll out promotions, and build website traffic. Social
+media also provide opportunities to develop relationships with audiences through engagement
+and key messaging. Valentini and Kruckeberg (2012) note that "social media provide a relatively
+inexpensive means to communicate with, and, more importantly, to enter into a dialogue with
+strategic publics" (p. 11).
+
+85 | Writing for Strategic Communication Industries
+56. Factors to consider before posting
+
+Identify the message goal
+
+It is counterproductive to create social media messages that do not have a specific goal.
+Furthermore, social media message goals should reflect the organization's overall mission.
+Message goals can include increasing brand awareness, creating a favorable perception of an
+organization, and convincing the audience to buy a product. The goal should be clearly articulated
+in the content. Also, select the social media platform that would be the most effective in
+accomplishing the message goal. Each social media tool has specific characteristics and audiences,
+which will affect whether the message goals are achieved.
+
+Identify the target audience
+
+Similar to public relations writing, social media messages need to be targeted. After identifying
+the key audience, examine what they're talking about: their interests, attitudes, and beliefs. Social
+media content should reflect audience analysis research findings. As you tailor the content of the
+message to this audience, do not exaggerate attempts to be interesting or relevant. Because social
+media messages are audience centered, they're not necessarily grounded in what you personally
+think is appealing.
+
+   The lack of attention to audience analysis can have serious consequences. One example is
+IHOP's Twitter controversy in 2015. In an attempt to reach a young audience and produce
+attention-grabbing content, IHOP tweeted about its pancakes, making a provocative comment
+that compared them to a woman with small breasts: "Flat but has a GREAT personality." Audiences
+quickly reacted with outrage, causing the company to issue an apology.
+
+   A more recent example can be found in the case of social media influencer, Logan Paul, who
+was the center of a public outcry in response to a video he posted while on a trip to Japan. Paul
+specifically filmed his visit to Aokigahara, a forest and location known for its high suicide rates.
+The video appeared to show the body of a deceased individual. He posted the video on his YouTube
+channel and clips of it later surfaced on Twitter, gaining more than 100,000 retweets and a swift
+negative response from the public. Although Paul apologized for the insensitive nature of the video
+and temporarily suspended his vlog, the negative impact of this crisis on his reputation largely
+remained. Some companies even pulled their advertisements from his YouTube Channel.
+
+   These mishaps demonstrate the need for careful message and audience analysis. They also
+reinforce the point that although you may react favorably to a message, your target audience may
+not.
+
+                                                                                                                                     Factors to consider before posting | 86
+Identify the organization's social media approach
+
+Communication choices should reflect organizational strategies. Wilson et al. (2011) identified
+four general ways in which companies use social media. They are determined by the "company's
+tolerance for uncertain outcomes and the level of results sought" (para. 2).
+
+   The "predictive practitioner" approach uses caution when sending out social media messages.
+Instead of launching a social media strategy that involves all departments in a company, only a
+specific department (example: marketing or human resources) uses its social media platforms.
+This allows more control of social media messaging and guarantees some level of certainty in
+accomplishing the stated objectives.
+
+   The "creative experimenter" approach accepts uncertainty and deploys small social media
+"experiments" to learn and improve overall business functions. Sometimes, businesses will take to
+Facebook or Twitter to receive feedback on products or business practices from internal (example:
+employees) or external (example: customers) audiences. The overall goal is to listen and learn from
+interactions; therefore, unpredictable results are accepted.
+
+   The "social media champion" approach takes strategies to a more advanced level. A designated
+team is in charge of the organization's overall social media presence. The team also creates
+an official social media policy and guidelines for the organization. Larger social media projects
+typically use this strategy. Unlike the predictive practitioner strategy, this approach does not
+confine social media use to a particular department and considers social media messages across
+various functions.
+
+   The "social media transformer" strategy targets both internal and external audiences by
+launching large-scale projects that involve multiple departments. As with the social media
+champion approach, a team is devoted to planning, creating, and launching the organization's
+social media projects. However, these projects are usually larger and more advanced than those
+using the social media champion approach. This strategy specifically considers how social media
+can influence business strategy, brand, and culture.
+
+   Organizations can use multiple approaches when designing a social media message. What is
+important is that they carefully consider their approach before posting any content to social media
+platforms.
+
+87 | Writing for Strategic Communication Industries
+57. The impact of social media in strategic
+communication industries
+
+The rise of social media has had significant effects on the strategic communication industry.
+Marketers use social media to enhance traditional efforts such as direct mail fliers and television
+advertisements. Social media also enable marketers to create interactive content for audiences.
+In the public relations field, social media give professionals easier access to journalists and news
+media outlets. For example, it is becoming common for public relations professionals to reach out
+to reporters via Twitter and other platforms.
+
+   In many ways, social media have made it easier for consumers to hold organizations, public
+figures, and large institutions accountable (Green, 2012). Users can easily find and reveal
+information about a previous event involving an organization, whether it was advantageous or
+damaging to the brand. Users can also provide instant public feedback by voicing their opinions
+via social media networks. Furthermore, social media have made it challenging for many
+organizations to control their brand and present a consistent message across platforms.
+Audiences can generate information that can be damaging to a brand's reputation. Take a look at
+this video from Sherry Lloyd, social media and marketing manager for Vineyard Columbus, who
+discusses brand management and the challenges of controlling a company's identity in the social
+media age.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=154#oembed-1
+
+                                                                                         The impact of social media in strategic communication industries | 88
+58. Social media characteristics
+
+Several characteristics make social media a unique communication tool. First, social media users
+are content creators. People can create their own blogs, create a TikTok video for comedic
+purposes or to express their thoughts on an issue, post images on Instagram and Facebook, or
+post a video blog ("vlog") about their latest travel adventures on YouTube. This enables users to
+be active participants in the communication process. Audiences are more engaged with brand
+messages because they can provide feedback to companies, creating a two-way conversation.
+
+   Another characteristic of social media is instant communication. Audiences do not have to
+wait until scheduled news broadcasts to receive information because reporters and media outlets
+can bring the news directly to social media platforms. Furthermore, people can easily share and
+post news content on their networks. Social media also foster a sense of interconnectedness and
+community by bringing people across the globe together online. Those living in the United States
+can easily interact with those living in Australia. Valentini and Kruckeberg (2012) write that social
+media could not exist without their users, given that the interactivity characteristics create a
+community feeling. As noted by Green (2012): "Social media [provide] the means by which clusters
+of like-minded individuals can easily swap ideas and scrutinise data on public matters" (para. 4).
+
+89 | Writing for Strategic Communication Industries
+59. Creating social media messages
+
+The goal of creating social media messages is not only to reach your audience, but also to achieve
+an intended effect. Proper grammar and punctuation are important in social media writing, as is
+accuracy. A careless error could undermine the credibility of your brand. Here are a few other
+factors to consider when creating social media messages.
+
+Engagement, engagement, engagement
+
+More than many forms of communication, social media messages need to motivate the audience
+to engage with the content. Several strategies can encourage engagement, such as responding
+quickly to feedback from audience members, creating contests, and inviting the audience to
+respond to a question. Including photos and videos in social media posts substantially increases
+engagement, as does integrating trending topics (Redsicker, 2014). This requires careful
+consideration and research that will pay off if the trending hashtags are chosen wisely. Hai Poke,
+a startup restaurant in Columbus, did this by tapping into the Pokemon Go craze in the summer
+of 2016. The restaurant launched a social media contest and created a fun, timely, interactive
+message.
+
+                                                                                                                                        Creating social media messages | 90
+                 "Poké" social media campaign image from Hai Poké's Facebook page.
+
+Consistency
+
+The core message needs to be articulated across all social media platforms in a consistent way
+that conveys a unified voice. The message also needs to reflect the brand image; in other words, it
+should reinforce the brand "feel" or personality. Referring back to the IHOP Twitter controversy,
+one reason audiences disliked the message was because its suggestive tone was inconsistent with
+the company's family-friendly brand personality.
+
+91 | Writing for Strategic Communication Industries
+Concise writing
+
+Similar to news writing, social media writing is straightforward. Because you're competing against
+countless other messages in the social media sphere, you do not have much time and space
+to capture the audience's attention. This is especially the case with Twitter, with its current
+140-character limit. You have to think carefully not only about what the message will say but how
+to say it in a concise manner that has the intended effect.
+
+   For more information on effective social media writing, take a look at this video with Nicholas
+Love, a former social media director at The Ohio State University.
+
+                    One or more interactive elements has been excluded from this version of the text. You can view them online here:
+                    https://ohiostate.pressbooks.pub/stratcommwriting/?p=651#oembed-1
+
+                                                                                                                                         Creating social media messages | 92
+60. References
+
+Black, L. (2011). 5 smart social PR campaigns to learn from. Mashable. Retrieved from:
+   http://mashable.com/2011/03/08/social-pr-campaigns/#zE8n38EXNOqB
+
+Green, D. (2012). How to think about social media. New Statesman. Retrieved from:
+
+http://www.newstatesman.com/blogs/david-allen-green/2012/01 social-media-regulation
+
+Redsicker, P. (2014). Social photos generate more engagement: New research. Social Media
+
+Examiner.  Retrieved  from: http://www.socialmediaexaminer.com/photos-generate-
+
+engagement-research/
+
+Valentini, C. & Kruckeberg, D. (2012). New media versus social media: A conceptualization of their
+
+meanings, uses, and implication for public relations. In S. Duhe (ed.), New media and public
+
+relations (pp. 3-12). New York: Peter Lang.
+
+Wilson, H., Guinan, P., Parise, S. & Weinberg, B. (2011). What's your social media strategy? Harvard
+
+Business Review. Retrieved from: https://hbr.org/2011/07/whats-your-social-media-strategy
+
+93 | Writing for Strategic Communication Industries
+PART XI
+
+CHAPTER 11: ADVERTISING INDUSTRY
+
+                                                                                                                                        Chapter 11: Advertising Industry | 94
+61. The role of advertising in society
+
+Advertising is the paid promotion that uses strategy and messaging about the benefits of a product
+or service to influence a target audience's attitudes and/or behaviors. Between online, television,
+radio, and print platforms, the average American sees hundreds, even thousands of advertisements
+daily.
+
+   Although many consumers find them annoying, advertisements play a prominent role in shaping
+opinions about everything from products to politics. A Forbes article (2012) stated: "Advertising
+plays the same role in your media diet that vegetables play in your regular diet; most of us would
+prefer to skip that course and go straight to dessert. But, just like veggies, advertising plays an
+important role in sustaining a body; in this case, a diverse body of content" (para. 1). Advertising
+heavily supports many institutions, including news media outlets, the television industry, search
+engine companies, and social media websites. For example, advertising contributes up to 80
+percent of revenue for newspapers and therefore is critical to maintaining the circulation of the
+press (Newspaper Association of America, 2014).
+
+   The advertising industry is also lucrative. According to AdWeek (2024), the United States spent
+approximately $259 billion on digital advertising alone in 2024. With its economic and cultural
+function in society, the advertising industry has an expansive reach.
+
+95 | Writing for Strategic Communication Industries
+62. Job responsibilities in advertising
+
+The Advertising Educational Foundation (2016) defines several broad categories for jobs in the
+industry. Account managers serve as a liaison between the client and the advertising agency.
+They conduct research and oversee creative aspects, production, and more. Account planners are
+responsible for presenting information about the consumer. They analyze audiences and figure
+out ways to achieve brand loyalty through advertising.
+
+   Those in the creative department are responsible for developing the advertising message and
+images. They also pitch the advertising plan to clients. Employees in the media department work
+on advertising placement strategies, media buying, and analyzing consumer media behaviors.
+These roles are diverse but also interdependent in that they all contribute to the advertising
+process.
+
+                                                                                                                                      Job responsibilities in advertising | 96
+63. Advertising campaign model: Social
+marketing
+
+Numerous conceptual frameworks and models help to explain the design of advertising
+
+campaigns. This book will focus primarily on the social marketing model. This framework
+
+describes how to design information campaigns that focus on improving social welfare, such as
+
+health and environmental campaigns. However, Atkin and Rice (2012) state that it is appropriate
+
+to apply the social marketing model to consumer advertising campaigns because they share
+
+similarities with health and environmental campaigns. The primary difference between consumer
+
+advertising campaigns and information campaigns is the goal.
+
+The social marketing model identifies five steps in the campaign process: planning, theory,
+
+communication analysis, implementation, and evaluation. In the planning stage, advertisers
+
+establish the message goals. This is a critical step in the campaign process as it informs the
+
+strategies and tactics. What kind of response do you want from the audience? What do you want
+
+them to do, or how do you want them to feel?
+
+In the theory step, advertisers try to determine the best way to achieve the campaign objectives.
+
+Perloff (2010) states, "Theories suggest a host of specific campaign strategies, appeals, and ways
+
+to modify projects that aren't meeting stated objectives" (p. 332). This step is also when advertisers
+
+complete a creative brief that further outlines the overall strategy. (There will be more on this in a
+
+later section.) There are two types of strategies: product-oriented and consumer-oriented.
+
+                                                     The product-oriented strategy focuses on
+
+                                                     highlighting specific benefits related to the
+
+                                                     product or service (Felton, 2013). One example
+
+                                                     is commercials for paper towels that compare
+
+                                                     the product's specific features, such as
+
+                                                     absorbency and strength, to those of
+
+                                                     competitors. These commercials often show
+
+                                                     side-by-side shots of people using the featured
+
+                                                     brand and the competing brand, with the
+
+                                                     featured brand as the better option. Other
+
+                                                     product-oriented strategies may focus on
+
+                                                     something that can be found only at a particular
+
+                                                     company or under a specific brand. McDonald's
+
+                                                     occasionally uses this strategy in its
+
+                                                     advertisements, reminding viewers that they
+
+                                                     can purchase America's favorite french fries
+
+                                                     only at its restaurants.
+
+"Digital marketing concept" by Ellagrin is licensed     Another broad advertising strategy connects
+under CC BY 2.0                                      the audience's daily experience or lifestyle with
+
+                                                     the advertised product or service. This is
+
+97 | Writing for Strategic Communication Industries
+referred to as the consumer-oriented strategy. Advertisers frequently use this strategy for
+branding purposes. The idea is to associate the company with a particular lifestyle, personality, or
+characteristic that the audience identifies with or aspires to. Car companies often use consumer-
+oriented strategies in their commercials. Rather than focusing on the specific features of the car,
+consumer-oriented commercials might simply show an attractive person driving along a winding
+road.
+
+   The luxury motor company Lincoln recently used this strategy in a campaign. The commercials
+featured actor Matthew McConaughey simply talking and driving the vehicle. There is very little
+mention of the product features; however, the advertisements associate McConaughey's wealth,
+talent, confidence, and attractive physical features with the car. In doing so, they help to shape
+Lincoln's brand identity and personality.
+
+   You do not have to choose one strategy over the other. Advertising essentially involves
+persuading people to act or feel a certain way about the message topic. Therefore, incorporating
+several ideas and strategies may increase the odds of accomplishing the goal.
+
+   The third step in the social marketing model is communication analysis. Here, advertisers
+conduct market research and audience analysis to test the campaign idea. This step helps the
+advertisers further craft their strategies. For example, if you are designing a campaign to convince
+the target audience to try a local cuisine, you want to examine perceptions of the food prior to
+launching the campaign. You can do this through focus groups or audience surveys.
+
+   The next step involves implementing the campaign. This is done by carefully considering the
+four Ps of marketing: product, placement, price, and promotion.
+
+   The last step in the social marketing model is evaluation. This provides an opportunity for the
+campaign designers to see whether their efforts succeeded in accomplishing the stated goals.
+One way to do this is through evaluating sales after the launch of the campaign, tabulating media
+impressions or audience attendance at events, or conducting exit focus groups.
+
+                                                                                                                    Advertising campaign model: Social marketing | 98
+64. Creative brief
+
+Before they begin the design process, advertising professionals work on explaining and outlining
+the advertising plan in a creative brief. This is a document for the creative team, the advertising
+director, and the client that gives a clear objective for the copy material and explains the overall
+concept of the campaign. The creative brief is like a game plan--without it, the advertisement
+may not be successful. You do not have to use a particular writing style, such as AP style, when
+completing the creative brief. However, grammar, spelling, punctuation, and concise writing are
+still important. Here are several broad categories to consider when completing the creative brief.
+
+Key consumer insight
+
+The key consumer insight demonstrates a clear understanding of the consumer's general
+behaviors, beliefs, and attitudes as they relate to the message topic. It also considers general
+opinions and thoughts about the subject matter. Let's say you're developing a creative brief for a
+cookie brand. Market research and careful audience analysis can reveal key insights into consumer
+behaviors, such as the fact that many consumers believe that so-called healthy cookies do not
+taste as good as their high-calorie, sugar-filled counterparts. This knowledge will help you as you
+design your advertisement.
+
+Advertising problem
+
+The phrase "advertising problem" does not refer to addressing a problem within the advertisement
+itself, or challenges in advertising to the key audience. The term refers to the product's biggest
+consumer-related stumbling block. In the cookie example above, the advertising problem is that
+consumers face a choice between buying great-tasting cookies that are loaded with calories and
+sugar and buying ones that are low in sugar and calories but don't taste as good. The consumer
+insight can inform or help you to come up with the advertising problem. The advertising strategy
+should address a consumer need or consumer-related problem. Without this, the advertisement
+will appear pointless.
+
+Advertising objective
+
+The advertising objective explains the intended effects of the promotion on the target audience
+
+99 | Writing for Strategic Communication Industries
+and clearly articulates the overall goal. The goal is not simply to persuade the audience. Think
+about how you want the audience to feel or believe about the featured product or service. Or, what
+do you want them to do in response to seeing the advertisement? An example of the objective for
+the cookie advertisement might be to convince cookie lovers that the featured product is a healthy
+option that doesn't compromise rich, fulfilling taste.
+
+Target consumer
+
+The target consumers are people you specifically want to communicate the message to. In order to
+fully understand the audience, consider their psychographics, or the analysis of their lifestyles and
+interests. Also include information about demographics, as this factor influences the audience's
+day-to-day experiences. Clarify why you've chosen this particular audience. Why would these
+people be attracted to the featured product or service? How would they help the organization
+achieve its goals? What are the benefits of targeting this particular group? Answering these
+questions will help justify the selection of the target audience.
+
+Competition
+
+In this section of the creative brief, perform a complete assessment of the competition that
+considers strengths and weaknesses. Specifically, examine the competitor's history, products,
+services, brand, and target audiences. Analyzing key competitors will help you articulate your
+company's or product's marketplace niche, which is very important. You need to establish how
+your product or company stands out from similar products or companies.
+
+Key consumer benefit
+
+The key consumer benefit describes what the consumer would gain from using the advertised
+product or service. This section also discusses how the product or service solves the advertising
+problem laid out earlier in the creative brief. Narratives, testimonials, and sometimes research
+findings can be used as support in the actual advertisement, which helps enhance its
+persuasiveness.
+
+                                                                                                                                                                Creative brief | 100
+Support
+
+The support section explains the validity of the proposed advertising plan. It makes a case for why
+the campaign will motivate the audience or make them believe that the claims are true. This is
+particularly important because in order to secure the advertising account, you need to convince
+your client or high-level executives that the plan will work. Include evidence from third-party
+sources such as external research studies or polls. Also include feedback from focus groups to
+persuade the client that the advertising plan is effective.
+
+Other categories to consider
+
+Some creative briefs might include a section called tonality. This explains the desired feel or
+attitude of the advertising campaign, such as "hip," "classy," "fun," "flashy," or "modern." You could
+also include a description of the advertisement's visual elements, or the creative mandatories. This
+section should provide a detailed explanation of the images, slogan, logo, and other visual factors
+so that the client can imagine how the advertisement will look. The creative team usually presents
+a sample advertisement to the client in the pitch presentation.
+
+101 | Writing for Strategic Communication Industries
+65. Copywriting
+
+After completing the creative brief and receiving approval from the client, it is now time to
+develop the advertisement. A large part of this process involves copywriting. Copywriting puts
+together the headlines, subheadlines, and images included in the advertisement. It uses persuasive
+communication to influence the target audience. It also helps to create the advertisement's call to
+action, logo, and slogan.
+
+   The AIDA model is a popular framework used in designing advertising copy. The acronym stands
+for Attention, Interest, Desire, and Action. Good advertising copy should effectively grab the
+audience's attention through words and/or imagery. This can be challenging. Because consumers
+may see thousands of advertisements daily, capturing their attention needs to be informed by
+strategy.
+
+   After getting the audience's attention, the copy should maintain the focus of the consumer
+by generating interest. This involves creating messages that are relevant to the target audience
+(Altstiel and Grow, 2016). The AIDA model states that the copy should provoke a desire for the
+advertised product or service. When the desire is instilled, the copy should then motivate the
+audience to act or perform the call to action in the advertisement. This could be buying the
+product, visiting the organization's social media page, volunteering, or attending an event. The call
+to action should be memorable. For further information on the AIDA model, click on this article.
+
+                                                                                                                                                                  Copywriting | 102
+66. References
+
+Advertising Educational Foundation. (2016). Advertising career possibilities. Retrieved from:
+   http://www.aef.com/industry/careers/9000
+
+Altstiel, T. & Grow, J. (2016). Advertising creative: Strategy, copy, and design. Washington, DC: Sage
+   Publications.
+
+Atkin, C.K. & Rice, R.E. (2012). Theory and principles of public communication campaigns. In R.E.
+   Rice and C.K. Atkin (eds.), Public communication campaigns (pp. 3-19). Thousands Oaks, CA: Sage.
+   Felton, G. (2013). Advertising: Concept and copy. New York, NY: W.W. Norton & Company.
+
+Newspaper Association of America. (2014). Public policy: Advertising. Retrieved
+   from: http://www.naa.org/Public-Policy/Government-Affairs/Advertising.aspx
+
+Perloff, R.M. (2010). The dynamics of persuasion: Communication and attitudes in the 21st
+   century. New York, NY: Routledge.
+
+Thierer, A. (2012). We all hate advertising, but we can't live without it. Forbes. Retrieved from:
+   http://www.forbes.com/sites/adamthierer/2012/05/13/we-all-hate-advertising-but-we-
+   cant-live-without-it/#3bc70705e1c7
+
+103 | Writing for Strategic Communication Industries
+PART XII
+
+CHAPTER 12: CREATING A WRITING
+PORTFOLIO
+
+                                                                                                                            Chapter 12: Creating a Writing Portfolio | 104
+67. Why create a writing portfolio?
+
+In today's job market, recent college graduates or those entering the strategic communication
+profession need to demonstrate job preparedness beyond academic achievements. Excelling in
+the classroom is important, but many employers are just as interested in your work experience,
+expertise, and job-related skills.
+
+   Demonstrating your writing skills is especially important, and creating a portfolio of samples
+will help you in your next job interview. Writing portfolios supplement what you've learned in the
+classroom. They provide an advantage in today's competitive market by illustrating and marketing
+your brand. Regardless of career level, strategic communication professionals should have a
+portfolio to showcase their work.
+
+105 | Writing for Strategic Communication Industries
+68. Other important points about the
+writing portfolio
+
+As you work on more projects and articles, remember to include them in your portfolio. Constantly
+update the portfolio so that employers and professional contacts can see your most recent work.
+Include a minimum of two to three writing samples, although the quality of the portfolio materials
+matters more than the quantity (Lovering, 2016).
+
+   Some employers may not ask for a portfolio, but will require you to take a writing test.
+Employers use this assessment to determine your editing skills, understanding of AP style,
+knowledge of grammar and punctuation, and ability to write under a strict deadline. It might be
+a timed test or a take-home assessment. The following sentences are examples from the editing
+section of a writing test.
+
+     Exercise
+
+        Please edit the following sentences:
+         1. To kick off the days event, XX Partners Inc. will be hosting a special guest speaker, Dr. P.
+
+             Richardson from 8:30 to 9:30 am in lexington Auditorium.
+        2. Employees that volunteered for the community service event should contact there manager for further
+
+             instructions.
+        3. To compete effectively for full-time, entry-level talent in a highly-competitive and shrinking talent
+
+             pool, we are placing a stronger emphasize on how we define a intern.
+
+Platforms to create your online writing portfolio:
+  · clippings.me
+  · WordPress
+  · Wix
+
+                                                                                                            Other important points about the writing portfolio | 106
+69. Online versus hardcopy portfolios
+
+Online portfolios are much more common than hardcopy portfolios because most communication
+materials are digital. However, you may, although not common, run into a prospective employer
+who could ask you to bring a hardcopy portfolio to the interview. Create an online portfolio, such
+as a professional website, so that the general public can see your work. Send the online portfolio
+to professional contacts in your network or to potential employers before the job interview so they
+can see your writing samples. As a precautionary measure, also print some of the writing samples
+and put them in a leather zip-up portfolio or a professional binder when you're preparing for the
+job interview.
+
+107 | Writing for Strategic Communication Industries
+70. Writing portfolio content
+
+When considering what to include in your writing portfolio, look at relevant class assignments
+or work produced in a previous or current role. Save everything in a file, especially work from a
+class that requires you to write common communication materials such as marketing campaigns,
+newsletters, press releases, social media content, and news articles. If you do not have internship
+or work experience, you may want to consider volunteer writing for a nonprofit organization or
+a small project for a startup company (if you can afford to do this). What matters is that you have
+writing samples to show.
+
+   The first page of a hard-copy portfolio is usually a resume. Online portfolios include a
+description or summary of your professional background. From there, create clear sections and
+headings and arrange the content by article or document type. Tailor the portfolio to jobs or
+industries you're interested in and by chronological order, with the most recent work first or at the
+top of the online portfolio. For example, if you're applying for a job that requires proficiency in AP
+style writing, include writing samples that use this style, such as press releases or feature articles.
+If you're applying for a job that requires social media writing skills, include social media posts that
+you've created for an organization. Here's a list of some of the materials you could include in the
+portfolio:
+
+  · Press releases
+  · Website copy
+  · Feature articles
+  · Media pitches
+  · Social media posts that you created for an organization
+  · A sample RFP (request for proposal) for a campaign or a detailed public relations campaign
+
+      proposal
+  · News media clippings of coverage you secured from pitches (it helps if you provide the
+
+      original pitch that led to the media coverage)
+
+Include brief information about each document, such as the name of the organization it was
+created for and the date. Be ready to discuss your writing samples during a job interview. You may
+explain why you created the material and the results that came from it, such as increased website
+traffic and social media followers from your content. For more examples of writing portfolios, click
+on the following links:
+
+  · Alexis Christie, Social Media Coordinator for the Cleveland Browns
+  · Gari Cruze, copywriter
+  · Brandi Uyemura, features writer
+
+                                                                                                                                                Writing portfolio content | 108
+71. References
+
+Lovering, C. (2016). How to make an impressive writing portfolio. Houston Chronicle. Retrieved
+   from: http://work.chron.com/make-impressive-writing-portfolio-3214.html
+
+109 | Writing for Strategic Communication Industries
+
