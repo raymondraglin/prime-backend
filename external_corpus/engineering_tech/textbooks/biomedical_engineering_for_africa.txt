@@ -1,537 +1,3 @@
-Biomedical
-Engineering
-for
-Africa
-
-Edited by Tania S. Douglas
-A. Coker, F. Akintayo, C. Achi, M. Odeniyi, A. Olorunnisola and D. Akano
-               List of Contributors
-
-Editor
-
-Douglas, Tania S. Division of Biomedical Engineering, University of Cape Town, South Africa
-
-Editorial Committee
-
-Coker, Akinwale O. Department of Civil Engineering, University of Ibadan, Nigeria
-Gatchell, David W. Segal Design Institute, Northwestern University, Evanston, IL, United States of
-
-     America
-Glucksberg, Matthew R. Department of Biomedical Engineering, Northwestern University, Evanston,
-
-     IL, United States of America
-Murphy, Robert Leo. Center for Global Health, Northwestern University, Chicago, IL, United States of
-
-     America
-Osuntoki, Akinniyi A. Department of Biochemistry, University of Lagos, Nigeria
-Palamountain, Kara. Kellogg School of Management, Northwestern University, Evanston, IL, United
-
-     States of America
-
-Authors
-
-Achenbach, Chad J. Department of Medicine and Center for Global Health, Northwestern University,
-     Chicago, IL, United States of America
-
-Achi, Chibueze, G. Department of Civil Engineering, University of Ibadan, Nigeria
-Adejumobi, Olumuyiwa A. Department of Veterinary Medicine, University of Ibadan, Nigeria
-Adeleye, Olurotimi. Department of Systems Engineering, University of Lagos, Nigeria
-Adeosun, Samson. Department of Metallurgical and Materials Engineering, University of Lagos, Nigeria
-Adesogan, Olufemi. Department of Civil Engineering, University of Ibadan, Nigeria
-Adetona, Sunday. Department of Electrical and Electronics Engineering, University of Lagos, Nigeria
-Adetoyi, Oluyemi. Department of Electrical and Electronic Engineering, University of Ibadan, Nigeria
-Adewole, Kazeem. Department of Civil Engineering, University of Ibadan, Nigeria
-Aiyegbusi, Ayoola Ibifubara. Department of Physiotherapy, University of Lagos College of Medicine,
-
-     Lagos, Nigeria
-Ajibola, Olawale O. E. Department of Systems Engineering, University of Lagos, Nigeria
-Akano, Damola. Department of Civil Engineering, University of Ibadan, Nigeria
-Akintayo, Folake O. Department of Civil Engineering, University of Ibadan, Nigeria
-Anyaeche, Osita. Department of Industrial and Production Engineering, University of Ibadan, Nigeria
-Atwine, Daniel. Department of Biomedical Sciences and Engineering, Mbarara University of Science and
-
-     Technology, Mbarara, Uganda
-
-                                                          v
-Balogun, Adeola O. Department of Electrical and Electronics Engineering, University of Lagos, Nigeria
-Balogun, Oluwaseyi Jessy. Department of Biomedical Engineering, University of Lagos, Nigeria
-Beukes, Giancarlo. Division of Biomedical Engineering, University of Cape Town, South Africa
-Bolarinwa, Mojosola. Department of Industrial and Production Engineering, University of Ibadan,
-
-     Nigeria
-Bolasodun, Babatunde. Department of Metallurgical and Materials Engineering, University of Lagos,
-
-     Nigeria
-Burke, Kelsey. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Chimhundu, Chipo. Biomedical Engineering Consultant, Harare, Zimbabwe
-Cilenti, Lautaro. Segal Design Institute, Northwestern University, Evanston, IL, United States of
-
-     America
-Coker, Akinwale O. Department of Civil Engineering, University of Ibadan, Nigeria
-Conrad, Nailah. Division of Biomedical Engineering, University of Cape Town, South Africa
-Cummins, Frank. Department of Biomedical Engineering, Northwestern University, Evanston, IL,
-
-     United States of America
-Dai, Andrew. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Dakare, Olamitunji. Department of Business Administration, Pan-Atlantic University, Lagos, Nigeria
-Dare, Ademola. Department of Mechanical Engineering, University of Ibadan, Nigeria
-Das, Sanjeet. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Desmennu, Adeyimika. Department of Health Promotion and Education, University of Ibadan, Nigeria
-Diji, Chukwuemeka J. Department of Mechanical Engineering, University of Ibadan, Nigeria
-Doerfler, Matthew D. Feinberg School of Medicine, Northwestern University, Chicago, IL, United States
-
-     of America
-Douglas, Tania S. Division of Biomedical Engineering, University of Cape Town, South Africa
-Doyle, Anastasia. Division of Biomedical Engineering, University of Cape Town, South Africa
-Ewaleifoh, Osefame. Department of Microbiology-Immunology, Northwestern University, Chicago, IL,
-
-     United States of America
-Ewemoje, Oluseyi. Department of Agricultural and Environmental Engineering, University of Ibadan,
-
-     Nigeria
-Fasogbon, Samson K. Department of Mechanical Engineering, University of Ibadan, Nigeria
-Gatchell, David. Segal Design Institute, Northwestern University, Evanston, IL, United States of America
-Gbenle, Oluwasegun A. Department of Biomedical Engineering, University of Lagos, Nigeria
-Glowik, Ewa. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Glucksberg, Matthew. Department of Biomedical Engineering, Evanston, IL, Northwestern University,
-
-     United States of America
-Haile, Dawit Assefa. Center of Biomedical Engineering, Addis Ababa University, Ethiopia
-Hauck, Joshua. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Hussein, Ashenafi. Center of Biomedical Engineering, Addis Ababa University, Ethiopia
-Idusuyi, Nosa. Department of Mechanical Engineering, University of Ibadan, Nigeria
-Ikene, Iboro. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-States of America
-
-                                                          vi
-Ipinnimo, Femi. Department of Systems Engineering, University of Lagos, Nigeria
-Irurhe, Nicholas K. Department of Radiation Biology, Radiotherapy, Radiodiagnosis & Radiography,
-
-     Lagos University Teaching Hospital, Lagos, Nigeria
-Isaacs, Faranha. Division of Biomedical Engineering, University of Cape Town, South Africa
-James, Ayorinde Babatunde. Virology Unit, University of Lagos College of Medicine, Nigeria
-Karanja, Yvonne W. Division of Biomedical Engineering, University of Cape Town, South Africa
-Lawal, Oluwatoyin. Department of Oral Pathology, University of Ibadan, and Department of Oral
-
-     Pathology, University College Hospital, Ibadan, Nigeria
-Lawal, Taiwo Akeem. Department of Surgery, University of Ibadan, and Division of Paediatric Surgery,
-
-     University College Hospital, Ibadan, Nigeria
-Lee, Yoon. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United States
-
-     of America
-Lu, Roy Cheng Chen. Department of Biomedical Engineering, Northwestern University, Evanston, IL,
-
-     Evanston, IL, United States of America
-Makobore, Philippa. Instrumentation Division, Uganda Industrial Research Institute, Kampala, Uganda
-Malila, Bessy. Division of Biomedical Engineering, University of Cape Town, South Africa
-Michael, Afieharo. Department of Plastic, Reconstructive, and Aesthetic Surgery, University College
-
-     Hospital, Ibadan, Nigeria
-Mulerwa, Martha. Instrumentation Division, Uganda Industrial Research Institute, Kampala, Uganda
-Murphy, Robert Leo. Center for Global Health, Northwestern University, Chicago, IL, United States of
-
-     America
-Mutsvangwa, Tinashe E. M. Division of Biomedical Engineering, University of Cape Town, South
-
-     Africa
-Mutswangwa, Christopher. Division of Biomedical Engineering, University of Cape Town, South
-
-     Africa
-Nwaneri, Solomon C. Department of Biomedical Engineering, University of Lagos, Nigeria
-Odeniyi, Michael A. Department of Pharmaceutics and Industrial Pharmacy, University of Ibadan,
-
-     Nigeria
-Ojebuyi, Babatunde R. Department of Communication and Language Arts, University of Ibadan, Nigeria
-Oladapo, Oyewole Adekunle. Department of Communication and Language Arts, University of Ibadan,
-
-     Nigeria
-Olorunnisola, Abel O. Department of Wood Products Engineering, University of Ibadan, Nigeria
-Oloyo, Ahmed. Department of Physiology, University of Lagos, Nigeria
-Omobowale, Tayo O. Department of Veterinary Medicine, University of Ibadan, Nigeria
-Omotosho, Oladipo O. Department of Veterinary Medicine, University of Ibadan, Nigeria
-Osuntoki, Akinniyi A. Department of Biochemistry, University of Lagos, Nigeria
-Oyebola, Olusola. Department of Physics, University of Lagos, Nigeria
-Oyewola, Olanrewaju. Department of Mechanical Engineering, University of Ibadan, Nigeria
-Popoola, Oluwatoyin P. Department of Biomedical Engineering, University of Lagos, Nigeria
-Saidi, Trust. Division of Biomedical Engineering, University of Cape Town, South Africa
-Shittu, Ayodele Ibrahim. Department of Economics, University of Lagos, Nigeria
-Simkowski, Julia. Department of Biomedical Engineering, Northwestern University, United States of
-
-     America
-Sivarasu, Sudesh. Division of Biomedical Engineering, University of Cape Town, South Africa
-Soetan, Kehinde Olugboyega. Department of Veterinary Physiology and Biochemistry, University of
-
-     Ibadan, Nigeria
-Sridhar, Mynepalli K. C. Department of Environmental Health Sciences, University of Ibadan, Nigeria
-
-                                                         vii
-Tade, Oludayo. Department of Sociology, University of Ibadan, Nigeria
-Umesi, Donna C. Department of Restorative Dentistry, University of Lagos, Nigeria
-Wessels, Edmund. Division of Biomedical Engineering, University of Cape Town, South Africa
-Williams, Anika. Department of Biomedical Engineering, Northwestern University, Evanston, IL, United
-
-     States of America
-Zeitz-Chua, Mindy. University of Washington School of Medicine, Seattle, WA, United States of
-
-     America
-
-                                                         viii
-            Peer Review Statement
-
-The Biomedical Engineering for Africa monograph has been through the academic peer review
-process to conform to the Department of Higher Education and Training requirements.
-Each chapter, including the introductory chapter, has been peer-reviewed by senior academics at
-universities in South Africa, Nigeria and the United States of America. Reviewers are considered
-subject matter experts.
-The review process was as follows:
-
-       The papers were submitted to reviewers, who provided comments and suggestions.
-       The Editorial Committee requested authors to correct the manuscripts in accordance with
-
-          the comments and suggestions of the reviewers.
-       If the Editorial Committee were satisfied with the revised manuscript, the manuscript was
-
-          accepted for publication.
-Peer review process confirmed by Dr Reggie Raju (Director: Research and Learning Services,
-Libraries, University of Cape Town, South Africa).
-
-                                                          ix
-                    Foreword
-
-It is with great pleasure that I write the foreword to this much anticipated book on biomedical
-engineering written by Africans and their collaborators, with an African perspective. High
-mortality rates, expensive health care systems, and heavy dependence on imported health
-technology from industrialised countries, motivate the development of technological
-capacity on the African continent to advance health and healthcare. Biomedical engineering
-education, research and practice are critical contributors to such capacity.
-This book disseminates knowledge in a range of facets of innovation for improved health and
-healthcare systems. It appropriately emphasises knowledge of context as a critical factor for
-successful health technology development. Comprehensive coverage of the conception,
-development and implementation of health-related technologies is accompanied by
-educational approaches for prospective biomedical engineers and others wishing to
-contribute health technology innovation. Emphasis has been placed on biomedical
-engineering best practices for developing countries, especially in Africa, to bring about
-inclusive developmental outcomes.
-Biomedical Engineering for Africa will be a useful guide for aspiring and practicing biomedical
-engineers, biomedical engineering educators, and other associated professionals. It is heart-
-warming that biomedical engineering in Africa has come of age. Happy reading!
-
-                                                                            Professor Folasade T. Ogunsola
-                                                        Deputy Vice Chancellor, Development Services
-
-                                                                                 University of Lagos, Nigeria
-                                                                                                     March 2019
-
-                                                          x
-            Part 1
-
-African Perspectives on
-Biomedical Engineering
-·
-
-·
-
-·
-·
-https://www.who.int/hrh/resources/pub_globstrathrh-2030/en/ [2019, May 6]
-·
-·
-
-·
-·
-·
-·
-
-·
-·
-
-·
-·
-·
-            3% 3%                              9%
-
-       8%
-
-   4%
-
-                                                   28%
-
-       45%
-
-   Physics, Chemistry, Biology                 Engineering /Mathematics
-   Biomedical Engineering                      General Studies
-   Medical Sciences                            Languages
-   Students Industrial Work Experience Scheme
-
-·
-·
-·
-·
-·
-·
-·
-.
-           Part 2
-From Needs to Products
-      Clinician
-    Interaction
-      Platform
-
-    Frugal
-  Biodesign
-
-Commercialization
-      strategy
-·
-·
-·
-·
-·
-·
--
--
-        Part 3
-Design Case Studies
-é
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-
-·
-
-·
-
-·
-
-·
-·
-·
-"
-1
-2
-3
-4
-
-5
-6
-1  ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-2  ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-
-   ·
-         Weighting (1-3)
-
-1  2  3  2                3
-·
-·
-·
-
-·
-·
-·
-FDA  CE
-(
-·
-·
-·
-·
-
-·
-·
-·
-·
-
-·
-·
-
-         o
-         o
-         o
-
-·
-·
-·
-
-·
-Needle separation area
- thickness of 0.75mm
-
-                  24mm
-       48mm
- Pinion gear     High torque
-                     gear
-Drill and crank
- attachment
-Magnets
-·
-·
-
-         o
-         o
-         o
-·
-         o
-         o
-·
-·
-·
-·
-         o
-         o
-·
-·
--
-.
-.
-A
-B
-
-                                                        C
-
-                                                     D
-                           Actual drip rate Q_i for set drip rate r = 20 drops/min
-
-                           Q_i [drops/min]  r [drops/min]
-
-                 40,00
-
-                 35,00
-
-                 30,00
-
-Q_i [drops/min]  25,00
-
-                 20,00
-
-                 15,00
-
-                 10,00
-
-                 5,00
-
-                 0,00      10 20 30 40 50 60 70 80 90 100 110 120
-                        0                                          time [min]
-±
-
-   -     -  -
-
-   -     -  -
-
-   -     -  -
-
-   -     -  -
-
-   -     -  -
-
-      .
--
-·
-·
-·
-·
-                         Part 4
-
-Ethical, Legal and Regulatory Considerations
-             for Biomedical Engineers
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-
-·
-·
-·
-·
-                  Part 5
-
-Situating Biomedical Engineering
-     within the Health System
--
-·
-
-·
-
-·
-·
-·
-·
-
-·
-·
-
-·
-·
-·
-·
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7314f51cd16152d5668374f04755abfb7d0261beee8e0f78bc9e90c1714799
+size 15984
