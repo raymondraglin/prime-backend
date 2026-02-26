@@ -1,0 +1,29 @@
+﻿# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Databases & vector stores
+*.db
+*.sqlite3
+data/corpus_db/
+app/data/corpus_db/
+
+# Logs & memory
+*.jsonl
+data/prime_logs/
+app/primelogs/
+
+# Environment secrets
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
