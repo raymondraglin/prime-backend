@@ -1,3 +1,19 @@
+"""
+PRIME Chat Endpoint
+File: app/prime/api/chat.py
+
+The endpoint the chat UI talks to.
+Now powered by the full genius engine:
+  - PRIME's co-founder identity
+  - Multi-turn memory via session_id
+  - Tool calling (read_file, search_codebase, query_database)
+  - Codebase awareness
+
+Dropped: reasoning_core (old system, no identity, no tools, no file access)
+Kept: Same URL prefix /prime/chat/ so the frontend needs zero changes.
+Kept: /rate and /history endpoints for compatibility.
+"""
+
 from __future__ import annotations
 
 import json
@@ -8,15 +24,13 @@ from pathlib import Path
 from typing import Optional
 
 from fastapi import APIRouter, HTTPException
+from openai import OpenAI
 from pydantic import BaseModel
 
-from app.prime.reasoning.endpoints import reasoning_core
-from app.prime.curriculum.models import (
-    ReasoningTask,
-    ReasoningTaskKind,
-    ReasoningCoreRequest,
-    ReasoningCoreResponse,
-)
+from app.prime.identity import PRIME_IDENTITY
+from app.prime.memory.session_store import session_store
+from app.prime.tools.prime_tools import TOOL_DEFINITIONS, execute_tool
+from app.prime.rag.repo_indexer import build_repo_context_for_prime
 
 router = APIRouter(prefix="/prime/chat", tags=["PRIME Chat"])
 
@@ -27,8 +41,12 @@ CONV_DIR = Path(os.environ.get(
 CONV_DIR.mkdir(parents=True, exist_ok=True)
 CONV_FILE = CONV_DIR / "conversations.jsonl"
 
+MAX_TOOL_ROUNDS = 8
 
-# ── Schemas ──────────────────────────────────────────────────
+
+# ---------------------------------------------------------------------------
+# SCHEMAS
+# ---------------------------------------------------------------------------
 
 class ChatRequest(BaseModel):
     message: str
@@ -41,10 +59,7 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     turn_id: str
     session_id: Optional[str]
-    key_conclusions: list[str]
-    open_questions: list[str]
-    step_count: int
-    overall_confidence: float
+    answer: str
     assembled_at: str
 
 
@@ -54,7 +69,9 @@ class RatingRequest(BaseModel):
     note: Optional[str] = None
 
 
-# ── JSONL storage ────────────────────────────────────────────
+# ---------------------------------------------------------------------------
+# STORAGE
+# ---------------------------------------------------------------------------
 
 def _append_turn(turn: dict) -> None:
     with open(CONV_FILE, "a", encoding="utf-8") as f:
@@ -70,14 +87,92 @@ def _load_turns(session_id: Optional[str] = None, limit: int = 50, offset: int =
             line = line.strip()
             if not line:
                 continue
-            entry = json.loads(line)
+            try:
+                entry = json.loads(line)
+            except Exception:
+                continue
             if session_id and entry.get("session_id") != session_id:
                 continue
             turns.append(entry)
-    return turns[offset : offset + limit]
+    return turns[offset: offset + limit]
 
 
-# ── Endpoints ────────────────────────────────────────────────
+# ---------------------------------------------------------------------------
+# CORE CHAT CALL
+# ---------------------------------------------------------------------------
+
+def _run_chat(message: str, session_id: Optional[str]) -> str:
+    """
+    Full genius engine call:
+    - PRIME's co-founder identity as system prompt
+    - Repo map injected if index exists
+    - Conversation history from session store
+    - Tool calling loop (read_file, search_codebase, query_database)
+    - Guaranteed final answer
+    """
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    model = os.getenv("PRIME_MODEL", "gpt-4o")
+
+    # Build system prompt: identity + repo map if available
+    repo_context = build_repo_context_for_prime(slim=True)
+    if "NOT BUILT" in repo_context:
+        system_prompt = (
+            PRIME_IDENTITY
+            + "\nNote: The repo index has not been built yet. "
+            + "Run POST /prime/repo/index to give PRIME full codebase awareness. "
+            + "Until then, use read_file and search_codebase tools when given a specific path.\n"
+        )
+    else:
+        system_prompt = (
+            PRIME_IDENTITY
+            + "\n==============================================================================\n"
+            + "OUR CODEBASE\n"
+            + "==============================================================================\n"
+            + repo_context
+            + "\nUse read_file(path) to read any file. "
+            + "Use search_codebase to find patterns. "
+            + "Read before answering -- never guess about our code.\n"
+        )
+
+    # Load conversation history
+    history = session_store.get_history(session_id) if session_id else []
+
+    messages = [{"role": "system", "content": system_prompt}]
+    messages.extend(history)
+    messages.append({"role": "user", "content": message})
+
+    # Tool calling loop
+    for round_num in range(MAX_TOOL_ROUNDS):
+        is_last = (round_num == MAX_TOOL_ROUNDS - 1)
+        response = client.chat.completions.create(
+            model=model,
+            messages=messages,
+            tools=TOOL_DEFINITIONS,
+            tool_choice="none" if is_last else "auto",
+            temperature=0.3,
+            max_tokens=4096 if is_last else 512,
+        )
+        msg = response.choices[0].message
+
+        if not msg.tool_calls:
+            return msg.content or ""
+
+        messages.append(msg)
+        for tc in msg.tool_calls:
+            result = execute_tool(tc.function.name, json.loads(tc.function.arguments))
+            messages.append({"role": "tool", "tool_call_id": tc.id, "content": result})
+
+    # Safety net
+    messages.append({"role": "user", "content": "Write your complete answer now."})
+    response = client.chat.completions.create(
+        model=model, messages=messages, temperature=0.3, max_tokens=4096
+    )
+    return response.choices[0].message.content or ""
+
+
+# ---------------------------------------------------------------------------
+# ENDPOINTS
+# ---------------------------------------------------------------------------
 
 @router.post("/", response_model=ChatResponse)
 async def prime_chat(req: ChatRequest):
@@ -87,6 +182,7 @@ async def prime_chat(req: ChatRequest):
     turn_id = str(uuid.uuid4())
     now = datetime.now(timezone.utc).isoformat()
 
+    # Log user message
     _append_turn({
         "turn_id": turn_id,
         "speaker": "raymond",
@@ -95,40 +191,29 @@ async def prime_chat(req: ChatRequest):
         "created_at": now,
     })
 
-    task = ReasoningTask(
-        task_id="chat-" + turn_id,
-        natural_language_task=req.message,
-        desired_output_kind=ReasoningTaskKind.ANALYSIS,
-        domain_tag=req.domain,
-        subdomain_tag=req.subdomain,
-        allowed_tools=req.allowed_tools,
-        given_facts=[],
-        assumptions=[],
-        constraints=[],
-    )
+    try:
+        answer = _run_chat(req.message, req.session_id)
+    except Exception as e:
+        raise HTTPException(500, str(e))
 
-    core_req = ReasoningCoreRequest(task=task, max_steps=12)
-    result: ReasoningCoreResponse = await reasoning_core(core_req)
+    # Persist to session store for multi-turn memory
+    if req.session_id:
+        session_store.add_message(req.session_id, "user", req.message)
+        session_store.add_message(req.session_id, "assistant", answer)
 
+    # Log PRIME's response
     _append_turn({
         "turn_id": turn_id,
         "speaker": "prime",
-        "message": " | ".join(result.key_conclusions[:3]) if result.key_conclusions else req.message,
+        "message": answer,
         "session_id": req.session_id,
-        "key_conclusions": result.key_conclusions,
-        "open_questions": result.open_questions,
-        "step_count": len(result.trace.steps),
-        "confidence": result.trace.overall_confidence,
         "created_at": now,
     })
 
     return ChatResponse(
         turn_id=turn_id,
         session_id=req.session_id,
-        key_conclusions=result.key_conclusions,
-        open_questions=result.open_questions,
-        step_count=len(result.trace.steps),
-        overall_confidence=result.trace.overall_confidence,
+        answer=answer,
         assembled_at=now,
     )
 
@@ -149,9 +234,4 @@ async def rate_response(req: RatingRequest):
 @router.get("/history")
 async def get_history(limit: int = 50, offset: int = 0, session_id: Optional[str] = None):
     turns = _load_turns(session_id=session_id, limit=limit, offset=offset)
-    return {
-        "total": len(turns),
-        "offset": offset,
-        "limit": limit,
-        "turns": turns,
-    }
+    return {"total": len(turns), "offset": offset, "limit": limit, "turns": turns}
