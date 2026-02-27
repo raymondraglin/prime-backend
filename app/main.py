@@ -7,6 +7,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.api.routes import router as api_router
 from app.prime.context.endpoints import router as prime_context_router
 from app.core.auth_endpoints import router as auth_router
+from app.prime.api.chat import router as prime_chat_router
+from app.prime.api.genius import router as prime_genius_router
 
 app = FastAPI(title="PRIME", version="1.0.0")
 
@@ -32,3 +34,5 @@ def health():
 app.include_router(auth_router)
 app.include_router(api_router)
 app.include_router(prime_context_router)
+app.include_router(prime_chat_router)   # POST /prime/chat/
+app.include_router(prime_genius_router) # POST /prime/ask, /prime/debug, /prime/generate, etc.
