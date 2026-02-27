@@ -12,6 +12,7 @@ Now powered by the full genius engine:
 Dropped: reasoning_core (old system, no identity, no tools, no file access)
 Kept: Same URL prefix /prime/chat/ so the frontend needs zero changes.
 Kept: /rate and /history endpoints for compatibility.
+Fixed: response field is 'reply' (matches what PrimeChatInput.tsx reads)
 """
 
 from __future__ import annotations
@@ -59,7 +60,7 @@ class ChatRequest(BaseModel):
 class ChatResponse(BaseModel):
     turn_id: str
     session_id: Optional[str]
-    answer: str
+    reply: str          # "reply" matches chatData.reply in PrimeChatInput.tsx
     assembled_at: str
 
 
@@ -103,7 +104,7 @@ def _load_turns(session_id: Optional[str] = None, limit: int = 50, offset: int =
 
 def _run_chat(message: str, session_id: Optional[str]) -> str:
     """
-    Full genius engine call:
+    Full genius engine:
     - PRIME's co-founder identity as system prompt
     - Repo map injected if index exists
     - Conversation history from session store
@@ -113,14 +114,12 @@ def _run_chat(message: str, session_id: Optional[str]) -> str:
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     model = os.getenv("PRIME_MODEL", "gpt-4o")
 
-    # Build system prompt: identity + repo map if available
     repo_context = build_repo_context_for_prime(slim=True)
     if "NOT BUILT" in repo_context:
         system_prompt = (
             PRIME_IDENTITY
-            + "\nNote: The repo index has not been built yet. "
-            + "Run POST /prime/repo/index to give PRIME full codebase awareness. "
-            + "Until then, use read_file and search_codebase tools when given a specific path.\n"
+            + "\nNote: Repo index not yet built. "
+            + "Run POST /prime/repo/index for full codebase awareness.\n"
         )
     else:
         system_prompt = (
@@ -134,14 +133,11 @@ def _run_chat(message: str, session_id: Optional[str]) -> str:
             + "Read before answering -- never guess about our code.\n"
         )
 
-    # Load conversation history
     history = session_store.get_history(session_id) if session_id else []
-
     messages = [{"role": "system", "content": system_prompt}]
     messages.extend(history)
     messages.append({"role": "user", "content": message})
 
-    # Tool calling loop
     for round_num in range(MAX_TOOL_ROUNDS):
         is_last = (round_num == MAX_TOOL_ROUNDS - 1)
         response = client.chat.completions.create(
@@ -162,7 +158,7 @@ def _run_chat(message: str, session_id: Optional[str]) -> str:
             result = execute_tool(tc.function.name, json.loads(tc.function.arguments))
             messages.append({"role": "tool", "tool_call_id": tc.id, "content": result})
 
-    # Safety net
+    # Safety net -- force final answer
     messages.append({"role": "user", "content": "Write your complete answer now."})
     response = client.chat.completions.create(
         model=model, messages=messages, temperature=0.3, max_tokens=4096
@@ -182,7 +178,6 @@ async def prime_chat(req: ChatRequest):
     turn_id = str(uuid.uuid4())
     now = datetime.now(timezone.utc).isoformat()
 
-    # Log user message
     _append_turn({
         "turn_id": turn_id,
         "speaker": "raymond",
@@ -192,20 +187,18 @@ async def prime_chat(req: ChatRequest):
     })
 
     try:
-        answer = _run_chat(req.message, req.session_id)
+        reply = _run_chat(req.message, req.session_id)
     except Exception as e:
         raise HTTPException(500, str(e))
 
-    # Persist to session store for multi-turn memory
     if req.session_id:
         session_store.add_message(req.session_id, "user", req.message)
-        session_store.add_message(req.session_id, "assistant", answer)
+        session_store.add_message(req.session_id, "assistant", reply)
 
-    # Log PRIME's response
     _append_turn({
         "turn_id": turn_id,
         "speaker": "prime",
-        "message": answer,
+        "message": reply,
         "session_id": req.session_id,
         "created_at": now,
     })
@@ -213,7 +206,7 @@ async def prime_chat(req: ChatRequest):
     return ChatResponse(
         turn_id=turn_id,
         session_id=req.session_id,
-        answer=answer,
+        reply=reply,
         assembled_at=now,
     )
 
