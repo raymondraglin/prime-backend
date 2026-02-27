@@ -10,6 +10,7 @@ from app.prime.history.philosophy.endpoints import router as philosophy_history_
 from app.prime.reasoning.endpoints import router as reasoning_router
 from app.prime.humanities.philosophy.endpoints_hs import router as philosophy_hs_router
 from app.prime.humanities.philosophy.endpoints_core import router as philosophy_core_router
+from app.api.prime.router import router as prime_hud_router
 
 
 router = APIRouter()
@@ -39,3 +40,5 @@ router.include_router(reasoning_router, prefix="/prime", tags=["reasoning-core"]
 router.include_router(philosophy_hs_router)
 
 router.include_router(philosophy_core_router)
+
+router.include_router(prime_hud_router, prefix="/prime", tags=["prime-hud"])

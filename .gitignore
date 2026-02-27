@@ -1,29 +1,17 @@
-﻿# Python bytecode
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-
-# Virtual environment
+.env
 .venv/
 venv/
-env/
-
-# Databases & vector stores
-*.db
-*.sqlite3
-data/corpus_db/
-app/data/corpus_db/
-
-# Logs & memory
-*.jsonl
-data/prime_logs/
+*.egg-info/
+dist/
+build/
+.next/
+node_modules/
 app/primelogs/
+data/corpus_db/
 
-# Environment secrets
-.env
-.env.*
+models/
 
-# OS junk
-.DS_Store
-Thumbs.db
+models/

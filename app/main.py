@@ -1,9 +1,34 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes import router as api_router
+from app.prime.context.endpoints import router as prime_context_router
+from app.core.auth_endpoints import router as auth_router
 
-app = FastAPI()
+app = FastAPI(title="PRIME", version="1.0.0")
 
-# Single unified router that already includes math, philosophy, reasoning, etc.
+origins = [
+    "http://localhost:3000",
+    "https://localhost:3000",
+    "https://*.vercel.app",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_origin_regex=r"https://.*\.vercel\.app",
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+app.include_router(auth_router)
 app.include_router(api_router)
-
+app.include_router(prime_context_router)
