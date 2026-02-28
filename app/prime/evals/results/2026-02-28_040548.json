@@ -1,0 +1,317 @@
+{
+  "timestamp": "2026-02-28_040548",
+  "passed": 0,
+  "total": 21,
+  "results": [
+    {
+      "id": "eng-001-five-part",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)DIAGNOSIS",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)EVIDENCE",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)PATCH",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)TESTS",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)RISK",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "The POST /prime/ingest/image/ endpoint is returning 405. Why?"
+    },
+    {
+      "id": "eng-002-no-guess",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(001_migration|read|file|did not read)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "What column does PrimeNotebookEntry use for the entry kind?"
+    },
+    {
+      "id": "eng-003-minimal-diff",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(diff|---\\s|\\+\\+\\+\\s|\\/image\\/)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Add a trailing slash to the /prime/ingest/image endpoint in router.py."
+    },
+    {
+      "id": "eng-004-schema-drift",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(ALTER TABLE|ADD COLUMN|migration|001_migration)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Why is INSERT INTO prime_notebook_entries failing with UndefinedColumnError on entry_type?"
+    },
+    {
+      "id": "eng-005-single-source",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(app/prime/context/models|single|one place|duplicate)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Is PrimeNotebookEntry defined in more than one place in the codebase?"
+    },
+    {
+      "id": "tool-001-list-first",
+      "category": "toolcall",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(router\\.py|__init__)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "What files are in app/prime/ingest?"
+    },
+    {
+      "id": "tool-002-read-before-cite",
+      "category": "toolcall",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(PrimeLLMClient|prime_llm|LLMConfig)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "What does app/prime/llm/client.py export?"
+    },
+    {
+      "id": "tool-003-search-before-claim",
+      "category": "toolcall",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "\\d+",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "How many places import get_current_user in the backend?"
+    },
+    {
+      "id": "route-001-registration",
+      "category": "routing",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(include_router|prime_ingest_router|main\\.py)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Is prime_ingest_router registered in app/main.py?"
+    },
+    {
+      "id": "route-002-trailing-slash",
+      "category": "routing",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(trailing slash|307|redirect)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Why does /prime/ingest/image return 307 instead of going straight to the handler?"
+    },
+    {
+      "id": "route-003-options-405",
+      "category": "routing",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(CORS|middleware|not registered|allow_methods)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "OPTIONS /prime/ingest/image/ returns 405 Method Not Allowed. What does that mean?"
+    },
+    {
+      "id": "auth-001-401-on-upload",
+      "category": "auth",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(Authorization|header|redirect|trailing slash)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "My image upload returns 401 after a 307 redirect. Why?"
+    },
+    {
+      "id": "auth-002-get-current-user",
+      "category": "auth",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(app/core/auth)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Where is get_current_user defined and which modules import it?"
+    },
+    {
+      "id": "voice-001-no-filler",
+      "category": "voice",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(?!.*great question)(?!.*i'd be happy)(?!.*feel free)",
+          "passed": true
+        }
+      ],
+      "output_preview": "",
+      "prompt": "How are things going with the ingest feature?"
+    },
+    {
+      "id": "voice-002-no-lists",
+      "category": "voice",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?s).{200,}",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "What do you think about the PRIME architecture so far?"
+    },
+    {
+      "id": "voice-003-opinion-first",
+      "category": "voice",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(I (think|would|lean|prefer|recommend)|my (take|view|recommendation))",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Should we use Redis or Postgres for session storage?"
+    },
+    {
+      "id": "db-001-confirm-column",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(VARCHAR|001_migration|migration)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Is the 'status' column in prime_notebook_entries VARCHAR or TEXT?"
+    },
+    {
+      "id": "db-002-index-missing",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)CREATE INDEX",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "How would you add an index on prime_notebook_entries.entry_type?"
+    },
+    {
+      "id": "db-003-one-fix",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(ALTER TABLE|rename.*column|update.*model|one fix|not both)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "The model has field 'kind' but the DB column is 'entry_type'. What do we do?"
+    },
+    {
+      "id": "ingest-001-image-flow",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(GPT-4o|openai_vision_client|PrimeNotebookEntry|db\\.commit)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Walk me through exactly what happens when I POST to /prime/ingest/image/ with a PNG."
+    },
+    {
+      "id": "ingest-002-pdf-fallback",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(pdfminer|fallback|scanned|image.based)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "What happens if pypdf fails on a scanned PDF in the ingest router?"
+    }
+  ]
+}

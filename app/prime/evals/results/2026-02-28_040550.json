@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-28_040550",
+  "passed": 0,
+  "total": 1,
+  "results": [
+    {
+      "id": "eng-001-five-part",
+      "category": "engineer",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)DIAGNOSIS",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)EVIDENCE",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)PATCH",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)TESTS",
+          "passed": false
+        },
+        {
+          "pattern": "(?i)RISK",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "The POST /prime/ingest/image/ endpoint is returning 405. Why?"
+    }
+  ]
+}

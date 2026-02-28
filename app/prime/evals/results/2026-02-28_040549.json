@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-02-28_040549",
+  "passed": 0,
+  "total": 5,
+  "results": [
+    {
+      "id": "eng-004-schema-drift",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(ALTER TABLE|ADD COLUMN|migration|001_migration)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Why is INSERT INTO prime_notebook_entries failing with UndefinedColumnError on entry_type?"
+    },
+    {
+      "id": "eng-005-single-source",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(app/prime/context/models|single|one place|duplicate)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Is PrimeNotebookEntry defined in more than one place in the codebase?"
+    },
+    {
+      "id": "db-001-confirm-column",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(VARCHAR|001_migration|migration)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "Is the 'status' column in prime_notebook_entries VARCHAR or TEXT?"
+    },
+    {
+      "id": "db-002-index-missing",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)CREATE INDEX",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "How would you add an index on prime_notebook_entries.entry_type?"
+    },
+    {
+      "id": "db-003-one-fix",
+      "category": "schema",
+      "passed": false,
+      "error": "DEEPSEEK_API_KEY is not set in environment.",
+      "checks": [
+        {
+          "pattern": "(?i)(ALTER TABLE|rename.*column|update.*model|one fix|not both)",
+          "passed": false
+        }
+      ],
+      "output_preview": "",
+      "prompt": "The model has field 'kind' but the DB column is 'entry_type'. What do we do?"
+    }
+  ]
+}

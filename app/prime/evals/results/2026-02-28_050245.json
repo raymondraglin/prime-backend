@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-02-28_050245",
+  "passed": 1,
+  "scored": 1,
+  "skipped": 0,
+  "results": [
+    {
+      "id": "eng-001-five-part",
+      "category": "engineer",
+      "passed": true,
+      "error": null,
+      "checks": [
+        {
+          "pattern": "(?i)DIAGNOSIS",
+          "passed": true
+        },
+        {
+          "pattern": "(?i)EVIDENCE",
+          "passed": true
+        },
+        {
+          "pattern": "(?i)PATCH",
+          "passed": true
+        },
+        {
+          "pattern": "(?i)TESTS",
+          "passed": true
+        },
+        {
+          "pattern": "(?i)RISK",
+          "passed": true
+        }
+      ],
+      "output_preview": "**DIAGNOSIS**  \nThe endpoint is likely missing the `POST` method in its route definition or is being overridden by a duplicate route that only accepts other HTTP methods.\n\n**EVIDENCE**  \nI have not read the route file yet. Let me check `app/api/prime/ingest/image.py` (or the equivalent module) to see the actual route definition.\n\n**PATCH**  \nOnce I read the file, I\u2019ll show the exact diff needed \u2014 ",
+      "prompt": "The POST /prime/ingest/image/ endpoint is returning 405. Why?",
+      "skipped": false
+    }
+  ]
+}
