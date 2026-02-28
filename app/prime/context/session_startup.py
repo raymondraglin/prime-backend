@@ -14,7 +14,8 @@ def _format_goal(goal: dict[str, Any]) -> str:
     emoji    = _PRIORITY_EMOJI.get(goal.get("priority", "medium"), "🟡")
     title    = goal.get("title", "Untitled")
     domain   = goal.get("domain") or "general"
-    gid      = goal.get("id", "")[:8]
+    gid      = goal.get("id", "")
+    lines = [f"{emoji} [{domain.upper()}] {title}  (goal_id: {gid})"]
     desc     = goal.get("description") or ""
     progress = goal.get("progress") or []
     tasks    = goal.get("linked_tasks") or []
@@ -58,6 +59,10 @@ async def get_session_prime_context(
 ) -> dict[str, Any]:
     goal_block = await build_session_context(user_id=user_id)
 
+    # ADD: also pull raw goals for the hook
+    raw_result  = await get_active_goals(user_id=user_id)
+    raw_goals   = raw_result.get("goals", []) if raw_result.get("ok") else []
+
     sections: list[str] = []
     if goal_block:
         sections.append(goal_block)
@@ -67,5 +72,7 @@ async def get_session_prime_context(
     return {
         "has_goals":    bool(goal_block),
         "goal_context": goal_block,
+        "goals_raw":    raw_goals,           # ← NEW
         "full_context": "\n".join(sections),
     }
+

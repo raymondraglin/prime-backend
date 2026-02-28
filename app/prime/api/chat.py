@@ -34,6 +34,9 @@ from app.prime.tools.prime_tools import TOOL_DEFINITIONS, execute_tool
 from app.prime.rag.repo_indexer import build_repo_context_for_prime
 from app.prime.context.session_startup import get_session_prime_context
 
+import logging
+logger = logging.getLogger(__name__)
+
 router = APIRouter(prefix="/prime/chat", tags=["PRIME Chat"])
 
 CONV_DIR = Path(os.environ.get(
@@ -171,6 +174,61 @@ def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -
 # ---------------------------------------------------------------------------
 # ENDPOINTS
 # ---------------------------------------------------------------------------
+async def _post_reply_goal_hook(
+    reply: str,
+    session_id: Optional[str],
+    active_goals: list[dict],
+) -> None:
+    """
+    Silently auto-log progress after every reply.
+    If PRIME's reply mentions a goal title, log it as a progress note.
+    If reply contains strong completion signals, mark the goal complete.
+    """
+    if not active_goals or not reply:
+        return
+
+    reply_lower = reply.lower()
+
+    COMPLETION_SIGNALS = [
+        "push 1 complete", "push 2 complete", "push 3 complete",
+        "push 4 complete", "push 5 complete", "push 6 complete",
+        "is done", "is complete", "has been completed",
+        "successfully wired", "successfully committed",
+        "closed", "shipped", "✅",
+    ]
+
+    PROGRESS_SIGNALS = [
+        "created", "updated", "fixed", "added", "wired",
+        "committed", "pushed", "tested", "verified", "loaded",
+        "patched", "saved", "deployed",
+    ]
+
+    for goal in active_goals:
+        gid   = goal.get("id", "")
+        title = goal.get("title", "").lower()
+
+        if not gid or not title:
+            continue
+
+        # Only touch goals that are referenced in the reply
+        title_words = [w for w in title.split() if len(w) > 3]
+        mentioned   = any(w in reply_lower for w in title_words)
+        if not mentioned:
+            continue
+
+        is_complete = any(sig in reply_lower for sig in COMPLETION_SIGNALS)
+        has_progress = any(sig in reply_lower for sig in PROGRESS_SIGNALS)
+
+        try:
+            if is_complete:
+                from app.prime.goals.store import complete_goal
+                await complete_goal(gid, outcome=reply[:300])
+            elif has_progress:
+                from app.prime.goals.store import add_progress_note
+                note = f"Session {session_id or 'unknown'}: {reply[:200]}"
+                await add_progress_note(gid, note=note)
+        except Exception as exc:
+            logger.warning("Goal hook failed for %s: %s", gid, exc)
 
 @router.post("/", response_model=ChatResponse)
 async def prime_chat(req: ChatRequest):
@@ -191,6 +249,11 @@ async def prime_chat(req: ChatRequest):
     try:
         session_ctx = await get_session_prime_context(user_id="raymond")
         reply = _run_chat(req.message, req.session_id, session_ctx["goal_context"])
+
+        # ADD THESE 2 LINES:
+        active_goals = session_ctx.get("goals_raw") or []
+        await _post_reply_goal_hook(reply, req.session_id, active_goals)
+
     except Exception as e:
         raise HTTPException(500, str(e))
 

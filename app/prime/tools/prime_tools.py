@@ -287,6 +287,9 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
             from app.prime.tools.exec_tools import run_command
             result = run_command(tool_args["command"])
 
+        elif tool_name in TOOL_IMPLEMENTATIONS:
+            result = TOOL_IMPLEMENTATIONS[tool_name](**tool_args)
+
         else:
             result = {"error": f"Unknown tool: {tool_name}"}
 
