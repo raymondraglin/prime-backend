@@ -15,8 +15,8 @@ Loop:
   6. return AgentResponse
 
 Design rules:
-  - orchestrator never duplicates prompt layering logic (that lives in prompt_builder)
-  - orchestrator never duplicates tool execution logic (that lives in prime_tools)
+  - orchestrator never duplicates prompt layering logic (lives in prompt_builder)
+  - orchestrator never duplicates tool execution logic (lives in prime_tools)
   - endpoints.py contains zero agent logic after this wiring
 """
 
@@ -56,9 +56,9 @@ class AgentRequest(BaseModel):
 
 class ToolCallRecord(BaseModel):
     tool_name:   str
-    args:        dict        = Field(default_factory=dict)
-    result:      Any         = None
-    duration_ms: float       = 0.0
+    args:        dict          = Field(default_factory=dict)
+    result:      Any           = None
+    duration_ms: float         = 0.0
     error:       Optional[str] = None
 
 
@@ -100,8 +100,8 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
     ]
 
     # 3. Load corpus + episodes (skip for pure chat to reduce latency)
-    corpus_hits:      list = []
-    memory_episodes:  list = []
+    corpus_hits:     list = []
+    memory_episodes: list = []
     if decision.intent.value != "general_chat":
         corpus_hits     = search_corpus(req.message, top_k=5)
         memory_episodes = query_recent_practice_for_user(
@@ -118,7 +118,7 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         session_id=req.session_id,
     )
 
-    # 5. Build LLM messages (uses existing prompt layering in prompt_builder)
+    # 5. Build LLM messages
     messages = build_chat_messages(
         user_message=req.message,
         context=context,
@@ -162,9 +162,7 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
                     duration_ms=tc.get("duration_ms", 0.0),
                     error=tc.get("error"),
                 ))
-
         except Exception as exc:
-            # Tool loop failed — fall back to plain chat so PRIME always responds
             fallback = await prime_llm.chat_or_fallback(
                 messages=messages,
                 fallback_text=f"[tool loop error: {exc}]",
@@ -177,9 +175,9 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         )
         reply_text = plain.text
 
-    # 7. Persist turn + trigger summarisation if threshold hit
-    save_turn(session_id=req.session_id, role="user",      content=req.message)
-    save_turn(session_id=req.session_id, role="assistant", content=reply_text)
+    # 7. Persist turn with real user_id (not hardcoded default)
+    save_turn(session_id=req.session_id, role="user",      content=req.message,   user_id=req.user_id)
+    save_turn(session_id=req.session_id, role="assistant", content=reply_text,    user_id=req.user_id)
     await maybe_summarize(user_id=req.user_id)
 
     return AgentResponse(
