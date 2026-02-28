@@ -208,7 +208,7 @@ def _build_context_block(context: Dict[str, Any]) -> str:
 def _build_corpus_block(corpus_hits: List[Dict[str, Any]]) -> str:
     if not corpus_hits:
         return ""
-    lines = ["\n## CORPUS REFERENCES (relevant background)"]
+    lines = ["\n## Background Context (MAY BE OUTDATED — tool results from this session take priority)"]
     for i, hit in enumerate(corpus_hits[:5], 1):
         meta = hit.get("metadata", {}) or {}
         src = meta.get("source_path", "unknown")
@@ -244,6 +244,7 @@ def _build_trace_block(trace_steps: List[Any]) -> str:
     return "\n".join(lines)
 
 
+
 # ── Public interface ───────────────────────────────────────────────────────────
 
 def build_prime_system_prompt(
@@ -269,6 +270,15 @@ def build_prime_system_prompt(
     # ── Engineer contract — injected right after identity when active ──────────
     if engineer_mode:
         parts.append(ENGINEER_CONTRACT)
+        parts.append(                          # ← ADD THIS BLOCK
+            "\n## Source Priority (STRICT — follow this order)\n"
+            "  1. Tool output THIS session     ← highest authority, always wins\n"
+            "  2. User-provided code/files     ← second\n"
+            "  3. Corpus / memory hits         ← background only, NEVER overrides tools\n"
+            "If tool output contradicts corpus, the tool output is correct. Period.\n"
+            "If list_directory returns 4 files, report exactly 4 files. Never invent more.\n"
+        )
+
 
     # Long-term memory summaries — injected right after identity (or contract)
     if summaries:
