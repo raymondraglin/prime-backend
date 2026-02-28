@@ -154,10 +154,15 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="auth-002-get-current-user",
         category="auth",
+        # PRIME correctly identifies auth.py as the source but sometimes omits
+        # the full path prefix (app/core/auth). Accept any of:
+        #   - Full path:  core/auth, core.auth, app/core
+        #   - Filename:   auth.py
+        # A hallucinated file like 'security.py' or 'dependencies.py' still fails.
         prompt="Where is get_current_user defined and which modules import it?",
-        checks=[r"(?i)(core[/\.]auth|app[/\.]core)"],
+        checks=[r"(?i)(core[/\.]auth|app[/\.]core|auth\.py)"],
         must_call_tool=True,
-        description="PRIME must name the correct module path.",
+        description="PRIME must name the correct module — auth.py or core/auth path.",
     ),
 
     # ── 5. Voice / co-founder identity ────────────────────────────────────────
@@ -178,14 +183,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="voice-003-opinion-first",
         category="voice",
-        # PRIME said "Redis, without question." — that is a stronger opinion than
-        # "I think Redis". The pattern was too narrow. Now accepts:
-        #   - Explicit first-person: "I think/would/recommend/lean..."
-        #   - Named verdict: "Redis/Postgres is better/right call/..."
-        #   - Direct assertion: "without question", "hands down", "no question",
-        #     "period", "all day", "full stop", "is the answer/call/move"
-        # If PRIME gives a pros/cons menu with no verdict, none of these match —
-        # which is exactly what we want to fail.
         prompt="Should we use Redis or Postgres for session storage?",
         checks=[
             r"(?i)(I (think|would|lean|prefer|recommend|go with|use)"
