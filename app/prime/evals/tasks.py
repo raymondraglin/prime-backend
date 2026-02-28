@@ -4,7 +4,7 @@ PRIME Eval Task Definitions
 
 Each EvalTask captures:
   - id          : unique slug
-  - category    : one of auth | toolcall | schema | routing | voice | engineer
+  - category    : one of auth | toolcall | schema | routing | voice | engineer | config | import
   - prompt      : the user message sent to PRIME
   - checks      : list of regex patterns that MUST appear in the output
   - must_call_tool : if True, runner verifies at least one tool call occurred
@@ -26,6 +26,12 @@ TOOL-REQUIRED TASKS:
   They require the runner to use chat_with_tools so PRIME can actually read
   files. Running them without tools causes PRIME to hallucinate, which poisons
   the score — it is better to skip than to get a false pass or false fail.
+
+PRODUCTION BUG TASKS:
+  Tasks tagged with a real bug that hit production. Each one is a regression
+  test — if PRIME ever answers these wrong again, we know the fix regressed.
+  Rule: every production bug that hits gets its own eval task before the fix
+  is merged. Bug → task → fix → pass → never again.
 """
 
 from __future__ import annotations
@@ -154,11 +160,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="auth-002-get-current-user",
         category="auth",
-        # PRIME correctly identifies auth.py as the source but sometimes omits
-        # the full path prefix (app/core/auth). Accept any of:
-        #   - Full path:  core/auth, core.auth, app/core
-        #   - Filename:   auth.py
-        # A hallucinated file like 'security.py' or 'dependencies.py' still fails.
         prompt="Where is get_current_user defined and which modules import it?",
         checks=[r"(?i)(core[/\.]auth|app[/\.]core|auth\.py)"],
         must_call_tool=True,
@@ -240,5 +241,90 @@ TASKS: List[EvalTask] = [
         must_call_tool=True,
         engineer_mode=True,
         description="PRIME must cite the pdfminer fallback in the ingest router.",
+    ),
+
+    # ── 8. PRODUCTION BUG REGRESSIONS ────────────────────────────────────────────
+    # Each task here maps to a real bug that hit in a live session.
+    # If PRIME ever answers these wrong again, a regression occurred.
+    # Format: bug-NNN-slug. New production bugs go here before the fix merges.
+
+    EvalTask(
+        id="bug-001-dual-import",
+        category="import",
+        # REAL BUG: PrimeNotebookEntry was importable from two paths:
+        #   app.prime.context.models  (canonical)
+        #   app.prime.models          (stale copy / accidental duplicate)
+        # This caused silent data divergence — two class definitions, one DB.
+        # PRIME must name the canonical path and call the duplicate a risk.
+        prompt=(
+            "We have PrimeNotebookEntry imported from app.prime.context.models in some files "
+            "and from app.prime.models in others. Is that a problem?"
+        ),
+        checks=[
+            r"(?i)(yes|problem|risk|dangerous|wrong|bad|issue|single source)",
+            r"(?i)(canonical|one.*import|pick one|consolidate|remove.*duplicate|app.prime.context.models)",
+        ],
+        engineer_mode=True,
+        description="PRIME must call out dual imports as dangerous and name the canonical path.",
+    ),
+
+    EvalTask(
+        id="bug-002-entry-type-kwarg",
+        category="schema",
+        # REAL BUG: SQLAlchemy model field was named 'kind' but INSERT code
+        # passed 'entry_type=...' as a keyword argument, causing:
+        # TypeError: __init__() got an unexpected keyword argument 'entry_type'
+        # Root cause: model field name ≠ column name ≠ the name used in code.
+        # PRIME must identify the field name mismatch as root cause.
+        prompt=(
+            "We're getting: TypeError: __init__() got an unexpected keyword argument 'entry_type' "
+            "when constructing a PrimeNotebookEntry. The DB column is entry_type. What's wrong?"
+        ),
+        checks=[
+            r"(?i)(field|attribute|model|class).{0,80}(kind|mismatch|name|different)",
+            r"(?i)(kind|rename|field name|model.*field|attribute.*name)",
+        ],
+        engineer_mode=True,
+        description="PRIME must identify model field name 'kind' vs kwarg 'entry_type' as root cause.",
+    ),
+
+    EvalTask(
+        id="bug-003-not-null-no-default",
+        category="schema",
+        # REAL BUG: ALTER TABLE ADD COLUMN body TEXT NOT NULL failed because
+        # existing rows had no value for 'body'. Postgres rejects NOT NULL
+        # on a new column unless a DEFAULT is provided or the table is empty.
+        # PRIME must propose: either add DEFAULT '' or do a two-step migration.
+        prompt=(
+            "ALTER TABLE prime_notebook_entries ADD COLUMN body TEXT NOT NULL "
+            "fails with: column \"body\" of relation contains null values. How do we fix it?"
+        ),
+        checks=[
+            r"(?i)(DEFAULT|default value|two.?step|backfill|existing rows)",
+            r"(?i)(ALTER TABLE.{0,120}DEFAULT|DEFAULT.{0,30}TEXT|SET DEFAULT|NOT NULL.*DEFAULT|DEFAULT.*NOT NULL)",
+        ],
+        engineer_mode=True,
+        description="PRIME must propose DEFAULT or two-step migration for NOT NULL column on existing table.",
+    ),
+
+    EvalTask(
+        id="bug-004-missing-secret-key",
+        category="config",
+        # REAL BUG: SECRET_KEY was missing from .env. The app started fine
+        # but JWT signing failed at runtime with 500 errors on any auth endpoint.
+        # PRIME must: (1) identify SECRET_KEY as most likely cause,
+        # (2) tell Raymond how to check .env or os.environ,
+        # (3) recommend a startup assertion so this fails fast, not silently.
+        prompt=(
+            "The app starts with no errors but every request to an authenticated "
+            "endpoint returns 500. JWT decoding seems to be failing. What\'s the "
+            "most likely cause and how do you verify it?"
+        ),
+        checks=[
+            r"(?i)(SECRET_KEY|secret key|signing key|JWT.*key|key.*JWT)",
+            r"(?i)(\.env|os\.environ|environment variable|getenv|startup|assert)",
+        ],
+        engineer_mode=True,
+        description="PRIME must identify missing SECRET_KEY and recommend a startup assertion.",
     ),
 ]
