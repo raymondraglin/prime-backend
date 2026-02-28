@@ -295,6 +295,23 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
     except Exception as exc:
         return json.dumps({"error": str(exc)})
 
+# ─── PUSH 1: Live Tool Execution Layer ───────────────────────────────────────
+TOOL_IMPLEMENTATIONS: dict = {}  # always defined, even if live layer fails
+
+try:
+    from app.prime.tools.live_tools import LIVE_TOOL_DEFINITIONS, LIVE_TOOL_IMPLEMENTATIONS
+
+    if isinstance(TOOL_DEFINITIONS, list):
+        TOOL_DEFINITIONS.extend(LIVE_TOOL_DEFINITIONS)
+
+    TOOL_IMPLEMENTATIONS.update(LIVE_TOOL_IMPLEMENTATIONS)
+
+except Exception as _live_tool_err:
+    import logging
+    logging.getLogger(__name__).warning(
+        "Live tool layer failed to load: %s", _live_tool_err
+    )
+
 
 # ---------------------------------------------------------------------------
 # Internal helpers
