@@ -181,6 +181,113 @@ def prime_notebook_get() -> dict[str, Any]:
 def prime_curriculum_snapshot() -> dict[str, Any]:
     return call_prime_api(method="GET", path="/prime/curriculum/snapshot")
 
+# ─── GOAL TOOLS ───────────────────────────────────────────────────────────────
+
+def prime_goal_create(
+    *,
+    title: str,
+    description: Optional[str] = None,
+    priority: str = "medium",
+    domain: Optional[str] = None,
+    tags: Optional[list[str]] = None,
+    linked_tasks: Optional[list[str]] = None,
+    session_id: Optional[str] = None,
+) -> dict[str, Any]:
+    return call_prime_api(
+        method="POST",
+        path="/prime/goals",
+        json_body={
+            "title": title,
+            "description": description,
+            "priority": priority,
+            "domain": domain,
+            "tags": tags or [],
+            "linked_tasks": linked_tasks or [],
+            "session_id": session_id,
+        },
+    )
+
+
+def prime_goal_list(
+    *,
+    status: Optional[str] = None,
+    domain: Optional[str] = None,
+    priority: Optional[str] = None,
+    limit: int = 50,
+) -> dict[str, Any]:
+    params: dict[str, Any] = {"limit": limit}
+    if status:   params["status"]   = status
+    if domain:   params["domain"]   = domain
+    if priority: params["priority"] = priority
+    return call_prime_api(method="GET", path="/prime/goals", params=params)
+
+
+def prime_goal_active() -> dict[str, Any]:
+    return call_prime_api(method="GET", path="/prime/goals/active")
+
+
+def prime_goal_get(*, goal_id: str) -> dict[str, Any]:
+    return call_prime_api(method="GET", path=f"/prime/goals/{goal_id}")
+
+
+def prime_goal_progress(*, goal_id: str, note: str) -> dict[str, Any]:
+    return call_prime_api(
+        method="POST",
+        path=f"/prime/goals/{goal_id}/progress",
+        json_body={"note": note},
+    )
+
+
+def prime_goal_complete(*, goal_id: str, outcome: str) -> dict[str, Any]:
+    return call_prime_api(
+        method="POST",
+        path=f"/prime/goals/{goal_id}/complete",
+        json_body={"outcome": outcome},
+    )
+
+
+def prime_goal_pause(*, goal_id: str) -> dict[str, Any]:
+    return call_prime_api(method="POST", path=f"/prime/goals/{goal_id}/pause")
+
+
+def prime_goal_resume(*, goal_id: str) -> dict[str, Any]:
+    return call_prime_api(method="POST", path=f"/prime/goals/{goal_id}/resume")
+
+
+def prime_goal_abandon(*, goal_id: str, reason: Optional[str] = None) -> dict[str, Any]:
+    return call_prime_api(
+        method="POST",
+        path=f"/prime/goals/{goal_id}/abandon",
+        json_body={"reason": reason},
+    )
+
+
+def prime_goal_update(
+    *,
+    goal_id: str,
+    title: Optional[str] = None,
+    description: Optional[str] = None,
+    status: Optional[str] = None,
+    priority: Optional[str] = None,
+    domain: Optional[str] = None,
+    outcome: Optional[str] = None,
+    tags: Optional[list[str]] = None,
+    linked_tasks: Optional[list[str]] = None,
+) -> dict[str, Any]:
+    return call_prime_api(
+        method="PATCH",
+        path=f"/prime/goals/{goal_id}",
+        json_body={
+            "title": title,
+            "description": description,
+            "status": status,
+            "priority": priority,
+            "domain": domain,
+            "outcome": outcome,
+            "tags": tags,
+            "linked_tasks": linked_tasks,
+        },
+    )
 
 # ─────────────────────────────────────────────────────────────────────────────
 # TOOL DEFINITIONS — OpenAI function-calling schema
@@ -423,6 +530,159 @@ LIVE_TOOL_DEFINITIONS: list[dict[str, Any]] = [
             "parameters": {"type": "object", "properties": {}},
         },
     },
+{
+        "type": "function",
+        "function": {
+            "name": "prime_goal_create",
+            "description": "Create a new persistent goal for PRIME to track across sessions. Use this when starting any significant multi-step task.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "title":        {"type": "string", "description": "Short goal title."},
+                    "description":  {"type": "string", "description": "Full description of what success looks like."},
+                    "priority":     {"type": "string", "enum": ["high", "medium", "low"], "default": "medium"},
+                    "domain":       {"type": "string", "description": "Domain: code, business, education, math, philosophy, etc."},
+                    "tags":         {"type": "array", "items": {"type": "string"}},
+                    "linked_tasks": {"type": "array", "items": {"type": "string"}, "description": "Subtask list."},
+                    "session_id":   {"type": "string"},
+                },
+                "required": ["title"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_active",
+            "description": "Get all currently active goals. Call this at session start to resume in-progress work.",
+            "parameters": {"type": "object", "properties": {}},
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_list",
+            "description": "List goals with optional filters for status, domain, or priority.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "status":   {"type": "string", "enum": ["active", "paused", "completed", "abandoned"]},
+                    "domain":   {"type": "string"},
+                    "priority": {"type": "string", "enum": ["high", "medium", "low"]},
+                    "limit":    {"type": "integer", "default": 50},
+                },
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_get",
+            "description": "Get the full detail of a single goal by ID.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string", "description": "UUID of the goal."},
+                },
+                "required": ["goal_id"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_progress",
+            "description": "Add a progress note to an active goal. Use after completing each meaningful step.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string"},
+                    "note":    {"type": "string", "description": "What was accomplished or decided."},
+                },
+                "required": ["goal_id", "note"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_complete",
+            "description": "Mark a goal as completed with a final outcome summary.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string"},
+                    "outcome": {"type": "string", "description": "What was achieved."},
+                },
+                "required": ["goal_id", "outcome"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_pause",
+            "description": "Pause an active goal that is blocked or deprioritized.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string"},
+                },
+                "required": ["goal_id"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_resume",
+            "description": "Resume a paused goal.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string"},
+                },
+                "required": ["goal_id"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_abandon",
+            "description": "Abandon a goal that is no longer viable, with an optional reason.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id": {"type": "string"},
+                    "reason":  {"type": "string"},
+                },
+                "required": ["goal_id"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "prime_goal_update",
+            "description": "Update any field on an existing goal.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "goal_id":      {"type": "string"},
+                    "title":        {"type": "string"},
+                    "description":  {"type": "string"},
+                    "status":       {"type": "string", "enum": ["active", "paused", "completed", "abandoned"]},
+                    "priority":     {"type": "string", "enum": ["high", "medium", "low"]},
+                    "domain":       {"type": "string"},
+                    "outcome":      {"type": "string"},
+                    "tags":         {"type": "array", "items": {"type": "string"}},
+                    "linked_tasks": {"type": "array", "items": {"type": "string"}},
+                },
+                "required": ["goal_id"],
+            },
+        },
+    },
 ]
 
 # ─── IMPLEMENTATIONS MAP ──────────────────────────────────────────────────────
@@ -446,4 +706,14 @@ LIVE_TOOL_IMPLEMENTATIONS: dict[str, Any] = {
     "prime_status": lambda **kw: prime_status(),
     "prime_notebook_get": lambda **kw: prime_notebook_get(),
     "prime_curriculum_snapshot": lambda **kw: prime_curriculum_snapshot(),
+    "prime_goal_create":   lambda **kw: prime_goal_create(**kw),
+    "prime_goal_active":   lambda **kw: prime_goal_active(),
+    "prime_goal_list":     lambda **kw: prime_goal_list(**kw),
+    "prime_goal_get":      lambda **kw: prime_goal_get(**kw),
+    "prime_goal_progress": lambda **kw: prime_goal_progress(**kw),
+    "prime_goal_complete": lambda **kw: prime_goal_complete(**kw),
+    "prime_goal_pause":    lambda **kw: prime_goal_pause(**kw),
+    "prime_goal_resume":   lambda **kw: prime_goal_resume(**kw),
+    "prime_goal_abandon":  lambda **kw: prime_goal_abandon(**kw),
+    "prime_goal_update":   lambda **kw: prime_goal_update(**kw),
 }
