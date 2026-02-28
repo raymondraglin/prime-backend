@@ -32,6 +32,7 @@ from app.prime.identity import PRIME_IDENTITY
 from app.prime.memory.session_store import session_store
 from app.prime.tools.prime_tools import TOOL_DEFINITIONS, execute_tool
 from app.prime.rag.repo_indexer import build_repo_context_for_prime
+from app.prime.context.session_startup import get_session_prime_context
 
 router = APIRouter(prefix="/prime/chat", tags=["PRIME Chat"])
 
@@ -102,7 +103,7 @@ def _load_turns(session_id: Optional[str] = None, limit: int = 50, offset: int =
 # CORE CHAT CALL
 # ---------------------------------------------------------------------------
 
-def _run_chat(message: str, session_id: Optional[str]) -> str:
+def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -> str:
     """
     Full genius engine:
     - PRIME's co-founder identity as system prompt
@@ -132,7 +133,8 @@ def _run_chat(message: str, session_id: Optional[str]) -> str:
             + "Use search_codebase to find patterns. "
             + "Read before answering -- never guess about our code.\n"
         )
-
+    if goal_context:
+        system_prompt = goal_context + "\n\n" + system_prompt
     history = session_store.get_history(session_id) if session_id else []
     messages = [{"role": "system", "content": system_prompt}]
     messages.extend(history)
@@ -187,7 +189,8 @@ async def prime_chat(req: ChatRequest):
     })
 
     try:
-        reply = _run_chat(req.message, req.session_id)
+        session_ctx = await get_session_prime_context(user_id="raymond")
+        reply = _run_chat(req.message, req.session_id, session_ctx["goal_context"])
     except Exception as e:
         raise HTTPException(500, str(e))
 
