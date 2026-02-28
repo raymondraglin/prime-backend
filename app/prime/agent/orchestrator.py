@@ -149,7 +149,7 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
                 messages=messages,
                 tools=allowed_defs,
                 force_first_tool=decision.force_first_tool,
-                max_rounds=decision.max_tool_rounds,
+                max_tool_rounds=decision.max_tool_rounds,
             )
             reply_text  = llm_response.text
             tool_rounds = getattr(llm_response, "rounds", 1)
