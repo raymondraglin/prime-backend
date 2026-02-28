@@ -11,6 +11,7 @@ from app.prime.api.chat import router as prime_chat_router
 from app.prime.api.genius import router as prime_genius_router
 from app.prime.api.repo import router as prime_repo_router
 from app.prime.ingest.router import router as prime_ingest_router
+from app.prime.goals.routes import router as goals_router
 
 app = FastAPI(title="PRIME", version="1.0.0")
 
@@ -40,3 +41,4 @@ app.include_router(prime_chat_router)   # POST /prime/chat/
 app.include_router(prime_genius_router) # POST /prime/ask, /prime/debug, /prime/generate, etc.
 app.include_router(prime_repo_router)   # POST /prime/repo/index, /prime/repo/ask, etc.
 app.include_router(prime_ingest_router) # POST /prime/ingest/image/, /pdf/, /audio/, /document/
+app.include_router(goals_router)
