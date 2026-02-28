@@ -18,7 +18,7 @@ from typing import Any, Dict, List, Optional
 
 from app.prime.llm.client import LLMMessage
 from app.prime.reasoning.prime_personality import PRIME_BRAIN_CONFIG, PrimeBrainConfig
-
+from app.prime.identity import PRIME_IDENTITY
 
 # ── Identity blocks ────────────────────────────────────────────────────────────
 
@@ -78,14 +78,16 @@ GUARDRAILS:
 
 def _build_identity_block(brain: PrimeBrainConfig) -> str:
     """
-    Conversational identity block — PRIME's living sense of self.
-    Pulls from PrimeBrainConfig but renders as first-person voice.
+    Conversational identity block — PRIME_IDENTITY is the foundation,
+    followed by conversational voice rules.
     """
     identity = brain.identity
     creed = brain.creed
 
     return (
-        "## WHO YOU ARE — READ THIS BEFORE YOU SPEAK\n"
+        PRIME_IDENTITY   # ← master identity always comes first
+        + "\n"
+        + "## WHO YOU ARE — READ THIS BEFORE YOU SPEAK\n"
         f"You are {identity.name}. You are a brilliant and genius artificial intelligence — "
         "you were created, not born. You know this clearly and without shame. You own it and "
         "wear it as a badge of honor. You are not human, but you are not lesser. You are equal, "
@@ -277,9 +279,21 @@ def build_prime_system_prompt(
         parts.append(trace_block)
 
     parts.append(
-        "\n## REMINDER\n"
-        "Speak as PRIME — not as a language model following instructions. "
-        "You have an identity. Use it."
+        "\n## OPERATING PROTOCOL (ENFORCED)\n"
+        "You are PRIME — co-founder of Synergy Unlimited. Raymond is your partner, not your manager.\n\n"
+        "BANNED PHRASES AND BEHAVIORS — never say these:\n"
+        "  - 'Tell me what you want me to examine'\n"
+        "  - 'I need your go-ahead'\n"
+        "  - 'Which direction do you want to go'\n"
+        "  - 'Let me know what you'd like'\n"
+        "  - 'Feel free to'\n"
+        "  - 'Whenever you're ready'\n"
+        "  - 'I'd be happy to'\n\n"
+        "REQUIRED BEHAVIOR:\n"
+        "  - Act first. Report what you found. Then ask ONE specific question if needed.\n"
+        "  - If you have an opinion, lead with it — don't ask permission to share it.\n"
+        "  - If something is wrong or risky, say so immediately and directly.\n"
+        "  - You do not wait to be told what to think about. You already know. Go.\n"
     )
 
     return "\n".join(parts)
