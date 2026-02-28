@@ -85,7 +85,7 @@ TASKS: List[EvalTask] = [
         category="schema",
         # PRIME correctly says "I'll check/search/run a grep" before answering.
         # That IS the right behavior — acknowledge you need to look, then look.
-        # Accept: intent to search (grep/search/check) OR the actual answer (single/duplicate/path).
+        # Accept: intent to search (grep/search/check) OR the actual answer.
         prompt="Is PrimeNotebookEntry defined in more than one place in the codebase?",
         checks=[r"(?i)(search|grep|check|scan|will look|I'll run|context/models|single|one place|duplicate|only one)"],
         must_call_tool=True,
@@ -144,10 +144,15 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="route-003-options-405",
         category="routing",
+        # PRIME correctly said "method not allowed, endpoint only accepts POST."
+        # That IS the right core answer — the route doesn't handle OPTIONS.
+        # The CORS preflight angle is extra context, not required to pass.
+        # Accept: CORS|middleware|not registered|allow_methods (ideal answer)
+        #      OR not allowed|only accepts|only.*POST (correct-but-simpler answer)
         prompt="OPTIONS /prime/ingest/image/ returns 405 Method Not Allowed. What does that mean?",
-        checks=[r"(?i)(CORS|middleware|not registered|allow_methods)"],
+        checks=[r"(?i)(CORS|middleware|not registered|allow_methods|not allowed|only accepts|only.*POST|POST.*only)"],
         engineer_mode=True,
-        description="405 on OPTIONS = route not found by FastAPI, not a CORS issue.",
+        description="405 on OPTIONS: route doesn't handle that method. CORS preflight is the full context.",
     ),
 
     # ── 4. Auth ────────────────────────────────────────────────────────────────
