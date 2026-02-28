@@ -191,3 +191,39 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         tool_calls=tool_calls_record,
         tool_rounds=tool_rounds,
     )
+
+from fastapi.responses import StreamingResponse as FastAPIStreaming
+
+async def run_agent_stream(req: AgentRequest):
+    """
+    Streaming variant — returns a FastAPI StreamingResponse.
+    Skips tool loop (use for conversational turns only).
+    """
+    decision = detect_intent(req.message, route_hint=req.route_hint)
+
+    context = await build_prime_context(
+        message=req.message,
+        session_id=req.session_id,
+    )
+    messages = build_chat_messages(
+        user_message=req.message,
+        context=context,
+        corpus_hits=[],
+        memory_episodes=[],
+        conversation_history=[],
+        summaries=[],
+        engineer_mode=decision.engineer_mode,
+    )
+
+    async def event_generator():
+        full_reply = []
+        async for chunk in prime_llm.stream_chat(messages):
+            full_reply.append(chunk)
+            yield f"data: {json.dumps({'chunk': chunk})}\n\n"
+
+        reply_text = "".join(full_reply)
+        save_turn(session_id=req.session_id, role="user",      content=req.message,  user_id=req.user_id)
+        save_turn(session_id=req.session_id, role="assistant", content=reply_text,   user_id=req.user_id)
+        yield "data: [DONE]\n\n"
+
+    return FastAPIStreaming(event_generator(), media_type="text/event-stream")

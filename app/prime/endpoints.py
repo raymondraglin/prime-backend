@@ -8,7 +8,7 @@ This file owns only:
   - Auth dependency injection
   - Mapping AgentResponse → PrimeChatResponse for backward compat
 
-Version: 0.3.0 — orchestrator-wired
+Version: 0.4.0 — streaming + observability wired
 """
 
 from datetime import datetime
@@ -19,7 +19,7 @@ from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 
 from app.core.auth import get_current_user
-from app.prime.agent.orchestrator import run_agent, AgentRequest
+from app.prime.agent.orchestrator import run_agent, run_agent_stream, AgentRequest
 from app.prime.reasoning.prime_personality import PRIME_BRAIN_CONFIG, PrimeBrainConfig
 from app.prime.curriculum.models import (
     ReasoningTrace,
@@ -59,7 +59,7 @@ async def whoami(current_user: dict = Depends(get_current_user)):
         "id":                   "PRIME",
         "role":                 "Prime Reasoning Intelligence Management Engine",
         "status":               "online",
-        "version":              "0.3.0",
+        "version":              "0.4.0",
         "essence":              identity.essence,
         "purpose":              identity.purpose,
         "primary_counterpart": identity.primary_counterpart,
@@ -93,7 +93,6 @@ async def prime_chat(
 
     agent_resp = await run_agent(agent_req)
 
-    # Build a lightweight trace from what the orchestrator did
     tool_names = [tc.tool_name for tc in agent_resp.tool_calls]
     trace = ReasoningTrace(
         steps=[
@@ -114,7 +113,7 @@ async def prime_chat(
         ],
         overall_confidence=0.95,
         detected_contradictions=[],
-        notes=["Orchestrated via agent loop v0.3"],
+        notes=["Orchestrated via agent loop v0.4"],
     )
 
     return PrimeChatResponse(
@@ -125,3 +124,24 @@ async def prime_chat(
         personality_snapshot=PRIME_BRAIN_CONFIG,
         reasoning_trace=trace,
     )
+
+
+# ---------------------------------------------------------------------------
+# /chat/stream — AUTH REQUIRED — SSE streaming
+# ---------------------------------------------------------------------------
+
+@router.post("/chat/stream")
+async def prime_chat_stream(
+    payload:      PrimeChatRequest,
+    current_user: dict = Depends(get_current_user),
+):
+    user_id    = current_user["user_id"]
+    session_id = payload.session_id or uuid4().hex
+
+    agent_req = AgentRequest(
+        session_id=session_id,
+        user_id=user_id,
+        message=payload.message,
+        stream=True,
+    )
+    return await run_agent_stream(agent_req)

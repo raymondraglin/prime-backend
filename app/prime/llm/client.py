@@ -6,13 +6,13 @@ import os
 from typing import Any, Dict, List, Optional
 
 import httpx
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class LLMConfig(BaseModel):
     base_url: str = "https://api.deepseek.com"
     model: str = "deepseek-chat"
-    max_tokens: int = 2048
+    max_tokens: int = 4096
     temperature: float = 0.85
     top_p: float = 0.9
     timeout: float = 120.0
@@ -24,10 +24,12 @@ class LLMMessage(BaseModel):
 
 
 class LLMResponse(BaseModel):
-    text: str
-    model: str = ""
-    prompt_tokens: Optional[int] = None
-    completion_tokens: Optional[int] = None
+    text:              str
+    model:             str            = ""
+    prompt_tokens:     Optional[int]  = None
+    completion_tokens: Optional[int]  = None
+    tool_calls:        list[dict]     = Field(default_factory=list)
+    rounds:            int            = 0
 
 
 class PrimeLLMClient:
@@ -95,6 +97,9 @@ class PrimeLLMClient:
             {"role": m.role, "content": m.content} for m in messages
         ]
 
+        recorded_tool_calls: list[dict] = []
+        rounds_completed:    int        = 0
+
         for _round in range(max_tool_rounds):
             # ── tool_choice logic ─────────────────────────────────────────────
             if _round == 0 and force_first_tool:
@@ -142,6 +147,8 @@ class PrimeLLMClient:
                     model=data.get("model", self.config.model),
                     prompt_tokens=usage.get("prompt_tokens"),
                     completion_tokens=usage.get("completion_tokens"),
+                    tool_calls=recorded_tool_calls,
+                    rounds=rounds_completed,
                 )
 
             # Append assistant message with tool_calls
@@ -160,15 +167,31 @@ class PrimeLLMClient:
                     tool_args = json.loads(tc["function"]["arguments"])
                 except (json.JSONDecodeError, KeyError):
                     tool_args = {}
+
+                import time
+                t0     = time.perf_counter()
                 result = execute_tool(tool_name, tool_args)
+                dur_ms = (time.perf_counter() - t0) * 1000
+
                 print(f"[PRIME tool] {tool_name}({tool_args}) → {result[:120]}")
+
+                recorded_tool_calls.append({
+                    "name":        tool_name,
+                    "args":        tool_args,
+                    "result":      result[:500],
+                    "duration_ms": round(dur_ms, 2),
+                    "error":       None,
+                })
                 msg_list.append(
                     {
-                        "role": "tool",
+                        "role":         "tool",
                         "tool_call_id": tc["id"],
-                        "content": result,
+                        "content":      result,
                     }
                 )
+
+            rounds_completed += 1
+
 
         # Max rounds hit — ask for a plain summary
         msg_list.append({"role": "user", "content": "Summarize what you found."})
@@ -178,6 +201,44 @@ class PrimeLLMClient:
             if m.get("role") in ("user", "assistant", "system") and m.get("content")
         ]
         return await self.chat(safe_msgs)
+
+    async def stream_chat(
+        self,
+        messages: List[LLMMessage],
+    ):
+        """
+        Yield text chunks as Server-Sent Events.
+        Usage: async for chunk in prime_llm.stream_chat(messages): yield chunk
+        """
+        payload = {
+            "model":       self.config.model,
+            "messages":    [{"role": m.role, "content": m.content} for m in messages],
+            "max_tokens":  self.config.max_tokens,
+            "temperature": self.config.temperature,
+            "top_p":       self.config.top_p,
+            "stream":      True,
+        }
+        async with httpx.AsyncClient(timeout=self.config.timeout) as client:
+            async with client.stream(
+                "POST",
+                f"{self.config.base_url}/v1/chat/completions",
+                json=payload,
+                headers=self._headers(),
+            ) as response:
+                response.raise_for_status()
+                async for line in response.aiter_lines():
+                    if not line.startswith("data:"):
+                        continue
+                    raw = line[5:].strip()
+                    if raw == "[DONE]":
+                        break
+                    try:
+                        chunk = json.loads(raw)
+                        delta = chunk["choices"][0]["delta"].get("content")
+                        if delta:
+                            yield delta
+                    except (json.JSONDecodeError, KeyError, IndexError):
+                        continue
 
     async def chat_or_fallback(
         self,
