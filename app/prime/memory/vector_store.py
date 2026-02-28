@@ -17,9 +17,12 @@ Schema (auto-created on first call to ensure_schema()):
     created_at  TIMESTAMPTZ DEFAULT NOW()
   )
 
+DB selection (in priority order):
+  1. VECTOR_DATABASE_URL  -- dedicated vector DB (Supabase recommended)
+  2. DATABASE_URL         -- fall back to main app DB if above not set
+
 Requirements:
-  Postgres:  DATABASE_URL must be set
-  Extension: CREATE EXTENSION IF NOT EXISTS vector  (done by ensure_schema)
+  Extension: pgvector (pre-installed on Supabase)
   Package:   pip install pgvector
 
 All failures are logged and swallowed so a missing DB never crashes chat.
@@ -71,13 +74,15 @@ class VectorMatch:
 
 
 # ---------------------------------------------------------------------------
-# Helpers
+# Engine — VECTOR_DATABASE_URL first, DATABASE_URL as fallback
 # ---------------------------------------------------------------------------
 
 def _engine():
-    url = os.getenv("DATABASE_URL", "")
+    url = os.getenv("VECTOR_DATABASE_URL") or os.getenv("DATABASE_URL", "")
     if not url:
-        raise RuntimeError("DATABASE_URL not set — vector store unavailable")
+        raise RuntimeError(
+            "Neither VECTOR_DATABASE_URL nor DATABASE_URL is set — vector store unavailable"
+        )
     return sa.create_engine(url, echo=False)
 
 
@@ -119,8 +124,10 @@ def ensure_schema() -> None:
             """))
             conn.commit()
         logger.info("Vector store schema ready (%s)", _TABLE)
+        print(f"[PRIME] Vector store schema ready ({_TABLE})")
     except Exception as exc:
         logger.warning("ensure_schema failed (pgvector may not be installed): %s", exc)
+        print(f"ensure_schema failed: {exc}")
 
 
 # ---------------------------------------------------------------------------
@@ -186,9 +193,9 @@ def similarity_search(
         clauses: list[str] = []
         params: dict[str, Any] = {"vec": vec_str, "k": top_k}
 
-        if "user_id"      in filters: clauses.append("user_id = :user_id");           params["user_id"]      = filters["user_id"]
-        if "session_id"   in filters: clauses.append("session_id = :session_id");     params["session_id"]   = filters["session_id"]
-        if "memory_type"  in filters: clauses.append("memory_type = :memory_type");   params["memory_type"]  = filters["memory_type"]
+        if "user_id"     in filters: clauses.append("user_id = :user_id");          params["user_id"]     = filters["user_id"]
+        if "session_id"  in filters: clauses.append("session_id = :session_id");    params["session_id"]  = filters["session_id"]
+        if "memory_type" in filters: clauses.append("memory_type = :memory_type");  params["memory_type"] = filters["memory_type"]
 
         where = ("WHERE " + " AND ".join(clauses)) if clauses else ""
         sql = f"""
