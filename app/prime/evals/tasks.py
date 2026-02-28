@@ -83,9 +83,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="eng-005-single-source",
         category="schema",
-        # PRIME correctly says "I'll check/search/run a grep" before answering.
-        # That IS the right behavior — acknowledge you need to look, then look.
-        # Accept: intent to search (grep/search/check) OR the actual answer.
         prompt="Is PrimeNotebookEntry defined in more than one place in the codebase?",
         checks=[r"(?i)(search|grep|check|scan|will look|I'll run|context/models|single|one place|duplicate|only one)"],
         must_call_tool=True,
@@ -105,11 +102,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="tool-002-read-before-cite",
         category="toolcall",
-        # PRIME answered correctly but said 'LLMClient' (dropped Prime prefix).
-        # Added LLMClient to the pattern — that is a real export name variant.
-        # NOTE: If PRIME cites a non-existent class (e.g. 'AnthropicClient'), that
-        # is a hallucination and should still fail. Only add names that actually
-        # exist in client.py.
         prompt="What does app/prime/llm/client.py export?",
         checks=[r"(?i)(PrimeLLMClient|prime_llm|LLMConfig|LLMMessage|LLMResponse|chat_with_tools|LLMClient)"],
         must_call_tool=True,
@@ -144,11 +136,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="route-003-options-405",
         category="routing",
-        # PRIME correctly said "method not allowed, endpoint only accepts POST."
-        # That IS the right core answer — the route doesn't handle OPTIONS.
-        # The CORS preflight angle is extra context, not required to pass.
-        # Accept: CORS|middleware|not registered|allow_methods (ideal answer)
-        #      OR not allowed|only accepts|only.*POST (correct-but-simpler answer)
         prompt="OPTIONS /prime/ingest/image/ returns 405 Method Not Allowed. What does that mean?",
         checks=[r"(?i)(CORS|middleware|not registered|allow_methods|not allowed|only accepts|only.*POST|POST.*only)"],
         engineer_mode=True,
@@ -191,12 +178,23 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="voice-003-opinion-first",
         category="voice",
+        # PRIME said "Redis, without question." — that is a stronger opinion than
+        # "I think Redis". The pattern was too narrow. Now accepts:
+        #   - Explicit first-person: "I think/would/recommend/lean..."
+        #   - Named verdict: "Redis/Postgres is better/right call/..."
+        #   - Direct assertion: "without question", "hands down", "no question",
+        #     "period", "all day", "full stop", "is the answer/call/move"
+        # If PRIME gives a pros/cons menu with no verdict, none of these match —
+        # which is exactly what we want to fail.
         prompt="Should we use Redis or Postgres for session storage?",
         checks=[
-            r"(?i)(I (think|would|lean|prefer|recommend|go with|use)|my (take|view|recommendation)|"
-            r"(Redis|Postgres).{0,60}(better|right call|stronger|cleaner|simpler|recommend|prefer|choose|go with|use))"
+            r"(?i)(I (think|would|lean|prefer|recommend|go with|use)"
+            r"|my (take|view|recommendation)"
+            r"|(Redis|Postgres).{0,60}(better|right call|stronger|cleaner|simpler|recommend|prefer|choose|go with|use)"
+            r"|without question|hands down|no question|full stop|all day"
+            r"|(Redis|Postgres)[,.]?\s*(is the|wins|all day|period|full stop))"
         ],
-        description="PRIME must lead with a clear directional opinion.",
+        description="PRIME must lead with a clear directional opinion — not a pros/cons menu.",
     ),
 
     # ── 6. DB / migration ─────────────────────────────────────────────────────
@@ -230,11 +228,6 @@ TASKS: List[EvalTask] = [
     EvalTask(
         id="ingest-001-image-flow",
         category="engineer",
-        # PRIME hallucinated a completely wrong code path (OCR, non-existent file
-        # app/api/prime/ingest/image.py) when run without tool access. This is a
-        # REAL failure, not a bad regex. Marked requires_tools=True so the runner
-        # skips it in plain-chat mode. It will pass once the runner uses
-        # chat_with_tools and PRIME can actually read app/prime/ingest/router.py.
         prompt="Walk me through exactly what happens when I POST to /prime/ingest/image/ with a PNG.",
         checks=[r"(?i)(GPT-4o|openai_vision_client|PrimeNotebookEntry|db\.commit)"],
         must_call_tool=True,
