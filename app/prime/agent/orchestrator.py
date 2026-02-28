@@ -25,7 +25,7 @@ from __future__ import annotations
 from datetime import datetime
 from typing import Any, Optional
 from uuid import uuid4
-
+import json 
 from pydantic import BaseModel, Field
 
 from app.prime.agent.intent import detect_intent, IntentDecision, ToolPolicy
@@ -141,8 +141,8 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
 
     if use_tools:
         allowed_defs = [
-            t for t in TOOL_DEFINITIONS
-            if t["function"]["name"] in decision.allowed_tools
+            d for d in TOOL_DEFINITIONS
+            if d["function"]["name"] in decision.allowed_tools
         ]
         try:
             llm_response = await prime_llm.chat_with_tools(
