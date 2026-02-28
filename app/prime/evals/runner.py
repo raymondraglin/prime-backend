@@ -8,10 +8,13 @@ Usage:
     python -m app.prime.evals.runner              # run all tasks
     python -m app.prime.evals.runner eng-001      # run one task by id prefix
     python -m app.prime.evals.runner schema       # run all tasks in a category
+    python -m app.prime.evals.runner --include-tool-required  # include tool tasks
 
-Flags:
-    --skip-tool-required   Skip tasks with requires_tools=True (default: skip)
-    --include-tool-required  Include requires_tools tasks (needs tool harness)
+TEMPERATURE NOTE:
+    Production PRIME runs at temperature=0.85 for natural, varied responses.
+    Eval mode runs at temperature=0.2 so scores are stable and repeatable.
+    A score that varies run-to-run because of randomness is not a score —
+    it's noise. Keep eval temp low. Keep production temp high.
 
 Output:
     Prints a summary table to stdout.
@@ -19,9 +22,8 @@ Output:
 
 NOTE ON TOOL-REQUIRED TASKS:
     Tasks with requires_tools=True are skipped in default mode because running
-    them without actual file access causes PRIME to hallucinate — producing
-    false failures that pollute the score. They are scored separately once the
-    runner is wired with chat_with_tools.
+    them without actual file access causes PRIME to hallucinate. They are
+    scored separately once the runner is wired with chat_with_tools.
 """
 
 from __future__ import annotations
@@ -39,10 +41,18 @@ from typing import Any, Dict, List, Optional
 
 RESULTS_DIR = Path(__file__).parent / "results"
 
+# Low temperature for eval runs — keeps scores stable and repeatable.
+# Production PRIME uses 0.85. Do not raise this without a clear reason.
+EVAL_TEMPERATURE = 0.2
+
 
 async def _run_task(task, context: Dict[str, Any]) -> Dict[str, Any]:
     from app.prime.llm.prompt_builder import build_chat_messages
-    from app.prime.llm.client import prime_llm
+    from app.prime.llm.client import PrimeLLMClient, LLMConfig
+
+    # Override temperature for eval stability
+    eval_config = LLMConfig(temperature=EVAL_TEMPERATURE)
+    eval_llm = PrimeLLMClient(config=eval_config)
 
     messages = build_chat_messages(
         user_message=task.prompt,
@@ -51,7 +61,7 @@ async def _run_task(task, context: Dict[str, Any]) -> Dict[str, Any]:
     )
 
     try:
-        resp = await prime_llm.chat(messages)
+        resp = await eval_llm.chat(messages)
         output = resp.text
         error = None
     except Exception as e:
@@ -74,6 +84,7 @@ async def _run_task(task, context: Dict[str, Any]) -> Dict[str, Any]:
         "output_preview": output[:400],
         "prompt": task.prompt,
         "skipped": False,
+        "temperature": EVAL_TEMPERATURE,
     }
 
 
@@ -90,31 +101,29 @@ async def run_evals(
     if filter_str:
         tasks = [t for t in TASKS if filter_str in t.id or filter_str in t.category]
 
-    # Skip requires_tools tasks unless explicitly included
     skipped = [t for t in tasks if t.requires_tools and not include_tool_required]
     runnable = [t for t in tasks if not t.requires_tools or include_tool_required]
 
     if skipped:
         print(f"\n[PRIME EVALS] Skipping {len(skipped)} tool-required task(s):")
         for t in skipped:
-            print(f"  ⏭ SKIP  [{t.category:12s}]  {t.id}  — {t.description[:60]}")
+            print(f"  \u23ed SKIP  [{t.category:12s}]  {t.id}  \u2014 {t.description[:60]}")
 
-    print(f"\n[PRIME EVALS] Running {len(runnable)} task(s)...\n")
+    print(f"\n[PRIME EVALS] Running {len(runnable)} task(s) at temperature={EVAL_TEMPERATURE}...\n")
     results = []
 
     for task in runnable:
         result = await _run_task(task, context)
-        status = "✅ PASS" if result["passed"] else "❌ FAIL"
+        status = "\u2705 PASS" if result["passed"] else "\u274c FAIL"
         print(f"  {status}  [{result['category']:12s}]  {result['id']}")
         if not result["passed"]:
             for c in result["checks"]:
-                mark = "  ✓" if c["passed"] else "  ✗"
+                mark = "  \u2713" if c["passed"] else "  \u2717"
                 print(f"             {mark} {c['pattern']}")
             if result["error"]:
                 print(f"             ERROR: {result['error']}")
         results.append(result)
 
-    # Add skipped tasks to results with skipped=True
     for task in skipped:
         results.append({
             "id": task.id,
@@ -125,6 +134,7 @@ async def run_evals(
             "output_preview": "",
             "prompt": task.prompt,
             "skipped": True,
+            "temperature": EVAL_TEMPERATURE,
         })
 
     passed = sum(1 for r in results if r["passed"])
@@ -140,11 +150,12 @@ async def run_evals(
     out_path.write_text(
         json.dumps(
             {"timestamp": ts, "passed": passed, "scored": scored,
-             "skipped": skipped_count, "results": results},
+             "skipped": skipped_count, "temperature": EVAL_TEMPERATURE,
+             "results": results},
             indent=2,
         )
     )
-    print(f"[PRIME EVALS] Results saved → {out_path}\n")
+    print(f"[PRIME EVALS] Results saved \u2192 {out_path}\n")
     return results
 
 
