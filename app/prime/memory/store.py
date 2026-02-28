@@ -6,15 +6,22 @@ Storage backend:
   If DATABASE_URL is set → Postgres (production).
   Otherwise            → SQLite at prime_memory.db (local dev fallback).
 
+  URL is always normalized to psycopg2 (sync) driver so asyncpg never
+  gets loaded here. Async drivers belong only in async-native code.
+
+Fallback chain:
+  1. Postgres via DATABASE_URL  (if set and reachable)
+  2. SQLite at prime_memory.db  (if Postgres unavailable at startup)
+
 Every turn is saved immediately.
 Every 10 unsummarized turns trigger a DeepSeek summarization.
 On every LLM call, PRIME loads summaries + recent raw turns for context.
 
 Vector indexing (semantic memory):
-  After save_turn and save_summary, the new text is embedded + stored in
+  After save_turn / save_summary, the text is embedded + stored in
   pgvector via retrieval.index_turn / retrieval.index_summary.
-  This is fire-and-forget — a vector store failure never breaks chat.
-  Requires OPENAI_API_KEY + pgvector installed.
+  Fire-and-forget — never blocks or crashes chat.
+  Requires OPENAI_API_KEY + VECTOR_DATABASE_URL.
 """
 
 from __future__ import annotations
@@ -26,18 +33,44 @@ from sqlalchemy import create_engine, select, update
 from sqlalchemy.orm import Session
 from app.prime.memory.models import Base, PrimeConversationTurn, PrimeMemorySummary
 
+
+# ---------------------------------------------------------------------------
+# URL normalisation — always use psycopg2 (sync) for store.py
+# ---------------------------------------------------------------------------
+
+def _sync_url(url: str) -> str:
+    """
+    Force the psycopg2 driver regardless of what the env var says.
+    Supabase and other providers sometimes emit asyncpg URLs; store.py
+    is synchronous and must never load the async dialect.
+    """
+    url = url.replace("postgresql+asyncpg://", "postgresql+psycopg2://")
+    if url.startswith("postgresql://") and "+" not in url.split("://")[0]:
+        url = url.replace("postgresql://", "postgresql+psycopg2://", 1)
+    return url
+
+
 # ---------------------------------------------------------------------------
 # Engine — Postgres if DATABASE_URL is set, SQLite as fallback
 # ---------------------------------------------------------------------------
 
-_db_url = os.getenv("DATABASE_URL")
-if _db_url:
-    engine = create_engine(_db_url, echo=False)
+_raw_url = os.getenv("DATABASE_URL", "")
+
+if _raw_url:
+    _db_url = _sync_url(_raw_url)
+    try:
+        engine = create_engine(_db_url, echo=False)
+        Base.metadata.create_all(engine)
+    except Exception as _pg_err:
+        print(f"[PRIME MEMORY] Postgres unavailable ({_pg_err!r}), falling back to SQLite")
+        _DB_PATH = os.path.join(os.path.dirname(__file__), "prime_memory.db")
+        engine   = create_engine(f"sqlite:///{_DB_PATH}", echo=False)
+        Base.metadata.create_all(engine)
 else:
     _DB_PATH = os.path.join(os.path.dirname(__file__), "prime_memory.db")
     engine   = create_engine(f"sqlite:///{_DB_PATH}", echo=False)
+    Base.metadata.create_all(engine)
 
-Base.metadata.create_all(engine)
 
 SUMMARY_THRESHOLD    = 10
 RECENT_TURNS_TO_LOAD = 6
@@ -91,7 +124,7 @@ def load_recent_turns(user_id: str = "raymond", limit: int = RECENT_TURNS_TO_LOA
 # ---------------------------------------------------------------------------
 
 def load_all_summaries(user_id: str = "raymond"):
-    """Load all memory summaries — PRIME's long-term compressed memory."""
+    """Load all memory summaries — PRIME's compressed long-term memory."""
     with Session(engine) as db:
         rows = db.execute(
             select(PrimeMemorySummary)
@@ -185,7 +218,7 @@ async def maybe_summarize(user_id: str = "raymond") -> None:
                 "https://api.deepseek.com/v1/chat/completions",
                 headers={
                     "Authorization": f"Bearer {api_key}",
-                    "Content-Type": "application/json",
+                    "Content-Type":  "application/json",
                 },
                 json={
                     "model":       "deepseek-chat",
