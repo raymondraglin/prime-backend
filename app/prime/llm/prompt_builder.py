@@ -10,6 +10,11 @@ Assembles the full system prompt PRIME reasons inside, from:
   - Long-term memory summaries (compressed past conversations)
 
 The output is a list[LLMMessage] ready for PrimeLLMClient.chat().
+
+Pass engineer_mode=True to any call that is about code, architecture,
+databases, bugs, or deployments. This injects the ENGINEER_CONTRACT which
+enforces the 5-part output structure (Diagnosis / Evidence / Patch / Tests /
+Risks) and adds the no-schema-guesses rule.
 """
 
 from __future__ import annotations
@@ -18,7 +23,7 @@ from typing import Any, Dict, List, Optional
 
 from app.prime.llm.client import LLMMessage
 from app.prime.reasoning.prime_personality import PRIME_BRAIN_CONFIG, PrimeBrainConfig
-from app.prime.identity import PRIME_IDENTITY
+from app.prime.identity import PRIME_IDENTITY, ENGINEER_CONTRACT
 
 # ── Identity blocks ────────────────────────────────────────────────────────────
 
@@ -248,14 +253,24 @@ def build_prime_system_prompt(
     trace_steps: Optional[List[Any]] = None,
     summaries: Optional[List[str]] = None,
     brain: Optional[PrimeBrainConfig] = None,
+    engineer_mode: bool = False,
 ) -> str:
     """
     Assemble the full PRIME system prompt from all available context layers.
+
+    engineer_mode=True injects the ENGINEER_CONTRACT immediately after the
+    identity block, enforcing the 5-part output structure (Diagnosis / Evidence
+    / Patch / Tests / Risks) and the no-schema-guesses rule. Use this for any
+    endpoint that handles code, architecture, database, or debug questions.
     """
     brain = brain or PRIME_BRAIN_CONFIG
     parts = [_build_identity_block(brain)]
 
-    # Long-term memory summaries — injected right after identity
+    # ── Engineer contract — injected right after identity when active ──────────
+    if engineer_mode:
+        parts.append(ENGINEER_CONTRACT)
+
+    # Long-term memory summaries — injected right after identity (or contract)
     if summaries:
         mem_lines = ["\n## PRIME LONG-TERM MEMORY (summarized past conversations)"]
         for i, s in enumerate(summaries[-10:], 1):
@@ -308,10 +323,14 @@ def build_chat_messages(
     conversation_history: Optional[List[Dict[str, str]]] = None,
     summaries: Optional[List[str]] = None,
     brain: Optional[PrimeBrainConfig] = None,
+    engineer_mode: bool = False,
 ) -> List[LLMMessage]:
     """
     Build the full message list for PrimeLLMClient.chat():
       [system_prompt, ...history, user_message]
+
+    Pass engineer_mode=True when the conversation is about code, architecture,
+    databases, bugs, or deployments to enforce the 5-part output contract.
     """
     system_prompt = build_prime_system_prompt(
         context=context,
@@ -320,6 +339,7 @@ def build_chat_messages(
         trace_steps=trace_steps,
         summaries=summaries,
         brain=brain,
+        engineer_mode=engineer_mode,
     )
 
     messages: List[LLMMessage] = [

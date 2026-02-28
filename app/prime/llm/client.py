@@ -75,11 +75,19 @@ class PrimeLLMClient:
         messages: List[LLMMessage],
         tools: List[Dict[str, Any]],
         max_tool_rounds: int = 6,
+        force_first_tool: Optional[str] = None,
     ) -> LLMResponse:
         """
         Chat with OpenAI-compatible function calling.
         Automatically executes tool calls and loops until the model returns
         a final plain-text reply.
+
+        Args:
+            force_first_tool: If set, round 0 will force the model to call
+                this specific tool (e.g. 'list_directory') before anything
+                else. Subsequent rounds use tool_choice='auto'. This is the
+                'evidence-first' enforcement: PRIME must read before it speaks.
+                Example: force_first_tool='list_directory'
         """
         from app.prime.tools.prime_tools import execute_tool
 
@@ -88,6 +96,21 @@ class PrimeLLMClient:
         ]
 
         for _round in range(max_tool_rounds):
+            # ── tool_choice logic ─────────────────────────────────────────────
+            if _round == 0 and force_first_tool:
+                # Force a specific tool — evidence-first enforcement.
+                # PRIME must call list_directory (or whichever tool is named)
+                # before generating any prose on repo/code questions.
+                tool_choice_val: Any = {
+                    "type": "function",
+                    "function": {"name": force_first_tool},
+                }
+            elif _round == 0:
+                # Still require A tool on round 0, just not a specific one
+                tool_choice_val = "required"
+            else:
+                tool_choice_val = "auto"
+
             payload = {
                 "model": self.config.model,
                 "messages": msg_list,
@@ -96,7 +119,7 @@ class PrimeLLMClient:
                 "top_p": self.config.top_p,
                 "stream": False,
                 "tools": tools,
-                "tool_choice": ("required" if _round == 0 else "auto"),
+                "tool_choice": tool_choice_val,
             }
 
             async with httpx.AsyncClient(timeout=self.config.timeout) as client:
