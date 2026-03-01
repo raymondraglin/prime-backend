@@ -25,14 +25,14 @@ REASONING_MEMORY_FILE = MEMORY_DIR / "reasoning_memory.jsonl"
 
 CORPUS_DB_DIR           = DATA_DIR / "corpus_db"
 CORPUS_COLLECTION_NAME  = "prime_corpus"
-EMBEDDING_MODEL_NAME    = "text-embedding-3-small"  # OpenAI — no PyTorch needed
+EMBEDDING_MODEL_NAME    = "text-embedding-3-small"
 
 # ---------------------------------------------------------------------------
 # Lazy singletons
 # ---------------------------------------------------------------------------
-_chroma_client:    chromadb.Client | None = None
-_corpus_collection: Any                   = None
-_openai_client:    OpenAI | None          = None
+_chroma_client:     chromadb.Client | None = None
+_corpus_collection: Any                    = None
+_openai_client:     OpenAI | None          = None
 
 
 def _get_openai_client() -> OpenAI:
@@ -50,15 +50,20 @@ def _embed(text: str) -> List[float]:
 
 
 def _get_corpus_collection():
+    """Return (and lazily create) the Chroma collection. Never raises."""
     global _chroma_client, _corpus_collection
     if _corpus_collection is not None:
         return _corpus_collection
-    print(f"[memory_store] Connecting to Chroma corpus DB at {CORPUS_DB_DIR}")
+
+    CORPUS_DB_DIR.mkdir(parents=True, exist_ok=True)
     _chroma_client = chromadb.PersistentClient(
         path=str(CORPUS_DB_DIR),
         settings=Settings(anonymized_telemetry=False),
     )
-    _corpus_collection = _chroma_client.get_collection(name=CORPUS_COLLECTION_NAME)
+    # get_or_create so startup never fails on a fresh container
+    _corpus_collection = _chroma_client.get_or_create_collection(
+        name=CORPUS_COLLECTION_NAME
+    )
     return _corpus_collection
 
 
@@ -118,7 +123,8 @@ def iter_memory_entries() -> Iterable[ReasoningMemoryEntry]:
 def debug_corpus_stats() -> None:
     try:
         collection = _get_corpus_collection()
-        print(f"[memory_store] Corpus '{CORPUS_COLLECTION_NAME}' has {collection.count()} docs.")
+        count = collection.count()
+        print(f"[memory_store] Corpus '{CORPUS_COLLECTION_NAME}' has {count} docs.")
     except Exception as exc:
         print(f"[memory_store] debug_corpus_stats: {exc!r}")
 
@@ -131,8 +137,11 @@ def list_any_corpus_docs(limit: int = 3) -> List[Dict[str, Any]]:
             try:
                 res = collection.get(ids=[f"doc-{i}"])
                 if res and res.get("documents"):
-                    docs.append({"id": f"doc-{i}", "text": res["documents"][0],
-                                  "metadata": res.get("metadatas", [{}])[0]})
+                    docs.append({
+                        "id": f"doc-{i}",
+                        "text": res["documents"][0],
+                        "metadata": res.get("metadatas", [{}])[0],
+                    })
             except Exception:
                 continue
         return docs
@@ -143,7 +152,7 @@ def list_any_corpus_docs(limit: int = 3) -> List[Dict[str, Any]]:
 
 def search_corpus(query: str, top_k: int = 5) -> List[Dict[str, Any]]:
     try:
-        collection     = _get_corpus_collection()
+        collection      = _get_corpus_collection()
         query_embedding = _embed(query)
         results = collection.query(query_embeddings=[query_embedding], n_results=top_k)
         docs  = results.get("documents", [[]])[0]
@@ -181,5 +190,5 @@ def search_corpus_for_task(task: ReasoningTask, top_k: int = 5) -> List[Dict[str
         return []
 
 
-# Run a quick stats check when the module is imported
+# Startup sanity check — safe now because we use get_or_create_collection
 debug_corpus_stats()
