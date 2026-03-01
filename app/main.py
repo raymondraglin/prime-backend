@@ -3,6 +3,7 @@ load_dotenv()
 
 import logging
 import os
+import sys
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -17,6 +18,33 @@ from app.prime.ingest.router import router as prime_ingest_router
 from app.prime.goals.routes import router as goals_router
 
 logger = logging.getLogger("prime.startup")
+
+# ---------------------------------------------------------------------------
+# Startup assertions -- fail loud and early, never silently
+# ---------------------------------------------------------------------------
+_REQUIRED_ENV: list[tuple[str, str]] = [
+    ("SECRET_KEY",      "JWT signing key -- auth will fail at runtime without this"),
+    ("OPENAI_API_KEY",  "OpenAI API key -- all LLM calls will fail without this"),
+    ("DATABASE_URL",    "Postgres connection string -- all DB operations will fail without this"),
+]
+
+def _assert_env() -> None:
+    missing = [
+        (key, hint)
+        for key, hint in _REQUIRED_ENV
+        if not os.getenv(key)
+    ]
+    if missing:
+        lines = ["\n[PRIME] FATAL: missing required environment variables:\n"]
+        for key, hint in missing:
+            lines.append(f"  {key}\n    → {hint}")
+        lines.append("\nSet these in your .env file (see .env.example) and restart.\n")
+        logger.critical("\n".join(lines))
+        sys.exit(1)
+
+_assert_env()
+
+# ---------------------------------------------------------------------------
 
 app = FastAPI(title="PRIME", version="1.0.0")
 
