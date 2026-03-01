@@ -20,6 +20,14 @@ Tools (Layer C — execution):
 
 Tools (Layer D — academic corpus):
   academic_search — Search external_corpus/ textbooks, papers, and notes
+
+Tools (Layer E — GitHub):
+  read_github_file      — Read a file from any public GitHub repo
+  list_github_repo      — List files in a directory from any GitHub repo
+  create_github_branch  — Create a new branch (requires GITHUB_TOKEN)
+  push_github_file      — Commit and push a file (requires GITHUB_TOKEN)
+  create_pull_request   — Open a PR (requires GITHUB_TOKEN)
+  search_github_code    — Search code across all of GitHub (requires GITHUB_TOKEN)
 """
 
 from __future__ import annotations
@@ -286,6 +294,133 @@ TOOL_DEFINITIONS = [
             },
         },
     },
+
+    # ── Layer E: GitHub ─────────────────────────────────────────────────────────────────
+    {
+        "type": "function",
+        "function": {
+            "name": "read_github_file",
+            "description": (
+                "Read a file from any public GitHub repository. "
+                "Use this to inspect code or docs from external projects."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "owner": {"type": "string", "description": "Repository owner (user or org)"},
+                    "repo":  {"type": "string", "description": "Repository name"},
+                    "path":  {"type": "string", "description": "File path within the repo"},
+                    "ref":   {"type": "string", "description": "Branch or tag name (default: main)", "default": "main"},
+                },
+                "required": ["owner", "repo", "path"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "list_github_repo",
+            "description": (
+                "List files and directories in a GitHub repository. "
+                "Use this to explore structure before reading specific files."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "owner": {"type": "string", "description": "Repository owner"},
+                    "repo":  {"type": "string", "description": "Repository name"},
+                    "path":  {"type": "string", "description": "Directory path (empty for root)", "default": ""},
+                    "ref":   {"type": "string", "description": "Branch or tag name (default: main)", "default": "main"},
+                },
+                "required": ["owner", "repo"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "create_github_branch",
+            "description": (
+                "Create a new branch in a GitHub repository you have write access to. "
+                "Requires GITHUB_TOKEN. Use this before pushing changes."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "owner":       {"type": "string", "description": "Repository owner"},
+                    "repo":        {"type": "string", "description": "Repository name"},
+                    "branch":      {"type": "string", "description": "Name for the new branch"},
+                    "from_branch": {"type": "string", "description": "Branch to create from (default: main)", "default": "main"},
+                },
+                "required": ["owner", "repo", "branch"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "push_github_file",
+            "description": (
+                "Commit and push a file to a GitHub repository. "
+                "Creates new file if path doesn't exist; updates if it does. "
+                "Requires GITHUB_TOKEN with repo scope."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "owner":   {"type": "string", "description": "Repository owner"},
+                    "repo":    {"type": "string", "description": "Repository name"},
+                    "path":    {"type": "string", "description": "File path in the repo"},
+                    "content": {"type": "string", "description": "File content (UTF-8 text)"},
+                    "message": {"type": "string", "description": "Commit message"},
+                    "branch":  {"type": "string", "description": "Branch to push to (default: main)", "default": "main"},
+                    "sha":     {"type": "string", "description": "Existing file SHA (for updates)"},
+                },
+                "required": ["owner", "repo", "path", "content", "message"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "create_pull_request",
+            "description": (
+                "Open a pull request from head branch to base branch. "
+                "Requires GITHUB_TOKEN with repo scope."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "owner": {"type": "string", "description": "Repository owner"},
+                    "repo":  {"type": "string", "description": "Repository name"},
+                    "title": {"type": "string", "description": "PR title"},
+                    "head":  {"type": "string", "description": "Branch containing changes"},
+                    "base":  {"type": "string", "description": "Branch to merge into (default: main)", "default": "main"},
+                    "body":  {"type": "string", "description": "PR description", "default": ""},
+                },
+                "required": ["owner", "repo", "title", "head"],
+            },
+        },
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "search_github_code",
+            "description": (
+                "Search code across all of GitHub using GitHub's code search. "
+                "Use this to find examples, implementations, or usage patterns. "
+                "Requires GITHUB_TOKEN."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {"type": "string", "description": "Code search query (supports GitHub search syntax)"},
+                    "k":     {"type": "integer", "description": "Number of results (default 5, max 30)", "default": 5},
+                },
+                "required": ["query"],
+            },
+        },
+    },
 ]
 
 
@@ -344,6 +479,64 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
                 semantic = tool_args.get("semantic", False),
             )
             result = {"query": tool_args["query"], "hits": hits, "count": len(hits)}
+
+        # ── Layer E: GitHub ─────────────────────────────────────────────────────────────────
+        elif tool_name == "read_github_file":
+            from app.prime.tools.github_tools import read_github_file
+            result = read_github_file(
+                owner = tool_args["owner"],
+                repo  = tool_args["repo"],
+                path  = tool_args["path"],
+                ref   = tool_args.get("ref", "main"),
+            )
+
+        elif tool_name == "list_github_repo":
+            from app.prime.tools.github_tools import list_github_repo
+            result = list_github_repo(
+                owner = tool_args["owner"],
+                repo  = tool_args["repo"],
+                path  = tool_args.get("path", ""),
+                ref   = tool_args.get("ref", "main"),
+            )
+
+        elif tool_name == "create_github_branch":
+            from app.prime.tools.github_tools import create_github_branch
+            result = create_github_branch(
+                owner       = tool_args["owner"],
+                repo        = tool_args["repo"],
+                branch      = tool_args["branch"],
+                from_branch = tool_args.get("from_branch", "main"),
+            )
+
+        elif tool_name == "push_github_file":
+            from app.prime.tools.github_tools import push_github_file
+            result = push_github_file(
+                owner   = tool_args["owner"],
+                repo    = tool_args["repo"],
+                path    = tool_args["path"],
+                content = tool_args["content"],
+                message = tool_args["message"],
+                branch  = tool_args.get("branch", "main"),
+                sha     = tool_args.get("sha"),
+            )
+
+        elif tool_name == "create_pull_request":
+            from app.prime.tools.github_tools import create_pull_request
+            result = create_pull_request(
+                owner = tool_args["owner"],
+                repo  = tool_args["repo"],
+                title = tool_args["title"],
+                head  = tool_args["head"],
+                base  = tool_args.get("base", "main"),
+                body  = tool_args.get("body", ""),
+            )
+
+        elif tool_name == "search_github_code":
+            from app.prime.tools.github_tools import search_github_code
+            result = search_github_code(
+                query = tool_args["query"],
+                k     = tool_args.get("k", 5),
+            )
 
         elif tool_name in TOOL_IMPLEMENTATIONS:
             result = TOOL_IMPLEMENTATIONS[tool_name](**tool_args)
