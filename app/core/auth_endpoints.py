@@ -4,7 +4,7 @@ from fastapi.security import OAuth2PasswordRequestForm
 from pydantic import BaseModel
 
 from app.core.auth import authenticate_user, create_access_token, get_current_user
-from app.prime.memory.store import load_all_summaries, load_recent_turns
+from app.prime.memory.store import get_recent_context
 
 router = APIRouter(prefix="/auth", tags=["auth"])
 
@@ -14,7 +14,6 @@ class LoginResponse(BaseModel):
     token_type: str
     user_id: str
     display_name: str
-    memory_count: int
     recent_turns: int
 
 
@@ -29,26 +28,22 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends()):
         )
 
     token = create_access_token({"sub": user["user_id"]})
-    summaries = load_all_summaries(user_id=user["user_id"])
-    recent = load_recent_turns(user_id=user["user_id"])
+    recent = get_recent_context(user_id=user["user_id"], limit=10)
 
     return LoginResponse(
         access_token=token,
         token_type="bearer",
         user_id=user["user_id"],
         display_name=user["display_name"],
-        memory_count=len(summaries),
         recent_turns=len(recent),
     )
 
 
 @router.get("/me")
 async def get_me(current_user: dict = Depends(get_current_user)):
-    summaries = load_all_summaries(user_id=current_user["user_id"])
-    recent = load_recent_turns(user_id=current_user["user_id"])
+    recent = get_recent_context(user_id=current_user["user_id"], limit=10)
     return {
         "user_id": current_user["user_id"],
         "display_name": current_user["display_name"],
-        "memory_count": len(summaries),
         "recent_turns": len(recent),
     }
