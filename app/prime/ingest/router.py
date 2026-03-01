@@ -100,9 +100,8 @@ async def ingest_image(
 
         entry = PrimeNotebookEntry(
             kind="image_observation",
-            entry_type="image_observation",
             title=f"Image: {image.filename}",
-            content=description,
+            body=description,
         )
         db.add(entry)
         await db.commit()
@@ -130,9 +129,8 @@ async def ingest_pdf(
 
         entry = PrimeNotebookEntry(
             kind="document_summary",
-            entry_type="document_summary",
             title=f"Document: {pdf.filename}",
-            content=body_for_notebook,
+            body=body_for_notebook,
         )
         db.add(entry)
         await db.commit()
@@ -175,9 +173,8 @@ async def ingest_audio(
 
         entry = PrimeNotebookEntry(
             kind="audio_transcript",
-            entry_type="audio_transcript",
             title=f"Audio: {audio.filename}",
-            content=transcript,
+            body=transcript,
         )
         db.add(entry)
         await db.commit()
@@ -224,9 +221,8 @@ async def ingest_document(
 
         entry = PrimeNotebookEntry(
             kind="document_summary",
-            entry_type="document_summary",
             title=f"Document: {file.filename}",
-            content=body_for_notebook,
+            body=body_for_notebook,
         )
         db.add(entry)
         await db.commit()
@@ -247,4 +243,3 @@ async def ingest_document(
         tb = traceback.format_exc()
         print(f"[INGEST DOCUMENT ERROR]\n{tb}")
         return JSONResponse(status_code=500, content={"detail": str(e), "traceback": tb})
-

@@ -6,10 +6,10 @@ The single entrypoint for all chat orchestration.
 endpoints.py hands off here; orchestrator returns AgentResponse.
 
 Loop:
-  1. detect_intent()           → IntentDecision
-  2. load memory + corpus      → context bundle
-  3. build_chat_messages()     → formatted message list
-  4. chat_with_tools() OR      → LLMResponse
+  1. detect_intent()           -> IntentDecision
+  2. load memory + corpus      -> context bundle
+  3. build_chat_messages()     -> formatted message list
+  4. chat_with_tools() OR      -> LLMResponse
      chat_or_fallback()
   5. persist turn + summarize
   6. return AgentResponse
@@ -22,10 +22,11 @@ Design rules:
 
 from __future__ import annotations
 
+import json
 from datetime import datetime
 from typing import Any, Optional
 from uuid import uuid4
-import json 
+
 from pydantic import BaseModel, Field
 
 from app.prime.agent.intent import detect_intent, IntentDecision, ToolPolicy
@@ -141,8 +142,8 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
 
     if use_tools:
         allowed_defs = [
-            d for d in TOOL_DEFINITIONS
-            if d["function"]["name"] in decision.allowed_tools
+            t for t in TOOL_DEFINITIONS
+            if t["function"]["name"] in decision.allowed_tools
         ]
         try:
             llm_response = await prime_llm.chat_with_tools(
@@ -152,9 +153,9 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
                 max_tool_rounds=decision.max_tool_rounds,
             )
             reply_text  = llm_response.text
-            tool_rounds = getattr(llm_response, "rounds", 1)
+            tool_rounds = llm_response.rounds
 
-            for tc in (getattr(llm_response, "tool_calls", None) or []):
+            for tc in llm_response.tool_calls:
                 tool_calls_record.append(ToolCallRecord(
                     tool_name=tc.get("name", ""),
                     args=tc.get("args", {}),
@@ -191,6 +192,7 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         tool_calls=tool_calls_record,
         tool_rounds=tool_rounds,
     )
+
 
 from fastapi.responses import StreamingResponse as FastAPIStreaming
 

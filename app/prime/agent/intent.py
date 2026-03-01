@@ -58,7 +58,7 @@ class IntentDecision(BaseModel):
     tool_policy:      ToolPolicy
     engineer_mode:    bool
     allowed_tools:    list[str]
-    force_first_tool: Optional[str] = None   # ← FIX: was bool
+    force_first_tool: Optional[str]  # tool name to force on round 0, or None
     max_tool_rounds:  int
     needs_web:        bool
     needs_exec:       bool
@@ -76,7 +76,7 @@ _CODE_SIGNALS = [
     r"\b(endpoint|router|migration|schema|model|column|table|index)\b",
     r"```", r"\.py\b", r"\.ts\b",
     r"\b(POST|GET|PUT|DELETE|PATCH)\b",
-    r"\b[0-9]{2}\b",
+    r"\b[45][0-9]{2}\b",
     r"\b(fastapi|sqlalchemy|pydantic|alembic|uvicorn)\b",
 ]
 
@@ -161,7 +161,7 @@ def detect_intent(
             tool_policy=ToolPolicy.REQUIRED,
             engineer_mode=True,
             allowed_tools=["read_file", "list_directory", "search_codebase"],
-            force_first_tool="list_directory",   # ← FIX: was True
+            force_first_tool="list_directory",
             max_tool_rounds=5,
             needs_web=False,
             needs_exec=False,
@@ -176,7 +176,7 @@ def detect_intent(
             tool_policy=ToolPolicy.REQUIRED,
             engineer_mode=True,
             allowed_tools=["read_file", "query_database", "search_codebase"],
-            force_first_tool="read_file",        # ← FIX: was True
+            force_first_tool=None,
             max_tool_rounds=4,
             needs_web=False,
             needs_exec=False,
@@ -191,7 +191,7 @@ def detect_intent(
             tool_policy=ToolPolicy.ALLOWED,
             engineer_mode=True,
             allowed_tools=["read_file", "list_directory", "search_codebase"],
-            force_first_tool=None,               # ← FIX: was False
+            force_first_tool=None,
             max_tool_rounds=5,
             needs_web=False,
             needs_exec=False,
@@ -206,7 +206,7 @@ def detect_intent(
             tool_policy=ToolPolicy.ALLOWED,
             engineer_mode=False,
             allowed_tools=["web_search", "fetch_url"],
-            force_first_tool=None,               # ← FIX: was False
+            force_first_tool=None,
             max_tool_rounds=3,
             needs_web=True,
             needs_exec=False,
@@ -221,7 +221,7 @@ def detect_intent(
             tool_policy=ToolPolicy.ALLOWED,
             engineer_mode=False,
             allowed_tools=["read_file", "search_codebase", "web_search"],
-            force_first_tool=None,               # ← FIX: was False
+            force_first_tool=None,
             max_tool_rounds=3,
             needs_web=True,
             needs_exec=False,
@@ -239,7 +239,7 @@ def _general_chat() -> IntentDecision:
         tool_policy=ToolPolicy.NONE,
         engineer_mode=False,
         allowed_tools=[],
-        force_first_tool=None,                   # ← FIX: was False
+        force_first_tool=None,
         max_tool_rounds=0,
         needs_web=False,
         needs_exec=False,
