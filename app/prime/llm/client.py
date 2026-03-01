@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field
 class LLMConfig(BaseModel):
     base_url: str = "https://api.deepseek.com"
     model: str = "deepseek-chat"
-    max_tokens: int = 4096
+    max_completion_tokens: int = 4096
     temperature: float = 0.85
     top_p: float = 0.9
     timeout: float = 120.0
@@ -30,7 +30,7 @@ class LLMResponse(BaseModel):
     completion_tokens: Optional[int]  = None
     tool_calls:        list[dict]     = Field(default_factory=list)
     rounds:            int            = 0
-    citations:         list[dict]     = Field(default_factory=list)   # ← NEW
+    citations:         list[dict]     = Field(default_factory=list)
 
 
 def _parse_citations(raw_text: str) -> tuple[str, list[dict]]:
@@ -60,7 +60,7 @@ class PrimeLLMClient:
         payload = {
             "model": self.config.model,
             "messages": [{"role": m.role, "content": m.content} for m in messages],
-            "max_tokens": self.config.max_tokens,
+            "max_tokens": self.config.max_completion_tokens,
             "temperature": self.config.temperature,
             "top_p": self.config.top_p,
             "stream": False,
@@ -93,18 +93,6 @@ class PrimeLLMClient:
         max_tool_rounds: int = 6,
         force_first_tool: Optional[str] = None,
     ) -> LLMResponse:
-        """
-        Chat with OpenAI-compatible function calling.
-        Automatically executes tool calls and loops until the model returns
-        a final plain-text reply.
-
-        Args:
-            force_first_tool: If set, round 0 will force the model to call
-                this specific tool (e.g. 'list_directory') before anything
-                else. Subsequent rounds use tool_choice='auto'. This is the
-                'evidence-first' enforcement: PRIME must read before it speaks.
-                Example: force_first_tool='list_directory'
-        """
         from app.prime.tools.prime_tools import execute_tool
 
         msg_list: List[Dict[str, Any]] = [
@@ -128,7 +116,7 @@ class PrimeLLMClient:
             payload = {
                 "model": self.config.model,
                 "messages": msg_list,
-                "max_tokens": self.config.max_tokens,
+                "max_tokens": self.config.max_completion_tokens,
                 "temperature": self.config.temperature,
                 "top_p": self.config.top_p,
                 "stream": False,
@@ -214,14 +202,10 @@ class PrimeLLMClient:
         self,
         messages: List[LLMMessage],
     ):
-        """
-        Yield text chunks as Server-Sent Events.
-        Usage: async for chunk in prime_llm.stream_chat(messages): yield chunk
-        """
         payload = {
             "model":       self.config.model,
             "messages":    [{"role": m.role, "content": m.content} for m in messages],
-            "max_tokens":  self.config.max_tokens,
+            "max_tokens":  self.config.max_completion_tokens,
             "temperature": self.config.temperature,
             "top_p":       self.config.top_p,
             "stream":      True,
