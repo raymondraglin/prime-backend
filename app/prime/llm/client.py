@@ -30,6 +30,17 @@ class LLMResponse(BaseModel):
     completion_tokens: Optional[int]  = None
     tool_calls:        list[dict]     = Field(default_factory=list)
     rounds:            int            = 0
+    citations:         list[dict]     = Field(default_factory=list)   # ← NEW
+
+
+def _parse_citations(raw_text: str) -> tuple[str, list[dict]]:
+    """Extract [CITE: ...] markers from raw LLM text. Returns (clean_text, citations)."""
+    try:
+        from app.prime.citations.extractor import extract_citations
+        clean, citation_objs = extract_citations(raw_text)
+        return clean, [c.to_dict() for c in citation_objs]
+    except Exception:
+        return raw_text, []
 
 
 class PrimeLLMClient:
@@ -63,13 +74,16 @@ class PrimeLLMClient:
             response.raise_for_status()
             data = response.json()
 
-        choice = data["choices"][0]["message"]["content"]
-        usage = data.get("usage", {})
+        raw_text = data["choices"][0]["message"]["content"]
+        usage    = data.get("usage", {})
+        clean_text, citations = _parse_citations(raw_text.strip())
+
         return LLMResponse(
-            text=choice.strip(),
+            text=clean_text,
             model=data.get("model", self.config.model),
             prompt_tokens=usage.get("prompt_tokens"),
             completion_tokens=usage.get("completion_tokens"),
+            citations=citations,
         )
 
     async def chat_with_tools(
@@ -101,17 +115,12 @@ class PrimeLLMClient:
         rounds_completed:    int        = 0
 
         for _round in range(max_tool_rounds):
-            # ── tool_choice logic ─────────────────────────────────────────────
             if _round == 0 and force_first_tool:
-                # Force a specific tool — evidence-first enforcement.
-                # PRIME must call list_directory (or whichever tool is named)
-                # before generating any prose on repo/code questions.
                 tool_choice_val: Any = {
                     "type": "function",
                     "function": {"name": force_first_tool},
                 }
             elif _round == 0:
-                # Still require A tool on round 0, just not a specific one
                 tool_choice_val = "required"
             else:
                 tool_choice_val = "auto"
@@ -136,22 +145,23 @@ class PrimeLLMClient:
                 response.raise_for_status()
                 data = response.json()
 
-            choice = data["choices"][0]["message"]
+            choice     = data["choices"][0]["message"]
             tool_calls = choice.get("tool_calls") or []
 
             if not tool_calls:
-                text = choice.get("content") or ""
-                usage = data.get("usage", {})
+                raw_text = choice.get("content") or ""
+                usage    = data.get("usage", {})
+                clean_text, citations = _parse_citations(raw_text.strip())
                 return LLMResponse(
-                    text=text.strip(),
+                    text=clean_text,
                     model=data.get("model", self.config.model),
                     prompt_tokens=usage.get("prompt_tokens"),
                     completion_tokens=usage.get("completion_tokens"),
                     tool_calls=recorded_tool_calls,
                     rounds=rounds_completed,
+                    citations=citations,
                 )
 
-            # Append assistant message with tool_calls
             msg_list.append(
                 {
                     "role": "assistant",
@@ -160,7 +170,6 @@ class PrimeLLMClient:
                 }
             )
 
-            # Execute each tool and append results
             for tc in tool_calls:
                 tool_name = tc["function"]["name"]
                 try:
@@ -173,7 +182,7 @@ class PrimeLLMClient:
                 result = execute_tool(tool_name, tool_args)
                 dur_ms = (time.perf_counter() - t0) * 1000
 
-                print(f"[PRIME tool] {tool_name}({tool_args}) → {result[:120]}")
+                print(f"[PRIME tool] {tool_name}({tool_args}) \u2192 {result[:120]}")
 
                 recorded_tool_calls.append({
                     "name":        tool_name,
@@ -191,7 +200,6 @@ class PrimeLLMClient:
                 )
 
             rounds_completed += 1
-
 
         # Max rounds hit — ask for a plain summary
         msg_list.append({"role": "user", "content": "Summarize what you found."})
