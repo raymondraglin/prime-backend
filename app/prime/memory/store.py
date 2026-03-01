@@ -1,238 +1,270 @@
 # app/prime/memory/store.py
 """
-PRIME persistent memory store.
+PRIME Memory Store
 
-Storage backend:
-  If DATABASE_URL is set → Postgres (production).
-  Otherwise            → SQLite at prime_memory.db (local dev fallback).
+Persistent conversation storage with semantic retrieval.
 
-  URL is always normalized to psycopg2 (sync) driver so asyncpg never
-  gets loaded here. Async drivers belong only in async-native code.
-
-Fallback chain:
-  1. Postgres via DATABASE_URL  (if set and reachable)
-  2. SQLite at prime_memory.db  (if Postgres unavailable at startup)
-
-Every turn is saved immediately.
-Every 10 unsummarized turns trigger a DeepSeek summarization.
-On every LLM call, PRIME loads summaries + recent raw turns for context.
-
-Vector indexing (semantic memory):
-  After save_turn / save_summary, the text is embedded + stored in
-  pgvector via retrieval.index_turn / retrieval.index_summary.
-  Fire-and-forget — never blocks or crashes chat.
-  Requires OPENAI_API_KEY + VECTOR_DATABASE_URL.
+Core operations:
+  save_conversation_turn    -- persist user/assistant pair + generate embedding
+  search_memories           -- semantic search across all stored turns
+  get_conversation_history  -- chronological retrieval by session_id
+  get_recent_context        -- last N turns for a user (cross-session)
 """
-
 from __future__ import annotations
+
 import os
-from datetime import datetime
-from typing import Optional
-import httpx
-from sqlalchemy import create_engine, select, update
-from sqlalchemy.orm import Session
-from app.prime.memory.models import Base, PrimeConversationTurn, PrimeMemorySummary
+from datetime import datetime, timezone
+from typing import Any
+import uuid
+
+import sqlalchemy as sa
+from openai import OpenAI
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+
+from app.prime.memory.models import Base, ConversationTurn, MemoryEmbedding, EMBEDDING_DIM
+
+EMBEDDING_MODEL = "text-embedding-3-small"
 
 
-# ---------------------------------------------------------------------------
-# URL normalisation — always use psycopg2 (sync) for store.py
-# ---------------------------------------------------------------------------
-
-def _sync_url(url: str) -> str:
-    """
-    Force the psycopg2 driver regardless of what the env var says.
-    Supabase and other providers sometimes emit asyncpg URLs; store.py
-    is synchronous and must never load the async dialect.
-    """
-    url = url.replace("postgresql+asyncpg://", "postgresql+psycopg2://")
-    if url.startswith("postgresql://") and "+" not in url.split("://")[0]:
-        url = url.replace("postgresql://", "postgresql+psycopg2://", 1)
-    return url
+def _get_engine():
+    db_url = os.getenv("DATABASE_URL", "")
+    if not db_url:
+        raise ValueError("DATABASE_URL not set")
+    sync_url = db_url.replace("postgresql+asyncpg://", "postgresql://")
+    return create_engine(sync_url)
 
 
-# ---------------------------------------------------------------------------
-# Engine — Postgres if DATABASE_URL is set, SQLite as fallback
-# ---------------------------------------------------------------------------
-
-_raw_url = os.getenv("DATABASE_URL", "")
-
-if _raw_url:
-    _db_url = _sync_url(_raw_url)
-    try:
-        engine = create_engine(_db_url, echo=False)
-        Base.metadata.create_all(engine)
-    except Exception as _pg_err:
-        print(f"[PRIME MEMORY] Postgres unavailable ({_pg_err!r}), falling back to SQLite")
-        _DB_PATH = os.path.join(os.path.dirname(__file__), "prime_memory.db")
-        engine   = create_engine(f"sqlite:///{_DB_PATH}", echo=False)
-        Base.metadata.create_all(engine)
-else:
-    _DB_PATH = os.path.join(os.path.dirname(__file__), "prime_memory.db")
-    engine   = create_engine(f"sqlite:///{_DB_PATH}", echo=False)
+def ensure_tables():
+    """Create memory tables and pgvector extension if not exists."""
+    engine = _get_engine()
+    with engine.connect() as conn:
+        conn.execute(sa.text("CREATE EXTENSION IF NOT EXISTS vector"))
+        conn.commit()
     Base.metadata.create_all(engine)
 
 
-SUMMARY_THRESHOLD    = 10
-RECENT_TURNS_TO_LOAD = 6
-
-
-# ---------------------------------------------------------------------------
-# Turn operations
-# ---------------------------------------------------------------------------
-
-def save_turn(
-    session_id: str,
-    role:       str,
-    content:    str,
-    user_id:    str = "raymond",
-) -> None:
-    with Session(engine) as db:
-        turn = PrimeConversationTurn(
-            session_id=session_id,
-            user_id=user_id,
-            role=role,
-            content=content,
-            timestamp=datetime.utcnow(),
-            summarized=False,
-        )
-        db.add(turn)
-        db.commit()
-
-    # Index in vector store — fire-and-forget
-    try:
-        from app.prime.memory.retrieval import index_turn
-        index_turn(user_id=user_id, session_id=session_id, role=role, content=content)
-    except Exception:
-        pass
-
-
-def load_recent_turns(user_id: str = "raymond", limit: int = RECENT_TURNS_TO_LOAD):
-    """Load the most recent unsummarized turns for context."""
-    with Session(engine) as db:
-        rows = db.execute(
-            select(PrimeConversationTurn)
-            .where(PrimeConversationTurn.user_id == user_id)
-            .where(PrimeConversationTurn.summarized == False)
-            .order_by(PrimeConversationTurn.id.desc())
-            .limit(limit)
-        ).scalars().all()
-        return list(reversed(rows))
-
-
-# ---------------------------------------------------------------------------
-# Summary operations
-# ---------------------------------------------------------------------------
-
-def load_all_summaries(user_id: str = "raymond"):
-    """Load all memory summaries — PRIME's compressed long-term memory."""
-    with Session(engine) as db:
-        rows = db.execute(
-            select(PrimeMemorySummary)
-            .where(PrimeMemorySummary.user_id == user_id)
-            .order_by(PrimeMemorySummary.id.asc())
-        ).scalars().all()
-        return rows
-
-
-def count_unsummarized(user_id: str = "raymond") -> int:
-    with Session(engine) as db:
-        rows = db.execute(
-            select(PrimeConversationTurn)
-            .where(PrimeConversationTurn.user_id == user_id)
-            .where(PrimeConversationTurn.summarized == False)
-        ).scalars().all()
-        return len(rows)
-
-
-def mark_turns_summarized(user_id: str = "raymond") -> None:
-    with Session(engine) as db:
-        db.execute(
-            update(PrimeConversationTurn)
-            .where(PrimeConversationTurn.user_id == user_id)
-            .where(PrimeConversationTurn.summarized == False)
-            .values(summarized=True)
-        )
-        db.commit()
-
-
-def save_summary(
-    summary_text: str,
-    turn_range:   str,
-    user_id:      str = "raymond",
-) -> None:
-    with Session(engine) as db:
-        entry = PrimeMemorySummary(
-            user_id=user_id,
-            summary=summary_text,
-            turn_range=turn_range,
-            created_at=datetime.utcnow(),
-            archived=False,
-        )
-        db.add(entry)
-        db.commit()
-
-    # Index summary in vector store — fire-and-forget
-    try:
-        from app.prime.memory.retrieval import index_summary
-        index_summary(user_id=user_id, summary_text=summary_text)
-    except Exception:
-        pass
-
-
-# ---------------------------------------------------------------------------
-# Auto-summarization
-# ---------------------------------------------------------------------------
-
-async def maybe_summarize(user_id: str = "raymond") -> None:
+def save_conversation_turn(
+    user_message: str,
+    assistant_message: str,
+    session_id: str | uuid.UUID | None = None,
+    user_id: str = "raymond",
+    model: str | None = None,
+    tokens_used: int | None = None,
+    tool_calls: list[dict] | None = None,
+    citations: list[dict] | None = None,
+    metadata: dict | None = None,
+) -> int:
     """
-    If unsummarized turns hit SUMMARY_THRESHOLD, compress them into
-    a DeepSeek summary and mark raw turns as summarized.
+    Save a conversation turn and generate its embedding.
+
+    Args:
+        user_message      : user query
+        assistant_message : PRIME response
+        session_id        : optional session grouping (auto-generated if None)
+        user_id           : user identifier (default: 'raymond')
+        model             : LLM model used
+        tokens_used       : token count for this turn
+        tool_calls        : list of tool invocations
+        citations         : list of sources cited
+        metadata          : arbitrary context dict
+
+    Returns:
+        turn_id (int) for the saved conversation turn
     """
-    if count_unsummarized(user_id) < SUMMARY_THRESHOLD:
-        return
-
-    turns = load_recent_turns(user_id=user_id, limit=SUMMARY_THRESHOLD)
-    if not turns:
-        return
-
-    transcript = "\n".join(f"{t.role.upper()}: {t.content}" for t in turns)
-    turn_range = f"turns {turns[0].id}-{turns[-1].id}"
-
-    prompt = (
-        "You are PRIME's memory system. Compress the following conversation into "
-        "a dense, third-person summary that captures: key decisions made, "
-        "important facts Raymond shared, emotional tone, open questions, "
-        "and anything PRIME should remember permanently. "
-        "Be specific. No filler. Write it so PRIME can read it months from now "
-        "and know exactly what mattered.\n\n"
-        f"CONVERSATION:\n{transcript}\n\nSUMMARY:"
-    )
-
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
-    if not api_key:
-        return
+    ensure_tables()
+    engine  = _get_engine()
+    Session = sessionmaker(bind=engine)
+    session = Session()
 
     try:
-        async with httpx.AsyncClient(timeout=60.0) as client:
-            response = await client.post(
-                "https://api.deepseek.com/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {api_key}",
-                    "Content-Type":  "application/json",
-                },
-                json={
-                    "model":       "deepseek-chat",
-                    "messages":    [{"role": "user", "content": prompt}],
-                    "max_tokens":  512,
-                    "temperature": 0.3,
-                },
+        if session_id is None:
+            session_id = uuid.uuid4()
+        elif isinstance(session_id, str):
+            session_id = uuid.UUID(session_id)
+
+        turn = ConversationTurn(
+            session_id    = session_id,
+            user_id       = user_id,
+            user_message  = user_message,
+            assistant_msg = assistant_message,
+            model         = model,
+            tokens_used   = tokens_used,
+            tool_calls    = tool_calls or [],
+            citations     = citations or [],
+            metadata      = metadata or {},
+        )
+        session.add(turn)
+        session.flush()
+        turn_id = turn.id
+
+        # Generate embedding
+        summary = f"{user_message[:500]} | {assistant_message[:200]}"
+        client  = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        resp    = client.embeddings.create(model=EMBEDDING_MODEL, input=[summary])
+        emb     = resp.data[0].embedding
+
+        mem_emb = MemoryEmbedding(
+            turn_id   = turn_id,
+            user_id   = user_id,
+            summary   = summary,
+            embedding = emb,
+        )
+        session.add(mem_emb)
+        session.commit()
+
+        return turn_id
+
+    finally:
+        session.close()
+
+
+def search_memories(
+    query: str,
+    k: int = 5,
+    user_id: str | None = None,
+) -> list[dict]:
+    """
+    Semantic search across all stored conversation turns.
+
+    Args:
+        query   : natural language query
+        k       : number of results
+        user_id : optional filter by user
+
+    Returns:
+        list of dicts: {turn_id, user_message, assistant_msg, score, created_at}
+    """
+    ensure_tables()
+    engine  = _get_engine()
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    try:
+        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        resp   = client.embeddings.create(model=EMBEDDING_MODEL, input=[query])
+        q_emb  = resp.data[0].embedding
+
+        query_obj = (
+            session.query(
+                ConversationTurn.id,
+                ConversationTurn.user_message,
+                ConversationTurn.assistant_msg,
+                ConversationTurn.created_at,
+                MemoryEmbedding.embedding.cosine_distance(q_emb).label("distance"),
             )
-            data         = response.json()
-            summary_text = data["choices"][0]["message"]["content"].strip()
+            .join(MemoryEmbedding, ConversationTurn.id == MemoryEmbedding.turn_id)
+        )
 
-        save_summary(summary_text, turn_range, user_id)
-        mark_turns_summarized(user_id)
-        print(f"[PRIME MEMORY] Summarized {turn_range} for {user_id}")
+        if user_id:
+            query_obj = query_obj.filter(ConversationTurn.user_id == user_id)
 
-    except Exception as exc:
-        print(f"[PRIME MEMORY] Summarization failed: {exc!r}")
+        results = query_obj.order_by(sa.text("distance")).limit(k).all()
+
+        return [
+            {
+                "turn_id":       r.id,
+                "user_message":  r.user_message,
+                "assistant_msg": r.assistant_msg,
+                "created_at":    r.created_at.isoformat(),
+                "score":         round(1 - r.distance, 4),
+            }
+            for r in results
+        ]
+
+    finally:
+        session.close()
+
+
+def get_conversation_history(
+    session_id: str | uuid.UUID,
+    limit: int = 50,
+) -> list[dict]:
+    """
+    Retrieve chronological conversation history for a session.
+
+    Args:
+        session_id : session UUID
+        limit      : max turns to retrieve (default 50)
+
+    Returns:
+        list of turn dicts ordered by created_at ascending
+    """
+    ensure_tables()
+    engine  = _get_engine()
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    try:
+        if isinstance(session_id, str):
+            session_id = uuid.UUID(session_id)
+
+        turns = (
+            session.query(ConversationTurn)
+            .filter(ConversationTurn.session_id == session_id)
+            .order_by(ConversationTurn.created_at.asc())
+            .limit(limit)
+            .all()
+        )
+
+        return [
+            {
+                "turn_id":       t.id,
+                "user_message":  t.user_message,
+                "assistant_msg": t.assistant_msg,
+                "model":         t.model,
+                "tokens_used":   t.tokens_used,
+                "tool_calls":    t.tool_calls,
+                "citations":     t.citations,
+                "metadata":      t.metadata,
+                "created_at":    t.created_at.isoformat(),
+            }
+            for t in turns
+        ]
+
+    finally:
+        session.close()
+
+
+def get_recent_context(
+    user_id: str = "raymond",
+    limit: int = 10,
+) -> list[dict]:
+    """
+    Get the most recent N conversation turns for a user (cross-session).
+    Useful for loading context at session start.
+
+    Args:
+        user_id : user identifier
+        limit   : number of recent turns (default 10)
+
+    Returns:
+        list of turn dicts ordered by created_at descending
+    """
+    ensure_tables()
+    engine  = _get_engine()
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    try:
+        turns = (
+            session.query(ConversationTurn)
+            .filter(ConversationTurn.user_id == user_id)
+            .order_by(ConversationTurn.created_at.desc())
+            .limit(limit)
+            .all()
+        )
+
+        return [
+            {
+                "turn_id":       t.id,
+                "session_id":    str(t.session_id),
+                "user_message":  t.user_message,
+                "assistant_msg": t.assistant_msg,
+                "created_at":    t.created_at.isoformat(),
+            }
+            for t in turns
+        ]
+
+    finally:
+        session.close()

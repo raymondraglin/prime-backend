@@ -1,30 +1,57 @@
 # app/prime/memory/models.py
+"""
+PRIME Memory Models
+
+Persistent conversation storage with semantic search.
+
+Tables:
+  conversation_turns  -- user/assistant message pairs with metadata
+  memory_embeddings   -- pgvector semantic search over turns
+
+Design:
+  - One turn = user message + assistant response (atomic unit)
+  - Embeddings generated from turn summary (user query + first 200 chars of response)
+  - Session grouping via session_id for chronological retrieval
+  - User-scoped for multi-user deployments
+"""
+from __future__ import annotations
+
 from datetime import datetime
-from sqlalchemy import Column, String, Text, DateTime, Integer, Boolean
-from sqlalchemy.ext.declarative import declarative_base
+from typing import Optional
+
+from sqlalchemy import Column, String, Text, Integer, DateTime, Boolean, ForeignKey
+from sqlalchemy.dialects.postgresql import UUID, JSONB
+from sqlalchemy.orm import declarative_base
+from sqlalchemy.sql import func
+from pgvector.sqlalchemy import Vector
+import uuid
 
 Base = declarative_base()
 
-class PrimeConversationTurn(Base):
-    """Every single message exchanged — raw, permanent."""
-    __tablename__ = "prime_conversation_turns"
-
-    id          = Column(Integer, primary_key=True, autoincrement=True)
-    session_id  = Column(String, index=True, nullable=False)
-    user_id     = Column(String, index=True, nullable=False, default="raymond")
-    role        = Column(String, nullable=False)   # "user" or "assistant"
-    content     = Column(Text, nullable=False)
-    timestamp   = Column(DateTime, default=datetime.utcnow)
-    summarized  = Column(Boolean, default=False)   # True once folded into a summary
+EMBEDDING_DIM = 1536  # text-embedding-3-small
 
 
-class PrimeMemorySummary(Base):
-    """Compressed memory — what PRIME actually carries long-term."""
-    __tablename__ = "prime_memory_summaries"
+class ConversationTurn(Base):
+    __tablename__ = "conversation_turns"
 
-    id           = Column(Integer, primary_key=True, autoincrement=True)
-    user_id      = Column(String, index=True, nullable=False, default="raymond")
-    summary      = Column(Text, nullable=False)
-    turn_range   = Column(String, nullable=False)  # e.g. "turns 1-20"
-    created_at   = Column(DateTime, default=datetime.utcnow)
-    archived     = Column(Boolean, default=False)
+    id            = Column(Integer, primary_key=True, autoincrement=True)
+    session_id    = Column(UUID(as_uuid=True), default=uuid.uuid4, nullable=False, index=True)
+    user_id       = Column(String(100), nullable=False, index=True, default="raymond")
+    user_message  = Column(Text, nullable=False)
+    assistant_msg = Column(Text, nullable=False)
+    model         = Column(String(50))
+    tokens_used   = Column(Integer)
+    tool_calls    = Column(JSONB)  # list of {name, args}
+    citations     = Column(JSONB)  # list of {source, text}
+    metadata      = Column(JSONB)  # arbitrary context (domain, goal_id, etc.)
+    created_at    = Column(DateTime(timezone=True), server_default=func.now(), index=True)
+
+
+class MemoryEmbedding(Base):
+    __tablename__ = "memory_embeddings"
+
+    turn_id     = Column(Integer, ForeignKey("conversation_turns.id"), primary_key=True)
+    user_id     = Column(String(100), nullable=False, index=True)
+    summary     = Column(Text, nullable=False)  # user query + response snippet
+    embedding   = Column(Vector(EMBEDDING_DIM), nullable=False)
+    created_at  = Column(DateTime(timezone=True), server_default=func.now())

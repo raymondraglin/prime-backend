@@ -21,6 +21,7 @@ from app.prime.goals.routes import router as goals_router
 from app.prime.agent.routes import router as prime_agent_router
 from app.prime.research.routes import router as prime_research_router
 from app.prime.academic.routes import router as prime_academic_router
+from app.prime.memory.routes import router as prime_memory_router
 
 logger = logging.getLogger("prime.startup")
 
@@ -42,7 +43,7 @@ def _assert_env() -> None:
     if missing:
         lines = ["\n[PRIME] FATAL: missing required environment variables:\n"]
         for key, hint in missing:
-            lines.append(f"  {key}\n    \u2192 {hint}")
+            lines.append(f"  {key}\n    → {hint}")
         lines.append("\nSet these in your .env file (see .env.example) and restart.\n")
         logger.critical("\n".join(lines))
         sys.exit(1)
@@ -165,3 +166,4 @@ app.include_router(goals_router)            # POST/GET /prime/goals/
 app.include_router(prime_agent_router)      # POST /prime/agent/chat, /prime/agent/stream
 app.include_router(prime_research_router)   # POST /prime/research/
 app.include_router(prime_academic_router)   # POST /prime/academic/search, /index  GET /stats
+app.include_router(prime_memory_router)     # POST /prime/memory/save, /search  GET /session/{id}, /recent, /stats
