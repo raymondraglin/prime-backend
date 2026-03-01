@@ -22,6 +22,7 @@ from app.prime.agent.routes import router as prime_agent_router
 from app.prime.research.routes import router as prime_research_router
 from app.prime.academic.routes import router as prime_academic_router
 from app.prime.memory.routes import router as prime_memory_router
+from app.prime.tasks.routes import router as prime_tasks_router
 
 logger = logging.getLogger("prime.startup")
 
@@ -167,3 +168,4 @@ app.include_router(prime_agent_router)      # POST /prime/agent/chat, /prime/age
 app.include_router(prime_research_router)   # POST /prime/research/
 app.include_router(prime_academic_router)   # POST /prime/academic/search, /index  GET /stats
 app.include_router(prime_memory_router)     # POST /prime/memory/save, /search  GET /session/{id}, /recent, /stats
+app.include_router(prime_tasks_router)      # POST /prime/tasks/research, /embed/*  GET /status/{id}, /result/{id}
