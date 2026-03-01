@@ -19,6 +19,7 @@ from app.prime.api.repo import router as prime_repo_router
 from app.prime.ingest.router import router as prime_ingest_router
 from app.prime.goals.routes import router as goals_router
 from app.prime.agent.routes import router as prime_agent_router
+from app.prime.research.routes import router as prime_research_router
 
 logger = logging.getLogger("prime.startup")
 
@@ -155,9 +156,10 @@ def health():
 app.include_router(auth_router)
 app.include_router(api_router)
 app.include_router(prime_context_router)
-app.include_router(prime_chat_router)    # POST /prime/chat/
-app.include_router(prime_genius_router)  # POST /prime/ask, /prime/debug, /prime/generate, etc.
-app.include_router(prime_repo_router)    # POST /prime/repo/index, /prime/repo/ask, etc.
-app.include_router(prime_ingest_router)  # POST /prime/ingest/image/, /pdf/, /audio/, /document/
-app.include_router(goals_router)         # POST/GET /prime/goals/
-app.include_router(prime_agent_router)   # POST /prime/agent/chat, /prime/agent/stream
+app.include_router(prime_chat_router)      # POST /prime/chat/
+app.include_router(prime_genius_router)    # POST /prime/ask, /prime/debug, /prime/generate, etc.
+app.include_router(prime_repo_router)      # POST /prime/repo/index, /prime/repo/ask, etc.
+app.include_router(prime_ingest_router)    # POST /prime/ingest/image/, /pdf/, /audio/, /document/
+app.include_router(goals_router)           # POST/GET /prime/goals/
+app.include_router(prime_agent_router)     # POST /prime/agent/chat, /prime/agent/stream
+app.include_router(prime_research_router)  # POST /prime/research/
