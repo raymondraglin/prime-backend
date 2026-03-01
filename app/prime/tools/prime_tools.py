@@ -17,6 +17,9 @@ Tools (Layer B — web):
 Tools (Layer C — execution):
   run_python      — Execute a Python snippet in a sandboxed temp dir
   run_command     — Run a whitelisted shell command (pytest, ruff, mypy…)
+
+Tools (Layer D — academic corpus):
+  academic_search — Search external_corpus/ textbooks, papers, and notes
 """
 
 from __future__ import annotations
@@ -41,7 +44,6 @@ def _run_async(coro) -> Any:
     """
     try:
         asyncio.get_running_loop()
-        # Already inside a running loop — run in a thread
         with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
             future = pool.submit(asyncio.run, coro)
             return future.result()
@@ -54,7 +56,7 @@ def _run_async(coro) -> Any:
 # ---------------------------------------------------------------------------
 
 TOOL_DEFINITIONS = [
-    # ── Layer A: Codebase tools ──────────────────────────────────────
+    # ── Layer A: Codebase tools ─────────────────────────────────────────────────
     {
         "type": "function",
         "function": {
@@ -147,7 +149,7 @@ TOOL_DEFINITIONS = [
         },
     },
 
-    # ── Layer B: Web tools ─────────────────────────────────────────────
+    # ── Layer B: Web tools ─────────────────────────────────────────────────────────
     {
         "type": "function",
         "function": {
@@ -196,7 +198,7 @@ TOOL_DEFINITIONS = [
         },
     },
 
-    # ── Layer C: Execution tools ─────────────────────────────────────────
+    # ── Layer C: Execution tools ─────────────────────────────────────────────────
     {
         "type": "function",
         "function": {
@@ -239,6 +241,51 @@ TOOL_DEFINITIONS = [
             },
         },
     },
+
+    # ── Layer D: Academic corpus ──────────────────────────────────────────────────
+    {
+        "type": "function",
+        "function": {
+            "name": "academic_search",
+            "description": (
+                "Search PRIME's academic corpus (textbooks, papers, course notes) "
+                "stored in external_corpus/. Use this for questions about theory, "
+                "definitions, algorithms, historical context, or any topic where "
+                "a textbook or academic paper would be the authoritative source. "
+                "Returns ranked passages with source attribution."
+            ),
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Natural language academic search query"
+                    },
+                    "k": {
+                        "type": "integer",
+                        "description": "Number of results to return (default 5, max 20)",
+                        "default": 5
+                    },
+                    "domain": {
+                        "type": "string",
+                        "description": (
+                            "Optional corpus subdomain filter. Examples: "
+                            "'cs_ict', 'math', 'healthcare', 'law', 'philosophy'"
+                        )
+                    },
+                    "semantic": {
+                        "type": "boolean",
+                        "description": (
+                            "If true, re-rank results using OpenAI embeddings for "
+                            "better semantic relevance. Slightly slower."
+                        ),
+                        "default": False
+                    }
+                },
+                "required": ["query"],
+            },
+        },
+    },
 ]
 
 
@@ -249,7 +296,7 @@ TOOL_DEFINITIONS = [
 def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
     """Execute a tool by name and return the result as a JSON string."""
     try:
-        # ── Layer A: Codebase ────────────────────────────────────────
+        # ── Layer A: Codebase ───────────────────────────────────────────────────
         if tool_name == "read_file":
             result = read_file(tool_args["path"])
 
@@ -266,7 +313,7 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
         elif tool_name == "query_database":
             result = _query_database(tool_args["sql"])
 
-        # ── Layer B: Web ─────────────────────────────────────────────
+        # ── Layer B: Web ─────────────────────────────────────────────────────────────
         elif tool_name == "web_search":
             from app.prime.tools.web_tools import search_web
             result = _run_async(search_web(
@@ -278,7 +325,7 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
             from app.prime.tools.web_tools import fetch_url
             result = _run_async(fetch_url(tool_args["url"]))
 
-        # ── Layer C: Execution ───────────────────────────────────────
+        # ── Layer C: Execution ────────────────────────────────────────────────────
         elif tool_name == "run_python":
             from app.prime.tools.exec_tools import run_python
             result = run_python(tool_args["code"])
@@ -286,6 +333,17 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
         elif tool_name == "run_command":
             from app.prime.tools.exec_tools import run_command
             result = run_command(tool_args["command"])
+
+        # ── Layer D: Academic corpus ───────────────────────────────────────────────
+        elif tool_name == "academic_search":
+            from app.prime.academic.search import academic_search
+            hits   = academic_search(
+                query    = tool_args["query"],
+                k        = tool_args.get("k", 5),
+                domain   = tool_args.get("domain"),
+                semantic = tool_args.get("semantic", False),
+            )
+            result = {"query": tool_args["query"], "hits": hits, "count": len(hits)}
 
         elif tool_name in TOOL_IMPLEMENTATIONS:
             result = TOOL_IMPLEMENTATIONS[tool_name](**tool_args)
@@ -298,7 +356,7 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
     except Exception as exc:
         return json.dumps({"error": str(exc)})
 
-# ─── PUSH 1: Live Tool Execution Layer ───────────────────────────────────────
+# ─── PUSH 1: Live Tool Execution Layer ─────────────────────────────────────────────────────
 TOOL_IMPLEMENTATIONS: dict = {}  # always defined, even if live layer fails
 
 try:
