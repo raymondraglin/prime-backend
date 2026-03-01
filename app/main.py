@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -15,11 +16,17 @@ from app.prime.goals.routes import router as goals_router
 
 app = FastAPI(title="PRIME", version="1.0.0")
 
-origins = [
+# Base origins always allowed
+_base_origins = [
     "http://localhost:3000",
     "https://localhost:3000",
-    "https://*.vercel.app",
 ]
+
+# Additional origins injected via environment variable (comma-separated)
+_extra_raw = os.getenv("ALLOWED_ORIGINS", "")
+_extra_origins = [o.strip() for o in _extra_raw.split(",") if o.strip()]
+
+origins = _base_origins + _extra_origins
 
 app.add_middleware(
     CORSMiddleware,
@@ -30,15 +37,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    return {"status": "ok", "service": "PRIME", "version": "1.0.0"}
+
 
 app.include_router(auth_router)
 app.include_router(api_router)
 app.include_router(prime_context_router)
-app.include_router(prime_chat_router)   # POST /prime/chat/
-app.include_router(prime_genius_router) # POST /prime/ask, /prime/debug, /prime/generate, etc.
-app.include_router(prime_repo_router)   # POST /prime/repo/index, /prime/repo/ask, etc.
-app.include_router(prime_ingest_router) # POST /prime/ingest/image/, /pdf/, /audio/, /document/
+app.include_router(prime_chat_router)    # POST /prime/chat/
+app.include_router(prime_genius_router)  # POST /prime/ask, /prime/debug, /prime/generate, etc.
+app.include_router(prime_repo_router)    # POST /prime/repo/index, /prime/repo/ask, etc.
+app.include_router(prime_ingest_router)  # POST /prime/ingest/image/, /pdf/, /audio/, /document/
 app.include_router(goals_router)
