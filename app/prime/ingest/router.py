@@ -14,7 +14,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.auth import get_current_user
 from app.prime.context.database import get_db
-from app.prime.context.models import PrimeNotebookEntry
+from app.prime.models import PrimeNotebookEntry
 from app.prime.llm.openai_vision_client import openai_vision_client
 
 router = APIRouter(prefix="/prime/ingest", tags=["PRIME Ingest"])
