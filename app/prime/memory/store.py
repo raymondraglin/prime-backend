@@ -39,11 +39,6 @@ from app.prime.memory.models import Base, PrimeConversationTurn, PrimeMemorySumm
 # ---------------------------------------------------------------------------
 
 def _sync_url(url: str) -> str:
-    """
-    Force the psycopg2 driver regardless of what the env var says.
-    Supabase and other providers sometimes emit asyncpg URLs; store.py
-    is synchronous and must never load the async dialect.
-    """
     url = url.replace("postgresql+asyncpg://", "postgresql+psycopg2://")
     if url.startswith("postgresql://") and "+" not in url.split("://")[0]:
         url = url.replace("postgresql://", "postgresql+psycopg2://", 1)
@@ -107,7 +102,6 @@ def save_turn(
 
 
 def load_recent_turns(user_id: str = "raymond", limit: int = RECENT_TURNS_TO_LOAD):
-    """Load the most recent unsummarized turns for context."""
     with Session(engine) as db:
         rows = db.execute(
             select(PrimeConversationTurn)
@@ -124,7 +118,6 @@ def load_recent_turns(user_id: str = "raymond", limit: int = RECENT_TURNS_TO_LOA
 # ---------------------------------------------------------------------------
 
 def load_all_summaries(user_id: str = "raymond"):
-    """Load all memory summaries — PRIME's compressed long-term memory."""
     with Session(engine) as db:
         rows = db.execute(
             select(PrimeMemorySummary)
@@ -221,10 +214,10 @@ async def maybe_summarize(user_id: str = "raymond") -> None:
                     "Content-Type":  "application/json",
                 },
                 json={
-                    "model":       "deepseek-chat",
-                    "messages":    [{"role": "user", "content": prompt}],
-                    "max_tokens":  512,
-                    "temperature": 0.3,
+                    "model":                "deepseek-chat",
+                    "messages":             [{"role": "user", "content": prompt}],
+                    "max_completion_tokens": 512,
+                    "temperature":          0.3,
                 },
             )
             data         = response.json()
