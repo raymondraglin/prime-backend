@@ -2,13 +2,18 @@
 """
 PRIME Memory Store
 
-Persistent conversation storage with semantic retrieval.
+Persistent conversation storage with optional semantic retrieval.
 
 Core operations:
-  save_conversation_turn    -- persist user/assistant pair + generate embedding
-  search_memories           -- semantic search across all stored turns
-  get_conversation_history  -- chronological retrieval by session_id
-  get_recent_context        -- last N turns for a user (cross-session)
+  save_conversation_turn    -- persist user/assistant pair (always works)
+  search_memories           -- semantic search (requires pgvector)
+  get_conversation_history  -- chronological retrieval by session_id (always works)
+  get_recent_context        -- last N turns for a user (always works)
+
+Graceful degradation:
+  - Conversations always saved to conversation_turns table
+  - Embeddings skipped if pgvector unavailable
+  - search_memories returns [] if pgvector unavailable
 """
 from __future__ import annotations
 
@@ -18,13 +23,35 @@ from typing import Any
 import uuid
 
 import sqlalchemy as sa
-from openai import OpenAI
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from app.prime.memory.models import Base, ConversationTurn, MemoryEmbedding, EMBEDDING_DIM
+from app.prime.memory.models import Base, ConversationTurn, EMBEDDING_DIM
 
 EMBEDDING_MODEL = "text-embedding-3-small"
+
+_pgvector_available = None
+
+
+def _check_pgvector() -> bool:
+    """Check if pgvector extension is available. Cached after first check."""
+    global _pgvector_available
+    if _pgvector_available is not None:
+        return _pgvector_available
+    
+    try:
+        from pgvector.sqlalchemy import Vector
+        engine = _get_engine()
+        with engine.connect() as conn:
+            conn.execute(sa.text("CREATE EXTENSION IF NOT EXISTS vector"))
+            conn.commit()
+        _pgvector_available = True
+        print("[memory/store] pgvector extension available")
+        return True
+    except Exception as e:
+        _pgvector_available = False
+        print(f"[memory/store] pgvector unavailable (embeddings disabled): {e}")
+        return False
 
 
 def _get_engine():
@@ -36,12 +63,28 @@ def _get_engine():
 
 
 def ensure_tables():
-    """Create memory tables and pgvector extension if not exists."""
+    """Create memory tables. Embedding table only created if pgvector available."""
     engine = _get_engine()
-    with engine.connect() as conn:
-        conn.execute(sa.text("CREATE EXTENSION IF NOT EXISTS vector"))
-        conn.commit()
+    
+    # Always create conversation_turns
+    try:
+        with engine.connect() as conn:
+            if _check_pgvector():
+                conn.execute(sa.text("CREATE EXTENSION IF NOT EXISTS vector"))
+            conn.commit()
+    except Exception as e:
+        print(f"[memory/store] Warning: {e}")
+    
+    # Create base tables
     Base.metadata.create_all(engine)
+    
+    # Create memory_embeddings only if pgvector available
+    if _check_pgvector():
+        try:
+            from app.prime.memory.models import MemoryEmbedding
+            MemoryEmbedding.__table__.create(engine, checkfirst=True)
+        except Exception as e:
+            print(f"[memory/store] Could not create memory_embeddings: {e}")
 
 
 def save_conversation_turn(
@@ -56,21 +99,8 @@ def save_conversation_turn(
     metadata: dict | None = None,
 ) -> int:
     """
-    Save a conversation turn and generate its embedding.
-
-    Args:
-        user_message      : user query
-        assistant_message : PRIME response
-        session_id        : optional session grouping (auto-generated if None)
-        user_id           : user identifier (default: 'raymond')
-        model             : LLM model used
-        tokens_used       : token count for this turn
-        tool_calls        : list of tool invocations
-        citations         : list of sources cited
-        metadata          : arbitrary context dict
-
-    Returns:
-        turn_id (int) for the saved conversation turn
+    Save a conversation turn (always works).
+    Generates embedding only if pgvector available.
     """
     ensure_tables()
     engine  = _get_engine()
@@ -92,27 +122,34 @@ def save_conversation_turn(
             tokens_used   = tokens_used,
             tool_calls    = tool_calls or [],
             citations     = citations or [],
-            metadata      = metadata or {},
+            metadata_     = metadata or {},
         )
         session.add(turn)
         session.flush()
         turn_id = turn.id
 
-        # Generate embedding
-        summary = f"{user_message[:500]} | {assistant_message[:200]}"
-        client  = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-        resp    = client.embeddings.create(model=EMBEDDING_MODEL, input=[summary])
-        emb     = resp.data[0].embedding
+        # Generate embedding only if pgvector available
+        if _check_pgvector():
+            try:
+                from app.prime.memory.models import MemoryEmbedding
+                from openai import OpenAI
+                
+                summary = f"{user_message[:500]} | {assistant_message[:200]}"
+                client  = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+                resp    = client.embeddings.create(model=EMBEDDING_MODEL, input=[summary])
+                emb     = resp.data[0].embedding
 
-        mem_emb = MemoryEmbedding(
-            turn_id   = turn_id,
-            user_id   = user_id,
-            summary   = summary,
-            embedding = emb,
-        )
-        session.add(mem_emb)
+                mem_emb = MemoryEmbedding(
+                    turn_id   = turn_id,
+                    user_id   = user_id,
+                    summary   = summary,
+                    embedding = emb,
+                )
+                session.add(mem_emb)
+            except Exception as e:
+                print(f"[memory/store] Embedding generation failed (non-critical): {e}")
+        
         session.commit()
-
         return turn_id
 
     finally:
@@ -126,21 +163,21 @@ def search_memories(
 ) -> list[dict]:
     """
     Semantic search across all stored conversation turns.
-
-    Args:
-        query   : natural language query
-        k       : number of results
-        user_id : optional filter by user
-
-    Returns:
-        list of dicts: {turn_id, user_message, assistant_msg, score, created_at}
+    Returns [] if pgvector unavailable.
     """
-    ensure_tables()
-    engine  = _get_engine()
-    Session = sessionmaker(bind=engine)
-    session = Session()
-
+    if not _check_pgvector():
+        print("[memory/store] search_memories unavailable (pgvector not installed)")
+        return []
+    
     try:
+        from app.prime.memory.models import MemoryEmbedding
+        from openai import OpenAI
+        
+        ensure_tables()
+        engine  = _get_engine()
+        Session = sessionmaker(bind=engine)
+        session = Session()
+
         client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         resp   = client.embeddings.create(model=EMBEDDING_MODEL, input=[query])
         q_emb  = resp.data[0].embedding
@@ -160,6 +197,7 @@ def search_memories(
             query_obj = query_obj.filter(ConversationTurn.user_id == user_id)
 
         results = query_obj.order_by(sa.text("distance")).limit(k).all()
+        session.close()
 
         return [
             {
@@ -172,24 +210,16 @@ def search_memories(
             for r in results
         ]
 
-    finally:
-        session.close()
+    except Exception as e:
+        print(f"[memory/store] search_memories error: {e}")
+        return []
 
 
 def get_conversation_history(
     session_id: str | uuid.UUID,
     limit: int = 50,
 ) -> list[dict]:
-    """
-    Retrieve chronological conversation history for a session.
-
-    Args:
-        session_id : session UUID
-        limit      : max turns to retrieve (default 50)
-
-    Returns:
-        list of turn dicts ordered by created_at ascending
-    """
+    """Retrieve chronological conversation history for a session (always works)."""
     ensure_tables()
     engine  = _get_engine()
     Session = sessionmaker(bind=engine)
@@ -216,7 +246,7 @@ def get_conversation_history(
                 "tokens_used":   t.tokens_used,
                 "tool_calls":    t.tool_calls,
                 "citations":     t.citations,
-                "metadata":      t.metadata,
+                "metadata":      t.metadata_,
                 "created_at":    t.created_at.isoformat(),
             }
             for t in turns
@@ -230,17 +260,7 @@ def get_recent_context(
     user_id: str = "raymond",
     limit: int = 10,
 ) -> list[dict]:
-    """
-    Get the most recent N conversation turns for a user (cross-session).
-    Useful for loading context at session start.
-
-    Args:
-        user_id : user identifier
-        limit   : number of recent turns (default 10)
-
-    Returns:
-        list of turn dicts ordered by created_at descending
-    """
+    """Get the most recent N conversation turns for a user (always works)."""
     ensure_tables()
     engine  = _get_engine()
     Session = sessionmaker(bind=engine)
