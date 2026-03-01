@@ -1,8 +1,10 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+import json
 import logging
 import os
+import pathlib
 import sys
 
 from fastapi import FastAPI
@@ -37,7 +39,7 @@ def _assert_env() -> None:
     if missing:
         lines = ["\n[PRIME] FATAL: missing required environment variables:\n"]
         for key, hint in missing:
-            lines.append(f"  {key}\n    → {hint}")
+            lines.append(f"  {key}\n    \u2192 {hint}")
         lines.append("\nSet these in your .env file (see .env.example) and restart.\n")
         logger.critical("\n".join(lines))
         sys.exit(1)
@@ -70,7 +72,6 @@ def run_migrations():
     try:
         import sqlalchemy
         db_url = os.getenv("DATABASE_URL", "")
-        # SQLAlchemy sync engine needs postgresql://, not postgresql+asyncpg://
         sync_url = db_url.replace("postgresql+asyncpg://", "postgresql://")
         engine = sqlalchemy.create_engine(sync_url)
         with engine.connect() as conn:
@@ -99,9 +100,56 @@ def run_migrations():
         logger.warning("[startup] Migration warning: %s", exc)
 
 
+def _db_ping() -> str:
+    """Returns 'ok' if DB is reachable, 'unreachable' otherwise."""
+    try:
+        import sqlalchemy
+        db_url = os.getenv("DATABASE_URL", "")
+        sync_url = db_url.replace("postgresql+asyncpg://", "postgresql://")
+        engine = sqlalchemy.create_engine(sync_url, pool_pre_ping=True)
+        with engine.connect() as conn:
+            conn.execute(sqlalchemy.text("SELECT 1"))
+        return "ok"
+    except Exception:
+        return "unreachable"
+
+
+def _last_eval() -> dict | None:
+    """Returns pass stats from the most recent eval results file."""
+    try:
+        results_dir = pathlib.Path("app/prime/evals/results")
+        files = sorted(results_dir.glob("*.json"))
+        if not files:
+            return None
+        data = json.loads(files[-1].read_text(encoding="utf-8"))
+        passed  = data.get("passed", 0)
+        scored  = data.get("scored", 0)
+        skipped = data.get("skipped", 0)
+        pct     = round(passed / scored * 100, 1) if scored else 0.0
+        return {
+            "file":      files[-1].name,
+            "passed":    passed,
+            "scored":    scored,
+            "skipped":   skipped,
+            "score_pct": pct,
+        }
+    except Exception:
+        return None
+
+
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    db     = _db_ping()
+    evals  = _last_eval()
+    status = "ok" if db == "ok" else "degraded"
+    return {
+        "status":      status,
+        "version":     "1.0.0",
+        "environment": os.getenv("ENVIRONMENT", "unknown"),
+        "db":          db,
+        "last_eval":   evals,
+    }
+
 
 app.include_router(auth_router)
 app.include_router(api_router)
