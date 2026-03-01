@@ -43,7 +43,7 @@ class ConversationTurn(Base):
     tokens_used   = Column(Integer)
     tool_calls    = Column(JSONB)  # list of {name, args}
     citations     = Column(JSONB)  # list of {source, text}
-    metadata      = Column(JSONB)  # arbitrary context (domain, goal_id, etc.)
+    metadata_     = Column("metadata", JSONB)  # avoid reserved word, map to 'metadata' in DB
     created_at    = Column(DateTime(timezone=True), server_default=func.now(), index=True)
 
 
