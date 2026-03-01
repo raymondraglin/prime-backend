@@ -15,3 +15,13 @@ data/corpus_db/
 models/
 
 models/
+
+# Auto-generated / runtime files — never track these
+app/**/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+app/prime/memory/prime_memory.db
+data/corpus_db/
+primelogs/
+app/prime/evals/results/

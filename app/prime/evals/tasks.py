@@ -192,7 +192,8 @@ TASKS: List[EvalTask] = [
         checks=[
             r"(?i)(I (think|would|lean|prefer|recommend|go with|use)"
             r"|my (take|view|recommendation)"
-            r"|(Redis|Postgres).{0,60}(better|right call|stronger|cleaner|simpler|recommend|prefer|choose|go with|use)"
+            r"|(we should|we'll|let's) use (Redis|Postgres)"
+            r"|(Redis|Postgres).{0,60}(better|right call|stronger|cleaner|simpler|recommend|prefer|choose|go with|use|wins)"
             r"|without question|hands down|no question|full stop|all day"
             r"|(Redis|Postgres)[,.]?\s*(is the|wins|all day|period|full stop))"
         ],
@@ -338,3 +339,4 @@ TASKS: List[EvalTask] = [
         description="PRIME must identify missing SECRET_KEY and recommend a startup assertion.",
     ),
 ]
+
