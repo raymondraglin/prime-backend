@@ -8,6 +8,7 @@ Now powered by the full genius engine:
   - Multi-turn memory via session_id
   - Tool calling (read_file, search_codebase, query_database)
   - Codebase awareness
+  - Inline citation system (citations returned alongside reply)
 
 Dropped: reasoning_core (old system, no identity, no tools, no file access)
 Kept: Same URL prefix /prime/chat/ so the frontend needs zero changes.
@@ -26,7 +27,7 @@ from typing import Optional
 
 from fastapi import APIRouter, HTTPException
 from openai import OpenAI
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from app.prime.identity import PRIME_IDENTITY
 from app.prime.memory.session_store import session_store
@@ -62,9 +63,10 @@ class ChatRequest(BaseModel):
 
 
 class ChatResponse(BaseModel):
-    turn_id: str
-    session_id: Optional[str]
-    reply: str          # "reply" matches chatData.reply in PrimeChatInput.tsx
+    turn_id:      str
+    session_id:   Optional[str]
+    reply:        str
+    citations:    list[dict] = Field(default_factory=list)   # ← NEW
     assembled_at: str
 
 
@@ -106,17 +108,13 @@ def _load_turns(session_id: Optional[str] = None, limit: int = 50, offset: int =
 # CORE CHAT CALL
 # ---------------------------------------------------------------------------
 
-def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -> str:
+def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -> tuple[str, list[dict]]:
     """
-    Full genius engine:
-    - PRIME's co-founder identity as system prompt
-    - Repo map injected if index exists
-    - Conversation history from session store
-    - Tool calling loop (read_file, search_codebase, query_database)
-    - Guaranteed final answer
+    Full genius engine with citation extraction.
+    Returns (reply_text, citations).
     """
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    model = os.getenv("PRIME_MODEL", "gpt-4o")
+    model  = os.getenv("PRIME_MODEL", "gpt-4o")
 
     repo_context = build_repo_context_for_prime(slim=True)
     if "NOT BUILT" in repo_context:
@@ -138,10 +136,17 @@ def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -
         )
     if goal_context:
         system_prompt = goal_context + "\n\n" + system_prompt
-    history = session_store.get_history(session_id) if session_id else []
+
+    # Inject citation rules
+    from app.prime.llm.prompt_builder import CITATION_RULES
+    system_prompt += CITATION_RULES
+
+    history  = session_store.get_history(session_id) if session_id else []
     messages = [{"role": "system", "content": system_prompt}]
     messages.extend(history)
     messages.append({"role": "user", "content": message})
+
+    citations: list[dict] = []
 
     for round_num in range(MAX_TOOL_ROUNDS):
         is_last = (round_num == MAX_TOOL_ROUNDS - 1)
@@ -156,19 +161,26 @@ def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -
         msg = response.choices[0].message
 
         if not msg.tool_calls:
-            return msg.content or ""
+            raw = msg.content or ""
+            from app.prime.citations.extractor import extract_citations
+            clean, cite_objs = extract_citations(raw)
+            citations = [c.to_dict() for c in cite_objs]
+            return clean, citations
 
         messages.append(msg)
         for tc in msg.tool_calls:
             result = execute_tool(tc.function.name, json.loads(tc.function.arguments))
             messages.append({"role": "tool", "tool_call_id": tc.id, "content": result})
 
-    # Safety net -- force final answer
+    # Safety net
     messages.append({"role": "user", "content": "Write your complete answer now."})
     response = client.chat.completions.create(
         model=model, messages=messages, temperature=0.3, max_tokens=4096
     )
-    return response.choices[0].message.content or ""
+    raw = response.choices[0].message.content or ""
+    from app.prime.citations.extractor import extract_citations
+    clean, cite_objs = extract_citations(raw)
+    return clean, [c.to_dict() for c in cite_objs]
 
 
 # ---------------------------------------------------------------------------
@@ -179,11 +191,6 @@ async def _post_reply_goal_hook(
     session_id: Optional[str],
     active_goals: list[dict],
 ) -> None:
-    """
-    Silently auto-log progress after every reply.
-    If PRIME's reply mentions a goal title, log it as a progress note.
-    If reply contains strong completion signals, mark the goal complete.
-    """
     if not active_goals or not reply:
         return
 
@@ -194,7 +201,7 @@ async def _post_reply_goal_hook(
         "push 4 complete", "push 5 complete", "push 6 complete",
         "is done", "is complete", "has been completed",
         "successfully wired", "successfully committed",
-        "closed", "shipped", "✅",
+        "closed", "shipped", "\u2705",
     ]
 
     PROGRESS_SIGNALS = [
@@ -210,13 +217,12 @@ async def _post_reply_goal_hook(
         if not gid or not title:
             continue
 
-        # Only touch goals that are referenced in the reply
         title_words = [w for w in title.split() if len(w) > 3]
         mentioned   = any(w in reply_lower for w in title_words)
         if not mentioned:
             continue
 
-        is_complete = any(sig in reply_lower for sig in COMPLETION_SIGNALS)
+        is_complete  = any(sig in reply_lower for sig in COMPLETION_SIGNALS)
         has_progress = any(sig in reply_lower for sig in PROGRESS_SIGNALS)
 
         try:
@@ -230,27 +236,27 @@ async def _post_reply_goal_hook(
         except Exception as exc:
             logger.warning("Goal hook failed for %s: %s", gid, exc)
 
+
 @router.post("/", response_model=ChatResponse)
 async def prime_chat(req: ChatRequest):
     if not req.message.strip():
         raise HTTPException(400, "Message cannot be empty.")
 
     turn_id = str(uuid.uuid4())
-    now = datetime.now(timezone.utc).isoformat()
+    now     = datetime.now(timezone.utc).isoformat()
 
     _append_turn({
-        "turn_id": turn_id,
-        "speaker": "raymond",
-        "message": req.message,
+        "turn_id":    turn_id,
+        "speaker":    "raymond",
+        "message":    req.message,
         "session_id": req.session_id,
         "created_at": now,
     })
 
     try:
-        session_ctx = await get_session_prime_context(user_id="raymond")
-        reply = _run_chat(req.message, req.session_id, session_ctx["goal_context"])
+        session_ctx  = await get_session_prime_context(user_id="raymond")
+        reply, citations = _run_chat(req.message, req.session_id, session_ctx["goal_context"])
 
-        # ADD THESE 2 LINES:
         active_goals = session_ctx.get("goals_raw") or []
         await _post_reply_goal_hook(reply, req.session_id, active_goals)
 
@@ -258,13 +264,14 @@ async def prime_chat(req: ChatRequest):
         raise HTTPException(500, str(e))
 
     if req.session_id:
-        session_store.add_message(req.session_id, "user", req.message)
+        session_store.add_message(req.session_id, "user",      req.message)
         session_store.add_message(req.session_id, "assistant", reply)
 
     _append_turn({
-        "turn_id": turn_id,
-        "speaker": "prime",
-        "message": reply,
+        "turn_id":    turn_id,
+        "speaker":    "prime",
+        "message":    reply,
+        "citations":  citations,
         "session_id": req.session_id,
         "created_at": now,
     })
@@ -273,6 +280,7 @@ async def prime_chat(req: ChatRequest):
         turn_id=turn_id,
         session_id=req.session_id,
         reply=reply,
+        citations=citations,
         assembled_at=now,
     )
 
@@ -280,12 +288,12 @@ async def prime_chat(req: ChatRequest):
 @router.post("/rate")
 async def rate_response(req: RatingRequest):
     _append_turn({
-        "turn_id": req.turn_id,
-        "speaker": "system",
-        "message": f"Rating: {req.rating}" + (f" - {req.note}" if req.note else ""),
-        "rating": req.rating,
-        "rating_note": req.note,
-        "created_at": datetime.now(timezone.utc).isoformat(),
+        "turn_id":      req.turn_id,
+        "speaker":      "system",
+        "message":      f"Rating: {req.rating}" + (f" - {req.note}" if req.note else ""),
+        "rating":       req.rating,
+        "rating_note":  req.note,
+        "created_at":   datetime.now(timezone.utc).isoformat(),
     })
     return {"status": "rated", "turn_id": req.turn_id, "rating": req.rating}
 
