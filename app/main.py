@@ -29,18 +29,22 @@ logger = logging.getLogger("prime.startup")
 # ---------------------------------------------------------------------------
 # Startup assertions -- fail loud and early, never silently
 # ---------------------------------------------------------------------------
-_REQUIRED_ENV: list[tuple[str, str]] = [
-    ("SECRET_KEY",      "JWT signing key -- auth will fail at runtime without this"),
-    ("OPENAI_API_KEY",  "OpenAI API key -- all LLM calls will fail without this"),
-    ("DATABASE_URL",    "Postgres connection string -- all DB operations will fail without this"),
+_REQUIRED_ENV: list[tuple[str, str, str | None]] = [
+    ("SECRET_KEY",      "PRIME_SECRET_KEY", "JWT signing key -- auth will fail at runtime without this"),
+    ("OPENAI_API_KEY",  None,               "OpenAI API key -- all LLM calls will fail without this"),
+    ("DATABASE_URL",    None,               "Postgres connection string -- all DB operations will fail without this"),
 ]
 
 def _assert_env() -> None:
-    missing = [
-        (key, hint)
-        for key, hint in _REQUIRED_ENV
-        if not os.getenv(key)
-    ]
+    """Check required env vars, with fallback support for alternate names."""
+    missing = []
+    for primary, fallback, hint in _REQUIRED_ENV:
+        if not os.getenv(primary) and not (fallback and os.getenv(fallback)):
+            missing.append((primary, hint))
+        # Set primary from fallback if primary missing
+        elif fallback and os.getenv(fallback) and not os.getenv(primary):
+            os.environ[primary] = os.getenv(fallback)
+    
     if missing:
         lines = ["\n[PRIME] FATAL: missing required environment variables:\n"]
         for key, hint in missing:
