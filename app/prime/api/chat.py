@@ -66,7 +66,7 @@ class ChatResponse(BaseModel):
     turn_id:      str
     session_id:   Optional[str]
     reply:        str
-    citations:    list[dict] = Field(default_factory=list)   # ← NEW
+    citations:    list[dict] = Field(default_factory=list)
     assembled_at: str
 
 
@@ -156,7 +156,7 @@ def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -
             tools=TOOL_DEFINITIONS,
             tool_choice="none" if is_last else "auto",
             temperature=0.3,
-            max_tokens=4096 if is_last else 512,
+            max_completion_tokens=4096 if is_last else 512,
         )
         msg = response.choices[0].message
 
@@ -175,7 +175,7 @@ def _run_chat(message: str, session_id: Optional[str], goal_context: str = "") -
     # Safety net
     messages.append({"role": "user", "content": "Write your complete answer now."})
     response = client.chat.completions.create(
-        model=model, messages=messages, temperature=0.3, max_tokens=4096
+        model=model, messages=messages, temperature=0.3, max_completion_tokens=4096
     )
     raw = response.choices[0].message.content or ""
     from app.prime.citations.extractor import extract_citations
