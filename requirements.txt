@@ -19,7 +19,6 @@ passlib==1.7.4
 
 # AI
 openai==1.59.5
-deepseek==0.1.1
 
 # HTTP
 httpx==0.28.1
