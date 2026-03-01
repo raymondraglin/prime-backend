@@ -19,7 +19,7 @@ Tools (Layer C — execution):
   run_command     — Run a whitelisted shell command (pytest, ruff, mypy…)
 
 Tools (Layer D — academic corpus):
-  academic_search — Search external_corpus/ textbooks, papers, and notes
+  academic_search — Search external_corpus/ with vector, keyword, or hybrid mode
 
 Tools (Layer E — GitHub):
   read_github_file      — Read a file from any public GitHub repo
@@ -257,9 +257,8 @@ TOOL_DEFINITIONS = [
             "name": "academic_search",
             "description": (
                 "Search PRIME's academic corpus (textbooks, papers, course notes) "
-                "stored in external_corpus/. Use this for questions about theory, "
-                "definitions, algorithms, historical context, or any topic where "
-                "a textbook or academic paper would be the authoritative source. "
+                "stored in external_corpus/. Uses pgvector semantic search by default. "
+                "Supports three modes: 'vector' (semantic), 'keyword' (BM25), 'hybrid' (both). "
                 "Returns ranked passages with source attribution."
             ),
             "parameters": {
@@ -281,13 +280,13 @@ TOOL_DEFINITIONS = [
                             "'cs_ict', 'math', 'healthcare', 'law', 'philosophy'"
                         )
                     },
-                    "semantic": {
-                        "type": "boolean",
+                    "mode": {
+                        "type": "string",
                         "description": (
-                            "If true, re-rank results using OpenAI embeddings for "
-                            "better semantic relevance. Slightly slower."
+                            "Search mode: 'auto' (default, picks best), 'vector' (semantic), "
+                            "'keyword' (BM25), or 'hybrid' (vector + keyword reranking)"
                         ),
-                        "default": False
+                        "default": "auto"
                     }
                 },
                 "required": ["query"],
@@ -295,7 +294,7 @@ TOOL_DEFINITIONS = [
         },
     },
 
-    # ── Layer E: GitHub ─────────────────────────────────────────────────────────────────
+    # ── Layer E: GitHub ──────────────────────────────────────────────────────────────
     {
         "type": "function",
         "function": {
@@ -472,15 +471,15 @@ def execute_tool(tool_name: str, tool_args: Dict[str, Any]) -> str:
         # ── Layer D: Academic corpus ───────────────────────────────────────────────
         elif tool_name == "academic_search":
             from app.prime.academic.search import academic_search
-            hits   = academic_search(
-                query    = tool_args["query"],
-                k        = tool_args.get("k", 5),
-                domain   = tool_args.get("domain"),
-                semantic = tool_args.get("semantic", False),
+            hits = academic_search(
+                query  = tool_args["query"],
+                k      = tool_args.get("k", 5),
+                domain = tool_args.get("domain"),
+                mode   = tool_args.get("mode", "auto"),
             )
             result = {"query": tool_args["query"], "hits": hits, "count": len(hits)}
 
-        # ── Layer E: GitHub ─────────────────────────────────────────────────────────────────
+        # ── Layer E: GitHub ──────────────────────────────────────────────────────────
         elif tool_name == "read_github_file":
             from app.prime.tools.github_tools import read_github_file
             result = read_github_file(
