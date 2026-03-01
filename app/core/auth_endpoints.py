@@ -29,16 +29,8 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends()):
         )
 
     token = create_access_token({"sub": user["user_id"]})
-
-    try:
-        summaries = load_all_summaries(user_id=user["user_id"])
-    except Exception:
-        summaries = []
-
-    try:
-        recent = load_recent_turns(user_id=user["user_id"])
-    except Exception:
-        recent = []
+    summaries = load_all_summaries(user_id=user["user_id"])
+    recent = load_recent_turns(user_id=user["user_id"])
 
     return LoginResponse(
         access_token=token,
@@ -52,16 +44,8 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends()):
 
 @router.get("/me")
 async def get_me(current_user: dict = Depends(get_current_user)):
-    try:
-        summaries = load_all_summaries(user_id=current_user["user_id"])
-    except Exception:
-        summaries = []
-
-    try:
-        recent = load_recent_turns(user_id=current_user["user_id"])
-    except Exception:
-        recent = []
-
+    summaries = load_all_summaries(user_id=current_user["user_id"])
+    recent = load_recent_turns(user_id=current_user["user_id"])
     return {
         "user_id": current_user["user_id"],
         "display_name": current_user["display_name"],
