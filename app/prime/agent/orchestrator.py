@@ -33,12 +33,7 @@ from app.prime.agent.intent import detect_intent, IntentDecision, ToolPolicy
 from app.prime.llm import prime_llm
 from app.prime.llm.prompt_builder import build_chat_messages
 from app.prime.tools.prime_tools import TOOL_DEFINITIONS
-from app.prime.memory.store import (
-    save_turn,
-    load_recent_turns,
-    load_all_summaries,
-    maybe_summarize,
-)
+from app.prime.memory.store import save_conversation_turn, get_recent_context
 from app.prime.reasoning.memory_store import search_corpus
 from app.prime.reasoning.memory import query_recent_practice_for_user
 
@@ -93,10 +88,11 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
     )
 
     # 2. Load persistent memory
-    summaries    = load_all_summaries(user_id=req.user_id)
-    recent_turns = load_recent_turns(user_id=req.user_id)
+    recent_turns = get_recent_context(user_id=req.user_id, limit=10)
     persistent_history = [
-        {"role": t.role, "content": t.content}
+        {"role": "user", "content": t["user_message"]}
+        if "user_message" in t else
+        {"role": "assistant", "content": t["assistant_msg"]}
         for t in recent_turns
     ]
 
@@ -126,7 +122,7 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         corpus_hits=corpus_hits,
         memory_episodes=memory_episodes,
         conversation_history=persistent_history,
-        summaries=[s.summary for s in summaries],
+        summaries=[],
         engineer_mode=decision.engineer_mode,
     )
 
@@ -177,9 +173,12 @@ async def run_agent(req: AgentRequest) -> AgentResponse:
         reply_text = plain.text
 
     # 7. Persist turn with real user_id (not hardcoded default)
-    save_turn(session_id=req.session_id, role="user",      content=req.message,   user_id=req.user_id)
-    save_turn(session_id=req.session_id, role="assistant", content=reply_text,    user_id=req.user_id)
-    await maybe_summarize(user_id=req.user_id)
+    save_conversation_turn(
+        user_message=req.message,
+        assistant_message=reply_text,
+        session_id=req.session_id,
+        user_id=req.user_id,
+    )
 
     return AgentResponse(
         request_id=request_id,
@@ -224,8 +223,12 @@ async def run_agent_stream(req: AgentRequest):
             yield f"data: {json.dumps({'chunk': chunk})}\n\n"
 
         reply_text = "".join(full_reply)
-        save_turn(session_id=req.session_id, role="user",      content=req.message,  user_id=req.user_id)
-        save_turn(session_id=req.session_id, role="assistant", content=reply_text,   user_id=req.user_id)
+        save_conversation_turn(
+            user_message=req.message,
+            assistant_message=reply_text,
+            session_id=req.session_id,
+            user_id=req.user_id,
+        )
         yield "data: [DONE]\n\n"
 
     return FastAPIStreaming(event_generator(), media_type="text/event-stream")
