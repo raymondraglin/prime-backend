@@ -1,27 +1,6 @@
 """
 PRIME Genius Endpoints
 File: app/prime/api/genius.py
-
-All capability gaps closed:
-  [1] True identity    -- PRIME knows he is co-founder of Synergy Unlimited
-  [2] Multi-turn memory -- session_id persists conversation across calls
-  [3] RAG codebase access -- PRIME reads actual files via tool calling
-  [4] Tool calling     -- read_file, list_directory, search_codebase, query_database
-
-Endpoints:
-  POST /prime/ask                      -- Ask PRIME anything (8 modes, memory, tools)
-  POST /prime/debug                    -- Debug broken code
-  POST /prime/explain                  -- Explain any concept
-  POST /prime/generate                 -- Generate code from description
-  POST /prime/review                   -- Review code
-  POST /prime/architect                -- Design a system
-  POST /prime/security                 -- Threat model and harden
-  GET  /prime/status                   -- PRIME status
-  GET  /prime/sessions                 -- List all sessions
-  GET  /prime/sessions/{session_id}    -- Get conversation history
-  DELETE /prime/sessions/{session_id}  -- Clear a session
-  POST /prime/sessions/new             -- Create a new session ID
-  GET  /prime/identity                 -- Read PRIME's full identity
 """
 
 from __future__ import annotations
@@ -42,10 +21,6 @@ from app.prime.tools.prime_tools import TOOL_DEFINITIONS, execute_tool
 logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/prime", tags=["PRIME Genius"])
 
-
-# ---------------------------------------------------------------------------
-# MODE INSTRUCTIONS
-# ---------------------------------------------------------------------------
 
 MODE_PROMPTS = {
     "general": (
@@ -104,10 +79,6 @@ VALID_MODES = list(MODE_PROMPTS.keys())
 MAX_TOOL_ROUNDS = 5
 
 
-# ---------------------------------------------------------------------------
-# CORE LLM CALL
-# ---------------------------------------------------------------------------
-
 def _call_prime(
     question: str,
     mode: str = "general",
@@ -127,7 +98,7 @@ def _call_prime(
     tools = TOOL_DEFINITIONS if use_tools else None
 
     for _ in range(MAX_TOOL_ROUNDS):
-        kwargs = {"model": model, "messages": messages, "temperature": 0.3, "max_tokens": 4096}
+        kwargs = {"model": model, "messages": messages, "temperature": 0.3, "max_completion_tokens": 4096}
         if tools:
             kwargs["tools"] = tools
             kwargs["tool_choice"] = "auto"
@@ -146,14 +117,10 @@ def _call_prime(
     # Force final answer
     messages.append({"role": "user", "content": "Write your complete answer now."})
     response = client.chat.completions.create(
-        model=model, messages=messages, temperature=0.3, max_tokens=4096
+        model=model, messages=messages, temperature=0.3, max_completion_tokens=4096
     )
     return response.choices[0].message.content or ""
 
-
-# ---------------------------------------------------------------------------
-# REQUEST / RESPONSE MODELS
-# ---------------------------------------------------------------------------
 
 class AskRequest(BaseModel):
     question: str
@@ -207,10 +174,6 @@ class PRIMEResponse(BaseModel):
     session_id: Optional[str] = None
 
 
-# ---------------------------------------------------------------------------
-# MEMORY HELPER
-# ---------------------------------------------------------------------------
-
 def _with_memory(session_id, question, mode, use_tools=True):
     history = session_store.get_history(session_id) if session_id else None
     answer = _call_prime(question=question, mode=mode, history=history, use_tools=use_tools)
@@ -220,13 +183,8 @@ def _with_memory(session_id, question, mode, use_tools=True):
     return answer, session_id
 
 
-# ---------------------------------------------------------------------------
-# ENDPOINTS
-# ---------------------------------------------------------------------------
-
 @router.get("/identity", summary="Read PRIME's full identity")
 async def prime_identity():
-    """Returns the complete identity document that defines who PRIME is."""
     return {"identity": PRIME_IDENTITY}
 
 
@@ -345,10 +303,6 @@ async def threat_model(req: ThreatModelRequest):
     except Exception as e:
         raise HTTPException(500, str(e))
 
-
-# ---------------------------------------------------------------------------
-# SESSION ENDPOINTS
-# ---------------------------------------------------------------------------
 
 @router.post("/sessions/new")
 async def new_session():
